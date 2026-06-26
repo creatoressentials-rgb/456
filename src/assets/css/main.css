@@ -367,6 +367,8 @@ section { padding-block: var(--section); }
 .article-body ol { padding-left: 1.5rem; margin-bottom: 1.25rem; }
 .article-body li { margin-bottom: 0.5rem; color: var(--slate); }
 .article-body strong { color: var(--charcoal); }
+.article-body a { color: var(--red); text-decoration: underline; }
+.article-body a:hover { text-decoration: none; }
 
 /* ── FAQ ── */
 .faq-item {
