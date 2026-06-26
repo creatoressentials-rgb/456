@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+---
+<section class="page-hero">
+  <div class="container">
+    <span class="eyebrow" style="color:var(--red)">{{ tags[0] if tags else "Blog" }}</span>
+    <h1>{{ title }}</h1>
+    <p>By {{ author or "Rob Miller" }} &nbsp;·&nbsp; <time datetime="{{ page.date | dateISO }}">{{ page.date | dateDisplay }}</time></p>
+  </div>
+</section>
+
+<section style="padding-block: clamp(3rem, 6vw, 5rem);">
+  <div class="container">
+    <div class="article-body">
+      {{ content | safe }}
+    </div>
+    <div style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border);">
+      <p style="font-size:0.875rem; color:var(--slate); margin-bottom:1rem;">Ready to grow your channel with a clear strategy?</p>
+      <a href="/services/youtube-channel-audit/" class="btn btn-primary">Get a Channel Audit</a>
+      &nbsp;
+      <a href="/services/youtube-coaching-program/" class="btn btn-secondary" style="margin-left:0.5rem;">Explore Coaching</a>
+    </div>
+  </div>
+</section>

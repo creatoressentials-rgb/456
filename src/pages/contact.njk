@@ -1,0 +1,66 @@
+---
+layout: layouts/base.njk
+title: "Contact"
+description: "Get in touch with Creator Essentials. Whether you have a question or are ready to work together, Rob will get back to you."
+permalink: /contact/
+---
+
+<section class="page-hero">
+  <div class="container">
+    <span class="eyebrow" style="color:var(--red)">Contact</span>
+    <h1>Let's Chat</h1>
+    <p>Whether you're interested in working together or simply have a question, fill out the form below and I'll get back to you as soon as possible. — Rob</p>
+  </div>
+</section>
+
+<section>
+  <div class="container" style="display:grid; gap:4rem; grid-template-columns:1fr 1fr; align-items:start;">
+
+    <div>
+      <h2>Send a message</h2>
+      <p style="margin-bottom:2rem;">Describe your channel and what you're looking to improve. The more context you give, the more useful my reply will be.</p>
+      <form name="contact" method="POST" data-netlify="true" style="display:flex; flex-direction:column; gap:1.25rem;">
+        <input type="hidden" name="form-name" value="contact" />
+        <div style="display:grid; gap:1.25rem; grid-template-columns:1fr 1fr;">
+          <div>
+            <label for="first-name" style="display:block; font-weight:600; font-size:0.875rem; margin-bottom:0.375rem;">First Name</label>
+            <input type="text" id="first-name" name="first_name" required style="width:100%; padding:0.75rem 1rem; border:1px solid var(--border); border-radius:8px; font-family:var(--font-body); font-size:1rem;" />
+          </div>
+          <div>
+            <label for="last-name" style="display:block; font-weight:600; font-size:0.875rem; margin-bottom:0.375rem;">Last Name</label>
+            <input type="text" id="last-name" name="last_name" required style="width:100%; padding:0.75rem 1rem; border:1px solid var(--border); border-radius:8px; font-family:var(--font-body); font-size:1rem;" />
+          </div>
+        </div>
+        <div>
+          <label for="email" style="display:block; font-weight:600; font-size:0.875rem; margin-bottom:0.375rem;">Email</label>
+          <input type="email" id="email" name="email" required style="width:100%; padding:0.75rem 1rem; border:1px solid var(--border); border-radius:8px; font-family:var(--font-body); font-size:1rem;" />
+        </div>
+        <div>
+          <label for="message" style="display:block; font-weight:600; font-size:0.875rem; margin-bottom:0.375rem;">Message</label>
+          <textarea id="message" name="message" rows="6" required style="width:100%; padding:0.75rem 1rem; border:1px solid var(--border); border-radius:8px; font-family:var(--font-body); font-size:1rem; resize:vertical;"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Send Message</button>
+      </form>
+    </div>
+
+    <div style="display:flex; flex-direction:column; gap:1.5rem;">
+      <div class="card">
+        <h3>Email</h3>
+        <p><a href="mailto:creatoressentials@gmail.com" style="color:var(--red);">creatoressentials@gmail.com</a></p>
+      </div>
+      <div class="card">
+        <h3>Not sure which service?</h3>
+        <p>Start with the Channel Audit — it gives you a clear picture of what's working and what needs attention before committing to anything else.</p>
+        <a href="/services/youtube-channel-audit/" class="card-cta">
+          Get an Audit
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 7h8M7 3l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+      </div>
+      <div class="card">
+        <h3>Response time</h3>
+        <p>I typically reply within 1 business day. I look forward to hearing about your channel.</p>
+      </div>
+    </div>
+
+  </div>
+</section>

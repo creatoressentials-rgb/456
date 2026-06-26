@@ -1,0 +1,46 @@
+---
+layout: layouts/base.njk
+title: "Blog — YouTube Strategy for Creators"
+description: "Articles on YouTube coaching, channel management, SEO, thumbnails, and growth strategy for serious creators."
+permalink: /blog/
+---
+
+<section class="page-hero">
+  <div class="container">
+    <span class="eyebrow" style="color:var(--red)">Resources</span>
+    <h1>YouTube Growth Strategy</h1>
+    <p>Free articles on coaching, SEO, channel management, and building a sustainable creator business — from someone who has actually done it.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="card-grid">
+      {% for post in collections.posts %}
+      <a href="{{ post.url }}" class="post-card" style="text-decoration:none; color:inherit;">
+        <div class="post-card-meta">
+          <time datetime="{{ post.date | dateISO }}">{{ post.date | dateDisplay }}</time>
+          {% if post.data.tags %} · <span class="post-tag">{{ post.data.tags[0] }}</span>{% endif %}
+        </div>
+        <h3>{{ post.data.title }}</h3>
+        <p>{{ post.data.description }}</p>
+        <span class="card-cta">
+          Read article
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 7h8M7 3l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="bg-charcoal cta-banner">
+  <div class="container">
+    <h2>Ready for personalized advice?</h2>
+    <p>Articles are a start. A channel audit gives you specific, actionable recommendations for your channel.</p>
+    <div class="hero-ctas">
+      <a href="/services/youtube-channel-audit/" class="btn btn-white">Get a Channel Audit</a>
+      <a href="/services/youtube-coaching-program/" class="btn btn-outline-white">Explore Coaching</a>
+    </div>
+  </div>
+</section>

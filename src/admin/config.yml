@@ -1,0 +1,95 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/assets/images"
+public_folder: "/assets/images"
+
+site_url: https://creatoressentials.com
+display_url: https://creatoressentials.com
+logo_url: https://creatoressentials.com/assets/images/logo.svg
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "src/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Author", name: "author", widget: "string", default: "Rob Miller" }
+      - { label: "Description", name: "description", widget: "text" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["YouTube Strategy"]
+        field: { label: "Tag", name: "tag", widget: "string" }
+      - { label: "Featured Image", name: "featured_image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "src/index.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "About"
+        name: "about"
+        file: "src/pages/about.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "Contact"
+        name: "contact"
+        file: "src/pages/contact.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "Channel Audit"
+        name: "channel-audit"
+        file: "src/pages/youtube-channel-audit.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "Coaching Program"
+        name: "coaching-program"
+        file: "src/pages/youtube-coaching-program.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "Channel Management"
+        name: "channel-management"
+        file: "src/pages/youtube-channel-management.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "YouTube Consulting"
+        name: "consulting"
+        file: "src/pages/youtube-consulting.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "YouTube SEO"
+        name: "youtube-seo"
+        file: "src/pages/youtube-seo.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+
+      - label: "Channel Creation"
+        name: "channel-creation"
+        file: "src/pages/youtube-channel-creation.njk"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }

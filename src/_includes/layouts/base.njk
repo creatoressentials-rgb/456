@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if title %}{{ title }} | Creator Essentials{% else %}Creator Essentials — YouTube Growth Without the Guesswork{% endif %}</title>
+  <meta name="description" content="{{ description or 'Creator Essentials helps serious creators turn scattered YouTube effort into a clear growth system. Strategy, SEO, audits, coaching, and channel management.' }}" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml" />
+  <meta property="og:title" content="{{ title or 'Creator Essentials' }}" />
+  <meta property="og:description" content="{{ description or 'YouTube growth without the guesswork.' }}" />
+  <meta property="og:type" content="website" />
+</head>
+<body>
+
+  <div class="notice-bar">
+    All services are currently unavailable due to demand — join the waitlist to be notified when spots open.
+  </div>
+
+  <nav class="site-nav" aria-label="Main navigation">
+    <div class="container nav-inner">
+
+      <a href="/" class="nav-logo" aria-label="Creator Essentials home">
+        <svg class="nav-logo-icon" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <circle cx="20" cy="20" r="17" stroke="#282A2D" stroke-width="3" stroke-dasharray="85 25" stroke-linecap="round"/>
+          <polygon points="16,13 29,20 16,27" fill="#F21B2D"/>
+        </svg>
+        <div class="nav-logo-text">
+          <strong>CREATOR</strong>
+          <span>ESSENTIALS</span>
+        </div>
+      </a>
+
+      <button class="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none">
+          <path d="M3 6h16M3 11h16M3 16h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+
+      <ul class="nav-links" role="list">
+        <li><a href="/services/youtube-channel-audit/">Audit</a></li>
+        <li><a href="/services/youtube-coaching-program/">Coaching</a></li>
+        <li><a href="/services/youtube-channel-management/">Management</a></li>
+        <li><a href="/services/youtube-consulting/">Consulting</a></li>
+        <li><a href="/blog/">Resources</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/" class="btn btn-primary">Get Started</a></li>
+      </ul>
+
+    </div>
+  </nav>
+
+  <main id="main-content">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer" aria-label="Site footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <h3>Creator Essentials</h3>
+          <p>Clear growth systems for serious creators.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Services</h4>
+          <ul class="footer-links">
+            <li><a href="/services/youtube-consulting/">YouTube Consulting</a></li>
+            <li><a href="/services/youtube-coaching-program/">Coaching Program</a></li>
+            <li><a href="/services/youtube-channel-management/">Channel Management</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Products</h4>
+          <ul class="footer-links">
+            <li><a href="/services/youtube-channel-audit/">Channel Audit</a></li>
+            <li><a href="/products/youtube-seo/">YouTube SEO</a></li>
+            <li><a href="/products/youtube-channel-creation/">Channel Creation</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Company</h4>
+          <ul class="footer-links">
+            <li><a href="/about/">About</a></li>
+            <li><a href="/blog/">Blog</a></li>
+            <li><a href="/contact/">Contact</a></li>
+            <li><a href="/privacy-policy/">Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2025 Creator Essentials. All rights reserved.</span>
+        <span>Creator growth without the guesswork.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>
