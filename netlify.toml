@@ -63,28 +63,13 @@
   status = 301
 
 [[redirects]]
-  from   = "/resources"
-  to     = "/blog/"
-  status = 301
-
-[[redirects]]
-  from   = "/resources/free-guides"
-  to     = "/blog/"
+  from   = "/resources/youtube-terms-glossary/free-guides"
+  to     = "/resources/free-guides/"
   status = 301
 
 [[redirects]]
   from   = "/book-online"
   to     = "/contact/"
-  status = 301
-
-[[redirects]]
-  from   = "/who-we-serve"
-  to     = "/about/"
-  status = 301
-
-[[redirects]]
-  from   = "/who-we-serve/*"
-  to     = "/about/"
   status = 301
 
 [[redirects]]
