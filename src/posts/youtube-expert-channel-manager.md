@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Looking for a YouTube expert or channel manager? Here's where to find qualified professionals, what to look for, how to vet candidates, and how agencies differ from freelancers."
 tags:
   - Channel Management
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-expert-channel-manager.jpg"
 ---
 
 Managing a YouTube channel successfully requires expertise across content creation, SEO, audience engagement, analytics, and platform strategy — simultaneously. For many creators and businesses, bringing in a specialist is the most efficient path to consistent growth.

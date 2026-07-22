@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Coaches help creators turn their channel into something sustainable. But is the investment worth it? Here's an honest breakdown."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-coach-worth-it.jpg"
 ---
 
 Coaching requires a financial investment, which makes many creators hesitant. That's reasonable — you should think carefully before spending money on any service. But let's look at it from a return-on-investment perspective.

@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "You have roughly 5 seconds to keep a viewer watching. Here are 8 proven strategies for YouTube intros that grab attention and dramatically improve audience retention."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/hook-viewers-youtube.jpg"
 ---
 
 The first few seconds of your video determine whether someone stays or scrolls away. Given that the average attention span online is around 8 seconds, your intro is one of the highest-leverage elements of any video you make.

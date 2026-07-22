@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Roughly 2,500 videos are uploaded to YouTube every minute. Here's a practical strategy for making your videos more discoverable — through SEO, thumbnails, audience engagement, and more."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-videos-discovered.jpg"
 ---
 
 Getting your YouTube videos discovered can feel like an uphill battle when roughly 2,500 videos are uploaded every single minute on the platform. But with the right strategy and an understanding of how the algorithm works, you can significantly increase your video's visibility.

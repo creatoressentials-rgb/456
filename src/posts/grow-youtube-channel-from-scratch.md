@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Every big YouTuber started with zero views and zero subscribers. Here's a practical guide to building momentum from scratch — without the guesswork."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/grow-youtube-channel-from-scratch.jpg"
 ---
 
 Beginning a YouTube channel is both exciting and intimidating. You have passion and ideas — but the views and subscribers aren't there yet. The biggest obstacle is usually just starting.

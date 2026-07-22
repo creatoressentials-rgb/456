@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "YouTube ad revenue is just the beginning. Here are 7 proven ways to monetize your YouTube channel — from the Partner Program to sponsorships, courses, and merchandise."
 tags:
   - Monetization
-featured_image: ""
+featured_image: "/assets/images/posts/make-money-youtube.jpg"
 ---
 
 YouTube reaches over two billion logged-in users monthly. The monetization opportunities for creators on that platform are substantial — but most creators only use one or two of them. Here's a complete overview of seven proven revenue streams.

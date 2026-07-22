@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "A YouTube channel is powerful. But you don't own it. Here's why having your own website is essential for long-term creator business security, SEO, and monetization."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/do-youtubers-need-websites.jpg"
 ---
 
 YouTube is a remarkable platform. But here's the thing: you don't own it.

@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "After years of creating YouTube content and helping others grow their channels, here are 12 things I wish I had known from the start."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/youtuber-lessons-learned.jpg"
 ---
 
 Achieving success as a YouTuber requires dedication, patience, and a willingness to learn from experience. Here are 12 insights from my journey that I wish I had understood from day one.

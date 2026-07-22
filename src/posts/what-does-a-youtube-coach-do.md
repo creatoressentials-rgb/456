@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Growing a YouTube channel can feel overwhelming. A coach removes the guesswork. Here are the four core things a YouTube coach actually does for you."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/what-does-a-youtube-coach-do.jpg"
 ---
 
 Growing a YouTube channel can be overwhelming. It's frustrating when you don't know what's working and what's holding you back. When views are low, it's easy to second-guess everything: Is it the title? The thumbnail? The algorithm? Maybe even the content itself?

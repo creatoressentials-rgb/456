@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Your title is the first thing viewers see. Here are 11 proven strategies for writing YouTube titles that drive clicks, improve SEO, and accurately represent your content."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/craft-youtube-video-titles.jpg"
 ---
 
 Crafting a captivating YouTube title is an art form that demands creativity, strategic thinking, and a clear understanding of your audience. Titles are the main hook that draws viewers in — they influence clicks, views, and how the YouTube algorithm categorizes and promotes your content.

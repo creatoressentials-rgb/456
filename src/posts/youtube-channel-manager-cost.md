@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "YouTube channel manager pricing varies widely. Here's what you should expect to pay, what drives the cost, and how to know if it's worth the investment."
 tags:
   - Channel Management
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-channel-manager-cost.jpg"
 ---
 
 One of the first questions creators ask when they discover that channel management is a thing: how much does it cost?

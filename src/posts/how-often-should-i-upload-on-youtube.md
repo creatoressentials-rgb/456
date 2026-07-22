@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "There's no magic upload frequency that works for every channel. Here's how to find the right posting cadence for your audience, your content, and your life."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/how-often-should-i-upload-on-youtube.jpg"
 ---
 
 "How often should I upload on YouTube?" is one of the most common questions creators ask — and one of the most misunderstood.

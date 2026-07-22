@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "AI tools like ChatGPT can dramatically speed up your YouTube title-writing process. Here's an exact prompt strategy for generating compelling title ideas from top-ranking competitors."
 tags:
   - Tools
-featured_image: ""
+featured_image: "/assets/images/posts/ai-video-titles.jpg"
 ---
 
 Standing out among millions of YouTube videos is challenging. AI tools — specifically ChatGPT — offer a practical way to generate title ideas faster and with more strategic grounding than starting from a blank page.

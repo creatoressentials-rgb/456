@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "VidIQ and TubeBuddy are the two most popular YouTube SEO tools. Here's a detailed feature-by-feature comparison to help you decide which one is right for your channel."
 tags:
   - Tools
-featured_image: ""
+featured_image: "/assets/images/posts/vidiq-vs-tubebuddy.jpg"
 ---
 
 VidIQ and TubeBuddy are the two most widely used YouTube SEO tools. Both promise to help you grow your channel — but they approach it differently. Here's a clear breakdown of what each offers so you can choose the right one.

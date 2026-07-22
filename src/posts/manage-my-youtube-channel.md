@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Yes — you can hire someone to manage your YouTube channel. Here's what a channel manager actually handles, what it costs, how to choose the right person, and what to expect."
 tags:
   - Channel Management
-featured_image: ""
+featured_image: "/assets/images/posts/manage-my-youtube-channel.jpg"
 ---
 
 Running a successful YouTube channel is more than hitting record and uploading videos. There's production, SEO, branding, audience engagement, content planning, and staying on top of an algorithm that keeps evolving. If you're like most creators, the operational side of the channel is eating time you'd rather spend creating.

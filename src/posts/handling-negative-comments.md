@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Negative comments are an unavoidable part of being a content creator. Here's how to handle them professionally, protect your mental health, and keep making great content."
 tags:
   - Creator Mindset
-featured_image: ""
+featured_image: "/assets/images/posts/handling-negative-comments.jpg"
 ---
 
 As a content creator, receiving negative comments is unavoidable. Whether you're a blogger, vlogger, or business owner, learning to handle criticism professionally — without letting it derail your creative output — is one of the most important skills you can develop.

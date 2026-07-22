@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "A well-written YouTube description improves SEO, drives clicks, and funnels viewers toward your other content and offers. Here are 11 tips and a template to follow."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-video-descriptions.jpg"
 ---
 
 Video descriptions are one of the most consistently overlooked parts of YouTube optimization. Most creators write a few lines and move on. That's a missed opportunity — a well-crafted description improves your video's search ranking, sets viewer expectations, encourages engagement, and drives traffic to your other content.

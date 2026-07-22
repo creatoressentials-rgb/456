@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "YouTube Shorts get over 50 billion views per day. Here's a complete upload checklist to make sure every Short is optimized before you hit publish."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-shorts-upload-checklist.jpg"
 ---
 
 YouTube Shorts get more than 50 billion views per day. They receive algorithmic prioritization and can expose your channel to audiences far beyond your current subscriber base. But like long-form videos, Shorts benefit from proper optimization before publishing.

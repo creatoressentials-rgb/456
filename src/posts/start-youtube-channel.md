@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Starting a YouTube channel is more accessible than ever — but success requires more than just uploading videos. Here's a step-by-step guide from setup to monetization."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/start-youtube-channel.jpg"
 ---
 
 Over 92% of the global population watches video regularly. YouTube remains the world's largest video platform and the second-largest search engine. If you've been thinking about starting a channel, the tools, resources, and audience demand have never been more favorable.

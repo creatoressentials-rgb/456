@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Knowing when to hire a YouTube channel manager can be the difference between burning out and scaling up. Here are the clear signals — and a decision matrix to guide you."
 tags:
   - Channel Management
-featured_image: ""
+featured_image: "/assets/images/posts/when-youtube-channel-manager.jpg"
 ---
 
 Not every creator needs a channel manager right now. But knowing when to make that hire — and what to look for — can be the difference between burning out and finally scaling your channel sustainably.

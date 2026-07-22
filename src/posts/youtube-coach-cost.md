@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "YouTube coaching ranges from $50 to $10,000+ per month. Here's what drives the price, what you get at each level, and how to know if it's worth it for your channel."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-coach-cost.jpg"
 ---
 
 If you've been working hard on your YouTube channel but aren't seeing the results you want, a YouTube coach can help you fix what's not working and create a clear strategy for growth.

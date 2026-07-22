@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Running a YouTube channel is a full-time job. Here's an honest look at whether hiring a channel manager is worth the investment — and what six specific benefits you can expect."
 tags:
   - Channel Management
-featured_image: ""
+featured_image: "/assets/images/posts/channel-managers-worth-it.jpg"
 ---
 
 If you've spent late nights tweaking video descriptions, responding to comments, and staring at analytics trying to figure out what to change next — you've probably wondered whether you should be doing all of this alone.

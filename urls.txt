@@ -1,0 +1,67 @@
+# creatoressentials.com — full URL list for Playwright crawler
+# Generated from content-inventory.md
+# Lines starting with # are ignored
+
+# ── Core pages ─────────────────────────────────────────────────
+https://www.creatoressentials.com
+https://www.creatoressentials.com/services
+https://www.creatoressentials.com/services/youtube-consulting
+https://www.creatoressentials.com/services/youtube-coaching-program
+https://www.creatoressentials.com/services/youtube-channel-management
+https://www.creatoressentials.com/products/youtube-channel-audit
+https://www.creatoressentials.com/products/youtube-channel-video-seo
+https://www.creatoressentials.com/products/youtube-channel-creation-service
+https://www.creatoressentials.com/about
+https://www.creatoressentials.com/contact
+https://www.creatoressentials.com/blogs
+
+# ── Legacy pages (crawl for content before redirect) ──────────
+https://www.creatoressentials.com/products
+https://www.creatoressentials.com/plans-pricing
+https://www.creatoressentials.com/who-we-serve
+https://www.creatoressentials.com/resources
+https://www.creatoressentials.com/resources/free-guides
+https://www.creatoressentials.com/tools
+https://www.creatoressentials.com/resources/youtube-terms-glossary
+
+# ── Blog posts — already migrated (crawl for image/content audit) ──
+https://www.creatoressentials.com/blog/youtube-coach-worth-it
+https://www.creatoressentials.com/blog/what-does-a-youtube-coach-do
+https://www.creatoressentials.com/blog/ready-for-youtube-coach
+https://www.creatoressentials.com/blog/short-term-youtube-coach
+https://www.creatoressentials.com/blog/youtube-channel-manager-duties
+https://www.creatoressentials.com/blog/youtube-channel-manager-cost
+https://www.creatoressentials.com/blog/grow-youtube-channel-from-scratch
+
+# ── Blog posts — to migrate ────────────────────────────────────
+https://www.creatoressentials.com/blog/youtube-coach-benefits
+https://www.creatoressentials.com/blog/youtuber-lessons-learned
+https://www.creatoressentials.com/blog/craft-youtube-video-titles
+https://www.creatoressentials.com/blog/vidiq-review
+https://www.creatoressentials.com/blog/tubebuddy-review
+https://www.creatoressentials.com/blog/vidiq-coaching-alternatives
+https://www.creatoressentials.com/blog/start-youtube-introvert
+https://www.creatoressentials.com/blog/youtube-channel-manager-guide
+https://www.creatoressentials.com/blog/manage-my-youtube-channel
+https://www.creatoressentials.com/blog/free-tools
+https://www.creatoressentials.com/blog/youtube-coach-cost
+https://www.creatoressentials.com/blog/youtube-videos-discovered
+https://www.creatoressentials.com/blog/handling-negative-comments
+https://www.creatoressentials.com/blog/how-often-should-i-upload-on-youtube
+https://www.creatoressentials.com/blog/do-youtubers-need-websites
+https://www.creatoressentials.com/blog/when-youtube-channel-manager
+https://www.creatoressentials.com/blog/vidiq-vs-tubebuddy
+https://www.creatoressentials.com/blog/make-money-youtube
+https://www.creatoressentials.com/blog/youtube-video-descriptions
+https://www.creatoressentials.com/blog/hook-viewers-youtube
+https://www.creatoressentials.com/blog/best-youtube-coaches
+https://www.creatoressentials.com/blog/ai-video-titles
+https://www.creatoressentials.com/blog/niche-youtube-channel-ideas
+https://www.creatoressentials.com/blog/viral-youtube-tips
+https://www.creatoressentials.com/blog/youtube-community-tab
+https://www.creatoressentials.com/blog/youtube-shorts-upload-checklist
+https://www.creatoressentials.com/blog/youtube-expert-channel-manager
+https://www.creatoressentials.com/blog/channel-managers-worth-it
+https://www.creatoressentials.com/blog/youtube-shorts-views
+https://www.creatoressentials.com/blog/epidemic-sound-review
+https://www.creatoressentials.com/blog/start-youtube-channel

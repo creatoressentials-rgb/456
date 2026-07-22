@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "A YouTube coach does more than give tips — they help you avoid costly mistakes, build momentum, and turn your channel into a sustainable business. Here are 8 concrete benefits."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-coach-benefits.jpg"
 ---
 
 When I started on YouTube, I had enthusiasm but struggled to gain traction despite significant effort. That experience eventually motivated me to start coaching other creators — because I know firsthand how much faster things move with the right outside perspective.

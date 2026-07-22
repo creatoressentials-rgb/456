@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "You don't need to spend money to build a great YouTube channel. Here are 28 free tools covering productivity, SEO, editing, audience research, and content ideation."
 tags:
   - Tools
-featured_image: ""
+featured_image: "/assets/images/posts/free-tools.png"
 ---
 
 Building a YouTube channel takes time and effort — but it doesn't have to cost a lot of money, especially when you're starting out. Here are 28 free tools that cover every major need a content creator has.

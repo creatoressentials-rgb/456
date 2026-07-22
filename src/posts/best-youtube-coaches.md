@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "The right YouTube coach depends on your goals, budget, and where your channel stands. Here's a breakdown of 6 coaches worth considering — what they offer and who they're for."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/best-youtube-coaches.jpg"
 ---
 
 If your channel isn't growing the way you want despite consistent effort, a YouTube coach can help you refine your approach, identify the real bottleneck, and build a sustainable growth strategy. Here are six coaches worth considering.

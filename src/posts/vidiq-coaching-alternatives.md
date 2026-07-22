@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "VidIQ offers a coaching program, but it's not your only option. Here's a breakdown of VidIQ's coaching program and seven alternatives — including what each offers and what it costs."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/vidiq-coaching-alternatives.jpg"
 ---
 
 VidIQ's coaching program is well-known, but it's far from your only option. If you're looking for personalized YouTube coaching, here's a clear breakdown of what VidIQ offers — and seven alternatives worth considering.

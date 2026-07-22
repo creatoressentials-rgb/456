@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Introverts can — and do — thrive on YouTube. Here's what to expect, how to handle the challenges, and why your introversion might actually be an advantage."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/start-youtube-introvert.jpg"
 ---
 
 The idea of becoming a YouTuber can feel daunting for introverts. Getting in front of a camera and talking to an audience? Sharing your work publicly? Not exactly natural territory.

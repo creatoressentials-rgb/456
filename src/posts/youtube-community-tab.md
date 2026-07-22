@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "The YouTube Community Tab is one of the most underused growth tools on the platform. Here's how to enable it, what to post, and 7 strategies to use it for channel growth."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-community-tab.jpg"
 ---
 
 The YouTube Community Tab functions as a social feed built directly into your channel — letting you share text posts, images, GIFs, and polls with your subscribers between video uploads. Most creators either ignore it entirely or post occasionally without a strategy.

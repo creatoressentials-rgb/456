@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "TubeBuddy is one of the most widely used YouTube tools. Here's an honest breakdown of its features, pricing, pros and cons, and whether it's the right tool for your channel."
 tags:
   - Tools
-featured_image: ""
+featured_image: "/assets/images/posts/tubebuddy-review.webp"
 ---
 
 TubeBuddy is a browser extension and mobile app that integrates directly with YouTube. It offers SEO tools, bulk processing capabilities, advanced analytics, and promotional features across 65+ functions. Here's an honest look at what it actually does and whether it's worth paying for.

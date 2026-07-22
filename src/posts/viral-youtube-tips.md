@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Going viral on YouTube isn't entirely luck. Here are 10 strategic practices that dramatically increase the chances of your video breaking through to a wider audience."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/viral-youtube-tips.jpg"
 ---
 
 Going viral on YouTube can seem accidental from the outside. But behind most breakthrough videos are strategic choices — about content, packaging, audience understanding, and timing — that creators made deliberately.

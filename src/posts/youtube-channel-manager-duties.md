@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Did you know you can hire someone to manage your YouTube channel? Here's a breakdown of every major responsibility a channel manager handles — and how it benefits creators."
 tags:
   - Channel Management
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-channel-manager-duties.jpg"
 ---
 
 Did you know you can hire someone to manage your YouTube channel? Whether you're a rising creator or an established one, a YouTube Channel Manager helps lighten the load by handling the operational tasks you don't want to do — or don't have time for.

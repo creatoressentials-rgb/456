@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "YouTube Shorts get billions of views daily. Here are 8 strategies and a 3-part framework (Entertainment, Education, Emotion) to consistently increase your Shorts viewership."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/youtube-shorts-views.jpg"
 ---
 
 YouTube Shorts have become one of the fastest ways to grow a channel and reach new audiences. With billions of daily views and algorithmic prioritization, the format rewards creators who approach it with intention.

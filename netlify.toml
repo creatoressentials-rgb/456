@@ -97,6 +97,205 @@
   to     = "/"
   status = 301
 
+# ── Glossary redirects ────────────────────────────────────────
+[[redirects]]
+  from   = "/resources/youtube-terms-glossary"
+  to     = "/glossary/"
+  status = 301
+
+# Note: /glossary/* now served by real Eleventy pages — no wildcard redirect needed
+
+# ── Old Wix blog URL → new Eleventy post URL (38 posts) ──────
+[[redirects]]
+  from = "/blog/youtube-coach-worth-it"
+  to   = "/posts/youtube-coach-worth-it/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/what-does-a-youtube-coach-do"
+  to   = "/posts/what-does-a-youtube-coach-do/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/ready-for-youtube-coach"
+  to   = "/posts/ready-for-youtube-coach/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/short-term-youtube-coach"
+  to   = "/posts/short-term-youtube-coach/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-channel-manager-duties"
+  to   = "/posts/youtube-channel-manager-duties/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-channel-manager-cost"
+  to   = "/posts/youtube-channel-manager-cost/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/grow-youtube-channel-from-scratch"
+  to   = "/posts/grow-youtube-channel-from-scratch/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-coach-benefits"
+  to   = "/posts/youtube-coach-benefits/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtuber-lessons-learned"
+  to   = "/posts/youtuber-lessons-learned/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/craft-youtube-video-titles"
+  to   = "/posts/craft-youtube-video-titles/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/vidiq-review"
+  to   = "/posts/vidiq-review/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/tubebuddy-review"
+  to   = "/posts/tubebuddy-review/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/vidiq-coaching-alternatives"
+  to   = "/posts/vidiq-coaching-alternatives/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/start-youtube-introvert"
+  to   = "/posts/start-youtube-introvert/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-channel-manager-guide"
+  to   = "/posts/youtube-channel-manager-guide/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/manage-my-youtube-channel"
+  to   = "/posts/manage-my-youtube-channel/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/free-tools"
+  to   = "/posts/free-tools/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-coach-cost"
+  to   = "/posts/youtube-coach-cost/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-videos-discovered"
+  to   = "/posts/youtube-videos-discovered/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/handling-negative-comments"
+  to   = "/posts/handling-negative-comments/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/how-often-should-i-upload-on-youtube"
+  to   = "/posts/how-often-should-i-upload-on-youtube/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/do-youtubers-need-websites"
+  to   = "/posts/do-youtubers-need-websites/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/when-youtube-channel-manager"
+  to   = "/posts/when-youtube-channel-manager/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/vidiq-vs-tubebuddy"
+  to   = "/posts/vidiq-vs-tubebuddy/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/make-money-youtube"
+  to   = "/posts/make-money-youtube/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-video-descriptions"
+  to   = "/posts/youtube-video-descriptions/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/hook-viewers-youtube"
+  to   = "/posts/hook-viewers-youtube/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/best-youtube-coaches"
+  to   = "/posts/best-youtube-coaches/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/ai-video-titles"
+  to   = "/posts/ai-video-titles/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/niche-youtube-channel-ideas"
+  to   = "/posts/niche-youtube-channel-ideas/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/viral-youtube-tips"
+  to   = "/posts/viral-youtube-tips/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-community-tab"
+  to   = "/posts/youtube-community-tab/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-shorts-upload-checklist"
+  to   = "/posts/youtube-shorts-upload-checklist/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-expert-channel-manager"
+  to   = "/posts/youtube-expert-channel-manager/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/channel-managers-worth-it"
+  to   = "/posts/channel-managers-worth-it/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/youtube-shorts-views"
+  to   = "/posts/youtube-shorts-views/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/epidemic-sound-review"
+  to   = "/posts/epidemic-sound-review/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/start-youtube-channel"
+  to   = "/posts/start-youtube-channel/"
+  status = 301
+
 # ── Security Headers ──────────────────────────────────────────────
 [[headers]]
   for = "/*"

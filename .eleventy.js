@@ -13,6 +13,12 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  eleventyConfig.addCollection("glossary", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("src/glossary/*.md")
+      .sort((a, b) => a.data.title.localeCompare(b.data.title));
+  });
+
   eleventyConfig.addFilter("dateDisplay", function (date) {
     return new Date(date).toLocaleDateString("en-US", {
       year: "numeric",

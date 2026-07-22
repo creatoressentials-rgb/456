@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "A lot of creators assume YouTube coaching is only for big channels. That's not the case. Here are five signs you're ready to work with a coach."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/ready-for-youtube-coach.jpg"
 ---
 
 You've been putting in the effort — planning, filming, editing, uploading. But at some point, you start wondering if you're doing the right things. If your growth doesn't match the work you're putting in, that's often the first sign that a coach could help.

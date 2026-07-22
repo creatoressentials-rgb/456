@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "The right niche is one of the most important decisions you'll make for your YouTube channel. Here are specific niche ideas across 10 categories — with tips on how to stand out in each."
 tags:
   - YouTube Strategy
-featured_image: ""
+featured_image: "/assets/images/posts/niche-youtube-channel-ideas.jpg"
 ---
 
 Nearly two decades after YouTube's founding, the platform remains highly competitive — but also full of opportunity for creators willing to niche down. The key for smaller creators: don't compete directly with established channels. Find angles they haven't covered.

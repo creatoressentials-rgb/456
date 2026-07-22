@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "VidIQ is one of the most popular YouTube SEO tools. Here's an honest look at its features, pricing, pros and cons, and whether it's worth the investment for your channel."
 tags:
   - Tools
-featured_image: ""
+featured_image: "/assets/images/posts/vidiq-review.webp"
 ---
 
 VidIQ has become a go-to tool for many YouTubers. It helps with SEO audits, keyword research, and channel strategy. This review looks at whether it justifies its cost — the features, advantages, limitations, and practical utility for real content creators.

@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Epidemic Sound is one of the most popular royalty-free music platforms for content creators. Here's an honest look at its library, pricing, licensing model, and whether it's worth the cost."
 tags:
   - Tools
-featured_image: ""
+featured_image: "/assets/images/posts/epidemic-sound-review.jpg"
 ---
 
 Finding music for YouTube videos without risking copyright strikes is a real challenge. Epidemic Sound has emerged as one of the most popular solutions — a royalty-free music platform with a library of over 35,000 songs and 60,000 sound effects, serving over 5 million creators worldwide.

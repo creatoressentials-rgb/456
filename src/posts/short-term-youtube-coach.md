@@ -6,7 +6,7 @@ author: "Rob Miller"
 description: "Short-term YouTube coaching can be incredibly effective — but only if you go into it with the right approach. Here's how to maximize a 90-day engagement."
 tags:
   - Coaching
-featured_image: ""
+featured_image: "/assets/images/posts/short-term-youtube-coach.jpg"
 ---
 
 Some creators achieve remarkable progress in just a few months of coaching. Others see minimal results from the same investment. The difference almost always comes down to how they approach it.
