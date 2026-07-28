@@ -21,7 +21,7 @@ related_terms:
 
 <p>YouTube Channel Keywords are specific terms and phrases that succinctly describe your channel's overall theme and content. They are essential for YouTube's search and recommendation algorithms, helping to categorize your channel and align it with relevant searches and viewer interests.</p>
 
-<p>Effectively chosen channel keywords <a href="/posts/youtube-videos-discovered/">enhance your channel's discoverability</a>, making it easier for potential subscribers to find your content when searching for topics you cover. These keywords are integrated into your channel's metadata, such as the <a href="/glossary/channel-description/">channel description</a> and channel tags, aiding in optimizing your channel for YouTube's SEO.</p>
+<p>Effectively chosen channel keywords <a href="/posts/youtube-videos-discovered/">enhance your channel's discoverability</a>, making it easier for potential subscribers to find your content when searching for topics you cover. These keywords are integrated into your channel's metadata, such as the <a href="/glossary/youtube-channel-description/">channel description</a> and channel tags, aiding in optimizing your channel for YouTube's SEO.</p>
 
 <h2>What should my YouTube channel keywords be?</h2>
 
