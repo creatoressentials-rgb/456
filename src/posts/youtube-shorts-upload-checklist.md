@@ -9,7 +9,7 @@ tags:
 featured_image: "/assets/images/posts/youtube-shorts-upload-checklist.jpg"
 ---
 
-YouTube Shorts get more than 50 billion views per day. They receive algorithmic prioritization and can expose your channel to audiences far beyond your current subscriber base. But like long-form videos, Shorts benefit from proper optimization before publishing.
+[YouTube Shorts](/glossary/youtube-shorts/) get more than 50 billion views per day. They receive algorithmic prioritization and can expose your channel to audiences far beyond your current [subscriber](/glossary/youtube-subscribers/) base. But like long-form videos, Shorts benefit from proper optimization before publishing.
 
 Here's a complete checklist.
 
@@ -21,19 +21,19 @@ YouTube Shorts are vertical videos up to 60 seconds long, designed for mobile vi
 
 ### ✅ 1. Write a Compelling Title
 
-Your title should be concise, descriptive, and include at least one relevant hashtag. Keep it under 60 characters. Example format: "Quick Fix for Low CTR | #YouTubeTips | [Channel Name]"
+Your title should be concise, descriptive, and include at least one relevant [hashtag](/glossary/hashtags/). Keep it under 60 characters. Example format: "Quick Fix for Low CTR | #YouTubeTips | [Channel Name]"
 
 ### ✅ 2. Write a Short Description With Keywords
 
-Even for 60-second videos, the description matters for SEO. Include a brief video summary, your primary keyword, and a link to a related longer video if one exists. Descriptions help YouTube categorize and surface your content in search.
+Even for 60-second videos, the description matters for [SEO](/glossary/seo/). Include a brief video summary, your primary [keyword](/glossary/keywords/), and a link to a related longer video if one exists. Descriptions help YouTube categorize and surface your content in search.
 
 ### ✅ 3. Add Relevant Tags
 
-Tags help YouTube understand your content's topic and category. Include your main keyword, 2–3 related terms, and #Shorts.
+[Tags](/glossary/youtube-video-tags/) help YouTube understand your content's topic and category. Include your main keyword, 2–3 related terms, and #Shorts.
 
 ### ✅ 4. Add Your Short to a Playlist
 
-Grouping Shorts with related content (other Shorts, or a broader topic playlist) helps viewers discover more of your channel after watching.
+Grouping Shorts with related content (other Shorts, or a broader topic [playlist](/glossary/youtube-playlists/)) helps viewers discover more of your channel after watching.
 
 ### ✅ 5. Link to a Related Long-Form Video
 
@@ -48,17 +48,17 @@ Choose public, private, or unlisted before uploading. Schedule it if you're batc
 1. Open the YouTube mobile app
 2. Tap the **+** icon and select **Create a Short**
 3. Record (hold the button for 15 seconds, tap to start/stop, toggle to 60s mode for longer)
-4. Edit: add music from YouTube's free sound library, filters, text, or captions
+4. Edit: add music from YouTube's free sound library, filters, text, or [captions](/glossary/closed-captions/)
 5. Tap **Next**, fill in your title and description, add #Shorts tag
 6. Set visibility and publish
 
 ## Best Practices for YouTube Shorts
 
-**Grab attention in the first 2 seconds.** The Shorts feed moves fast. If your opening doesn't hook immediately, viewers swipe.
+**Grab attention in the first 2 seconds.** The Shorts feed moves fast. If your opening doesn't [hook](/glossary/youtube-hooks/) immediately, viewers swipe.
 
 **Keep it snappy.** Use cuts, edits, and pacing to maintain energy. Don't waste any of your 60 seconds.
 
-**Optimize for looping.** Shorts loop automatically. If your ending flows into your beginning, viewers watch multiple times without realizing it — which boosts your view count and watch time.
+**Optimize for looping.** Shorts loop automatically. If your ending flows into your beginning, viewers watch multiple times without realizing it — which boosts your view count and [watch time](/glossary/youtube-watch-time/).
 
 **Create exclusive content.** Original Shorts outperform repurposed clips from long-form videos. The Shorts audience has developed expectations for the format.
 
@@ -71,3 +71,11 @@ As of 2023, Shorts creators who qualify for the YouTube Partner Program earn ad 
 ---
 
 Shorts are one of the most efficient ways to grow a YouTube audience right now — especially for new channels. A well-optimized 30-second Short can reach more new viewers than a poorly optimized 20-minute video.
+
+## Related Reading
+
+- [How to Get More YouTube Shorts Views](/posts/youtube-shorts-views/)
+- [8 Ways to Hook YouTube Viewers in the First 5 Seconds](/posts/hook-viewers-youtube/)
+- [11 Tips for Writing YouTube Video Titles That Get Clicked](/posts/craft-youtube-video-titles/)
+- [How Often Should I Upload on YouTube?](/posts/how-often-should-i-upload-on-youtube/)
+- [How to Grow on YouTube with 0 Views and 0 Subscribers](/posts/grow-youtube-channel-from-scratch/)

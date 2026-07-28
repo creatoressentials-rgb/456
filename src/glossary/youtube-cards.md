@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What are YouTube Cards? [Explained]"
 description: "What are YouTube Cards and how do you add them to YouTube videos? Learn more about what YouTube Cards are and why creators should use them."
 permalink: /glossary/youtube-cards/
-
+related_terms:
+  - youtube-community-tab
+  - end-screens
+  - cta
+  - youtube-playlists
+  - retention
+  - youtube-studio
 ---
 
 <h2>YouTube Cards</h2>

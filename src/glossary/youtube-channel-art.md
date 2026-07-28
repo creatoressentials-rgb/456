@@ -5,6 +5,11 @@ description: "What is YouTube Channel Art? Learn what it is, how to create it an
 permalink: /glossary/youtube-channel-art/
 related_terms:
   - youtube-channel
+  - profile-picture
+  - youtube-channel-description
+  - youtube-branding-watermark
+  - youtube-channel-keywords
+  - youtube-channel-demographics
 ---
 
 <h2>YouTube Channel Art</h2>
@@ -41,9 +46,3 @@ related_terms:
 <p>The ideal image size is 2560 x 1440 pixels, with a minimum dimension of 2048 x 1152 pixels. </p>
 
 <p>This specification is crucial as it ensures that your Channel Art looks professional and is optimized for different viewing platforms, from desktops to mobile devices and TVs.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

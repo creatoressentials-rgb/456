@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "Influencers on YouTube: What They Do and How You Can Join Them"
 description: "Want to understand influencers and how they thrive on YouTube? This page breaks down everything—from defining influencers to practical steps for becoming one."
 permalink: /glossary/influencers/
-
+related_terms:
+  - youtube-collab
+  - youtube-live
+  - keywords
+  - niche
+  - seo
+  - youtube-channel
 ---
 
 <h2>Influencers</h2>
@@ -85,9 +91,3 @@ permalink: /glossary/influencers/
 <h3>Step 7: Keep Learning and Improving</h3>
 
 <p>Evaluate your performance using analytics tools. Track metrics like views, watch time, and audience demographics to refine your strategy and create even better content.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

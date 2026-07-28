@@ -5,6 +5,12 @@ description: "What is CTR on YouTube? Read about Click-Through Rate on YouTube. 
 permalink: /glossary/click-through-rate/
 related_terms:
   - youtube-impressions
+  - youtube-thumbnails
+  - youtube-video-titles
+  - clickbait
+  - keywords
+  - niche
+  - seo
 ---
 
 <h2>Click-Through Rate</h2>

@@ -16,12 +16,12 @@ YouTube reaches over two billion logged-in users monthly. The monetization oppor
 The YouTube Partner Program allows creators to earn through ad revenue sharing. YouTube takes 45% and pays creators approximately 55% of ad revenue generated on their content.
 
 **Current eligibility requirements:**
-- 500+ subscribers
-- 3,000+ valid public watch hours in the past year OR 3 million valid public Shorts views
-- Linked AdSense account
+- 500+ [subscribers](/glossary/youtube-subscribers/)
+- 3,000+ valid public watch hours in the past year OR 3 million valid public [Shorts](/glossary/youtube-shorts/) views
+- Linked [AdSense](/glossary/youtube-ads/) account
 - Active account in good standing
 
-Revenue depends on your niche's CPM (cost per thousand impressions). Finance and business channels earn far more per view than entertainment channels, so niche selection meaningfully affects AdSense income.
+Revenue depends on your [niche's](/glossary/niche/) [CPM](/glossary/youtube-cpm/) (cost per thousand impressions). Finance and business channels earn far more per view than entertainment channels, so niche selection meaningfully affects AdSense income.
 
 ## 2. Channel Memberships
 
@@ -31,13 +31,13 @@ This creates recurring, predictable revenue that isn't tied to individual video 
 
 ## 3. YouTube Premium Revenue
 
-YouTube Premium members pay for an ad-free experience. When Premium subscribers watch your content, you earn a share of their subscription fee proportional to your watch time. It's passive — no setup required beyond making content worth watching.
+YouTube Premium members pay for an ad-free experience. When Premium subscribers watch your content, you earn a share of their subscription fee proportional to your [watch time](/glossary/youtube-watch-time/). It's passive — no setup required beyond making content worth watching.
 
 ## 4. Sponsorships and Brand Deals
 
 Brands pay creators to promote products or services to their audiences. Sponsorships can range from a simple mention to a full dedicated video. Rates vary enormously based on audience size, niche, and engagement — but a channel of 10,000 engaged subscribers in the right niche can land meaningful sponsorship income.
 
-Find opportunities through influencer marketplaces (Intellifluence, Grapevine Logic, Heepsy) or reach out directly to brands whose products you already use.
+Find opportunities through [influencer](/glossary/influencers/) marketplaces (Intellifluence, Grapevine Logic, Heepsy) or reach out directly to brands whose products you already use.
 
 ## 5. Online Courses and Digital Products
 
@@ -49,9 +49,9 @@ Platforms like Teachable, Kajabi, or Gumroad make digital product creation acces
 
 Branded merchandise — shirts, mugs, notebooks, stickers — gives your most loyal viewers a way to support you beyond watching. Print-on-demand services like Printify or Printful handle production, shipping, and fulfillment. You design, they deliver.
 
-## 7. Affiliate Marketing
+## 7. [Affiliate Marketing](/glossary/youtube-affiliate-marketing/)
 
-Recommend products or tools you actually use, include your affiliate link in the video description, and earn a commission when viewers buy. This works particularly well for review channels, tutorial channels, and any content where specific products are naturally discussed.
+Recommend products or tools you actually use, include your affiliate link in the [video description](/glossary/youtube-video-description/), and earn a commission when viewers buy. This works particularly well for review channels, tutorial channels, and any content where specific products are naturally discussed.
 
 Amazon Associates is the easiest starting point, but many individual tools and services run their own affiliate programs with higher commission rates.
 

@@ -5,6 +5,9 @@ description: "What is Shadow Banning? Learn more about what Shadow Banning is, h
 permalink: /glossary/shadow-banning/
 related_terms:
   - recommended-videos
+  - youtube-burnout
+  - sub-for-sub
+  - hashtags
 ---
 
 <h2>Shadow Banning</h2>
@@ -77,9 +80,3 @@ related_terms:
 </ol>
 
 <p>Recovering from a shadow ban can take time, and there is no guaranteed or immediate solution. The best approach is to adhere closely to community standards and engage in positive, authentic interactions on the platform.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

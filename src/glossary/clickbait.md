@@ -7,6 +7,9 @@ related_terms:
   - youtube-view
   - youtube-studio
   - youtube-video-titles
+  - click-through-rate
+  - youtube-impressions
+  - youtube-thumbnails
 ---
 
 <h2>Clickbait</h2>
@@ -62,9 +65,3 @@ related_terms:
 <h2>What is an Example of Clickbait?</h2>
 
 <p>An example of clickbait would be a <a href="/glossary/youtube-video-titles/">YouTube title</a> like, “You Won’t Believe What Happened When This Man Tried to Hug a Wild Lion!” Such a headline plays on shock value and curiosity to compel clicks, but the actual video content may simply discuss general wildlife safety tips, proving underwhelming and only tangentially related to the headline.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

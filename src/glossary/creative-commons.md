@@ -3,7 +3,8 @@ layout: layouts/glossary.njk
 title: "What is Creative Commons? [Explained]"
 description: "What is Creative Commons and how does it work? Learn how each license works, what they allow, and how to apply them to your YouTube channel."
 permalink: /glossary/creative-commons/
-
+related_terms:
+  - royalty-free-music
 ---
 
 <h2>Creative Commons</h2>
@@ -38,9 +39,3 @@ permalink: /glossary/creative-commons/
 <p>CC BY-NC-ND: Attribution-NonCommercial-NoDerivs</p>
 </li>
 </ol>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

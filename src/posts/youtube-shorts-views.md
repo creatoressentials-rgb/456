@@ -9,7 +9,7 @@ tags:
 featured_image: "/assets/images/posts/youtube-shorts-views.jpg"
 ---
 
-YouTube Shorts have become one of the fastest ways to grow a channel and reach new audiences. With billions of daily views and algorithmic prioritization, the format rewards creators who approach it with intention.
+[YouTube Shorts](/glossary/youtube-shorts/) have become one of the fastest ways to grow a channel and reach new audiences. With billions of daily views and algorithmic prioritization, the format rewards creators who approach it with intention.
 
 Here are 8 strategies — plus a simple framework — for consistently increasing your Shorts views.
 
@@ -17,7 +17,7 @@ Here are 8 strategies — plus a simple framework — for consistently increasin
 
 ### 1. Diversify Your Content Mix
 
-Post Shorts alongside regular long-form videos. Variety attracts more viewers and keeps the channel engaging across different audience segments. A viewer who finds you through a Short may become a long-form subscriber.
+Post Shorts alongside regular long-form videos. Variety attracts more viewers and keeps the channel engaging across different audience segments. A viewer who finds you through a Short may become a long-form [subscriber](/glossary/youtube-subscribers/).
 
 ### 2. Focus on Quality Over Quantity
 
@@ -27,9 +27,9 @@ Keep your camera vertical, ensure the lens is clean, and maintain high energy th
 
 YouTube's free sound library adds depth to Shorts with minimal dialogue. A well-chosen track running under your visuals dramatically improves the viewing experience without any additional effort.
 
-### 4. Use Hashtags
+### 4. Use [Hashtags](/glossary/hashtags/)
 
-Include #Shorts and #YouTubeShorts to signal the content type to YouTube. Add 1–2 topic-specific hashtags relevant to your niche. Don't overstuff — 3–4 total is the right range.
+Include #Shorts and #YouTubeShorts to signal the content type to YouTube. Add 1–2 topic-specific hashtags relevant to your [niche](/glossary/niche/). Don't overstuff — 3–4 total is the right range.
 
 ### 5. Enable Remixing
 
@@ -37,7 +37,7 @@ Allowing others to remix your Shorts expands your reach to their audiences. Unle
 
 ### 6. Enhance With Editing
 
-Add text for key information (especially since many viewers watch muted), use filters to improve visual quality, and add frames or captions where they add clarity. Even basic editing signals production intentionality.
+Add text for key information (especially since many viewers watch muted), use filters to improve visual quality, and add frames or [captions](/glossary/closed-captions/) where they add clarity. Even basic editing signals production intentionality.
 
 ### 7. Analyze What's Working
 
@@ -51,7 +51,7 @@ Comment on Shorts in your niche, respond to comments on your own, and participat
 
 Use this filter when planning your Shorts content:
 
-**Entertainment** — Does this Short do something interesting, funny, or visually engaging in the first 2 seconds? If it doesn't hook immediately, viewers will swipe.
+**Entertainment** — Does this Short do something interesting, funny, or visually engaging in the first 2 seconds? If it doesn't [hook](/glossary/youtube-hooks/) immediately, viewers will swipe.
 
 **Education** — Does this Short teach something new, surprising, or counterintuitive? Novel information drives saves, shares, and return viewers.
 
@@ -61,8 +61,16 @@ The strongest Shorts combine at least two of these three. The best ones hit all 
 
 ## Optimizing for Looping
 
-YouTube Shorts loop automatically. If the end of your Short flows naturally back into the beginning, viewers often watch multiple times before realizing it — which increases your view count and watch time metrics. Design Shorts with looping in mind.
+YouTube Shorts loop automatically. If the end of your Short flows naturally back into the beginning, viewers often watch multiple times before realizing it — which increases your view count and [watch time](/glossary/youtube-watch-time/) metrics. Design Shorts with looping in mind.
 
 ## The Takeaway
 
 YouTube Shorts reward consistency, creativity, and quick-hook content. The creators who see the best results are the ones who approach Shorts as their own distinct format — not just clipped versions of long videos — and apply the same intentionality they bring to any other content.
+
+## Related Reading
+
+- [YouTube Shorts Upload Checklist: Everything You Need Before Publishing](/posts/youtube-shorts-upload-checklist/)
+- [8 Ways to Hook YouTube Viewers in the First 5 Seconds](/posts/hook-viewers-youtube/)
+- [11 Tips for Writing YouTube Video Titles That Get Clicked](/posts/craft-youtube-video-titles/)
+- [How to Grow on YouTube with 0 Views and 0 Subscribers](/posts/grow-youtube-channel-from-scratch/)
+- [How Often Should I Upload on YouTube?](/posts/how-often-should-i-upload-on-youtube/)

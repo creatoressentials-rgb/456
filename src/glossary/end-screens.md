@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What Are YouTube End Screens? [Get More Views]"
 description: "A YouTube End Screen is a feature that overlays the last 5 to 20 seconds of a video. Learn more about what YouTube End Screens are and how to add them to videos."
 permalink: /glossary/end-screens/
-
+related_terms:
+  - youtube-community-tab
+  - youtube-cards
+  - cta
+  - youtube-playlists
+  - retention
+  - youtube-studio
 ---
 
 <h2>End Screens</h2>

@@ -3,7 +3,11 @@ layout: layouts/glossary.njk
 title: "What are Lavalier Microphones? Do YouTubers Need Them?"
 description: "What are lavalier microphones? Understand their types, uses, and advantages. Ideal for YouTube Creators and speakers seeking quality, hands-free audio."
 permalink: /glossary/lavalier-microphones/
-
+related_terms:
+  - condenser-microphones
+  - dynamic-microphones
+  - microphone-preamp
+  - sound-card
 ---
 
 <h2>Lavalier Microphones</h2>

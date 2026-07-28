@@ -3,7 +3,10 @@ layout: layouts/glossary.njk
 title: "What Is a YouTube Collab? [Explained]"
 description: "What is a YouTube collab and how do they work? Learn more about what collabs (collaborations) are on YouTube and why they are an effective way to grow your channel."
 permalink: /glossary/youtube-collab/
-
+related_terms:
+  - influencers
+  - youtube-live
+  - youtube-subscribers
 ---
 
 <h2>YouTube Collab</h2>
@@ -51,9 +54,3 @@ Promotion: Once the content is published, both creators promote the collaboratio
 <p>Skill Sharing: Creators can learn from each other's experiences, insights, and technical skills, contributing to their professional growth and improving their content quality.</p>
 </li>
 </ul>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

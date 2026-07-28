@@ -9,7 +9,7 @@ tags:
 featured_image: "/assets/images/posts/youtube-coach-cost.jpg"
 ---
 
-If you've been working hard on your YouTube channel but aren't seeing the results you want, a YouTube coach can help you fix what's not working and create a clear strategy for growth.
+If you've been working hard on your YouTube channel but aren't seeing the results you want, a [YouTube coach](/services/youtube-coaching-program/) can help you fix what's not working and create a clear strategy for growth.
 
 But how much does coaching actually cost? The range is wider than most people expect.
 
@@ -30,13 +30,13 @@ Basic guidance, general YouTube advice, and occasional strategy sessions. Best f
 
 ### Mid-Tier: $200–$1,000/month
 
-The most common range for serious coaching. Includes detailed channel audits, personalized feedback, content planning, SEO strategy, and in-depth analytics. Best for creators with some traction who need to break through a growth plateau.
+The most common range for serious coaching. Includes detailed channel audits, personalized feedback, content planning, [SEO](/glossary/seo/) strategy, and in-depth analytics. Best for creators with some traction who need to break through a growth plateau.
 
-**This is where Creator Essentials sits — at $89/month with daily weekday access, a channel audit, and a 30-day money-back guarantee.**
+**vidIQ's coaching program sits at $199/month — with a dedicated niche-matched coach, a custom 3-phase growth plan, weekday messaging, and access to their full suite of creator tools.**
 
 ### High-Tier: $1,000–$10,000+ for packages
 
-Premium programs with weekly calls, direct strategy implementation, and long-term growth planning. At this level, the coach is often acting as a part-time channel manager as well. Best for established creators scaling from 100K to 1M+ subscribers.
+Premium programs with weekly calls, direct strategy implementation, and long-term growth planning. At this level, the coach is often acting as a part-time channel manager as well. Best for established creators scaling from 100K to 1M+ [subscribers](/glossary/youtube-subscribers/).
 
 ## YouTube Coach vs. YouTube Channel Manager
 
@@ -44,9 +44,9 @@ These are often confused — they're not the same.
 
 **A coach** gives you insights, feedback, and strategy. You do the implementation. Think of it like a personal trainer who guides you, but you still put in the reps.
 
-**A channel manager** handles execution for you — SEO, thumbnails, scheduling, community posts, analytics. You focus on creating; they handle operations.
+**A [channel manager](/services/youtube-channel-management/)** handles execution for you — SEO, [thumbnails](/glossary/youtube-thumbnails/), scheduling, [community posts](/glossary/youtube-community-tab/), analytics. You focus on creating; they handle operations.
 
-Creator Essentials offers both: an [affordable coaching program](/services/youtube-coaching-program/) and a [full channel management service](/services/youtube-channel-management/) for creators who want the work done for them.
+If you want structured coaching with a dedicated coach, [vidIQ's coaching program](https://vidiq.com/creatoressential) is a strong option at this tier.
 
 ## Is a YouTube Coach Worth It?
 
@@ -60,3 +60,11 @@ Consider whether any of these describe you:
 If so, coaching typically pays for itself quickly in time saved, mistakes avoided, and growth accelerated.
 
 The most expensive thing in YouTube is spending a year doing the wrong things. A coach helps you avoid that.
+
+## Related Reading
+
+- [8 Benefits of Having a YouTube Coach for Your Channel](/posts/youtube-coach-benefits/)
+- [What Does a YouTube Coach Do? 4 Core Duties](/posts/what-does-a-youtube-coach-do/)
+- [Is a YouTube Coach Worth It? It Depends](/posts/youtube-coach-worth-it/)
+- [6 Best YouTube Coaches to Grow Your Channel](/posts/best-youtube-coaches/)
+- [A YouTube Coach for 90 Days? How to Get the Most Out of It](/posts/short-term-youtube-coach/)

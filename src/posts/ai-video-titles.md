@@ -15,7 +15,7 @@ Here's a simple, effective approach.
 
 ## The AI Title Generation Strategy
 
-The core idea is using top-ranking videos in your niche as input — giving the AI real data about what's already performing well, then generating variations you can make your own.
+The core idea is using top-ranking videos in your [niche](/glossary/niche/) as input — giving the AI real data about what's already performing well, then generating variations you can make your own.
 
 ### The Prompt
 
@@ -23,7 +23,7 @@ Use this as a starting point:
 
 > "I need to write a video title for my new YouTube video about [your topic]. Here are some top-ranking videos about this topic. Please provide video title ideas based on these titles: [Title 1] [Title 2] [Title 3]"
 
-To find the top-ranking titles, simply search your topic on YouTube and note the titles of the top results. These are the videos the algorithm has validated — understanding their structure is valuable.
+To find the top-ranking titles, simply search your topic on YouTube and note the [titles](/glossary/youtube-video-titles/) of the top results. These are the videos the [algorithm](/glossary/youtube-algorithm/) has validated — understanding their structure is valuable.
 
 ## How to Use AI Output Responsibly
 
@@ -58,4 +58,12 @@ React to the options, combine what you like, and write the final version yoursel
 
 ---
 
-Pair this approach with keyword research from VidIQ or TubeBuddy to make sure your title's strongest angle is also the most searchable one.
+Pair this approach with [keyword](/glossary/keywords/) research from VidIQ or TubeBuddy to make sure your title's strongest angle is also the most searchable one.
+
+## Related Reading
+
+- [11 Tips for Writing YouTube Video Titles That Get Clicked](/posts/craft-youtube-video-titles/)
+- [An Honest VidIQ Review: Is It Worth It?](/posts/vidiq-review/)
+- [Honest TubeBuddy Review: Is It Worth It?](/posts/tubebuddy-review/)
+- [VidIQ vs TubeBuddy: Which YouTube Tool Is Better?](/posts/vidiq-vs-tubebuddy/)
+- [28 Free Tools for YouTubers and Content Creators](/posts/free-tools/)

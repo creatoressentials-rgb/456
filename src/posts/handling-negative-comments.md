@@ -9,7 +9,7 @@ tags:
 featured_image: "/assets/images/posts/handling-negative-comments.jpg"
 ---
 
-As a content creator, receiving negative comments is unavoidable. Whether you're a blogger, vlogger, or business owner, learning to handle criticism professionally — without letting it derail your creative output — is one of the most important skills you can develop.
+As a content creator, receiving negative comments is unavoidable. Whether you're a blogger, [vlogger](/glossary/vlog/), or business owner, learning to handle criticism professionally — without letting it derail your creative output — is one of the most important skills you can develop.
 
 ## Why People Leave Negative Comments
 
@@ -42,17 +42,17 @@ When you do respond, maintain your composure even when the comment is rude. How 
 
 ### 5. Seek Support
 
-Negative comments are a leading cause of creator burnout. Don't try to process them entirely in isolation. Talk to other creators who understand the experience, or to people in your personal life who can offer perspective.
+Negative comments are a leading cause of creator [burnout](/glossary/youtube-burnout/). Don't try to process them entirely in isolation. Talk to other creators who understand the experience, or to people in your personal life who can offer perspective.
 
 ## My Experience With Negative Comments
 
-I've received some genuinely disturbing responses to my videos — including hundreds of threats following one video that went viral. I reported the threatening users and blocked them. My wife's support during that period was essential.
+I've received some genuinely disturbing responses to my videos — including hundreds of threats following one video that [went viral](/glossary/viral/). I reported the threatening users and blocked them. My wife's support during that period was essential.
 
 That experience taught me something important: the weight of negative feedback is real, and there's nothing weak about finding it hard. What matters is having the right tools and support to keep going.
 
 ## Should You Delete Negative Comments?
 
-Technically, negative comments represent engagement — which the algorithm values. But your mental health matters more than the algorithm.
+Technically, negative comments represent engagement — which the [algorithm](/glossary/youtube-algorithm/) values. But your mental health matters more than the algorithm.
 
 If a comment is simply critical, leaving it up and responding calmly often looks better than deleting. If it's abusive, threatening, or harmful to your community, delete it without hesitation. Block and report users who cross that line.
 

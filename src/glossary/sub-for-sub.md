@@ -5,6 +5,8 @@ description: "Learn more about what sub for sub (sub4sub) is on YouTube, why you
 permalink: /glossary/sub-for-sub/
 related_terms:
   - shadow-banning
+  - youtube-burnout
+  - youtube-subscribers
 ---
 
 <h2>Sub for Sub</h2>

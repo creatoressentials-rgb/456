@@ -3,7 +3,12 @@ layout: layouts/glossary.njk
 title: "What is a Condenser Microphone? Are they for YouTubers?"
 description: "What is a condenser microphone and is it worth it? Discover the advantages of condenser microphones for YouTubers and if you should get one for your channel."
 permalink: /glossary/condenser-microphones/
-
+related_terms:
+  - dynamic-microphones
+  - lavalier-microphones
+  - microphone-preamp
+  - sound-card
+  - youtube-channel
 ---
 
 <h2>Condenser Microphones</h2>
@@ -100,9 +105,3 @@ Condenser microphones are preferred by professionals for their wide frequency re
 <p>Condenser microphones handle a broad range of sound levels, making them suitable for everything from whispering ASMR to moderately loud vocals or instruments.</p>
 </li>
 </ul>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

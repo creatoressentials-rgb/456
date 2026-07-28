@@ -3,7 +3,10 @@ layout: layouts/glossary.njk
 title: "What are Hashtags on YouTube? Do They Matter?"
 description: "What are hashtags? Are they even important anymore? Learn more about what hashtags are and what purpose they serve in YouTube and social media"
 permalink: /glossary/hashtags/
-
+related_terms:
+  - keywords
+  - youtube-channel
+  - youtube-subscribers
 ---
 
 <h2>Hashtags</h2>

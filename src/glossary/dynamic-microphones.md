@@ -3,7 +3,11 @@ layout: layouts/glossary.njk
 title: "What is a Dynamic Microphone? [Explained]"
 description: "Learn what dynamic microphones are, their practical applications in live and studio settings, and the key differences between dynamic and condenser microphones."
 permalink: /glossary/dynamic-microphones/
-
+related_terms:
+  - condenser-microphones
+  - lavalier-microphones
+  - microphone-preamp
+  - sound-card
 ---
 
 <h2>Dynamic Microphones</h2>
@@ -77,9 +81,3 @@ Dynamic microphones are generally more affordable, making them a popular choice 
 <h3>Which Should You Choose?</h3>
 
 <p>If you need a reliable, sturdy microphone for versatile environments, go with a dynamic microphone. If your focus is on capturing detailed sound in a studio setting, a condenser microphone may be the better choice.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

@@ -5,6 +5,12 @@ description: "What is SEO (Search Engine Optimization)? Learn what it is, why it
 permalink: /glossary/seo/
 related_terms:
   - recommended-videos
+  - keywords
+  - youtube-video-tags
+  - youtube-video-description
+  - youtube-channel-keywords
+  - click-through-rate
+  - closed-captions
 ---
 
 <h2>SEO</h2>
@@ -63,9 +69,3 @@ related_terms:
 <p>Closed Captions and Subtitles: Adding captions and subtitles can make your videos more accessible to a wider audience, including those in different languages, and can also provide additional keywords for YouTube’s crawlers.</p>
 </li>
 </ol>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

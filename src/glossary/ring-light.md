@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is a Ring Light? Do YouTubers Need Them?"
 description: "What is a Ring Light and do YouTubers actually use them? Learn more about what they are and why you should consider getting one if you are on YouTube."
 permalink: /glossary/ring-light/
-
+related_terms:
+  - softbox
+  - dslr-cameras
+  - action-camera
+  - webcams
+  - camcorders
+  - end-screens
 ---
 
 <h2>Ring Light</h2>

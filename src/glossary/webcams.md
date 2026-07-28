@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What Are Webcams & How Do They Work?"
 description: "What are webcams and how do they work? A popular choice for many YouTubers and streamers, webcams provide quality video, flexibility and ease. Learn more here."
 permalink: /glossary/webcams/
-
+related_terms:
+  - ring-light
+  - softbox
+  - dslr-cameras
+  - action-camera
+  - camcorders
+  - influencers
 ---
 
 <h2>Webcams</h2>
@@ -79,9 +85,3 @@ permalink: /glossary/webcams/
 <p><a href="https://amzn.to/3PYEews">Elgato Facecam</a></p>
 
 <p>Known for its premium lens and sensor, the Facecam does not compromise on video quality. It's particularly favored for its excellent color reproduction and customizability through the Elgato Camera Hub software.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

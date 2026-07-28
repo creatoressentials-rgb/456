@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is a Hook on YouTube? [+ Examples]"
 description: "What is a hook on YouTube? Explore tips and examples to craft irresistible video intros that keep your viewers watching till the end."
 permalink: /glossary/youtube-hooks/
-
+related_terms:
+  - retention
+  - average-view-duration
+  - average-percentage-viewed
+  - youtube-watch-time
+  - youtube-subscribers
+  - youtube-thumbnails
 ---
 
 <h2>YouTube Video Hooks</h2>
@@ -135,9 +141,3 @@ A strong hook not only captures attention but also sets the tone for the video, 
 <p>Example: If you start with a surprising fact, follow up by explaining its relevance to your video topic.</p>
 </li>
 </ul>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

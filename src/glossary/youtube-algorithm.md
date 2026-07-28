@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is the YouTube Algorithm? [Explained]"
 description: "What is the YouTube Algorithm and how does it work? Learn what it is, the different components of the algorithm, and read tips on how to use it to your advantage."
 permalink: /glossary/youtube-algorithm/
-
+related_terms:
+  - recommended-videos
+  - youtube-impressions
+  - youtube-shorts
+  - retention
+  - closed-captions
+  - keywords
 ---
 
 <h2>YouTube Algorithm</h2>
@@ -119,9 +125,3 @@ One of the standout features of the YouTube algorithm is its ability to curate p
 <p>Incorporate Viewer Feedback: Listen to feedback from your audience and use it to improve your content. Engaging with your audience and responding to their needs can help you build a stronger community.</p>
 </li>
 </ol>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

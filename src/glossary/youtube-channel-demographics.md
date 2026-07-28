@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "Youtube Channel Demographics: What Creators Need to Know"
 description: "What are YouTube channel demographics in YouTube Studio and what should Creators know about them? Learn more about what they are and where to find them."
 permalink: /glossary/youtube-channel-demographics/
-
+related_terms:
+  - youtube-channel
+  - youtube-channel-art
+  - profile-picture
+  - youtube-channel-description
+  - youtube-branding-watermark
+  - youtube-channel-keywords
 ---
 
 <h2>YouTube Channel Demographics</h2>
@@ -82,9 +88,3 @@ permalink: /glossary/youtube-channel-demographics/
 </ol>
 
 <p>By leveraging the demographics in YouTube Studio, creators can make data-driven decisions that not only grow their channel but also build a loyal, engaged audience.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

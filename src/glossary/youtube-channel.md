@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is a YouTube Channel? [Full Explanation]"
 description: "What is a YouTube Channel and in why would you need one? Learn more about what a YouTube channel is and why you should consider creating one today!"
 permalink: /glossary/youtube-channel/
-
+related_terms:
+  - youtube-channel-art
+  - profile-picture
+  - youtube-channel-description
+  - youtube-branding-watermark
+  - youtube-channel-keywords
+  - youtube-channel-demographics
 ---
 
 <h2>YouTube Channel</h2>

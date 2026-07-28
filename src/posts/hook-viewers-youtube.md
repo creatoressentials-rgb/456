@@ -11,7 +11,7 @@ featured_image: "/assets/images/posts/hook-viewers-youtube.jpg"
 
 The first few seconds of your video determine whether someone stays or scrolls away. Given that the average attention span online is around 8 seconds, your intro is one of the highest-leverage elements of any video you make.
 
-High retention rates signal to YouTube that your content is worth recommending. Low retention — especially early drop-off — can suppress your video's reach regardless of how good the rest of it is.
+High [retention](/glossary/retention/) rates signal to YouTube that your content is worth recommending. Low retention — especially early drop-off — can suppress your video's reach regardless of how good the rest of it is.
 
 Here are 8 proven strategies for building intros that hold attention.
 
@@ -19,7 +19,7 @@ Here are 8 proven strategies for building intros that hold attention.
 
 You have approximately 5 seconds to give viewers a compelling reason to keep watching. This window is short enough that any delay, long intro animation, or slow buildup will cost you viewers before you've had the chance to deliver your value.
 
-## 8 Hook Strategies That Work
+## 8 [Hook](/glossary/youtube-hooks/) Strategies That Work
 
 ### 1. Start With a Fascinating Fact
 
@@ -29,7 +29,7 @@ Open with a surprising or counterintuitive fact directly related to your video's
 
 "What if..." or "Imagine this..." opens a mental loop that viewers want closed. Hypothetical scenarios create curiosity and pull the viewer into your narrative before they've decided whether to stay.
 
-- "What if your next video could double your subscribers?"
+- "What if your next video could double your [subscribers](/glossary/youtube-subscribers/)?"
 - "Imagine having 10,000 views on your first upload."
 
 ### 3. Surprise Them
@@ -40,7 +40,7 @@ Start with a setup — something that sounds familiar — then immediately subve
 
 Sometimes the most effective hook is the most direct one: start delivering value immediately. If someone clicked your video, they already expressed interest — don't make them wait for the thing they came for. Skipping the preamble respects their time and signals that your content is dense with value.
 
-This approach also aligns with YouTube's preference (under recent algorithm updates) for helpful, direct content over padded videos.
+This approach also aligns with YouTube's preference (under recent [algorithm](/glossary/youtube-algorithm/) updates) for helpful, direct content over padded videos.
 
 ### 5. Address a Problem and Promise a Solution
 
@@ -60,7 +60,7 @@ Humans are hardwired to follow narratives. Starting with the opening line of a s
 
 ## Three Bonus Tips
 
-**Use captions or text.** Many viewers watch on mobile with sound off. On-screen text in your intro ensures your hook lands regardless of audio.
+**Use [captions](/glossary/closed-captions/) or text.** Many viewers watch on mobile with sound off. On-screen text in your intro ensures your hook lands regardless of audio.
 
 **Be genuinely passionate.** Enthusiasm is contagious. If you're visibly excited about what you're about to share, viewers feel it. If you're not, that comes through too.
 
@@ -69,3 +69,11 @@ Humans are hardwired to follow narratives. Starting with the opening line of a s
 ---
 
 Testing different hook styles and checking your audience retention graph at the 0–30 second mark will show you which approaches work best for your specific audience. Let the data guide you.
+
+## Related Reading
+
+- [11 Tips for Writing YouTube Video Titles That Get Clicked](/posts/craft-youtube-video-titles/)
+- [How to Grow on YouTube with 0 Views and 0 Subscribers](/posts/grow-youtube-channel-from-scratch/)
+- [How to Start a YouTube Channel: A Complete Guide](/posts/start-youtube-channel/)
+- [Top Niche YouTube Channel Ideas to Consider](/posts/niche-youtube-channel-ideas/)
+- [How Often Should I Upload on YouTube?](/posts/how-often-should-i-upload-on-youtube/)

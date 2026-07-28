@@ -3,7 +3,11 @@ layout: layouts/glossary.njk
 title: "What Does Going Viral Mean? [ + How To]"
 description: "What does it mean to go viral in the world of social media? How many views is viral? Learn more about what becoming viral means!"
 permalink: /glossary/viral/
-
+related_terms:
+  - hashtags
+  - influencers
+  - niche
+  - youtube-collab
 ---
 
 <h2>Viral</h2>
@@ -75,9 +79,3 @@ permalink: /glossary/viral/
 </ol>
 
 <p>Remember, going viral isn't just about a single post - it's about consistently creating high-quality, engaging content that provides value to your audience.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

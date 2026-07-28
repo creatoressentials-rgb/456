@@ -9,7 +9,7 @@ tags:
 featured_image: "/assets/images/posts/youtube-community-tab.jpg"
 ---
 
-The YouTube Community Tab functions as a social feed built directly into your channel — letting you share text posts, images, GIFs, and polls with your subscribers between video uploads. Most creators either ignore it entirely or post occasionally without a strategy.
+The [YouTube Community Tab](/glossary/youtube-community-tab/) functions as a social feed built directly into your channel — letting you share text posts, images, GIFs, and polls with your [subscribers](/glossary/youtube-subscribers/) between video uploads. Most creators either ignore it entirely or post occasionally without a strategy.
 
 Here's how to use it deliberately.
 
@@ -24,7 +24,7 @@ The Community Tab keeps your audience engaged between uploads — when your chan
 
 ## How to Enable the Community Tab
 
-The Community Tab requires verifying your account with a phone number, then enabling Advanced features through YouTube Studio:
+The Community Tab requires verifying your account with a phone number, then enabling Advanced features through [YouTube Studio](/glossary/youtube-studio/):
 
 1. Go to **YouTube Studio → Settings → Channel → Feature eligibility**
 2. Enable **Intermediate features** (requires phone verification)
@@ -64,4 +64,12 @@ You don't need to post daily — but a cadence of 2–5 community posts per week
 
 ---
 
-The Community Tab takes minimal time to maintain and provides outsized engagement relative to the effort. If you're not using it, you're leaving audience connection — and algorithm signals — on the table.
+The Community Tab takes minimal time to maintain and provides outsized engagement relative to the effort. If you're not using it, you're leaving audience connection — and [algorithm](/glossary/youtube-algorithm/) signals — on the table.
+
+## Related Reading
+
+- [How to Start a YouTube Channel: A Complete Guide](/posts/start-youtube-channel/)
+- [How to Grow on YouTube with 0 Views and 0 Subscribers](/posts/grow-youtube-channel-from-scratch/)
+- [8 Ways to Hook YouTube Viewers in the First 5 Seconds](/posts/hook-viewers-youtube/)
+- [11 Tips for Writing YouTube Video Titles That Get Clicked](/posts/craft-youtube-video-titles/)
+- [How Often Should I Upload on YouTube?](/posts/how-often-should-i-upload-on-youtube/)

@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is Video Retention on YouTube? [Explained]"
 description: "What is video retention and why does it matter to YouTubers? Learn more about why you should focus on video retention and how to track it."
 permalink: /glossary/retention/
-
+related_terms:
+  - average-view-duration
+  - average-percentage-viewed
+  - youtube-watch-time
+  - youtube-hooks
+  - youtube-algorithm
+  - recommended-videos
 ---
 
 <h2>Retention</h2>

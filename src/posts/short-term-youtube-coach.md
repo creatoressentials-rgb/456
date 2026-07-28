@@ -15,15 +15,15 @@ Short-term YouTube coaching can be incredibly effective — but only if you go i
 
 ## 1. Set Clear Goals Before Coaching Begins
 
-One of the most common mistakes creators make is assuming they know what their problem is when it's actually something else entirely. They think it's editing when it's storytelling. They think YouTube is ignoring their videos when it's actually the titles and thumbnails that are the weak point.
+One of the most common mistakes creators make is assuming they know what their problem is when it's actually something else entirely. They think it's editing when it's storytelling. They think YouTube is ignoring their videos when it's actually the titles and [thumbnails](/glossary/youtube-thumbnails/) that are the weak point.
 
-Before coaching starts, identify what you want to accomplish. Be specific. "Grow my channel" is not a goal. "Increase my click-through rate from 3% to 6%" or "publish consistently twice a week for 90 days" — those are goals a coach can work with.
+Before coaching starts, identify what you want to accomplish. Be specific. "Grow my channel" is not a goal. "Increase my [click-through rate](/glossary/click-through-rate/) from 3% to 6%" or "publish consistently twice a week for 90 days" — those are goals a coach can work with.
 
 A coach helps you identify root causes, but you need to stay open-minded enough to hear an answer you weren't expecting.
 
 ## 2. Be Willing to Challenge Your Own Assumptions
 
-Creators often feel attached to their existing approaches. You've put months of effort into your niche, your format, your style — it's hard to hear that something needs to change.
+Creators often feel attached to their existing approaches. You've put months of effort into your [niche](/glossary/niche/), your format, your style — it's hard to hear that something needs to change.
 
 But seeking coaching means something needs adjustment. The creators who actually see results are the ones who take feedback seriously and are willing to adapt. Test the changes. Measure what happens. Don't defend existing methods for their own sake.
 
@@ -47,4 +47,12 @@ The systems, habits, and frameworks you develop during coaching should outlast t
 
 Ninety days of focused, well-applied coaching can change the trajectory of a YouTube channel. The investment isn't in the time — it's in what you do with the guidance you receive.
 
-If you're considering short-term coaching, go in with clear goals, open assumptions, and a commitment to actually doing the work. The results can be significant.
+If you're considering short-term [coaching](/services/youtube-coaching-program/), go in with clear goals, open assumptions, and a commitment to actually doing the work. The results can be significant.
+
+## Related Reading
+
+- [What Does a YouTube Coach Do? 4 Core Duties](/posts/what-does-a-youtube-coach-do/)
+- [8 Benefits of Having a YouTube Coach for Your Channel](/posts/youtube-coach-benefits/)
+- [Is a YouTube Coach Worth It? It Depends](/posts/youtube-coach-worth-it/)
+- [How Much Does a YouTube Coach Cost?](/posts/youtube-coach-cost/)
+- [6 Best YouTube Coaches to Grow Your Channel](/posts/best-youtube-coaches/)

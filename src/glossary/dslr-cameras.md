@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is a DSLR Camera? Do You Need One?"
 description: "What is a DSLR camera? Learn more about what they are, advantages and disadvantages, and which types of YouTubers might need them."
 permalink: /glossary/dslr-cameras/
-
+related_terms:
+  - ring-light
+  - softbox
+  - action-camera
+  - webcams
+  - camcorders
+  - vlog
 ---
 
 <h2>DSLR Cameras</h2>

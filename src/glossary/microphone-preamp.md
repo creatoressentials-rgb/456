@@ -3,7 +3,11 @@ layout: layouts/glossary.njk
 title: "What is a Microphone Preamp? Do YouTubers Need Them?"
 description: "What is a microphone preamplifier? Learn what a Microphone Preamp is, when to use it, and its advantages. Read today!"
 permalink: /glossary/microphone-preamp/
-
+related_terms:
+  - condenser-microphones
+  - dynamic-microphones
+  - lavalier-microphones
+  - sound-card
 ---
 
 <h2>Microphone Preamps</h2>
@@ -107,9 +111,3 @@ Preamps also help to reduce noise introduced during the audio signal chain, ensu
 </ul>
 </li>
 </ol>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

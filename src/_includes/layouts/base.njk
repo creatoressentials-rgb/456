@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{% if title %}{{ title }} | Creator Essentials{% else %}Creator Essentials — YouTube Growth Without the Guesswork{% endif %}</title>
-  <meta name="description" content="{{ description or 'Creator Essentials helps serious creators turn scattered YouTube effort into a clear growth system. Strategy, SEO, audits, coaching, and channel management.' }}" />
+  <meta name="description" content="{{ description or 'Creator Essentials — tools, tips, and resources to help YouTubers grow their channel and manage their finances.' }}" />
   <meta name="robots" content="index, follow" />
   {% if featured_image %}<meta property="og:image" content="{{ featured_image }}" />{% endif %}
   <link rel="stylesheet" href="/assets/css/main.css" />
@@ -14,10 +14,6 @@
   <meta property="og:type" content="website" />
 </head>
 <body>
-
-  <div class="notice-bar">
-    All services are currently unavailable due to demand — join the waitlist to be notified when spots open.
-  </div>
 
   <nav class="site-nav" aria-label="Main navigation">
     <div class="container nav-inner">
@@ -44,19 +40,8 @@
         <li class="has-dropdown">
           <a href="/services/">Services</a>
           <ul class="dropdown" role="menu">
-            <li><a href="/services/youtube-consulting/" role="menuitem">YouTube Consulting</a></li>
-            <li><a href="/services/youtube-coaching-program/" role="menuitem">YouTube Coaching</a></li>
-            <li><a href="/services/youtube-channel-management/" role="menuitem">Channel Management</a></li>
-          </ul>
-        </li>
-
-        <li class="has-dropdown">
-          <a href="/products/">Products</a>
-          <ul class="dropdown" role="menu">
-            <li><a href="/services/youtube-channel-audit/" role="menuitem">Channel Audit</a></li>
-            <li><a href="/products/youtube-channel-creation/" role="menuitem">Channel Creation</a></li>
-            <li><a href="/products/youtube-seo/" role="menuitem">YouTube SEO</a></li>
-            <li><a href="/contact/" role="menuitem">Competitor Analysis</a></li>
+            <li><a href="/services/tax-services-for-youtubers/" role="menuitem">Tax Services</a></li>
+            <li><a href="/services/bookkeeping-for-youtubers/" role="menuitem">Bookkeeping</a></li>
           </ul>
         </li>
 
@@ -64,17 +49,21 @@
           <a href="/resources/">Resources</a>
           <ul class="dropdown" role="menu">
             <li><a href="/blog/" role="menuitem">Blog</a></li>
-            <li><a href="/glossary/" role="menuitem">YouTube Glossary</a></li>
-            <li><a href="/resources/free-guides/" role="menuitem">Free Guides</a></li>
+            <li><a href="/glossary/" role="menuitem">YouTube Terms Glossary</a></li>
+            <li><a href="/resources/free-guides/" role="menuitem">Free Creator Guides</a></li>
+            <li><a href="/resources/facebook-groups/" role="menuitem">Facebook Groups</a></li>
+            <li><a href="/tools/" role="menuitem">YouTuber Tools</a></li>
           </ul>
         </li>
 
         <li><a href="/about/">About</a></li>
-        <li><a href="/contact/" class="btn btn-primary">Get Started</a></li>
+        <li><a href="/contact/" class="btn btn-primary" style="font-size:0.875rem; padding:0.5rem 1.1rem; color:#fff;">Contact</a></li>
       </ul>
 
     </div>
   </nav>
+
+  {% include "breadcrumbs.njk" %}
 
   <main id="main-content">
     {{ content | safe }}
@@ -85,37 +74,45 @@
       <div class="footer-grid">
         <div class="footer-brand">
           <h3>Creator Essentials</h3>
-          <p>Clear growth systems for serious creators.</p>
+          <p>Tools, tips, and resources for serious YouTubers.</p>
         </div>
         <div class="footer-col">
-          <h4>Services</h4>
+          <h4>Tax &amp; Finance</h4>
           <ul class="footer-links">
-            <li><a href="/services/youtube-consulting/">YouTube Consulting</a></li>
-            <li><a href="/services/youtube-coaching-program/">Coaching Program</a></li>
-            <li><a href="/services/youtube-channel-management/">Channel Management</a></li>
+            <li><a href="/services/tax-services-for-youtubers/">Tax Services</a></li>
+            <li><a href="/services/bookkeeping-for-youtubers/">Bookkeeping</a></li>
+            <li><span style="color:var(--slate);">Financial Planning <em>(coming soon)</em></span></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h4>Products</h4>
+          <h4>Free Resources</h4>
           <ul class="footer-links">
-            <li><a href="/services/youtube-channel-audit/">Channel Audit</a></li>
-            <li><a href="/products/youtube-seo/">YouTube SEO</a></li>
-            <li><a href="/products/youtube-channel-creation/">Channel Creation</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h4>Company</h4>
-          <ul class="footer-links">
-            <li><a href="/about/">About</a></li>
+            <li><a href="/tools/">YouTuber Tools</a></li>
             <li><a href="/blog/">Blog</a></li>
+            <li><a href="/glossary/">YouTube Terms Glossary</a></li>
+            <li><a href="/resources/free-guides/">Free Creator Guides</a></li>
+            <li><a href="/about/">About</a></li>
             <li><a href="/contact/">Contact</a></li>
-            <li><a href="/privacy-policy/">Privacy Policy</a></li>
           </ul>
         </div>
       </div>
+      <div class="footer-social" aria-label="Social media links">
+        <a href="https://www.instagram.com/creatoressentials/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z"/></svg>
+        </a>
+        <a href="https://www.threads.net/@creatoressentials" target="_blank" rel="noopener noreferrer" aria-label="Threads">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.473 12.01v-.017c.027-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 1.868-.017 3.405-.481 4.57-1.381.868-.664 1.488-1.618 1.84-2.83.48-1.689.529-3.968.484-5.67h-6.95v-2.1h9.14c.12.826.18 1.676.175 2.531-.033 2.462-.332 4.737-1.272 6.573-.986 1.934-2.517 3.231-4.552 3.869-1.077.34-2.26.52-3.475.527z"/></svg>
+        </a>
+        <a href="https://twitter.com/creatoressent" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.262 5.636 5.901-5.636Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        </a>
+        <a href="https://www.youtube.com/@creatoressentials/featured" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.5a3 3 0 0 0-2.1 2.1C0 8 0 12 0 12s0 4 .5 5.8a3 3 0 0 0 2.1 2.1C4.5 20.5 12 20.5 12 20.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 16 24 12 24 12s0-4-.5-5.8ZM9.75 15.5v-7l6.25 3.5-6.25 3.5Z"/></svg>
+        </a>
+      </div>
       <div class="footer-bottom">
-        <span>© 2025 Creator Essentials. All rights reserved.</span>
-        <span>Creator growth without the guesswork.</span>
+        <span>© 2026 by Creator Essentials &nbsp;·&nbsp; <a href="/privacy-policy/" style="color:inherit; text-decoration:underline;">Privacy Policy</a></span>
+        <span>Tools, tips, and resources for serious YouTubers.</span>
       </div>
     </div>
   </footer>

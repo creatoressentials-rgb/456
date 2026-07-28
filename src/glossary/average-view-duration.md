@@ -3,7 +3,12 @@ layout: layouts/glossary.njk
 title: "What is Average View Duration (AVD) on Youtube? [Explained]"
 description: "What is Average View Duration (AVD) in YouTube, how do you calculate it and why does it even matter? Learn more here!"
 permalink: /glossary/average-view-duration/
-
+related_terms:
+  - retention
+  - average-percentage-viewed
+  - youtube-watch-time
+  - youtube-hooks
+  - youtube-algorithm
 ---
 
 <h2>Average View Duration (AVD)</h2>

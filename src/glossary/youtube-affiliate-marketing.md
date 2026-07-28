@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is YouTube Affiliate Marketing? The Basics"
 description: "Learn the basics of YouTube affiliate marketing and how you can earn commissions by promoting products. Add affiliate links and stay compliant with rules."
 permalink: /glossary/youtube-affiliate-marketing/
-
+related_terms:
+  - youtube-ads
+  - youtube-cpm
+  - niche
+  - youtube-cards
+  - youtube-channel
+  - youtube-community-tab
 ---
 
 <h2>YouTube Affiliate Marketing</h2>
@@ -81,9 +87,3 @@ Example:<br>
 </ul>
 </li>
 </ol>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

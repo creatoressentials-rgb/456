@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What are YouTube Video Chapters?"
 description: "What are YouTube video chapters? Learn more about how to do video chapters on your YouTube videos and how they can improve the viewer's experience!"
 permalink: /glossary/youtube-video-chapters/
-
+related_terms:
+  - youtube-live
+  - youtube-shorts
+  - youtube-community-tab
+  - b-roll
+  - seo
+  - youtube-algorithm
 ---
 
 <h2>YouTube Video Chapters </h2>
@@ -51,9 +57,3 @@ However, the direct impact of chapters on SEO is not explicitly stated by YouTub
 <p>Save Changes: After adding all desired chapters, save your changes.</p>
 </li>
 </ol>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

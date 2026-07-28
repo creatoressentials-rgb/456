@@ -7,6 +7,12 @@ related_terms:
   - recommended-videos
   - youtube-channel
   - youtube-video-tags
+  - seo
+  - keywords
+  - youtube-video-description
+  - youtube-channel-art
+  - profile-picture
+  - youtube-channel-description
 ---
 
 <h2>YouTube Channel Keywords</h2>
@@ -30,9 +36,3 @@ related_terms:
 <h2>What is the difference between channel keywords and video tags?</h2>
 
 <p>Channel keywords broadly represent your <a href="/glossary/youtube-channel/">YouTube channel's overall theme</a>, helping in its categorization and discovery. They're used in channel descriptions and tags. <a href="/glossary/youtube-video-tags/">Video tags</a>, on the other hand, are specific to individual videos and are used to describe the particular content of a video. While channel keywords help in channel-level discovery and alignment with general audience interests, video tags are more focused, aiding in the specific searchability and relevance of each video within the broader YouTube search ecosystem.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

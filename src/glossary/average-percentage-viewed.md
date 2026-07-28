@@ -3,7 +3,11 @@ layout: layouts/glossary.njk
 title: "What is Average Percentage Viewed on YouTube? [Explained]"
 description: "What is Average Percentage Viewed (AVP) on YouTube? Learn how to calculate APV, why it is important and what makes a good APV on YouTube."
 permalink: /glossary/average-percentage-viewed/
-
+related_terms:
+  - retention
+  - average-view-duration
+  - youtube-watch-time
+  - youtube-hooks
 ---
 
 <h2>Average Percentage Viewed (APV)</h2>

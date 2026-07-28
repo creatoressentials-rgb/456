@@ -19,7 +19,7 @@ Video descriptions are one of the most consistently overlooked parts of YouTube 
 
 ## Why Video Descriptions Matter
 
-1. **SEO** — Keywords in descriptions help YouTube and Google understand and rank your content
+1. **[SEO](/glossary/seo/)** — [Keywords](/glossary/keywords/) in descriptions help YouTube and Google understand and rank your content
 2. **Attention** — A compelling first line encourages viewers to expand the description
 3. **Context** — Descriptions tell viewers what to expect, which reduces bounce rates
 4. **Engagement** — Well-written descriptions prompt likes, comments, shares, and subscriptions
@@ -29,7 +29,7 @@ Video descriptions are one of the most consistently overlooked parts of YouTube 
 
 ### 1. Align the Description With Your Title
 
-Use the same primary keywords from your title within the description. This creates a cohesive signal to the algorithm about what your video covers.
+Use the same primary keywords from your title within the description. This creates a cohesive signal to the [algorithm](/glossary/youtube-algorithm/) about what your video covers.
 
 ### 2. Make the First 100–200 Characters Count
 
@@ -43,7 +43,7 @@ Include your main keyword naturally near the beginning of the description. YouTu
 
 Beyond the primary keyword, weave in semantically related terms. This expands the search queries your video can rank for without keyword stuffing.
 
-### 5. Add Clear Calls to Action With Links
+### 5. Add Clear [Calls to Action](/glossary/cta/) With Links
 
 Tell viewers what to do next — subscribe, watch another video, download a resource, visit your website. Include clickable links for each action.
 
@@ -51,9 +51,9 @@ Tell viewers what to do next — subscribe, watch another video, download a reso
 
 Descriptions should be readable and natural, not a list of keywords. Write in your brand voice — conversational, professional, or whatever fits your channel's personality.
 
-### 7. Use 2–3 Hashtags (Not 10)
+### 7. Use 2–3 [Hashtags](/glossary/hashtags/) (Not 10)
 
-Hashtags in descriptions improve discoverability. Two or three relevant ones work better than a wall of tags that looks spammy and can confuse the algorithm.
+Hashtags in descriptions improve discoverability. Two or three relevant ones work better than a wall of [tags](/glossary/youtube-video-tags/) that looks spammy and can confuse the algorithm.
 
 ### 8. Format for Readability
 
@@ -94,3 +94,11 @@ ABOUT [CHANNEL NAME]:
 ```
 
 Treat this as a starting point and adjust to your own style and audience.
+
+## Related Reading
+
+- [11 Tips for Writing YouTube Video Titles That Get Clicked](/posts/craft-youtube-video-titles/)
+- [8 Ways to Hook YouTube Viewers in the First 5 Seconds](/posts/hook-viewers-youtube/)
+- [How to Grow on YouTube with 0 Views and 0 Subscribers](/posts/grow-youtube-channel-from-scratch/)
+- [Top Niche YouTube Channel Ideas to Consider](/posts/niche-youtube-channel-ideas/)
+- [How Often Should I Upload on YouTube?](/posts/how-often-should-i-upload-on-youtube/)

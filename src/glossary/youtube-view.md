@@ -6,6 +6,10 @@ permalink: /glossary/youtube-view/
 related_terms:
   - youtube-video-titles
   - clickbait
+  - youtube-subscribers
+  - youtube-watch-time
+  - youtube-cpm
+  - youtube-thumbnails
 ---
 
 <h2>YouTube Views</h2>
@@ -25,9 +29,3 @@ related_terms:
 <h2>Does Refreshing YouTube Add Views?</h2>
 
 <p>Refreshing a YouTube video page can contribute to its view count, but with certain conditions. The video must be watched for at least 30 seconds after each refresh, and a viewer's views are capped at 5 per day. This measure prevents manipulation of view counts through continuous page refreshes.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

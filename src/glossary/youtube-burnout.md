@@ -3,7 +3,12 @@ layout: layouts/glossary.njk
 title: "Youtube Burnout: What Causes It?"
 description: "Discover the key to overcoming YouTube creator burnout. From managing stress to setting boundaries, find practical advice for thriving as a content creator."
 permalink: /glossary/youtube-burnout/
-
+related_terms:
+  - shadow-banning
+  - sub-for-sub
+  - youtube-ads
+  - youtube-channel
+  - youtube-thumbnails
 ---
 
 <h2>YouTube Burnout</h2>
@@ -84,9 +89,3 @@ This means diversifying income streams with platforms like Patreon, memberships,
 
 <p><br>
 Everyone grows at their own pace. Avoid comparing yourself to other creators and instead celebrate your unique journey.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

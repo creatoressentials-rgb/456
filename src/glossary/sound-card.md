@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is a Sound Card? [Explained for YouTubers]"
 description: "What is a sound card and what is it used for? Discover everything about sound cards: their purpose, benefits, and if you need one for your YouTube channel."
 permalink: /glossary/sound-card/
-
+related_terms:
+  - condenser-microphones
+  - dynamic-microphones
+  - lavalier-microphones
+  - microphone-preamp
+  - youtube-cards
+  - youtube-channel
 ---
 
 <h2>Sound Cards</h2>
@@ -53,9 +59,3 @@ permalink: /glossary/sound-card/
 <p>Surround Sound Setup: For gamers or content creators working with surround sound, a sound card provides the necessary ports for immersive audio.</p>
 </li>
 </ul>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

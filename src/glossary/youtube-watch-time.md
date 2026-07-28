@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What is Watch Time on YouTube? [Explained]"
 description: "What is watch time on YouTube? Learn more about what it is and why watch time is the most important metric on Youtube."
 permalink: /glossary/youtube-watch-time/
-
+related_terms:
+  - retention
+  - average-view-duration
+  - average-percentage-viewed
+  - youtube-hooks
+  - youtube-subscribers
+  - youtube-view
 ---
 
 <h2>YouTube Watch Time</h2>
@@ -96,9 +102,3 @@ permalink: /glossary/youtube-watch-time/
 <h3>Creating Longer Videos</h3>
 
 <p>Longer videos inherently have the potential for more Watch Time. However, it's crucial to balance length with engagement. A longer video doesn’t automatically guarantee increased Watch Time if viewers lose interest. The content needs to be compelling enough to keep viewers watching.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

@@ -3,7 +3,12 @@ layout: layouts/glossary.njk
 title: "What are Thumbnails on YouTube?"
 description: "Thumbnails play a large part in the success of videos on YouTube. Learn more about what thumbnails on YouTube are and why they are so important."
 permalink: /glossary/youtube-thumbnails/
-
+related_terms:
+  - click-through-rate
+  - youtube-impressions
+  - youtube-video-titles
+  - clickbait
+  - youtube-watch-time
 ---
 
 <h2>Thumbnails</h2>

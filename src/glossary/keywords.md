@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "What are Keywords in SEO? [for YouTubers]"
 description: "What are keywords in SEO, and how can they help your YouTube videos rank higher? Find out the importance of strategic keyword placement for search success."
 permalink: /glossary/keywords/
-
+related_terms:
+  - seo
+  - youtube-video-tags
+  - youtube-video-description
+  - youtube-channel-keywords
+  - closed-captions
+  - niche
 ---
 
 <h2>Keywords</h2>
@@ -70,9 +76,3 @@ For example, if you’re a YouTuber sharing video editing tutorials, a keyword l
 </ol>
 
 <p>By using keywords in YouTube strategically, you can increase the likelihood of your content being recommended, showing up in search results, and reaching the audience most interested in your niche.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

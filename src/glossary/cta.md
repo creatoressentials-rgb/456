@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "YouTube Call to Action: What is it?"
 description: "Learn what a YouTube call to action is, call to action cards, and CTA examples to boost engagement and grow your channel effectively."
 permalink: /glossary/cta/
-
+related_terms:
+  - youtube-community-tab
+  - youtube-cards
+  - end-screens
+  - youtube-playlists
+  - youtube-algorithm
+  - youtube-watch-time
 ---
 
 <h2>YouTube Call-to-Action</h2>
@@ -97,9 +103,3 @@ permalink: /glossary/cta/
 <p>Promote merchandise: “Check out my merch store linked below!”</p>
 </li>
 </ul>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

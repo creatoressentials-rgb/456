@@ -6,6 +6,12 @@ permalink: /glossary/youtube-impressions/
 related_terms:
   - recommended-videos
   - youtube-video-tags
+  - click-through-rate
+  - youtube-thumbnails
+  - youtube-video-titles
+  - clickbait
+  - youtube-algorithm
+  - youtube-shorts
 ---
 
 <h2>YouTube Impressions</h2>
@@ -51,9 +57,3 @@ related_terms:
 
 <p>Click-Through Rate (CTR): This metric measures the percentage of impressions that resulted in a click to watch the video. It's a crucial indicator of how compelling your thumbnail and title are to potential viewers.<br>
 Views: This is the count of how many times your video has been watched. Views are directly influenced by your video's CTR; a higher CTR means more of the impressions are converting into actual views.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

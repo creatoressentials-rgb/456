@@ -3,7 +3,13 @@ layout: layouts/glossary.njk
 title: "Action Camera"
 description: "Definition of Action Camera for YouTube creators."
 permalink: /glossary/action-camera/
-
+related_terms:
+  - ring-light
+  - softbox
+  - dslr-cameras
+  - webcams
+  - camcorders
+  - vlog
 ---
 
 <h2>Action Camera</h2>
@@ -192,9 +198,3 @@ permalink: /glossary/action-camera/
 <p>High-end models with advanced features can be costly.</p>
 </li>
 </ul>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

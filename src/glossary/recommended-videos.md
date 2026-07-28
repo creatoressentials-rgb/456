@@ -5,6 +5,12 @@ description: "How does YouTube recommend videos to viewers? Learn more about how
 permalink: /glossary/recommended-videos/
 related_terms:
   - youtube-watch-time
+  - youtube-algorithm
+  - youtube-impressions
+  - youtube-shorts
+  - retention
+  - click-through-rate
+  - niche
 ---
 
 <h2>Recommended Videos</h2>
@@ -75,9 +81,3 @@ related_terms:
 </ul>
 
 <p>By focusing on content quality, <a href="/products/youtube-seo/">optimizing for search</a> and discoverability, and actively engaging with your audience, you can improve the likelihood of your videos being recommended to a wider audience on YouTube.</p>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

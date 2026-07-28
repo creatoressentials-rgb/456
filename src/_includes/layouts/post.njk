@@ -11,17 +11,58 @@ layout: layouts/base.njk
 
 <section style="padding-block: clamp(3rem, 6vw, 5rem);">
   <div class="container">
-    {% if featured_image %}
-    <img src="{{ featured_image }}" alt="{{ title }}" style="width:100%; max-height:480px; object-fit:cover; border-radius:12px; margin-bottom:2.5rem;" loading="eager" />
-    {% endif %}
-    <div class="article-body">
-      {{ content | safe }}
-    </div>
-    <div style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border);">
-      <p style="font-size:0.875rem; color:var(--slate); margin-bottom:1rem;">Ready to grow your channel with a clear strategy?</p>
-      <a href="/services/youtube-channel-audit/" class="btn btn-primary">Get a Channel Audit</a>
-      &nbsp;
-      <a href="/services/youtube-coaching-program/" class="btn btn-secondary" style="margin-left:0.5rem;">Explore Coaching</a>
+    <div class="article-layout">
+
+      <!-- Main content -->
+      <div class="article-main">
+        {% if featured_image %}
+        <img src="{{ featured_image }}" alt="{{ title }}" style="width:100%; max-height:480px; object-fit:cover; border-radius:12px; margin-bottom:2.5rem;" loading="eager" />
+        {% endif %}
+        <div class="article-body">
+          {{ content | safe }}
+        </div>
+        <div style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border);">
+          <p style="font-size:0.875rem; color:var(--slate); margin-bottom:1rem;">Find the tools and resources to grow your channel.</p>
+          <a href="/tools/" class="btn btn-primary">View YouTuber Tools</a>
+        </div>
+      </div>
+
+      <!-- Sticky sidebar -->
+      <aside class="article-sidebar">
+
+        <!-- Tax CTA -->
+        <div class="sidebar-cta">
+          <span class="eyebrow">Creator Finances</span>
+          <h3>Taxes done right for YouTubers</h3>
+          <p>Every income stream, every deduction — handled by someone who gets YouTube.</p>
+          <a href="/services/tax-services-for-youtubers/" class="btn btn-primary">Tax Services</a>
+          <a href="/services/bookkeeping-for-youtubers/" class="btn btn-outline-white">Bookkeeping</a>
+        </div>
+
+        <!-- Related posts -->
+        {% if collections.posts.length %}
+        <div class="sidebar-related">
+          <h4>More Posts</h4>
+          <ul class="sidebar-related-list">
+            {% for post in collections.posts | limit(5) %}
+            {% if post.url !== page.url %}
+            <li>
+              <a href="{{ post.url }}">{{ post.data.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+          <a href="/blog/" style="display:inline-block; margin-top:1rem; font-size:0.8rem; font-weight:700; font-family:var(--font-head); text-transform:uppercase; letter-spacing:0.08em; color:var(--red);">All Posts &rarr;</a>
+        </div>
+        {% endif %}
+
+        <!-- Tools teaser -->
+        <div class="sidebar-tools">
+          <p>The tools every serious YouTuber needs in their stack.</p>
+          <a href="/tools/" class="btn btn-secondary">Browse Tools</a>
+        </div>
+
+      </aside>
     </div>
   </div>
 </section>

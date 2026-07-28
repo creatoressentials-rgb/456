@@ -3,7 +3,12 @@ layout: layouts/glossary.njk
 title: "What are Video Tags? [Full Explanation]"
 description: "What are YouTube video tags? Learn more about what YouTube video tags are, why you should still use them and how your videos can benefit from them."
 permalink: /glossary/youtube-video-tags/
-
+related_terms:
+  - seo
+  - keywords
+  - youtube-video-description
+  - youtube-channel-keywords
+  - youtube-algorithm
 ---
 
 <h2>YouTube Video Tags</h2>
@@ -19,9 +24,3 @@ permalink: /glossary/youtube-video-tags/
 <h2>How to Use YouTube Tags Effectively</h2>
 
 <h3>Basic Guidelines for Tagging</h3>
-
-<h4>Read More</h4>
-
-<h2>Is a YouTube Coach Worth It?</h2>
-
-<h2>How to Know When You’re Ready for YouTube Coaching</h2>

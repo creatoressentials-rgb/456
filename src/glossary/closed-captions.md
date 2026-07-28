@@ -3,7 +3,11 @@ layout: layouts/glossary.njk
 title: "What are Closed Captions (CC) on YouTube?"
 description: "What are closed captions and do you even need them on your YouTube videos? Learn more about what closed captions are and why they are important here."
 permalink: /glossary/closed-captions/
-
+related_terms:
+  - youtube-video-description
+  - youtube-category
+  - seo
+  - youtube-algorithm
 ---
 
 <h2>Closed Captions (CC)</h2>

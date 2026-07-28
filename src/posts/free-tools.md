@@ -23,7 +23,7 @@ Building a YouTube channel takes time and effort — but it doesn't have to cost
 
 ## Audience Research
 
-**5. YouTube Studio** — The most powerful free tool for understanding your own audience. Retention data, traffic sources, demographics, and engagement metrics — all native and free.
+**5. [YouTube Studio](/glossary/youtube-studio/)** — The most powerful free tool for understanding your own audience. [Retention](/glossary/retention/) data, traffic sources, demographics, and engagement metrics — all native and free.
 
 **6. Google Trends** — Shows when audiences search for specific topics over time. Useful for timing seasonal content before the search spike, not during it.
 
@@ -33,7 +33,7 @@ Building a YouTube channel takes time and effort — but it doesn't have to cost
 
 **8. DaVinci Resolve** — Professional-grade video editing software, completely free. Handles everything from simple vlogs to complex productions. Rivals paid alternatives.
 
-**9. Canva** — Graphic design for thumbnails, channel art, and social assets. Drag-and-drop interface with a large template library. The free tier is genuinely capable.
+**9. Canva** — Graphic design for [thumbnails](/glossary/youtube-thumbnails/), [channel art](/glossary/youtube-channel-art/), and social assets. Drag-and-drop interface with a large template library. The free tier is genuinely capable.
 
 **10. Opus.pro** — AI tool that generates short-form clips from long-form videos automatically. Multiplies your content output significantly without additional editing time.
 
@@ -43,13 +43,13 @@ Building a YouTube channel takes time and effort — but it doesn't have to cost
 
 ## Competitor Research
 
-**13. TubeBuddy (Free)** — Browser extension that shows competitor video tags, keywords, and performance data inside YouTube itself.
+**13. TubeBuddy (Free)** — Browser extension that shows competitor video [tags](/glossary/youtube-video-tags/), [keywords](/glossary/keywords/), and performance data inside YouTube itself.
 
 **14. VidIQ (Free)** — Similar to TubeBuddy. Shows competitor channel insights, keyword opportunities, and video performance data.
 
-**15. SocialBlade** — Tracks any YouTube channel's views, subscriber growth, and estimated earnings. Useful for benchmarking competitors and your own channel.
+**15. SocialBlade** — Tracks any YouTube channel's views, [subscriber](/glossary/youtube-subscribers/) growth, and estimated earnings. Useful for benchmarking competitors and your own channel.
 
-## SEO and Keyword Research
+## [SEO](/glossary/seo/) and Keyword Research
 
 **16. SEO Surfer Extension** — Chrome extension that shows estimated monthly search volume for any Google query. Quick way to assess whether a topic has enough demand.
 
@@ -57,9 +57,9 @@ Building a YouTube channel takes time and effort — but it doesn't have to cost
 
 **18. VidIQ Keyword Tab (Free)** — More intuitive than Google Keyword Planner for YouTube-specific research. Shows search volume and competition directly in the VidIQ interface.
 
-## Engagement and CTR
+## Engagement and [CTR](/glossary/click-through-rate/)
 
-**19. CoSchedule Headline Analyzer** — Scores your video titles for emotional impact and clickability. Useful for validating title ideas before committing.
+**19. CoSchedule Headline Analyzer** — Scores your [video titles](/glossary/youtube-video-titles/) for emotional impact and clickability. Useful for validating title ideas before committing.
 
 **20. Thumbs Up TV** — Previews how your thumbnail and title look together in YouTube search results. Helps catch visual problems before publishing.
 
@@ -77,12 +77,20 @@ Building a YouTube channel takes time and effort — but it doesn't have to cost
 
 **25. TikTok and Short-Form Platforms** — Browse trending topics on TikTok and Instagram Reels. These platforms often surface trends before they hit YouTube search.
 
-**26. X (Twitter)** — Follow niche-relevant hashtags to discover trending conversations and video inspiration.
+**26. X (Twitter)** — Follow niche-relevant [hashtags](/glossary/hashtags/) to discover trending conversations and video inspiration.
 
 **27. YouTube Video Idea Generator (Ryrob)** — Enter a keyword and get a list of potential video topic ideas. Good for breaking creative blocks.
 
-**28. VidIQ Video Ideas** — VidIQ's free tier includes daily video idea suggestions based on trending topics and your channel's niche.
+**28. VidIQ Video Ideas** — VidIQ's free tier includes daily video idea suggestions based on trending topics and your channel's [niche](/glossary/niche/).
 
 ---
 
 These tools cover every major creator need — from first idea to published video. Start with the ones that match your biggest current bottleneck and add more as your workflow develops.
+
+## Related Reading
+
+- [How to Write Better YouTube Titles with AI](/posts/ai-video-titles/)
+- [Honest TubeBuddy Review: Is It Worth It?](/posts/tubebuddy-review/)
+- [An Honest VidIQ Review: Is It Worth It?](/posts/vidiq-review/)
+- [VidIQ vs TubeBuddy: Which YouTube Tool Is Better?](/posts/vidiq-vs-tubebuddy/)
+- [An Honest Epidemic Sound Review: Is It Worth It?](/posts/epidemic-sound-review/)
