@@ -3,6 +3,8 @@ layout: layouts/base.njk
 title: "Privacy Policy"
 description: "Creator Essentials privacy policy."
 permalink: /privacy-policy/
+sitemap_priority: 0.3
+sitemap_changefreq: yearly
 ---
 
 <section class="page-hero">

@@ -1,0 +1,16 @@
+---
+permalink: /sitemap-glossary.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  {% for term in collections.glossary %}
+  <url>
+    <loc>https://www.creatoressentials.com{{ term.url }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  {% endfor %}
+
+</urlset>

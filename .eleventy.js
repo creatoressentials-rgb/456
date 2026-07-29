@@ -54,6 +54,12 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => a.fileSlug.localeCompare(b.fileSlug));
   });
 
+  eleventyConfig.addCollection("pages", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob(["src/index.njk", "src/pages/**"])
+      .sort((a, b) => (a.url || "").localeCompare(b.url || ""));
+  });
+
   eleventyConfig.addFilter("termName", function (slug) {
     return slugToTermName(slug);
   });
