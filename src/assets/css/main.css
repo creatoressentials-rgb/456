@@ -686,33 +686,34 @@ section { padding-block: var(--section); }
   color: var(--white);
   border-color: var(--red);
 }
+.glossary-az-section {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding-block: 1rem;
+}
 .glossary-az-nav {
   display: flex;
   flex-wrap: wrap;
   gap: 0.25rem;
-  margin-top: 1.25rem;
 }
 .glossary-az-link {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2rem;
-  height: 2rem;
-  border-radius: 4px;
-  font-size: 0.8125rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  font-size: 1.0625rem;
   font-weight: 700;
   font-family: var(--font-head);
-  color: rgba(255,255,255,0.8);
+  color: var(--red);
   text-decoration: none;
-  background: rgba(255,255,255,0.08);
-  transition: background 0.12s, color 0.12s;
+  transition: opacity 0.12s;
 }
 a.glossary-az-link:hover {
-  background: var(--red);
-  color: var(--white);
+  opacity: 0.65;
 }
 .glossary-az-disabled {
-  opacity: 0.28;
+  opacity: 0.25;
   cursor: default;
 }
 
