@@ -48,7 +48,7 @@ related_terms:
 <h3>What controls depth of field</h3>
 <p>Four practical variables have the largest effect.</p>
 <h4>Aperture</h4>
-<p>A wider <a href="/glossary/aperture">aperture</a>, shown by a lower f-number such as f/1.8, usually creates a shallower depth of field. A narrower aperture, such as f/8 or f/11, usually creates a deeper depth of field.</p>
+<p>A wider <a href="/glossary/aperture/">aperture</a>, shown by a lower f-number such as f/1.8, usually creates a shallower depth of field. A narrower aperture, such as f/8 or f/11, usually creates a deeper depth of field.</p>
 <p>Aperture is the easiest control to change, but it also changes exposure. Video creators may need to adjust lighting, ISO, or neutral-density filtration to preserve the desired image brightness.</p>
 <h4>Camera-to-subject distance</h4>
 <p>Moving the camera closer to the focused subject reduces depth of field. Moving farther away increases it.</p>

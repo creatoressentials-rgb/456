@@ -12,7 +12,7 @@ related_terms:
 
 <h2>Aperture</h2>
 <p><strong>Aperture</strong> is the adjustable opening inside a camera lens that controls how much light reaches the image sensor. The opening is formed by overlapping blades in the lens and is described using an <strong>f-number</strong> such as f/1.8, f/4, or f/11.</p>
-<p>For creators, aperture has two major jobs: it changes exposure and it helps control <a href="/glossary/depth-of-field">depth of field</a>. A wide opening can brighten the image and make the focused subject stand out against a softer background. A narrow opening admits less light and can keep more of a scene acceptably sharp.</p>
+<p>For creators, aperture has two major jobs: it changes exposure and it helps control <a href="/glossary/depth-of-field/">depth of field</a>. A wide opening can brighten the image and make the focused subject stand out against a softer background. A narrow opening admits less light and can keep more of a scene acceptably sharp.</p>
 <h3>Aperture versus f-stop</h3>
 <p>The terms are closely related, but they are not technically identical.</p>
 <ul>

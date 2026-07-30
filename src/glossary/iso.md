@@ -13,7 +13,7 @@ related_terms:
 ---
 
 <h2>ISO</h2>
-<p><strong>ISO</strong> is a camera setting that controls how strongly a digital camera amplifies or maps the signal produced by the light captured on its sensor. Raising ISO makes the recorded image brighter, while lowering ISO makes it darker when <a href="/glossary/aperture">aperture</a>, shutter speed, and lighting remain unchanged.</p>
+<p><strong>ISO</strong> is a camera setting that controls how strongly a digital camera amplifies or maps the signal produced by the light captured on its sensor. Raising ISO makes the recorded image brighter, while lowering ISO makes it darker when <a href="/glossary/aperture/">aperture</a>, shutter speed, and lighting remain unchanged.</p>
 <p>ISO is often described as the sensor's sensitivity to light. That is a useful shortcut, but a digital sensor does not physically become more light-sensitive each time the number changes. The amount of captured light is controlled primarily by the scene illumination, lens aperture, and shutter duration. ISO changes what the camera does with the resulting signal.</p>
 <h3>How ISO numbers work</h3>
 <p>Common full-stop ISO values include:</p>
@@ -52,7 +52,7 @@ related_terms:
 </table>
 <p>Changing ISO can help maintain exposure when the creator cannot add light, widen the aperture, or use a longer shutter duration. It does not increase the number of photons the sensor captured.</p>
 <h3>ISO in the exposure triangle</h3>
-<p>ISO is one side of the <a href="/glossary/exposure-triangle">exposure triangle</a>, along with aperture and shutter speed.</p>
+<p>ISO is one side of the <a href="/glossary/exposure-triangle/">exposure triangle</a>, along with aperture and shutter speed.</p>
 <ul>
 <li>Aperture changes the lens opening and the amount of light reaching the sensor.</li>
 <li>Shutter speed changes how long each frame gathers light.</li>
@@ -71,7 +71,7 @@ related_terms:
 <p>High ISO is associated with noise because it is often used in dark conditions and because stronger amplification makes noise easier to see. The root problem is frequently insufficient captured light rather than the ISO number by itself.</p>
 <p>A properly exposed ISO 3200 image can look cleaner than an ISO 400 image that was underexposed by several stops and brightened aggressively in editing.</p>
 <h3>ISO and dynamic range</h3>
-<p><a href="/glossary/dynamic-range">Dynamic range</a> is the span between usable shadows and highlights. Raising ISO often reduces highlight headroom because the amplified signal reaches the recording maximum sooner.</p>
+<p><a href="/glossary/dynamic-range/">Dynamic range</a> is the span between usable shadows and highlights. Raising ISO often reduces highlight headroom because the amplified signal reaches the recording maximum sooner.</p>
 <p>At a lower base setting, a camera may preserve more bright detail before clipping. At very low or extended settings, however, the camera may simply digitally pull the image down without gaining extra highlight information.</p>
 <p>The relationship varies by camera and recording mode. Log profiles may require a higher minimum ISO because of how the gamma curve allocates highlight and shadow information. That higher number does not necessarily mean the camera suddenly became worse; it reflects a different signal and exposure design.</p>
 <h3>Base ISO, native ISO, and dual-base ISO</h3>
@@ -116,7 +116,7 @@ related_terms:
 <ul>
 <li>Adding a key light instead of raising ISO.</li>
 <li>Using a wider aperture when shallow focus is acceptable.</li>
-<li>Keeping shutter speed appropriate for <a href="/glossary/frame-rate-fps">frame rate</a> rather than slowing it randomly.</li>
+<li>Keeping shutter speed appropriate for <a href="/glossary/frame-rate-fps/">frame rate</a> rather than slowing it randomly.</li>
 <li>Selecting a camera's recommended base setting for Log.</li>
 <li>Raising ISO when the alternative is an unusably dark recording.</li>
 </ul>
@@ -163,7 +163,7 @@ related_terms:
 <tr>
   <td>Slow motion</td>
   <td>Expect a higher ISO or stronger lighting</td>
-  <td>High <a href="/glossary/frame-rate-fps">frame rate</a> usually requires a shorter exposure per frame</td>
+  <td>High <a href="/glossary/frame-rate-fps/">frame rate</a> usually requires a shorter exposure per frame</td>
 </tr>
 </tbody>
 </table>

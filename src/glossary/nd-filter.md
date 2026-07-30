@@ -15,8 +15,8 @@ related_terms:
 ---
 
 <h2>ND Filter</h2>
-<p>An <strong>ND filter</strong>, or <strong>neutral density filter</strong>, reduces the amount of light entering a camera without intentionally changing the scene's color. It lets creators use a wider <a href="/glossary/aperture">aperture</a>, slower <a href="/glossary/shutter-speed">shutter speed</a>, or preferred <a href="/glossary/iso">ISO</a> in conditions that would otherwise overexpose the image.</p>
-<p>For video, an ND filter is especially useful outdoors. It allows the creator to keep a natural motion-blur shutter setting and a chosen <a href="/glossary/depth-of-field">depth of field</a> instead of closing the aperture or using an extremely fast shutter merely because the sunlight is bright.</p>
+<p>An <strong>ND filter</strong>, or <strong>neutral density filter</strong>, reduces the amount of light entering a camera without intentionally changing the scene's color. It lets creators use a wider <a href="/glossary/aperture/">aperture</a>, slower <a href="/glossary/shutter-speed/">shutter speed</a>, or preferred <a href="/glossary/iso/">ISO</a> in conditions that would otherwise overexpose the image.</p>
+<p>For video, an ND filter is especially useful outdoors. It allows the creator to keep a natural motion-blur shutter setting and a chosen <a href="/glossary/depth-of-field/">depth of field</a> instead of closing the aperture or using an extremely fast shutter merely because the sunlight is bright.</p>
 <h3>What an ND filter does</h3>
 <p>An ND filter absorbs or blocks part of the incoming light before it reaches the lens or sensor. A well-made filter aims to reduce visible wavelengths evenly, which is why it is called <strong>neutral</strong> density.</p>
 <p>The filter does not make the scene darker in reality. It reduces the exposure recorded by the camera.</p>
@@ -29,7 +29,7 @@ related_terms:
 <li>Flash balance and synchronization.</li>
 <li>Consistency when moving between lighting conditions.</li>
 </ul>
-<p>An ND filter does not create additional <a href="/glossary/dynamic-range">dynamic range</a>. It may help prevent highlight clipping by reducing exposure, but it cannot expand the sensor's underlying tonal capacity.</p>
+<p>An ND filter does not create additional <a href="/glossary/dynamic-range/">dynamic range</a>. It may help prevent highlight clipping by reducing exposure, but it cannot expand the sensor's underlying tonal capacity.</p>
 <h3>How ND stops work</h3>
 <p>Each stop of ND reduces the transmitted light by half.</p>
 <table>
@@ -159,7 +159,7 @@ related_terms:
 </ul>
 <p>Built-in ND is fast and avoids attaching front filters, but the available strengths and operation differ by camera. A built-in filter is still optical light control; it is not the same as lowering ISO electronically.</p>
 <h3>Why video creators use ND filters</h3>
-<p>Video creators often choose shutter speed from the <a href="/glossary/frame-rate-fps">frame rate</a>. A common guideline uses a shutter duration near twice the frame-rate denominator: around 1/50 for 24 or 25 fps, 1/60 for 30 fps, and 1/120 or 1/125 for 60 fps.</p>
+<p>Video creators often choose shutter speed from the <a href="/glossary/frame-rate-fps/">frame rate</a>. A common guideline uses a shutter duration near twice the frame-rate denominator: around 1/50 for 24 or 25 fps, 1/60 for 30 fps, and 1/120 or 1/125 for 60 fps.</p>
 <p>In daylight, those settings can admit too much light at a wide aperture. Without ND, the creator may have to:</p>
 <ul>
 <li>Close the lens and lose shallow depth of field.</li>
@@ -233,9 +233,9 @@ related_terms:
 <p>Creators with several lenses often buy one quality filter in the largest needed diameter and use step-up rings on smaller lenses.</p>
 <h3>How to use an ND filter for video</h3>
 <ol>
-<li>Choose the recording <a href="/glossary/frame-rate-fps">frame rate</a>.</li>
+<li>Choose the recording <a href="/glossary/frame-rate-fps/">frame rate</a>.</li>
 <li>Set the desired shutter speed or shutter angle.</li>
-<li>Choose the aperture for the intended <a href="/glossary/depth-of-field">depth of field</a>.</li>
+<li>Choose the aperture for the intended <a href="/glossary/depth-of-field/">depth of field</a>.</li>
 <li>Set the camera's appropriate ISO or profile base.</li>
 <li>Add or rotate ND until exposure is correct.</li>
 <li>Check a waveform, zebras, or histogram for clipping.</li>

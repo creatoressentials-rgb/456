@@ -154,7 +154,7 @@ related_terms:
 <tr>
   <td>Professional XLR shotgun</td>
   <td>Balanced three-pin XLR</td>
-  <td>Often <a href="/glossary/phantom-power">phantom power</a>, sometimes battery</td>
+  <td>Often <a href="/glossary/phantom-power/">phantom power</a>, sometimes battery</td>
 </tr>
 <tr>
   <td>On-camera compact shotgun</td>
@@ -174,7 +174,7 @@ related_terms:
 </tbody>
 </table>
 <p>Do not assume that a 3.5 mm microphone accepts 48V or that every XLR shotgun requires it. Check the manual.</p>
-<p>An <a href="/glossary/audio-interface">audio interface</a>, field recorder, cinema camera, or wireless transmitter must supply the correct input type, voltage, preamp gain, and connector wiring.</p>
+<p>An <a href="/glossary/audio-interface/">audio interface</a>, field recorder, cinema camera, or wireless transmitter must supply the correct input type, voltage, preamp gain, and connector wiring.</p>
 <h3>Important shotgun microphone specifications</h3>
 <table>
 <thead>
@@ -297,7 +297,7 @@ related_terms:
 <li>Using a long shotgun in a reflective room without testing.</li>
 <li>Recording outdoors with only a foam windshield.</li>
 <li>Skipping a shock mount on a camera or boom.</li>
-<li>Turning on <a href="/glossary/phantom-power">phantom power</a> without checking compatibility.</li>
+<li>Turning on <a href="/glossary/phantom-power/">phantom power</a> without checking compatibility.</li>
 <li>Setting gain before final placement.</li>
 <li>Trying to remove severe echo or wind entirely in post-production.</li>
 </ul>

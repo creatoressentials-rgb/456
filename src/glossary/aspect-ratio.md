@@ -75,7 +75,7 @@ related_terms:
 <tr>
   <td>9:16</td>
   <td>Full-screen vertical</td>
-  <td>Shorts, vertical social video, and <a href="/glossary/vertical-live">Vertical Live</a></td>
+  <td>Shorts, vertical social video, and <a href="/glossary/vertical-live/">Vertical Live</a></td>
 </tr>
 <tr>
   <td>1:1</td>

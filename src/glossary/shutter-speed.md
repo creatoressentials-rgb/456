@@ -17,7 +17,7 @@ related_terms:
 <h2>Shutter Speed</h2>
 <p><strong>Shutter speed</strong> is the length of time a camera records light for a photograph or for each individual video frame. It is usually written in seconds or fractions of a second, such as 2 seconds, 1/50, 1/250, or 1/2000.</p>
 <p>A slower shutter keeps the exposure active longer, recording more light and more motion blur. A faster shutter records for less time, reducing light and making moving subjects appear sharper or more frozen.</p>
-<p>Shutter speed is one side of the <a href="/glossary/exposure-triangle">exposure triangle</a>, alongside <a href="/glossary/aperture">aperture</a> and <a href="/glossary/iso">ISO</a>.</p>
+<p>Shutter speed is one side of the <a href="/glossary/exposure-triangle/">exposure triangle</a>, alongside <a href="/glossary/aperture/">aperture</a> and <a href="/glossary/iso/">ISO</a>.</p>
 <h3>How shutter speed works</h3>
 <p>In a mechanical camera shutter, curtains uncover and then cover the sensor. In electronic capture, the sensor begins and ends exposure through electronic timing. The practical setting still describes exposure duration even when no physical shutter curtain moves.</p>
 <table>
@@ -76,11 +76,11 @@ related_terms:
 <li>Create motion trails or smooth moving water.</li>
 <li>Make video motion feel softer or dreamier.</li>
 <li>Increase blur from the subject and the camera.</li>
-<li>Require a tripod, stabilization, or an <a href="/glossary/nd-filter">ND filter</a> in bright conditions.</li>
+<li>Require a tripod, stabilization, or an <a href="/glossary/nd-filter/">ND filter</a> in bright conditions.</li>
 </ul>
 <p>Blur is not automatically a defect. It communicates movement and is a major part of how motion feels on screen.</p>
 <h3>Shutter speed for video</h3>
-<p>In video, shutter speed works together with <a href="/glossary/frame-rate-fps">frame rate</a>. Each frame must be exposed during the available frame interval.</p>
+<p>In video, shutter speed works together with <a href="/glossary/frame-rate-fps/">frame rate</a>. Each frame must be exposed during the available frame interval.</p>
 <p>A common starting point is the <strong>180-degree shutter guideline</strong>, which uses an exposure time of approximately half the frame interval.</p>
 <table>
 <thead>
@@ -238,12 +238,12 @@ related_terms:
 </ul>
 <p>To maintain brightness after increasing shutter speed, a creator may:</p>
 <ul>
-<li>Open the <a href="/glossary/aperture">aperture</a>.</li>
-<li>Raise <a href="/glossary/iso">ISO</a>.</li>
+<li>Open the <a href="/glossary/aperture/">aperture</a>.</li>
+<li>Raise <a href="/glossary/iso/">ISO</a>.</li>
 <li>Add more light.</li>
 <li>Change the camera angle or time of day.</li>
 </ul>
-<p>For video, creators often lock shutter for motion appearance and control brightness with lighting, aperture, ISO, and an <a href="/glossary/nd-filter">ND filter</a>.</p>
+<p>For video, creators often lock shutter for motion appearance and control brightness with lighting, aperture, ISO, and an <a href="/glossary/nd-filter/">ND filter</a>.</p>
 <h3>Shutter speed and artificial-light flicker</h3>
 <p>LEDs, fluorescent lamps, signs, displays, and other electronic sources may pulse at a rate tied to electrical frequency or their internal driver. A mismatched shutter can produce:</p>
 <ul>
@@ -286,7 +286,7 @@ related_terms:
 </tr>
 </tbody>
 </table>
-<p>A <a href="/glossary/mirrorless-camera">mirrorless camera</a> can offer several of these modes.</p>
+<p>A <a href="/glossary/mirrorless-camera/">mirrorless camera</a> can offer several of these modes.</p>
 <h3>Shutter speed vs. rolling shutter</h3>
 <p>These terms are related to time but describe different things.</p>
 <ul>
@@ -296,11 +296,11 @@ related_terms:
 <p>A fast shutter can make each scanned row sharper, but it does not remove the time difference between the top and bottom of a slow-reading sensor. Bent vertical lines, leaning buildings, and warped propellers are primarily readout issues.</p>
 <h3>Shutter speed and flash</h3>
 <p>Mechanical shutters have a maximum normal flash-sync speed, often around 1/160 to 1/250 depending on the camera. Faster settings can cause the shutter curtains to form a moving slit, preventing a standard flash burst from illuminating the entire frame at once.</p>
-<p>High-speed sync pulses the flash repeatedly while the slit travels, allowing faster shutter settings at the cost of flash power. An <a href="/glossary/nd-filter">ND filter</a> is another way to use a wide aperture in daylight while staying at normal sync speed.</p>
+<p>High-speed sync pulses the flash repeatedly while the slit travels, allowing faster shutter settings at the cost of flash power. An <a href="/glossary/nd-filter/">ND filter</a> is another way to use a wide aperture in daylight while staying at normal sync speed.</p>
 <p>Electronic and global shutters have different flash restrictions. Confirm the camera manual.</p>
 <h3>Choosing shutter speed for creator videos</h3>
 <ol>
-<li>Select the delivery and recording <a href="/glossary/frame-rate-fps">frame rate</a>.</li>
+<li>Select the delivery and recording <a href="/glossary/frame-rate-fps/">frame rate</a>.</li>
 <li>Start near a 180-degree relationship.</li>
 <li>Record a movement test with hands, face, and camera motion.</li>
 <li>Increase shutter if cleaner action frames are more important than smooth blur.</li>

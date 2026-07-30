@@ -12,7 +12,7 @@ related_terms:
 ---
 
 <h2>Phantom Power</h2>
-<p><strong>Phantom power</strong> is DC electricity delivered through a balanced microphone cable to operate compatible microphone electronics. It is most commonly supplied by a mixer, recorder, preamp, or <a href="/glossary/audio-interface">audio interface</a> and is usually activated with a button labeled <strong>48V</strong>, <strong>P48</strong>, or <strong>phantom</strong>.</p>
+<p><strong>Phantom power</strong> is DC electricity delivered through a balanced microphone cable to operate compatible microphone electronics. It is most commonly supplied by a mixer, recorder, preamp, or <a href="/glossary/audio-interface/">audio interface</a> and is usually activated with a button labeled <strong>48V</strong>, <strong>P48</strong>, or <strong>phantom</strong>.</p>
 <p>The power travels through the same XLR cable that carries the audio signal, so no separate power wire is required. This is the "phantom" part: the voltage is present on the balanced line without becoming the recorded audio.</p>
 <h3>What phantom power does</h3>
 <p>Many condenser microphones contain active electronics that require power. Phantom power can operate components such as:</p>
@@ -162,7 +162,7 @@ related_terms:
 </table>
 <p>Do not use a simple passive adapter and assume the voltage systems become compatible. Use the adapter, preamp, or power converter specified by the microphone manufacturer.</p>
 <h3>Phantom power and audio interfaces</h3>
-<p>On an <a href="/glossary/audio-interface">audio interface</a>, the 48V switch normally applies power only to the XLR microphone portion of a combo input—not the quarter-inch line or instrument connection.</p>
+<p>On an <a href="/glossary/audio-interface/">audio interface</a>, the 48V switch normally applies power only to the XLR microphone portion of a combo input—not the quarter-inch line or instrument connection.</p>
 <p>Interfaces may switch phantom power:</p>
 <ul>
 <li>Per individual input.</li>
@@ -199,7 +199,7 @@ related_terms:
 <p>When an XLR connection is made or broken, the contacts may not engage at exactly the same time. A temporary voltage imbalance can create a large transient. Even if the microphone survives, that pop can be unpleasant in headphones or dangerous to loudspeakers at high monitor levels.</p>
 <p>Muting and disabling phantom before patching is good studio practice.</p>
 <h3>Phantom power for shotgun microphones</h3>
-<p>Many professional XLR <a href="/glossary/shotgun-microphone">shotgun microphones</a> are condenser designs that use 48V phantom power. Other models use internal batteries, rechargeable cells, USB, or low-voltage camera power.</p>
+<p>Many professional XLR <a href="/glossary/shotgun-microphone/">shotgun microphones</a> are condenser designs that use 48V phantom power. Other models use internal batteries, rechargeable cells, USB, or low-voltage camera power.</p>
 <p>Before a shoot, confirm:</p>
 <ul>
 <li>The mic's required voltage.</li>

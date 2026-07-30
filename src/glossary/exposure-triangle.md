@@ -13,7 +13,7 @@ related_terms:
 ---
 
 <h2>Exposure Triangle</h2>
-<p>The <strong>exposure triangle</strong> is a teaching model that explains how <a href="/glossary/aperture">aperture</a>, shutter speed, and <a href="/glossary/iso">ISO</a> work together to determine recorded brightness and the visual character of an image.</p>
+<p>The <strong>exposure triangle</strong> is a teaching model that explains how <a href="/glossary/aperture/">aperture</a>, shutter speed, and <a href="/glossary/iso/">ISO</a> work together to determine recorded brightness and the visual character of an image.</p>
 <p>The triangle is useful because changing one setting often requires compensation from another. A creator who chooses a faster shutter speed to freeze motion may need a wider aperture, a higher ISO, more light, or some combination of those changes to maintain the intended exposure.</p>
 <h3>The three sides of the exposure triangle</h3>
 <table>
@@ -30,7 +30,7 @@ related_terms:
   <td>Aperture</td>
   <td>Changes the lens opening</td>
   <td>Lower f-number and wider opening</td>
-  <td>Changes <a href="/glossary/depth-of-field">depth of field</a> and lens performance</td>
+  <td>Changes <a href="/glossary/depth-of-field/">depth of field</a> and lens performance</td>
 </tr>
 <tr>
   <td>Shutter speed or shutter duration</td>
@@ -74,7 +74,7 @@ related_terms:
 <p>For a talking-head video, creators often choose aperture based on how much movement the speaker makes. An extremely wide aperture can look attractive while making focus fragile. A moderate setting such as f/2.8 to f/5.6 may provide better consistency.</p>
 <h3>How shutter speed affects exposure</h3>
 <p>Shutter speed controls how long the camera gathers light for each frame. A longer exposure records more light and more motion blur. A shorter exposure records less light and freezes movement more sharply.</p>
-<p>In video, shutter speed is tied closely to <a href="/glossary/frame-rate-fps">frame rate</a>. A common starting point is a shutter duration near half the frame interval, often called the 180-degree shutter guideline:</p>
+<p>In video, shutter speed is tied closely to <a href="/glossary/frame-rate-fps/">frame rate</a>. A common starting point is a shutter duration near half the frame interval, often called the 180-degree shutter guideline:</p>
 <ul>
 <li>24 fps: about 1/48 or 1/50 second</li>
 <li>30 fps: about 1/60 second</li>
@@ -164,7 +164,7 @@ related_terms:
 <h3>Exposure triangle versus brightness in editing</h3>
 <p>Increasing exposure or brightness in editing is not equivalent to capturing more light.</p>
 <p>Post-production can remap recorded values, but it cannot restore fully clipped highlights or create clean shadow detail that was never captured. Raising a dark clip may reveal noise, compression artifacts, banding, or color shifts.</p>
-<p>Good capture gives editing software better information to work with. <a href="/glossary/dynamic-range">Dynamic range</a>, bit depth, codec, and picture profile determine how far a file can be adjusted before it breaks down.</p>
+<p>Good capture gives editing software better information to work with. <a href="/glossary/dynamic-range/">Dynamic range</a>, bit depth, codec, and picture profile determine how far a file can be adjusted before it breaks down.</p>
 <h3>Common exposure-triangle mistakes</h3>
 <ul>
 <li>Believing ISO physically makes the sensor collect more light.</li>

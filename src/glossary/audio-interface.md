@@ -13,7 +13,7 @@ related_terms:
 
 <h2>Audio Interface</h2>
 <p>An <strong>audio interface</strong> is a device that connects microphones, instruments, headphones, and speakers to a computer or mobile device. It converts analog sound into digital data for recording or streaming and converts digital audio back into an analog signal that can be heard through headphones or monitors.</p>
-<p>For creators, an interface is most commonly used to connect one or more XLR microphones to recording software, a video editor, or a <a href="/glossary/live-encoder">live encoder</a>.</p>
+<p>For creators, an interface is most commonly used to connect one or more XLR microphones to recording software, a video editor, or a <a href="/glossary/live-encoder/">live encoder</a>.</p>
 <h3>What an audio interface does</h3>
 <p>A typical interface performs several jobs in one box:</p>
 <ul>

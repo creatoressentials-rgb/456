@@ -131,8 +131,8 @@ related_terms:
 <ul>
 <li>Face, eye, animal, vehicle, or product autofocus.</li>
 <li>4K or higher-resolution recording.</li>
-<li>High <a href="/glossary/frame-rate-fps">frame rates</a> for slow motion.</li>
-<li>Log or HDR recording for wider grading flexibility and <a href="/glossary/dynamic-range">dynamic range</a>.</li>
+<li>High <a href="/glossary/frame-rate-fps/">frame rates</a> for slow motion.</li>
+<li>Log or HDR recording for wider grading flexibility and <a href="/glossary/dynamic-range/">dynamic range</a>.</li>
 <li>In-body image stabilization.</li>
 <li>Articulating screens for self-recording.</li>
 <li>Microphone and headphone connections.</li>
@@ -142,7 +142,7 @@ related_terms:
 </ul>
 <p>Feature names can sound similar while behaving very differently. Check crop factors, overheating limits, autofocus availability, bit depth, recording duration, and whether the advertised resolution uses the full sensor width.</p>
 <h3>Electronic viewfinder advantages and limitations</h3>
-<p>An <strong>electronic viewfinder</strong>, or EVF, is a small display viewed through an eyepiece. Because it receives the sensor feed, it can preview the effects of <a href="/glossary/shutter-speed">shutter speed</a>, <a href="/glossary/aperture">aperture</a>, <a href="/glossary/iso">ISO</a>, white balance, and picture profiles.</p>
+<p>An <strong>electronic viewfinder</strong>, or EVF, is a small display viewed through an eyepiece. Because it receives the sensor feed, it can preview the effects of <a href="/glossary/shutter-speed/">shutter speed</a>, <a href="/glossary/aperture/">aperture</a>, <a href="/glossary/iso/">ISO</a>, white balance, and picture profiles.</p>
 <p>An EVF can also display:</p>
 <ul>
 <li>Histograms and level gauges.</li>
@@ -166,7 +166,7 @@ related_terms:
 <p>A strong still-photo autofocus specification does not automatically guarantee natural-looking video focus transitions.</p>
 <h3>Image stabilization and handheld use</h3>
 <p>Some mirrorless bodies move the sensor to compensate for camera rotation and small movements. This is called in-body image stabilization, or IBIS. Stabilized lenses may also shift optical elements, and cameras can add digital stabilization by cropping and transforming the image.</p>
-<p>These tools can reduce handheld shake, but they do not replace a tripod or <a href="/glossary/gimbal">gimbal</a> in every situation. They may introduce corner warping, sudden corrections, or a floating look during deliberate camera movement. Walking bounce and subject motion remain separate problems.</p>
+<p>These tools can reduce handheld shake, but they do not replace a tripod or <a href="/glossary/gimbal/">gimbal</a> in every situation. They may introduce corner warping, sudden corrections, or a floating look during deliberate camera movement. Walking bounce and subject motion remain separate problems.</p>
 <h3>Lenses and mount compatibility</h3>
 <p>The lens mount determines which lenses attach directly. Consider:</p>
 <ul>
@@ -175,7 +175,7 @@ related_terms:
 <li>Availability of fast wide-angle lenses for cropped sensors.</li>
 <li>Focus breathing and autofocus noise.</li>
 <li>Minimum focus distance.</li>
-<li>Filter size for accessories such as an <a href="/glossary/nd-filter">ND filter</a>.</li>
+<li>Filter size for accessories such as an <a href="/glossary/nd-filter/">ND filter</a>.</li>
 <li>Adapter compatibility with older DSLR lenses.</li>
 </ul>
 <p>An adapter may preserve basic exposure and autofocus, but performance, balance, weather sealing, and video behavior can differ from a native lens.</p>

@@ -101,7 +101,7 @@ related_terms:
 <p>However, Log does not create sensor detail that was never captured. It also brings tradeoffs:</p>
 <ul>
 <li>The ungraded image looks flat and desaturated.</li>
-<li>Some cameras require a higher minimum <a href="/glossary/iso">ISO</a> in Log modes.</li>
+<li>Some cameras require a higher minimum <a href="/glossary/iso/">ISO</a> in Log modes.</li>
 <li>Underexposed shadows may become noisy after grading.</li>
 <li>Low-bit-depth or heavily compressed recording can show banding when stretched.</li>
 <li>Correct monitoring and color management become more important.</li>
@@ -110,7 +110,7 @@ related_terms:
 <h3>Dynamic range and ISO</h3>
 <p>Dynamic range is often greatest near a camera's base or native ISO, though the exact behavior varies by sensor and picture profile. Raising ISO does not add more captured light. It changes how the camera amplifies or maps the signal, and it can reduce highlight headroom because brighter values reach the recording ceiling sooner.</p>
 <p>Some cameras use dual-gain or dual-base-ISO designs that improve performance again at a second setting. Creators should use camera-specific tests rather than assuming every ISO step behaves the same.</p>
-<p>The practical lesson is simple: do not raise ISO casually when highlight protection matters. First consider adding light, widening the <a href="/glossary/aperture">aperture</a>, adjusting shutter settings within the desired motion look, or changing the composition.</p>
+<p>The practical lesson is simple: do not raise ISO casually when highlight protection matters. First consider adding light, widening the <a href="/glossary/aperture/">aperture</a>, adjusting shutter settings within the desired motion look, or changing the composition.</p>
 <h3>How creators can preserve more dynamic range</h3>
 <h4>Protect important highlights</h4>
 <p>Clipped highlights are generally harder to recover than shadows. Use zebras, a histogram, or a waveform monitor to identify where bright areas approach the camera's limit. Skin, clouds, practical lights, and reflective products may need different priorities, so protect the highlights that matter to the story rather than blindly preventing every tiny specular reflection from clipping.</p>

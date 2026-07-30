@@ -170,11 +170,11 @@ related_terms:
 <h4>Vertical walking bounce</h4>
 <p>When the operator's whole body rises and falls, the camera translates vertically. The gimbal can keep its orientation level while the entire rig still moves up and down. Bent knees, shorter steps, heel-to-toe control, two-handed support, and a support vest or fourth-axis system can reduce the bounce.</p>
 <h4>Poor focus</h4>
-<p>Smooth footage can still be unusable if autofocus hunts or the subject leaves a shallow <a href="/glossary/depth-of-field">depth of field</a>. Creators should test autofocus, stop down the <a href="/glossary/aperture">aperture</a>, use focus motors, or design movement that stays within a reliable distance.</p>
+<p>Smooth footage can still be unusable if autofocus hunts or the subject leaves a shallow <a href="/glossary/depth-of-field/">depth of field</a>. Creators should test autofocus, stop down the <a href="/glossary/aperture/">aperture</a>, use focus motors, or design movement that stays within a reliable distance.</p>
 <h4>Rolling shutter</h4>
 <p>Fast pans can bend vertical lines or create a gelatin-like look on cameras with slow sensor readout. A gimbal smooths the pan but does not change the sensor's readout speed.</p>
 <h4>Motion blur</h4>
-<p>A slow shutter can smear movement even when the camera path is stable. <a href="/glossary/frame-rate-fps">Frame rate</a> and shutter settings still determine how each frame renders motion.</p>
+<p>A slow shutter can smear movement even when the camera path is stable. <a href="/glossary/frame-rate-fps/">Frame rate</a> and shutter settings still determine how each frame renders motion.</p>
 <h4>Composition</h4>
 <p>A technically smooth shot is not automatically an effective shot. The movement needs a subject, beginning, end, and visual reason.</p>
 <h3>How to use a gimbal effectively</h3>

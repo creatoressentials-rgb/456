@@ -122,7 +122,7 @@ related_terms:
 <li>120 fps: 1/240 or 1/250</li>
 </ul>
 <p>This approximates a 180-degree shutter angle and often produces natural-looking motion blur. It is not mandatory. Action footage may use a faster shutter for sharper frames, while creative sequences may use more blur.</p>
-<p>Higher frame rates usually require more light because each frame has less time available for exposure when a similar shutter angle is maintained. Creators may need a wider <a href="/glossary/aperture">aperture</a>, higher <a href="/glossary/iso">ISO</a>, or stronger lighting.</p>
+<p>Higher frame rates usually require more light because each frame has less time available for exposure when a similar shutter angle is maintained. Creators may need a wider <a href="/glossary/aperture/">aperture</a>, higher <a href="/glossary/iso/">ISO</a>, or stronger lighting.</p>
 <h3>Frame rate versus refresh rate</h3>
 <p>Frame rate belongs to the video signal. Refresh rate belongs to the display.</p>
 <p>A 60 Hz screen can refresh up to 60 times per second, but it may show a 24 fps video by repeating frames in a cadence. A 120 Hz display can repeat 24 fps frames evenly five times each. Playback quality also depends on the device, browser, app, selected resolution, and platform encoding.</p>
