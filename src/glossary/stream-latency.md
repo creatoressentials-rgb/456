@@ -41,7 +41,7 @@ related_terms:
 <tbody>
 <tr>
   <td>Encoder settings</td>
-  <td>Slow encoding, long keyframe intervals, or overloaded hardware can add delay</td>
+  <td>Slow <a href="/glossary/encoding/">encoding</a>, long keyframe intervals, or overloaded hardware can add delay</td>
 </tr>
 <tr>
   <td>Stream bitrate</td>
@@ -53,7 +53,7 @@ related_terms:
 </tr>
 <tr>
   <td>YouTube processing</td>
-  <td>Transcoding and distribution add necessary platform delay</td>
+  <td><a href="/glossary/transcoding/">Transcoding</a> and distribution add necessary platform delay</td>
 </tr>
 <tr>
   <td>Latency mode</td>
@@ -174,7 +174,7 @@ related_terms:
 </div>
 
 <h3>Frequently asked questions</h3>
-<h4>How many seconds of delay does YouTube Live have?</h4>
+<h4>How many seconds of delay does <a href="/glossary/youtube-live/">YouTube Live</a> have?</h4>
 <p>It depends on the selected mode and the individual viewer. YouTube says most Low Latency viewers experience less than 10 seconds and most Ultra-low viewers experience less than five seconds. It gives no fixed Normal Latency duration.</p>
 <h4>Can viewers change a YouTube stream's latency mode?</h4>
 <p>No. The creator selects the mode for an eligible encoder stream. Viewers can still move farther behind by pausing, buffering, or using DVR, and may return closer to live through the player.</p>

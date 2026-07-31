@@ -20,7 +20,7 @@ permalink: /glossary/affiliate-commission/
 <li>Product tag purchase</li>
 <li>Another program-defined conversion</li>
 </ul>
-<p>Commission is earned according to the <a href="/glossary/affiliate-marketing">affiliate program</a>'s attribution and validation rules—not simply because someone clicked an <a href="/glossary/affiliate-link">affiliate link</a>.</p>
+<p>Commission is earned according to the <a href="/glossary/affiliate-marketing">affiliate program</a>'s <a href="/glossary/attribution/">attribution</a> and validation rules—not simply because someone clicked an <a href="/glossary/affiliate-link">affiliate link</a>.</p>
 <h3>Common affiliate commission structures</h3>
 <h4>Percentage of sale</h4>
 <p>The affiliate receives a percentage of commissionable revenue.</p>
@@ -43,7 +43,7 @@ permalink: /glossary/affiliate-commission/
 <p>The program pays a higher rate for customers who have not previously purchased or subscribed.</p>
 <h4>Custom commission</h4>
 <p>A brand offers an individual creator a different rate than the standard public program.</p>
-<p>YouTube Shopping currently allows participating merchants to offer eligible creators custom commission rates for specified campaigns or products.</p>
+<p><a href="/glossary/youtube-shopping/">YouTube Shopping</a> currently allows participating merchants to offer eligible creators custom commission rates for specified campaigns or products.</p>
 <h3>Affiliate commission vs. related payments</h3>
 <table>
 <thead>
@@ -65,7 +65,7 @@ permalink: /glossary/affiliate-commission/
   <td>Percentage of revenue</td>
 </tr>
 <tr>
-  <td>Flat sponsorship fee</td>
+  <td>Flat <a href="/glossary/sponsorship/">sponsorship</a> fee</td>
   <td>Agreed creator deliverable</td>
   <td>Fixed amount</td>
 </tr>
@@ -130,7 +130,7 @@ permalink: /glossary/affiliate-commission/
 <li>First click</li>
 <li>Coupon code</li>
 <li>Product tag</li>
-<li>View-through attribution</li>
+<li><a href="/glossary/view-through-attribution/">View-through attribution</a></li>
 <li>Multi-touch or position-based credit</li>
 <li>New-customer priority</li>
 <li>Preferred publisher rules</li>
@@ -179,7 +179,7 @@ permalink: /glossary/affiliate-commission/
 </ul>
 <h3>Affiliate commission disclosure</h3>
 <p>An affiliate commission is a financial relationship that may affect how viewers evaluate a recommendation.</p>
-<p>The FTC says a disclosure such as <strong>“Paid link”</strong> placed next to an affiliate link can adequately communicate the nature of the link. The FTC has also cautioned that <strong>“commissionable link”</strong> may not be clear to ordinary consumers.</p>
+<p>The FTC says a disclosure such as <strong>“Paid link”</strong> placed next to an <a href="/glossary/affiliate-link/">affiliate link</a> can adequately communicate the nature of the link. The FTC has also cautioned that <strong>“commissionable link”</strong> may not be clear to ordinary consumers.</p>
 <p>Use direct language such as:</p>
 <ul>
 <li>“I earn a commission from purchases made through these links.”</li>

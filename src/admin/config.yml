@@ -18,7 +18,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
-      - { label: "Author", name: "author", widget: "string", default: "Rob Miller" }
+      - { label: "Author", name: "author", widget: "string", default: "Rob Miller, EA" }
       - { label: "Description", name: "description", widget: "text" }
       - label: "Tags"
         name: "tags"

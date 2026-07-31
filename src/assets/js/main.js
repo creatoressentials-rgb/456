@@ -27,3 +27,11 @@ document.addEventListener('click', (e) => {
     document.querySelectorAll('.has-dropdown').forEach(d => d.classList.remove('open'));
   }
 });
+
+// Wrap article tables for horizontal scroll on mobile
+document.querySelectorAll('.article-body table').forEach(table => {
+  const wrap = document.createElement('div');
+  wrap.className = 'table-wrap';
+  table.parentNode.insertBefore(wrap, table);
+  wrap.appendChild(table);
+});

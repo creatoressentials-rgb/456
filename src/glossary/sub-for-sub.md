@@ -41,7 +41,7 @@ related_terms:
 <p>Risk of Termination: YouTube can issue strikes against channels that violate its policies. Accumulating strikes can lead to the channel's termination.</p>
 </li>
 <li>
-<p>No Genuine Value: Even if a channel gains subscribers through this method, these subscribers are unlikely to engage with the content, leading to a lack of real growth and reduced ad revenue.</p>
+<p>No Genuine Value: Even if a channel gains subscribers through this method, these subscribers are unlikely to engage with the content, leading to a lack of real growth and reduced <a href="/glossary/ad-revenue/">ad revenue</a>.</p>
 </li>
 </ul>
 

@@ -96,7 +96,7 @@ permalink: /glossary/late-fee/
 <li>Whether the creator may suspend work or publication</li>
 <li>Whether <a href="/glossary/content-licensing">content licensing</a> begins only after full payment</li>
 </ul>
-<h3>Payment terms creators should coordinate</h3>
+<h3><a href="/glossary/payment-terms/">Payment terms</a> creators should coordinate</h3>
 <p>A late-fee clause works best with clear provisions covering:</p>
 <h4>Deposit and milestones</h4>
 <p>A deposit can fund production and reduce the unpaid balance. Milestone payments prevent the creator from financing the entire campaign until the end.</p>
@@ -156,7 +156,7 @@ permalink: /glossary/late-fee/
 <li>Forbid creator remedies while allowing broad brand penalties</li>
 <li>Make the creator responsible for every bank or currency-conversion fee</li>
 <li>Allow the brand to change payment terms unilaterally</li>
-<li>Grant usage rights before any payment is received</li>
+<li>Grant <a href="/glossary/usage-rights/">usage rights</a> before any payment is received</li>
 </ul>
 <h3>Related terms</h3>
 <p><a href="/glossary/kill-fee">Kill Fee</a>, <a href="/glossary/deliverables">Deliverables</a>, <a href="/glossary/approval-process">Approval Process</a>, <a href="/glossary/content-licensing">Content Licensing</a>, <a href="/glossary/content-ownership">Content Ownership</a>, and <a href="/glossary/creator-rate-card">Creator Rate Card</a></p>

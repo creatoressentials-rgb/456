@@ -63,7 +63,7 @@ related_terms:
 <h3>How aperture changes exposure</h3>
 <p>A wider aperture allows more light to reach the sensor during each frame. A narrower aperture allows less. This affects the brightness of the recorded image unless another exposure setting compensates for the change.</p>
 <p>The traditional full-stop sequence includes f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, and f/22. Moving one full stop toward a wider opening doubles the light. Moving one full stop toward a narrower opening halves it. Modern cameras also offer half-stop or one-third-stop increments between these values.</p>
-<p>Aperture is only one part of exposure. Shutter speed and ISO also affect how the camera records light. For video, however, creators often keep shutter speed tied to frame rate for natural-looking motion. That makes aperture, ISO, lighting, and neutral-density filters especially important exposure tools.</p>
+<p>Aperture is only one part of exposure. <a href="/glossary/shutter-speed/">Shutter speed</a> and <a href="/glossary/iso/">ISO</a> also affect how the camera records light. For video, however, creators often keep shutter speed tied to <a href="/glossary/frame-rate-fps/">frame rate</a> for natural-looking motion. That makes aperture, ISO, lighting, and neutral-density filters especially important exposure tools.</p>
 <h3>How aperture affects depth of field</h3>
 <p>Aperture helps determine how much of the scene in front of and behind the focused distance appears acceptably sharp.</p>
 <ul>
@@ -129,7 +129,7 @@ related_terms:
   <td>Helps keep more of a three-dimensional object in focus</td>
 </tr>
 <tr>
-  <td>Handheld vlog</td>
+  <td>Handheld <a href="/glossary/vlog/">vlog</a></td>
   <td style="text-align:right">f/4–f/8</td>
   <td>Provides focus tolerance when camera distance changes</td>
 </tr>
@@ -148,8 +148,8 @@ related_terms:
 <p>These are starting points, not platform rules. A small sensor, wide-angle lens, or greater camera distance can produce deep focus even at a fairly wide aperture. A long lens focused closely can produce shallow focus at f/5.6.</p>
 <h3>Why video creators use ND filters</h3>
 <p>Outdoor video can be too bright when a creator wants a wide aperture. Raising the shutter speed would darken the exposure, but it can also make motion look sharper or more staccato than intended.</p>
-<p>A neutral-density filter reduces the light entering the lens without requiring the creator to close the aperture or radically change shutter speed. This lets the camera preserve a preferred depth of field and motion rendering in bright conditions.</p>
-<p>An ND filter is not a substitute for correct exposure judgment. Strong variable ND filters can introduce color shifts or uneven dark patterns, especially near their maximum setting. Creators should test the filter and watch the image rather than relying only on the printed stop rating.</p>
+<p>A neutral-density filter reduces the light entering the lens without requiring the creator to close the aperture or radically change shutter speed. This lets the camera preserve a preferred depth of field and motion <a href="/glossary/rendering/">rendering</a> in bright conditions.</p>
+<p>An <a href="/glossary/nd-filter/">ND filter</a> is not a substitute for correct exposure judgment. Strong variable ND filters can introduce color shifts or uneven dark patterns, especially near their maximum setting. Creators should test the filter and watch the image rather than relying only on the printed stop rating.</p>
 <h3>Aperture and image sharpness</h3>
 <p>A lens is not necessarily sharpest at its widest or narrowest aperture.</p>
 <ul>

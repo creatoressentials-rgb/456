@@ -11,7 +11,7 @@ permalink: /glossary/patreon-membership-model/
 <p><strong>Patreon</strong> is one platform creators can use to operate that model. It is not the model itself.</p>
 <p>Creators can also run memberships through:</p>
 <ul>
-<li>YouTube channel memberships</li>
+<li>YouTube <a href="/glossary/channel-memberships/">channel memberships</a></li>
 <li>Newsletter platforms</li>
 <li>Podcast memberships</li>
 <li>Community software</li>
@@ -30,7 +30,7 @@ permalink: /glossary/patreon-membership-model/
 <li>The creator continues delivering the membership experience.</li>
 <li>The platform processes renewals.</li>
 <li>The member remains active, upgrades, downgrades, or cancels.</li>
-<li>The creator tracks retention, costs, and member feedback.</li>
+<li>The creator tracks <a href="/glossary/retention/">retention</a>, costs, and member feedback.</li>
 </ol>
 <p>Unlike a one-time <a href="/glossary/digital-product">digital product</a>, a membership must continue providing enough value for members to renew.</p>
 <h3>Patreon vs. the general membership model</h3>
@@ -189,7 +189,7 @@ permalink: /glossary/patreon-membership-model/
 <li>Member dissatisfaction if benefits change</li>
 <li>Taxes and fees recognized differently from creator expectations</li>
 </ul>
-<p>Annual payment is still recurring revenue when the membership is expected to renew, but annual cash received should not be confused with one month's earned business performance.</p>
+<p>Annual payment is still <a href="/glossary/recurring-revenue/">recurring revenue</a> when the membership is expected to renew, but annual cash received should not be confused with one month's earned business performance.</p>
 <h3>Patreon fees and net revenue</h3>
 <p>Membership price is not the amount the creator keeps.</p>
 <p>Potential deductions include:</p>
@@ -241,7 +241,7 @@ permalink: /glossary/patreon-membership-model/
 </table>
 <p>Some fans describe Patreon payments as donations, but the platform relationship commonly includes access, benefits, or ongoing membership.</p>
 <p>Creators should also avoid assuming that calling a payment a donation gives it charitable tax treatment.</p>
-<h3>Patreon vs. YouTube channel memberships</h3>
+<h3>Patreon vs. <a href="/glossary/youtube-channel/">YouTube channel</a> memberships</h3>
 <table>
 <thead>
 <tr>

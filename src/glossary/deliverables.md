@@ -13,7 +13,7 @@ related_terms:
 
 <h2>Deliverables</h2>
 <p><strong>Deliverables</strong> are the specific content assets, services, actions, or reports that a creator agrees to provide as part of a project or <a href="/glossary/brand-deal/">brand deal</a>. They turn a general campaign idea into a measurable scope of work.</p>
-<p>Examples include one 60-second YouTube integration, one dedicated sponsored video, three Shorts, a thumbnail, a set of raw vertical clips, a livestream appearance, a link in the description, or a post-campaign analytics report.</p>
+<p>Examples include one 60-second YouTube integration, one dedicated <a href="/glossary/sponsored-video/">sponsored video</a>, three Shorts, a thumbnail, a set of raw vertical clips, a livestream appearance, a link in the description, or a post-campaign analytics report.</p>
 <p>The deliverables should be written into the contract or statement of work rather than left as informal assumptions in email. Creator-campaign systems commonly use a statement of work to connect compensation with the content types, platforms, tasks, rights, and deadlines assigned to a creator.</p>
 <h3>What makes a deliverable specific?</h3>
 <p>A well-written deliverable answers the questions needed to know whether the work has been completed:</p>
@@ -29,7 +29,7 @@ related_terms:
 <li><strong>How long must it remain live?</strong> Permanent, minimum term, or specified end date</li>
 <li><strong>What proof is required?</strong> Published URL, screenshots, source files, or analytics report</li>
 </ul>
-<p>“Make one YouTube video” is vague. “Create and publish one 8–12 minute 16:9 YouTube video containing a 60–90 second mid-video product integration, verbal and on-screen sponsorship disclosure, tracked description link, one consolidated revision round, and 30-day performance report” is much more actionable.</p>
+<p>“Make one YouTube video” is vague. “Create and publish one 8–12 minute 16:9 YouTube video containing a 60–90 second mid-video product integration, verbal and on-screen <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a>, tracked description link, one consolidated revision round, and 30-day performance report” is much more actionable.</p>
 <h3>Common creator deliverables</h3>
 <h4>Published content</h4>
 <ul>
@@ -66,7 +66,7 @@ related_terms:
 <li>Published URLs</li>
 <li>Screenshots of platform metrics</li>
 <li>Views, watch time, engagement, clicks, or conversions after a stated reporting period</li>
-<li>Audience demographics when permitted</li>
+<li><a href="/glossary/audience-demographics/">Audience demographics</a> when permitted</li>
 <li>Campaign recap or creative learnings</li>
 </ul>
 <h3>Deliverable vs. milestone, outcome, and usage right</h3>
@@ -114,7 +114,7 @@ related_terms:
 <p>A campaign may measure views or sales, but those results are not automatically promised deliverables. Organic distribution is affected by audience behavior and platform systems. A creator should not guarantee a performance outcome unless the agreement intentionally creates that obligation and explains the remedy.</p>
 <h3>How deliverables connect to the brief and contract</h3>
 <p>The <a href="/glossary/campaign-brief/">campaign brief</a> explains the campaign objective, audience, message, and schedule. The <a href="/glossary/creative-brief/">creative brief</a> directs the concept, tone, claims, and execution.</p>
-<p>The contract or statement of work should identify the binding deliverables, compensation, rights, deadlines, approval process, cancellation terms, and other business obligations. A brief may be incorporated into the agreement, but an informal brief alone can leave critical terms unresolved.</p>
+<p>The contract or statement of work should identify the binding deliverables, compensation, rights, deadlines, <a href="/glossary/approval-process/">approval process</a>, cancellation terms, and other business obligations. A brief may be incorporated into the agreement, but an informal brief alone can leave critical terms unresolved.</p>
 <h3>How to write a YouTube integration deliverable</h3>
 <p>A YouTube integration can specify:</p>
 <ul>
@@ -148,7 +148,7 @@ related_terms:
 <h3>Deliverables and scope changes</h3>
 <p>A requested change is more likely to be new scope when it adds an asset, changes the concept after approval, requires reshooting for a new message, changes the platform or format, expands rights, shortens the deadline, or introduces a new stakeholder’s requirements.</p>
 <p>The creator and brand can handle new scope through a written change order that updates the fee, deliverables, schedule, and rights. This is more professional than arguing after the work has already been completed.</p>
-<h3>Deliverables and usage rights</h3>
+<h3>Deliverables and <a href="/glossary/usage-rights/">usage rights</a></h3>
 <p>Delivering a file does not automatically transfer ownership or unlimited usage rights. The agreement should separately state:</p>
 <ul>
 <li>Who owns the finished content and source materials</li>

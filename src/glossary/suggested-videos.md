@@ -15,9 +15,9 @@ related_terms:
 <p><strong>Quick answer:</strong> Suggested Videos is the YouTube Analytics traffic source that tracks views coming from the recommendations shown next to or after another video — the sidebar on desktop, the "Up Next" queue, and the autoplay-into-next-video moment. It also includes clicks on links inside your video descriptions. It's a "push" source: viewers didn't search for your video, YouTube served it to them because it judged your video the best next watch.</p>
 
 <h3>What Suggested Videos actually is</h3>
-<p>Open <strong>YouTube Studio → Analytics → Reach</strong>, and "Suggested videos" shows up as its own line item. It covers:</p>
+<p>Open <strong><a href="/glossary/youtube-studio/">YouTube Studio</a> → Analytics → Reach</strong>, and "Suggested videos" shows up as its own line item. It covers:</p>
 <ul>
-<li>The recommended thumbnails next to the player on desktop</li>
+<li>The recommended <a href="/glossary/youtube-thumbnails/">thumbnails</a> next to the player on desktop</li>
 <li>The queue below the video on mobile</li>
 <li>What autoplays when a video ends</li>
 <li>Clicks on links placed inside a video's description</li>
@@ -25,7 +25,7 @@ related_terms:
 <p>That last point trips a lot of creators up: a click from your own description link is counted as <strong>Suggested videos</strong> traffic, not External. If you've ever wondered why sending viewers to another of your videos via the description doesn't show up under External, that's why.</p>
 
 <h3>How it's different from Browse Features and Search</h3>
-<p>All three are "traffic sources" in the Reach tab, but they answer different questions:</p>
+<p>All three are "<a href="/glossary/traffic-sources/">traffic sources</a>" in the Reach tab, but they answer different questions:</p>
 <ul>
 <li><strong><a href="/glossary/browse-features/">Browse Features</a></strong> is anchored on a viewer's broader watch history and interests — it's what shows up on their Home feed, subscriptions, and Watch Later. It's push traffic to people who weren't watching anything specific in that moment.</li>
 <li><strong>Search</strong> is pull traffic — someone typed a query and chose your video from results.</li>
@@ -39,18 +39,18 @@ related_terms:
 <li><strong>Topical adjacency</strong> — your video covers a related topic to the one currently playing.</li>
 <li><strong>Collaborative filtering (co-visitation)</strong> — viewers who watched Video A tend to also watch Video B, so YouTube links the two.</li>
 </ol>
-<p>Layered on top of that, YouTube's performance signals decide whether a placement sticks: whether people choose to click (appeal/CTR), whether they stay and watch (retention), and whether they seemed satisfied afterward. A video that earns the click but doesn't hold attention gets pulled back out of rotation quickly.</p>
-<p>One quirk worth knowing: CTR on suggested placements naturally drops as a video gets shown more widely, because it's reaching a broader, lower-intent audience each time. A falling CTR alongside climbing views/impressions on this source is normal scaling, not a sign your video is failing.</p>
+<p>Layered on top of that, YouTube's performance signals decide whether a placement sticks: whether people choose to click (appeal/<a href="/glossary/youtube-impressions/">CTR</a>), whether they stay and watch (<a href="/glossary/retention/">retention</a>), and whether they seemed satisfied afterward. A video that earns the click but doesn't hold attention gets pulled back out of rotation quickly.</p>
+<p>One quirk worth knowing: <a href="/glossary/click-through-rate/">CTR</a> on suggested placements naturally drops as a video gets shown more widely, because it's reaching a broader, lower-intent audience each time. A falling CTR alongside climbing views/impressions on this source is normal scaling, not a sign your video is failing.</p>
 
 <h3>How to earn more Suggested Videos traffic</h3>
 <ul>
-<li><strong>Make companion content, not one-offs.</strong> If a video in your niche is doing big numbers, the natural next watches are the follow-up angle, the mistakes video, the advanced version. Aim to be the logical step two, not a duplicate.</li>
+<li><strong>Make companion content, not one-offs.</strong> If a video in your <a href="/glossary/niche/">niche</a> is doing big numbers, the natural next watches are the follow-up angle, the mistakes video, the advanced version. Aim to be the logical step two, not a duplicate.</li>
 <li><strong>Build thematic clusters.</strong> A run of tightly related videos lets your own catalog suggest itself — each video becomes a plausible "next watch" for the others.</li>
-<li><strong>Use end screens.</strong> They appear in the last 5–20 seconds of a video and are one of the few places you can point YouTube's own "up next" logic toward your related content.</li>
+<li><strong>Use <a href="/glossary/end-screens/">end screens</a>.</strong> They appear in the last 5–20 seconds of a video and are one of the few places you can point YouTube's own "up next" logic toward your related content.</li>
 <li><strong>Use cards</strong> to surface a related video mid-watch without breaking the current session.</li>
 <li><strong>Build playlists.</strong> Playlists chain one watch into the next, which extends session time — and session time strengthens co-visitation signals in your favor.</li>
 <li><strong>Keep description links intentional, not spammy.</strong> They count toward this source, so use them to point at your actual next-best video, not a wall of unrelated links.</li>
-<li><strong>Protect your "neighborhood."</strong> If a one-off viral video pulls in an audience whose normal habits are totally different from your regular viewers, it can shift your co-visitation data and start suggesting your channel to the wrong crowd. Staying consistent on topic protects the signal long-term.</li>
+<li><strong>Protect your "neighborhood."</strong> If a one-off <a href="/glossary/viral/">viral</a> video pulls in an audience whose normal habits are totally different from your <a href="/glossary/regular-viewers/">regular viewers</a>, it can shift your co-visitation data and start suggesting your channel to the wrong crowd. Staying consistent on topic protects the signal long-term.</li>
 </ul>
 <p>What doesn't move the needle much here: tags and keyword stuffing. Suggested placement is driven by topic relevance and viewer behavior, not metadata tricks — save the keyword work for Search.</p>
 

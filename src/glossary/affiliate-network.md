@@ -6,15 +6,15 @@ permalink: /glossary/affiliate-network/
 
 ---
 
-<h2>Affiliate Network</h2>
+<h2>Affiliate <a href="/glossary/dropped-frames/">Network</a></h2>
 <p>An <strong>affiliate network</strong> is a company or platform that connects advertisers with affiliates and provides infrastructure for managing affiliate relationships.</p>
 <p>A network may help with:</p>
 <ul>
 <li>Advertiser discovery</li>
 <li>Affiliate applications</li>
 <li><a href="/glossary/affiliate-link">Affiliate link</a> generation</li>
-<li>Click and conversion tracking</li>
-<li>Attribution</li>
+<li>Click and <a href="/glossary/conversion-tracking/">conversion tracking</a></li>
+<li><a href="/glossary/attribution/">Attribution</a></li>
 <li>Commission calculation</li>
 <li>Reporting</li>
 <li>Payments</li>
@@ -23,7 +23,7 @@ permalink: /glossary/affiliate-network/
 <li>Program communication</li>
 <li>Technical support</li>
 </ul>
-<p>The network is not the same as the individual advertiser's affiliate program.</p>
+<p>The network is not the same as the individual advertiser's <a href="/glossary/affiliate-program/">affiliate program</a>.</p>
 <h3>How an affiliate network works</h3>
 <p>A typical process is:</p>
 <ol>
@@ -103,8 +103,8 @@ permalink: /glossary/affiliate-network/
   <td>Creator search, workflow, content approval, and campaign reporting</td>
 </tr>
 <tr>
-  <td>Multi-channel network</td>
-  <td>YouTube channel services and revenue participation</td>
+  <td><a href="/glossary/multi-channel-network/">Multi-channel network</a></td>
+  <td><a href="/glossary/youtube-channel/">YouTube channel</a> services and revenue participation</td>
 </tr>
 <tr>
   <td>Ad network</td>
@@ -132,7 +132,7 @@ permalink: /glossary/affiliate-network/
 <li>Product feeds</li>
 <li>App-install tracking</li>
 <li>Call tracking</li>
-<li>View-through attribution</li>
+<li><a href="/glossary/view-through-attribution/">View-through attribution</a></li>
 <li>Cross-device systems</li>
 <li>Advertiser transaction imports</li>
 </ul>

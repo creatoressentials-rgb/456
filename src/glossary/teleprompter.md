@@ -115,7 +115,7 @@ related_terms:
 </tr>
 </tbody>
 </table>
-<p>Creators do not need to choose one method for an entire video. A tutorial might use a full script for the opening, bullet points for demonstrations, and an exact teleprompter read for a sponsorship disclosure.</p>
+<p>Creators do not need to choose one method for an entire video. A tutorial might use a full script for the opening, bullet points for demonstrations, and an exact teleprompter read for a <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a>.</p>
 <h3>When a teleprompter is useful</h3>
 <p>A teleprompter is especially helpful when a creator needs to:</p>
 <ul>
@@ -138,7 +138,7 @@ related_terms:
 <li>Spell difficult names phonetically when needed.</li>
 <li>Put numbers into a form that is easy to say aloud.</li>
 <li>Add line breaks before important transitions.</li>
-<li>Mark pauses, emphasis, gestures, visual changes, or B-roll cues.</li>
+<li>Mark pauses, emphasis, gestures, visual changes, or <a href="/glossary/b-roll/">B-roll</a> cues.</li>
 <li>Remove phrases that look good on a page but feel unnatural aloud.</li>
 <li>Read the script out loud before loading it into the prompter.</li>
 </ul>
@@ -210,7 +210,7 @@ related_terms:
 </ol>
 <p>Zoom lenses can extend during use, so creators should confirm that the front element will not strike the glass at any focal length.</p>
 <h3>Camera and lens considerations</h3>
-<p>Teleprompters can work with webcams, phones, camcorders, and a <a href="/glossary/mirrorless-camera/">mirrorless camera</a>, but the mounting method differs.</p>
+<p>Teleprompters can work with <a href="/glossary/webcams/">webcams</a>, phones, <a href="/glossary/camcorders/">camcorders</a>, and a <a href="/glossary/mirrorless-camera/">mirrorless camera</a>, but the mounting method differs.</p>
 <p>Important checks include:</p>
 <ul>
 <li>Lens diameter and compatible step-up rings.</li>
@@ -224,7 +224,7 @@ related_terms:
 <p>Very wide focal lengths and cameras positioned too far behind a small prompter can produce vignetting. Test the exact camera-and-lens combination before recording an important production.</p>
 <h3>Lighting and reflections</h3>
 <p>The glass can reveal reflections if bright sources strike it from the wrong angle. Keep room lights, windows, and displays from reflecting into the camera side of the prompter.</p>
-<p>The subject still needs proper lighting. Set the lights, <a href="/glossary/color-temperature/">color temperature</a>, exposure, and white balance while the teleprompter is installed because the glass and hood become part of the optical setup.</p>
+<p>The subject still needs proper lighting. Set the lights, <a href="/glossary/color-temperature/">color temperature</a>, exposure, and <a href="/glossary/white-balance/">white balance</a> while the teleprompter is installed because the glass and hood become part of the optical setup.</p>
 <p>Useful precautions include:</p>
 <ul>
 <li>Clean both sides of the glass with an approved method.</li>

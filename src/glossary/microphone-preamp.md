@@ -17,7 +17,7 @@ related_terms:
 <p>A microphone preamp is a device that amplifies the low-level audio signal produced by a microphone, bringing it to a usable line level for further processing or recording. Without a preamp, the sound captured by your microphone may be too quiet and lack clarity, making it difficult to work with in editing or mixing.</p>
 
 <p><br>
-Preamps also help to reduce noise introduced during the audio signal chain, ensuring cleaner sound quality. A preamp is essential for condenser microphones as it provides phantom power (48V), which these microphones require to operate.</p>
+Preamps also help to reduce noise introduced during the audio signal chain, ensuring cleaner sound quality. A preamp is essential for <a href="/glossary/condenser-microphones/">condenser microphones</a> as it provides <a href="/glossary/phantom-power/">phantom power</a> (48V), which these microphones require to operate.</p>
 
 <h2>When Should I Use a Microphone Preamp?</h2>
 
@@ -25,11 +25,11 @@ Preamps also help to reduce noise introduced during the audio signal chain, ensu
 
 <ol>
 <li>
-<p>With XLR Microphones:</p>
+<p>With <a href="/glossary/xlr/">XLR</a> Microphones:</p>
 
 <ul>
 <li>
-<p>If you’re using an XLR microphone (both dynamic and condenser), you’ll need a preamp to amplify the signal before it reaches your recording device or audio interface.</p>
+<p>If you’re using an <a href="/glossary/xlr-microphone/">XLR microphone</a> (both dynamic and condenser), you’ll need a preamp to amplify the signal before it reaches your recording device or <a href="/glossary/audio-interface/">audio interface</a>.</p>
 </li>
 </ul>
 </li>

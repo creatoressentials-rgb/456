@@ -124,7 +124,7 @@ related_terms:
 <p><strong>Secondary correction</strong> targets part of the image. It may use a color qualifier, luminance key, mask, tracked window, depth map, or subject selection.</p>
 <p>The terms do not mean first-quality and second-quality correction. They describe the scope of the adjustment.</p>
 <h3>LUTs and color correction</h3>
-<p>A LUT, or lookup table, maps input color values to output values. LUTs can be useful for technical transforms, monitoring, or creative starting points, but they do not analyze the clip.</p>
+<p>A <a href="/glossary/lut/">LUT</a>, or lookup table, maps input color values to output values. LUTs can be useful for technical transforms, monitoring, or creative starting points, but they do not analyze the clip.</p>
 <p>A LUT cannot know that one shot is underexposed, another has the wrong <a href="/glossary/color-temperature/">color temperature</a>, and a third contains clipped highlights. Applying the same LUT to every clip does not replace correction and shot matching.</p>
 <p>Technical camera LUTs also expect specific input conditions. A LUT designed for one Log curve or color space may produce incorrect contrast and color when applied to a different format.</p>
 <h3>Common color-correction mistakes</h3>

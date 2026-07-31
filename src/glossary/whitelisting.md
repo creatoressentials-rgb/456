@@ -10,7 +10,7 @@ permalink: /glossary/whitelisting/
 <p><strong>Whitelisting</strong> is creator-marketing shorthand for giving an advertiser permission to run paid advertising using a creator's account identity, handle, post, or authorized content.</p>
 <p>The term is not one standardized platform feature. Current platforms use different names and controls:</p>
 <ul>
-<li>Meta uses <strong>partnership ads</strong></li>
+<li>Meta uses <strong><a href="/glossary/partnership-ads/">partnership ads</a></strong></li>
 <li>TikTok uses <strong>Spark Ads</strong></li>
 <li>YouTube uses <strong>brand partner access</strong> and creator partnership promotion</li>
 <li>Other platforms may use allowlisting, boosting, creator licensing, or ad authorization</li>
@@ -28,7 +28,7 @@ permalink: /glossary/whitelisting/
 <li>Generate data for campaign optimization</li>
 <li>Extend the useful life of successful creator content</li>
 </ul>
-<p>This added advertising value is why whitelisting is normally negotiated separately from the fee for producing and publishing sponsored content.</p>
+<p>This added advertising value is why whitelisting is normally negotiated separately from the fee for producing and publishing <a href="/glossary/sponsored-content/">sponsored content</a>.</p>
 <h3>What whitelisting can mean</h3>
 <p>The phrase may refer to several different arrangements.</p>
 <h4>Promoting an existing creator post</h4>
@@ -89,7 +89,7 @@ permalink: /glossary/whitelisting/
 </tr>
 </tbody>
 </table>
-<p>Whitelisting is usually a way to implement paid usage. It is not the complete legal agreement.</p>
+<p>Whitelisting is usually a way to implement <a href="/glossary/paid-usage/">paid usage</a>. It is not the complete legal agreement.</p>
 <h3>Meta partnership ads</h3>
 <p>Meta says partnership ads allow advertisers to run ads with creators, brands, and other partners. The advertiser needs permission from the partner whose handle the ad will run from.</p>
 <p>Depending on Meta's current tools, permission may be:</p>
@@ -231,4 +231,4 @@ permalink: /glossary/whitelisting/
 <h4>Is whitelisting still the current Meta term?</h4>
 <p>Meta's current product name is partnership ads. Whitelisting remains common industry shorthand but can be ambiguous.</p>
 <h4>Can a creator stop whitelisted ads?</h4>
-<p>Platform permissions can often be revoked, but the creator should follow the agreed contract term. The agreement should also require the advertiser to stop ads when permission or usage rights end.</p>
+<p>Platform permissions can often be revoked, but the creator should follow the agreed contract term. The agreement should also require the advertiser to stop ads when permission or <a href="/glossary/usage-rights/">usage rights</a> end.</p>

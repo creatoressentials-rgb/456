@@ -50,7 +50,7 @@ related_terms:
 
 <h3>How to monetize YouTube Shorts?</h3>
 
-<p>YouTube Shorts can be monetized through the YouTube Partner Program (YPP). Creators in the YPP can earn revenue from ads displayed in the Shorts feed, with creators receiving 45% of the designated revenue after covering music licensing costs​.</p>
+<p>YouTube Shorts can be monetized through the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> (YPP). Creators in the YPP can earn revenue from ads displayed in the Shorts feed, with creators receiving 45% of the designated revenue after covering music licensing costs​.</p>
 
 <h3>How can I move the audience from Shorts to additional content on YouTube?</h3>
 
@@ -65,5 +65,5 @@ related_terms:
 <h3>How long can YouTube Shorts captions be?</h3>
 
 <p>Captions for YouTube Shorts can be up to 100 characters long, while descriptions can accommodate up to 5,000 characters​.</p>
-<p>How many hashtags can be added to YouTube Shorts?</p>
+<p>How many <a href="/glossary/hashtags/">hashtags</a> can be added to YouTube Shorts?</p>
 <p>While there is no strict limit, it is recommended to use hashtags judiciously, ideally not more than 15 per Short, to ensure optimal discoverability and relevance​.</p>

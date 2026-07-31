@@ -7,7 +7,7 @@ related_terms:
   - youtube-video-chapters
 ---
 
-<p>B-Roll refers to the secondary footage used in video productions to complement the primary footage, known as A-Roll. Originating from the early days of Hollywood, B-Roll was initially an additional roll of film used for cutaway shots and transitions. In modern video production, it encompasses various shots that add context, depth, and visual interest to the main narrative.</p>
+<p>B-Roll refers to the secondary footage used in video productions to complement the primary footage, known as <a href="/glossary/a-roll/">A-Roll</a>. Originating from the early days of Hollywood, B-Roll was initially an additional roll of film used for cutaway shots and transitions. In modern video production, it encompasses various shots that add context, depth, and visual interest to the main narrative.</p>
 <p>B-Roll can include establishing shots, close-ups, scenic views, and other visuals that enhance the storytelling experience.</p>
 
 <h2>What is an example of B-roll?</h2>
@@ -38,7 +38,7 @@ related_terms:
 
 <h2>Where Can I Find B-roll Online?</h2>
 
-<p>B-Roll footage can be sourced from various online platforms if not captured during the initial shoot. There are numerous free and premium stock footage websites where one can find high-quality B-Roll clips suitable for different types of video projects. Some popular sources include:</p>
+<p>B-Roll footage can be sourced from various online platforms if not captured during the initial shoot. There are numerous free and premium <a href="/glossary/stock-footage/">stock footage</a> websites where one can find high-quality B-Roll clips suitable for different types of video projects. Some popular sources include:</p>
 <ul>
 <li>
 <p>Free Stock Footage Websites: Sites like Pixabay, Pexels, and Unsplash provide free B-Roll clips that can be used in various projects.</p>
@@ -48,4 +48,4 @@ related_terms:
 </li>
 </ul>
 
-<p>When selecting B-Roll from these sources, it's important to ensure that the style and quality of the footage match the main project and that the usage rights are clear, whether it's royalty-free or requires a specific license.</p>
+<p>When selecting B-Roll from these sources, it's important to ensure that the style and quality of the footage match the main project and that the <a href="/glossary/usage-rights/">usage rights</a> are clear, whether it's royalty-free or requires a specific license.</p>

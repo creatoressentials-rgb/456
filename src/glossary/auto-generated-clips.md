@@ -15,7 +15,7 @@ related_terms:
 ---
 
 <h2>Auto-Generated Clips</h2>
-<p><strong>Auto-Generated Clips</strong> refers to YouTube's AI-assisted systems for surfacing short, "clippable" moments from longer videos and livestreams — most notably the <strong>AI-powered suggested clips</strong> inside the Video Clips tool in YouTube Studio, which scans a creator's own long-form video and recommends highlight segments a creator can publish as standalone videos. It's distinct from the older, manual, viewer-created "Clip" button, and distinct from Auto-Generated Shorts, a separate AI feature that turns livestream highlights into vertical Shorts.</p>
+<p><strong>Auto-Generated Clips</strong> refers to YouTube's AI-assisted systems for surfacing short, "clippable" moments from longer videos and livestreams — most notably the <strong>AI-powered suggested clips</strong> inside the Video Clips tool in <a href="/glossary/youtube-studio/">YouTube Studio</a>, which scans a creator's own long-form video and recommends highlight segments a creator can publish as standalone videos. It's distinct from the older, manual, viewer-created "Clip" button, and distinct from <a href="/glossary/auto-generated-shorts/">Auto-Generated Shorts</a>, a separate AI feature that turns livestream highlights into vertical Shorts.</p>
 <p>Because YouTube has shipped several overlapping "clip" features over the past few years, the terminology gets muddled fast. This entry untangles what's actually automated, what's manual, what changed in 2026, and what it means for creators trying to grow a channel.</p>
 
 <h3>The three systems people mean when they say "YouTube Clips"</h3>
@@ -55,7 +55,7 @@ related_terms:
 <ol>
 <li>A creator opens an existing long-form video (or an archived livestream) in <strong>YouTube Studio → Content → Videos</strong>, then selects the <strong>Clips</strong> tab and <strong>Create video clip</strong>.</li>
 <li>If the video qualifies for AI suggestions, YouTube surfaces a list of <strong>AI-powered suggested clips</strong> — highlight moments it has already identified — along with an AI-generated outline of the transcript to help the creator navigate the source video.</li>
-<li>The creator can accept a suggested clip as-is, or adjust its start/end point using the transcript or timeline. Manual clipping (selecting transcript text, or setting start/end points by word or timestamp) is also available for every video, whether or not AI suggestions are offered.</li>
+<li>The creator can accept a suggested clip as-is, or adjust its start/end point using the transcript or <a href="/glossary/timeline/">timeline</a>. Manual clipping (selecting transcript text, or setting start/end points by word or timestamp) is also available for every video, whether or not AI suggestions are offered.</li>
 <li>The result is uploaded like any other video, complete with its own title, description, and upload dialog — including the option to add an intro/outro clip.</li>
 </ol>
 <p><strong>Eligibility note:</strong> AI-powered suggested clips are currently limited to <strong>English-language videos in a podcast playlist</strong>, and only in the US, Canada, Brazil, Mexico, the UK, Spain, Germany, France, India, and Korea. Manual clipping via the same tool, however, is available globally, for all videos, to all creators.</p>
@@ -131,7 +131,7 @@ related_terms:
 </div>
 
 <h3>FAQ</h3>
-<h4>Is "Auto-Generated Clips" the same as YouTube Shorts?</h4>
+<h4>Is "Auto-Generated Clips" the same as <a href="/glossary/youtube-shorts/">YouTube Shorts</a>?</h4>
 <p>No. The Video Clips tool (with AI-powered suggested clips) publishes standard 16:9 videos, not Shorts. YouTube's separate Auto-Generated Shorts feature is what turns livestream highlights into vertical Shorts — a different tool, a different output format, and a different source (livestreams specifically).</p>
 <h4>Can viewers still clip my videos?</h4>
 <p>Not through the old Clip button — YouTube discontinued the ability to create new viewer-made Clips starting in April 2026. Existing Clips made before the change remain viewable. Viewers can still share a specific moment using Share at Timestamp, and creators can publish their own clips via the Video Clips tool in Studio.</p>

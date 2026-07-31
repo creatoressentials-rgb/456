@@ -7,7 +7,7 @@ permalink: /glossary/creator-agency/
 ---
 
 <h2>Creator Agency</h2>
-<p>A <strong>creator agency</strong> is a company that provides representation, campaign, production, growth, sales, or operational services within the creator economy.</p>
+<p>A <strong>creator agency</strong> is a company that provides representation, campaign, production, growth, sales, or operational services within the <a href="/glossary/creator-economy/">creator economy</a>.</p>
 <p>The phrase can describe several different businesses:</p>
 <ul>
 <li>Talent representation agency</li>
@@ -53,13 +53,13 @@ permalink: /glossary/creator-agency/
 <li>Channel strategy</li>
 <li>Production</li>
 <li>Analytics</li>
-<li>Sponsorship sales</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a> sales</li>
 <li>Commerce</li>
 <li>Rights management</li>
 </ul>
 <h4>Full-service agency</h4>
 <p>Combines representation, production, strategy, and business operations.</p>
-<h3>Creator agency vs. creator manager</h3>
+<h3>Creator agency vs. <a href="/glossary/creator-manager/">creator manager</a></h3>
 <table>
 <thead>
 <tr>
@@ -92,7 +92,7 @@ permalink: /glossary/creator-agency/
 </table>
 <p>A manager can work inside an agency. An agency can provide management without being the creator's exclusive representative.</p>
 <h3>Creator agency vs. MCN</h3>
-<p>YouTube defines a multi-channel network as a third-party provider affiliated with multiple channels.</p>
+<p>YouTube defines a <a href="/glossary/multi-channel-network/">multi-channel network</a> as a third-party provider affiliated with multiple channels.</p>
 <p>MCNs may provide:</p>
 <ul>
 <li>Audience development</li>
@@ -112,7 +112,7 @@ permalink: /glossary/creator-agency/
 <li>Campaign markup</li>
 <li>Production fee</li>
 <li>Media-buying fee</li>
-<li>Revenue share</li>
+<li><a href="/glossary/revenue-share/">Revenue share</a></li>
 <li>Success fee</li>
 <li>Hybrid arrangement</li>
 </ul>
@@ -174,7 +174,7 @@ permalink: /glossary/creator-agency/
 <li>Product experience</li>
 <li>Approval</li>
 <li>Platform paid-promotion tools</li>
-<li>Usage rights</li>
+<li><a href="/glossary/usage-rights/">Usage rights</a></li>
 <li>Reporting</li>
 </ul>
 <p>The FTC's endorsement guidance applies to advertisers and endorsers, and agencies can create risk when they instruct creators poorly.</p>

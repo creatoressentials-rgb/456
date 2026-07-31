@@ -13,7 +13,7 @@ related_terms:
 ---
 
 <h2>Peak Concurrent Viewers</h2>
-<p><strong>Peak Concurrent Viewers</strong> is the highest number of people who watched a YouTube live stream at the same time. It records the stream's largest simultaneous audience, even if that audience size lasted only briefly.</p>
+<p><strong>Peak Concurrent Viewers</strong> is the highest number of people who watched a <a href="/glossary/youtube-live/">YouTube live</a> stream at the same time. It records the stream's largest simultaneous audience, even if that audience size lasted only briefly.</p>
 <p>For example, if a stream moves from 80 viewers to 240 viewers and later falls to 150, its peak concurrent viewership is 240.</p>
 
 <h3>How Peak Concurrent Viewers is calculated</h3>
@@ -43,13 +43,13 @@ related_terms:
 <ul>
 <li><strong>While live:</strong> Monitor concurrent viewership and the current peak in <a href="/glossary/live-control-room/">Live Control Room</a>.</li>
 <li><strong>Immediately after:</strong> Review the post-stream analytics snapshot.</li>
-<li><strong>In YouTube Studio:</strong> Open the ended live stream and review its Analytics reports.</li>
+<li><strong>In <a href="/glossary/youtube-studio/">YouTube Studio</a>:</strong> Open the ended live stream and review its Analytics reports.</li>
 <li><strong>In Advanced Mode:</strong> Compare live streams, date ranges, and additional metrics, then export data when needed.</li>
 </ul>
 <p>YouTube says processed Analytics data may differ from the Live Control Room because Analytics is based on the video ID and is processed and despammed.</p>
 
 <h3>How to interpret a peak</h3>
-<p>A peak is most useful when connected to what happened at that moment. Review the stream timeline and identify whether the audience increase followed:</p>
+<p>A peak is most useful when connected to what happened at that moment. Review the stream <a href="/glossary/timeline/">timeline</a> and identify whether the audience increase followed:</p>
 <ul>
 <li>A notification or external promotion.</li>
 <li>A major announcement, guest, performance, or reveal.</li>
@@ -93,4 +93,4 @@ related_terms:
 <h4>Why did my peak concurrent number change after the stream?</h4>
 <p>YouTube Analytics processes and despams data after the broadcast. The finalized Analytics value can therefore differ from the number shown in Live Control Room.</p>
 <h4>Is peak or average concurrent viewership more important?</h4>
-<p>Neither replaces the other. Peak identifies the largest moment; average concurrency shows sustained audience size. Review both alongside watch time and retention.</p>
+<p>Neither replaces the other. Peak identifies the largest moment; average concurrency shows sustained audience size. Review both alongside watch time and <a href="/glossary/retention/">retention</a>.</p>

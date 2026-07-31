@@ -36,7 +36,7 @@ related_terms:
 <li>Select <strong>Embed</strong> from the share options.</li>
 <li>Copy the HTML code shown in the pop-up box.</li>
 <li>Paste the code into your website's HTML — in a text/HTML/code block, not a visual/rich-text editor (visual editors will often strip the <code>&lt;iframe&gt;</code> tag).</li>
-<li>If you're on a managed network, ask the network administrator to allowlist <code>youtube.com</code> (or <code>youtube-nocookie.com</code> if using Privacy-Enhanced Mode — see below) in the firewall, or the embed may fail to load for users on that network.</li>
+<li>If you're on a managed <a href="/glossary/dropped-frames/">network</a>, ask the network administrator to allowlist <code>youtube.com</code> (or <code>youtube-nocookie.com</code> if using Privacy-Enhanced Mode — see below) in the firewall, or the embed may fail to load for users on that network.</li>
 </ol>
 <p>For a responsive player that scales to any screen width, wrap the iframe in a container <code>div</code> and use CSS (<code>padding-bottom: 56.25%</code> for 16:9 video) rather than fixed pixel <code>width</code>/<code>height</code> values.</p>
 
@@ -102,7 +102,7 @@ related_terms:
 </tr>
 <tr>
 <td><code>cc_lang_pref</code></td>
-<td>ISO 639-1 code (e.g. <code>fr</code>)</td>
+<td><a href="/glossary/iso/">ISO</a> 639-1 code (e.g. <code>fr</code>)</td>
 <td>Sets default caption language (use with <code>cc_load_policy=1</code>).</td>
 <td>Active</td>
 </tr>
@@ -195,15 +195,15 @@ related_terms:
 <ul>
 <li><strong>View count</strong>: YouTube's own guidance states that embedded videos which are <em>autoplayed</em> do not increment the video's view count. A view counts when a viewer actively engages with playback, not simply because the page loaded with the video auto-running.</li>
 <li><strong>Watch time</strong>: Watch time accumulated from a properly embedded, <strong>public</strong> video counts toward the channel's total watch time, including <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> eligibility hours — the same as watch time from youtube.com or the mobile app.</li>
-<li><strong>Traffic source reporting</strong>: Plays from an embedded player show up in YouTube Analytics as their own <a href="/glossary/traffic-sources/">traffic source</a> category, distinct from search, suggested videos, or direct/channel traffic — useful for seeing how much of a video's performance comes from being embedded elsewhere versus watched on YouTube.</li>
+<li><strong>Traffic source reporting</strong>: Plays from an embedded player show up in YouTube Analytics as their own <a href="/glossary/traffic-sources/">traffic source</a> category, distinct from search, <a href="/glossary/suggested-videos/">suggested videos</a>, or direct/channel traffic — useful for seeing how much of a video's performance comes from being embedded elsewhere versus watched on YouTube.</li>
 <li><strong>Ad monetization</strong>: Embedded videos "honor the same ad enablement settings as videos on youtube.com" — if ads are turned on for a video, they can also show on embedded plays of it, counted as <a href="/glossary/monetized-playbacks/">monetized playbacks</a> the same as on-platform plays. Requirements include a reasonably sized player (200×200px minimum) and standard click-to-play embedding rather than scripted/forced autoplay of ads.</li>
-<li><strong>Who gets paid</strong>: This is the most commonly misunderstood part. Only YouTube and the video's owner earn <a href="/glossary/ad-revenue/">ad revenue</a> from ads shown on an embed — the website where the video is embedded earns nothing from those YouTube ads. A site owner who wants to make money from an embedded video needs to run their own separate ads or sponsorships around it; embedding someone else's monetized video does not entitle the embedding site to a cut.</li>
+<li><strong>Who gets paid</strong>: This is the most commonly misunderstood part. Only YouTube and the video's owner earn <a href="/glossary/ad-revenue/">ad revenue</a> from ads shown on an embed — the website where the video is embedded earns nothing from those <a href="/glossary/youtube-ads/">YouTube ads</a>. A site owner who wants to make money from an embedded video needs to run their own separate ads or sponsorships around it; embedding someone else's monetized video does not entitle the embedding site to a cut.</li>
 </ul>
 
 <h3>Can Creators Disable Embedding?</h3>
 <p>Yes. To stop other sites from embedding a specific video:</p>
 <ol>
-<li>Sign in to YouTube Studio.</li>
+<li>Sign in to <a href="/glossary/youtube-studio/">YouTube Studio</a>.</li>
 <li>Select <strong>Content</strong> from the left menu.</li>
 <li>Next to the video, open <strong>Details</strong>.</li>
 <li>Click <strong>Show more</strong>.</li>
@@ -230,11 +230,11 @@ related_terms:
 </div>
 
 <h3>FAQ</h3>
-<h4>Does embedding my video on another website hurt my YouTube views?</h4>
+<h4>Does embedding my video on another website hurt my <a href="/glossary/youtube-view/">YouTube views</a>?</h4>
 <p>No — it's a genuine playback source. Watch time and (for non-autoplayed plays) view count from embeds add to your channel totals the same as views from youtube.com, and they show up separately in your traffic source reports.</p>
 <h4>Can I stop other people from embedding my videos?</h4>
 <p>Yes. In YouTube Studio, open the video's Details, click Show more, and uncheck "Allow embedding," then save. It applies to the whole video everywhere, not select sites.</p>
 <h4>Do I earn extra money when someone embeds my monetized video on their blog?</h4>
-<p>You earn the same ad revenue share you'd earn from any other watch — YouTube and you split it. The blog or site owner hosting the embed does not get a cut of those YouTube ad earnings.</p>
+<p>You earn the same ad <a href="/glossary/revenue-share/">revenue share</a> you'd earn from any other watch — YouTube and you split it. The blog or site owner hosting the embed does not get a cut of those YouTube ad earnings.</p>
 <h4>What does youtube-nocookie.com actually do?</h4>
 <p>It reduces personalization: the view won't be used to personalize the viewer's YouTube experience or ad targeting, and any ads served will be non-personalized. It does not eliminate all data being sent to Google, so don't rely on it alone for full privacy or cookie-consent compliance.</p>

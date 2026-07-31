@@ -14,7 +14,7 @@ related_terms:
 ---
 
 <h2>Multi-Language Audio</h2>
-<p><strong>Quick answer:</strong> Multi-Language Audio is the system in YouTube Studio's Languages tab that lets a video carry more than one audio track — one per language. It covers two different ways a track gets there: YouTube's free <a href="/glossary/auto-dubbing/">Auto-Dubbing</a> (AI generates the track for you automatically) and <strong>manually uploaded audio tracks</strong> (you, a translator, or a voice actor record the dub and upload it yourself). Google's own documentation technically uses "multi-language audio" to mean the second, creator-uploaded half specifically — but both live in the same tab, and viewers can't tell them apart in the player, so most creators use the term to mean the whole multi-track system. This entry covers the parts Auto-Dubbing doesn't: uploading your own track, and how viewers actually pick a language.</p>
+<p><strong>Quick answer:</strong> Multi-Language Audio is the system in <a href="/glossary/youtube-studio/">YouTube Studio</a>'s Languages tab that lets a video carry more than one audio track — one per language. It covers two different ways a track gets there: YouTube's free <a href="/glossary/auto-dubbing/">Auto-Dubbing</a> (AI generates the track for you automatically) and <strong>manually uploaded audio tracks</strong> (you, a translator, or a voice actor record the dub and upload it yourself). Google's own documentation technically uses "multi-language audio" to mean the second, creator-uploaded half specifically — but both live in the same tab, and viewers can't tell them apart in the player, so most creators use the term to mean the whole multi-track system. This entry covers the parts Auto-Dubbing doesn't: uploading your own track, and how viewers actually pick a language.</p>
 
 <h3>Multi-Language Audio vs. Auto-Dubbing: the actual difference</h3>
 <table>
@@ -48,7 +48,7 @@ related_terms:
 </ul>
 
 <h3>How viewers experience multiple audio tracks</h3>
-<p>Viewers don't have to hunt for a language switch — YouTube handles it by default:</p>
+<p>Viewers don't have to hunt for a language switch — <a href="/glossary/youtube-handles/">YouTube handles</a> it by default:</p>
 <ul>
 <li>The track that plays automatically matches the viewer's preferred language, inferred from their watch history.</li>
 <li>Viewers can set an explicit preferred language in their own YouTube account settings.</li>
@@ -72,5 +72,5 @@ related_terms:
 <p>No. The two are independent. You can upload your own tracks without ever enabling auto-dubbing, and vice versa. They only interact in one way: you can't have an auto-dub and a manual track active for the same language on the same video at once.</p>
 <h4>Is manual multi-language audio available to every channel?</h4>
 <p>No — as of this writing, manual upload access is limited to a subset of creators with Advanced features access and is expanding gradually. Auto-Dubbing has a separate, generally broader rollout. Check the Languages tab in your own Studio to see what you have access to.</p>
-<h4>Will a manually uploaded track hurt my monetization or count against Content ID?</h4>
+<h4>Will a manually uploaded track hurt my monetization or count against <a href="/glossary/content-id/">Content ID</a>?</h4>
 <p>YouTube checks that the copyrighted material (music, sound effects) in your secondary track matches the original. If it doesn't match, the upload can be removed — so keep music/SFX consistent between your original and dubbed tracks to avoid a <a href="/glossary/copyright-claim/">copyright claim</a>.</p>

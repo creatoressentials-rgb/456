@@ -21,7 +21,7 @@ related_terms:
 ---
 
 <h2>Ask Studio</h2>
-<p><strong>Ask Studio</strong> is an AI-powered conversational assistant built directly into YouTube Studio. It lets creators ask plain-language questions about their channel — things like "why did this video underperform" or "what are people saying in my comments" — and get personalized answers, summaries, and content suggestions based on their own channel data.</p>
+<p><strong>Ask Studio</strong> is an AI-powered conversational assistant built directly into <a href="/glossary/youtube-studio/">YouTube Studio</a>. It lets creators ask plain-language questions about their channel — things like "why did this video underperform" or "what are people saying in my comments" — and get personalized answers, summaries, and content suggestions based on their own channel data.</p>
 <p>Ask Studio launched at YouTube's Made on YouTube event in late 2025 and has expanded steadily since. It is one of a growing set of generative-AI tools inside YouTube Studio, alongside features like <a href="/glossary/auto-dubbing/">auto-dubbing</a>.</p>
 
 <h3>What Ask Studio actually does</h3>
@@ -51,12 +51,12 @@ related_terms:
 <tr>
 <td>Analytics</td>
 <td>"Why did my last video's stayed-to-watch drop off early?"</td>
-<td>Getting a plain-language read on retention or traffic-source shifts</td>
+<td>Getting a plain-language read on <a href="/glossary/retention/">retention</a> or traffic-source shifts</td>
 </tr>
 <tr>
 <td>Revenue</td>
-<td>"How has my ad revenue or RPM trended this month?"</td>
-<td>A quick monetization pulse-check (requires an active YouTube Partner Program channel)</td>
+<td>"How has my <a href="/glossary/ad-revenue/">ad revenue</a> or <a href="/glossary/youtube-rpm/">RPM</a> trended this month?"</td>
+<td>A quick monetization pulse-check (requires an active <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> channel)</td>
 </tr>
 <tr>
 <td>Content strategy</td>
@@ -89,7 +89,7 @@ related_terms:
 <li>Give reliable medical, legal, or financial advice (Google's own disclaimer says not to rely on it for this)</li>
 <li>Guarantee accuracy — quality varies by question, and vague prompts ("tell me about my channel") produce vague answers</li>
 </ul>
-<p>Creators who've stress-tested it report real failure modes worth knowing about: it can miss context (like recommending a mobile-only tutorial for a feature that doesn't exist on mobile), apply generic advice as if universal (e.g., "always show your face in thumbnails," when A/B testing thumbnails is the actually reliable practice), and misjudge things like optimal livestream timing or sponsorship-driven engagement. Treat its output as a first draft for your thinking, not a final answer.</p>
+<p>Creators who've stress-tested it report real failure modes worth knowing about: it can miss context (like recommending a mobile-only tutorial for a feature that doesn't exist on mobile), apply generic advice as if universal (e.g., "always show your face in <a href="/glossary/youtube-thumbnails/">thumbnails</a>," when A/B testing thumbnails is the actually reliable practice), and misjudge things like optimal livestream timing or <a href="/glossary/sponsorship/">sponsorship</a>-driven engagement. Treat its output as a first draft for your thinking, not a final answer.</p>
 
 <h3>Who has access, and where</h3>
 <ul>

@@ -15,7 +15,7 @@ related_terms:
 <p><strong>A-roll</strong> is the primary footage that carries a video's main story, information, dialogue, action, or message. It is the material the audience needs in order to understand what the video is fundamentally about.</p>
 <p>For a YouTube creator, A-roll is often the presenter speaking to camera. It can also be an interview, podcast conversation, product demonstration, cooking process, documentary scene, performance, screen tutorial, or any essential action that drives the video forward.</p>
 <p>A-roll is an editorial role, not a camera model or quality level. It does not necessarily mean footage from "camera A," the first clip recorded, or the most cinematic shot.</p>
-<h3>A-roll vs. B-roll</h3>
+<h3>A-roll vs. <a href="/glossary/b-roll/">B-roll</a></h3>
 <p><strong>B-roll</strong> is supporting footage used to illustrate, clarify, establish, or add visual variety to the primary material.</p>
 <table>
 <thead>
@@ -102,14 +102,14 @@ related_terms:
 <li>Next action or conclusion.</li>
 </ol>
 <h4>Decide what must be exact</h4>
-<p>Use a full script when legal wording, sponsorship requirements, technical definitions, names, numbers, or tightly timed delivery matters. Use bullets when natural explanation matters more than exact phrasing.</p>
+<p>Use a full script when legal wording, <a href="/glossary/sponsorship/">sponsorship</a> requirements, technical definitions, names, numbers, or tightly timed delivery matters. Use bullets when natural explanation matters more than exact phrasing.</p>
 <p>A <a href="/glossary/teleprompter/">teleprompter</a> can help with precise wording, but the script should still be written for speech rather than formal reading.</p>
 <h4>Plan visual support</h4>
 <p>Mark places where the audience needs a close-up, graphic, screenshot, example, cutaway, quotation, chart, or location shot. This turns B-roll into purposeful coverage rather than decoration.</p>
 <h3>Recording better A-roll</h3>
 <h4>Prioritize audio</h4>
 <p>Viewers may tolerate a less cinematic image, but unclear speech quickly makes instructional or commentary content difficult to follow.</p>
-<p>Use a suitable microphone close to the speaker. Depending on the production, that might be a <a href="/glossary/usb-microphone/">USB microphone</a>, XLR broadcast microphone, lavalier, or <a href="/glossary/shotgun-microphone/">shotgun microphone</a>.</p>
+<p>Use a suitable microphone close to the speaker. Depending on the production, that might be a <a href="/glossary/usb-microphone/">USB microphone</a>, <a href="/glossary/xlr/">XLR</a> broadcast microphone, lavalier, or <a href="/glossary/shotgun-microphone/">shotgun microphone</a>.</p>
 <p>Record a short test and listen through headphones for:</p>
 <ul>
 <li>Echo.</li>
@@ -171,14 +171,14 @@ related_terms:
 <p>The B-roll should support the spoken idea at the moment it appears. Generic footage that does not match the narration can confuse viewers or weaken credibility.</p>
 <p>An editor should not use B-roll merely to cover every sentence. Letting the audience see the presenter at important emotional, personal, or persuasive moments maintains connection.</p>
 <h3>Jump cuts and A-roll</h3>
-<p>A jump cut removes time within a similar camera angle, causing the subject's position to change abruptly. This style is common and accepted on YouTube.</p>
+<p>A <a href="/glossary/jump-cut/">jump cut</a> removes time within a similar camera angle, causing the subject's position to change abruptly. This style is common and accepted on YouTube.</p>
 <p>Jump cuts can improve pacing, but excessive cutting may feel frantic or unnatural. Options include:</p>
 <ul>
 <li>Leaving selected breaths and pauses.</li>
 <li>Using a second camera angle.</li>
 <li>Punching into a higher-resolution shot.</li>
 <li>Covering the cut with relevant B-roll.</li>
-<li>Using an L-cut or J-cut so audio and picture transitions happen at different times.</li>
+<li>Using an <a href="/glossary/l-cut/">L-cut</a> or <a href="/glossary/j-cut/">J-cut</a> so audio and picture transitions happen at different times.</li>
 <li>Recording cleaner sections with planned pauses.</li>
 </ul>
 <p>The goal is not to hide every edit. It is to make the sequence easy to follow and appropriate for the channel's style.</p>

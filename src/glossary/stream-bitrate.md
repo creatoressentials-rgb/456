@@ -14,11 +14,11 @@ related_terms:
 
 <h2>Stream Bitrate</h2>
 <p><strong>Stream bitrate</strong> is the amount of encoded video and audio data a live encoder sends to YouTube each second. It is usually measured in kilobits per second (Kbps) or megabits per second (Mbps).</p>
-<p>A higher bitrate gives the encoder more data to describe each frame, which can preserve detail during motion. However, the bitrate must also fit the creator's upload connection, codec, resolution, frame rate, and hardware. A bitrate that is too aggressive can make a stream less reliable rather than more professional.</p>
+<p>A higher bitrate gives the encoder more data to describe each frame, which can preserve detail during motion. However, the bitrate must also fit the creator's upload connection, codec, resolution, <a href="/glossary/frame-rate-fps/">frame rate</a>, and hardware. A bitrate that is too aggressive can make a stream less reliable rather than more professional.</p>
 
 <h3>How stream bitrate works</h3>
 <p>A <a href="/glossary/live-encoder/">live encoder</a> compresses camera, screen, and audio sources into a stream that can be sent to YouTube. The bitrate controls roughly how much data that encoded feed uses over time.</p>
-<p>For example, a video bitrate of 6 Mbps means the encoder is trying to send about six megabits of video data each second. Audio uses an additional, much smaller bitrate. Protocol overhead and normal bitrate variation can add more network demand.</p>
+<p>For example, a <a href="/glossary/video-bitrate/">video bitrate</a> of 6 Mbps means the encoder is trying to send about six megabits of video data each second. Audio uses an additional, much smaller bitrate. Protocol overhead and normal bitrate variation can add more network demand.</p>
 <p>YouTube receives this contribution feed and transcodes it into multiple playback versions. A viewer on a strong connection may receive a high-resolution version, while another viewer may receive a lower-resolution version. The creator's ingest bitrate is therefore not necessarily the bitrate every viewer receives.</p>
 
 <h3>Stream bitrate versus related settings</h3>
@@ -161,7 +161,7 @@ related_terms:
 </tr>
 <tr>
   <td>Bitrate is high but encoder is overloaded</td>
-  <td>Encoding lag, skipped frames, high CPU/GPU load</td>
+  <td><a href="/glossary/encoding/">Encoding</a> lag, skipped frames, high CPU/GPU load</td>
   <td>Use a faster preset, hardware encoder, or lighter scene</td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ related_terms:
 </div>
 
 <h3>Frequently asked questions</h3>
-<h4>What bitrate should I use for a 1080p YouTube live stream?</h4>
+<h4>What bitrate should I use for a 1080p <a href="/glossary/youtube-live/">YouTube live</a> stream?</h4>
 <p>YouTube's current H.264 guidance recommends 10 Mbps for 1080p30 and 12 Mbps for 1080p60. Its AV1/H.265 ranges are 3–8 Mbps for 1080p30 and 4–10 Mbps for 1080p60. The connection and encoder must be able to sustain the selected rate.</p>
 <h4>Is a higher stream bitrate always better?</h4>
 <p>No. More bitrate can reduce compression artifacts, but an unsustainable rate causes instability, dropped frames, or disconnects. It also cannot fix poor source quality or encoder overload.</p>

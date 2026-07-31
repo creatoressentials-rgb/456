@@ -62,12 +62,12 @@ permalink: /glossary/creator-storefront/
 <li>Build idea lists</li>
 <li>Publish eligible photos or videos</li>
 <li>Direct followers to the storefront</li>
-<li>Earn affiliate commission from qualifying purchases</li>
+<li>Earn <a href="/glossary/affiliate-commission/">affiliate commission</a> from qualifying purchases</li>
 <li>Participate in other eligible onsite earning opportunities</li>
 </ul>
 <p>The Amazon storefront is hosted by Amazon. Amazon remains responsible for merchant operations under its rules, while the creator is responsible for compliant promotion and disclosure.</p>
 <h3>YouTube creator storefronts</h3>
-<p>YouTube Shopping can display products through:</p>
+<p><a href="/glossary/youtube-shopping/">YouTube Shopping</a> can display products through:</p>
 <ul>
 <li>Channel Store tab</li>
 <li>Product shelf</li>
@@ -109,7 +109,7 @@ permalink: /glossary/creator-storefront/
   <td>Navigation page linking to content, products, and platforms</td>
 </tr>
 <tr>
-  <td>Affiliate link page</td>
+  <td><a href="/glossary/affiliate-link/">Affiliate link</a> page</td>
   <td>Collection of tracked merchant links</td>
 </tr>
 <tr>
@@ -152,11 +152,11 @@ permalink: /glossary/creator-storefront/
 <ul>
 <li>Affiliate commission</li>
 <li>Creator ownership</li>
-<li>Sponsorship</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a></li>
 <li>Gifted product</li>
 <li>Paid placement</li>
 <li>Product collaboration</li>
-<li>Revenue share</li>
+<li><a href="/glossary/revenue-share/">Revenue share</a></li>
 </ul>
 <p>A creator should not assume visitors understand those relationships from the page design.</p>
 <p>Clear wording can include:</p>
@@ -191,14 +191,14 @@ permalink: /glossary/creator-storefront/
 <ul>
 <li>Page views</li>
 <li>Product clicks</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Revenue</li>
 <li>Commission</li>
 <li>Average order value</li>
 <li>Top products</li>
 <li>Returns</li>
 <li>Traffic source</li>
-<li>Video or post attribution</li>
+<li>Video or post <a href="/glossary/attribution/">attribution</a></li>
 <li>New customers</li>
 <li>Repeat customers</li>
 <li>Email sign-ups</li>

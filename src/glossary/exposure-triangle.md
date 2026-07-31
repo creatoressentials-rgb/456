@@ -13,7 +13,7 @@ related_terms:
 ---
 
 <h2>Exposure Triangle</h2>
-<p>The <strong>exposure triangle</strong> is a teaching model that explains how <a href="/glossary/aperture/">aperture</a>, shutter speed, and <a href="/glossary/iso/">ISO</a> work together to determine recorded brightness and the visual character of an image.</p>
+<p>The <strong>exposure triangle</strong> is a teaching model that explains how <a href="/glossary/aperture/">aperture</a>, <a href="/glossary/shutter-speed/">shutter speed</a>, and <a href="/glossary/iso/">ISO</a> work together to determine recorded brightness and the visual character of an image.</p>
 <p>The triangle is useful because changing one setting often requires compensation from another. A creator who chooses a faster shutter speed to freeze motion may need a wider aperture, a higher ISO, more light, or some combination of those changes to maintain the intended exposure.</p>
 <h3>The three sides of the exposure triangle</h3>
 <table>
@@ -98,7 +98,7 @@ related_terms:
 <p>A useful video priority order is:</p>
 <h4>1. Choose the frame rate</h4>
 <p>Select 24, 25, 30, 50, 60, or another rate based on delivery, motion style, region, and slow-motion needs.</p>
-<h4>2. Choose the motion rendering</h4>
+<h4>2. Choose the motion <a href="/glossary/rendering/">rendering</a></h4>
 <p>Set shutter speed or shutter angle. Start near the 180-degree convention when natural motion blur is desired, then adjust intentionally.</p>
 <h4>3. Choose the depth of field</h4>
 <p>Set aperture based on focus tolerance, subject separation, lens sharpness, and composition.</p>
@@ -125,7 +125,7 @@ related_terms:
   <td>Keep near a clean base range and light the scene</td>
 </tr>
 <tr>
-  <td>Handheld vlog</td>
+  <td>Handheld <a href="/glossary/vlog/">vlog</a></td>
   <td>Enough shutter to avoid excessive smear</td>
   <td>Moderate aperture for autofocus tolerance</td>
   <td>Auto ISO can help if limits are configured carefully</td>

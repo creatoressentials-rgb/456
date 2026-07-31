@@ -12,7 +12,7 @@ permalink: /glossary/niche/
 
 <h2>Why Pick a Niche on YouTube?</h2>
 
-<p>Picking a niche is essential for a YouTube channel's success. Here are just a few of the reasons why YouTube Creators need to pick a niche:​</p>
+<p>Picking a niche is essential for a <a href="/glossary/youtube-channel/">YouTube channel</a>'s success. Here are just a few of the reasons why YouTube Creators need to pick a niche:​</p>
 <ul>
 <li>
 <p>Targeted Audience: Having a niche allows you to cater your content to a specific audience, making it easier to build a loyal and engaged community.</p>
@@ -21,7 +21,7 @@ permalink: /glossary/niche/
 <p>Streamlined Content Creation: Knowing your niche can help guide your content creation process, making it more focused and consistent.</p>
 </li>
 <li>
-<p>SEO Benefits: Specializing in a niche often comes with less competition for specific keywords, making it easier to rank higher in YouTube search results.</p>
+<p><a href="/glossary/seo/">SEO</a> Benefits: Specializing in a niche often comes with less competition for specific <a href="/glossary/keywords/">keywords</a>, making it easier to rank higher in YouTube search results.</p>
 </li>
 <li>
 <p>Monetization: A targeted audience can be more lucrative when it comes to advertising, sponsorships, or product placements as brands can be more confident that viewers are interested in their products.</p>
@@ -46,7 +46,7 @@ permalink: /glossary/niche/
 <p>Skill Set: Evaluate your own skills and how they align with the niche you're considering. This will aid in producing high-quality content.</p>
 </li>
 <li>
-<p>Profitability: Consider the potential for monetization in the niche. Some niches are more lucrative than others due to brand partnerships, affiliate marketing, or merchandise possibilities.</p>
+<p>Profitability: Consider the potential for monetization in the niche. Some niches are more lucrative than others due to brand partnerships, <a href="/glossary/affiliate-marketing/">affiliate marketing</a>, or merchandise possibilities.</p>
 </li>
 <li>
 <p>Trends and Sustainability: While trending niches can offer quick growth, they may not be sustainable in the long term. It’s essential to balance trends with long-term interests.</p>

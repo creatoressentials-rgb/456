@@ -19,7 +19,7 @@ related_terms:
 ---
 
 <h2>YouTube Shopping</h2>
-<p><strong>YouTube Shopping</strong> is the set of features that let eligible creators sell and promote products directly through their YouTube content — either by connecting their own store to their channel, or by tagging other brands' products through the YouTube Shopping affiliate program and earning a commission on resulting sales.</p>
+<p><strong>YouTube Shopping</strong> is the set of features that let eligible creators sell and promote products directly through their YouTube content — either by connecting their own store to their channel, or by tagging other brands' products through the YouTube Shopping <a href="/glossary/affiliate-program/">affiliate program</a> and earning a commission on resulting sales.</p>
 <p>It shows up across the platform in a few places: a Store tab on your channel, a product shelf under your videos, shopping tags inside videos, Shorts, and live streams, and links inside video descriptions. For viewers, it turns a recommendation into a one-tap path to purchase without leaving the app.</p>
 <p>YouTube Shopping is not the same as <a href="/glossary/ad-revenue/">ad revenue</a> — it's a separate income stream you opt into, on top of whatever you're already earning through the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a>.</p>
 
@@ -36,7 +36,7 @@ related_terms:
 <li>You haven't received a Hate Speech Community Guideline strike.</li>
 </ul>
 <p><strong>Supported store platforms include:</strong> Shopify, Wix, SHOPLINE, Spreadshop, Spring (formerly Teespring), FourthWall, TeePublic, plus region-specific platforms like BASE, Cafe24, Marpple Shop, and Suzuri (Japan/South Korea only). YouTube also works with a long list of merch retailers such as Fanjoy, Bonfire, Cotton Bureau, Represent, and Threadless.</p>
-<p><strong>How you get paid:</strong> Entirely through your retailer or platform. YouTube and AdSense are not involved in this revenue stream at all — for actual sales figures, you check your merch platform's dashboard, not YouTube Studio.</p>
+<p><strong>How you get paid:</strong> Entirely through your retailer or platform. YouTube and AdSense are not involved in this revenue stream at all — for actual sales figures, you check your merch platform's dashboard, not <a href="/glossary/youtube-studio/">YouTube Studio</a>.</p>
 
 <h4>2. Join the affiliate program (promote other brands' products)</h4>
 <p>This is for creators who want to earn a commission by recommending products they don't sell themselves — everything from tech gear to beauty products to home goods, sourced from participating brands and retailers.</p>
@@ -57,7 +57,7 @@ related_terms:
 </ol>
 <p><strong>How commissions work:</strong></p>
 <ul>
-<li>Each brand or retailer sets its own commission rate and attribution window per product — YouTube doesn't set a universal rate. Third-party analysis of the program puts the typical (median) commission around 15%, with lower-margin categories like consumer electronics often at 5–8% and higher-margin categories like beauty and fashion often at 12–20%+, though these are independent estimates rather than an official published figure.</li>
+<li>Each brand or retailer sets its own commission rate and <a href="/glossary/attribution/">attribution</a> window per product — YouTube doesn't set a universal rate. Third-party analysis of the program puts the typical (median) commission around 15%, with lower-margin categories like consumer electronics often at 5–8% and higher-margin categories like beauty and fashion often at 12–20%+, though these are independent estimates rather than an official published figure.</li>
 <li>You can browse rates in the Affiliate hub inside YouTube Studio (Earn → Shopping → Explore affiliate offers), which also surfaces custom, higher commission rates some brands offer for limited campaigns ("Special offer promotions").</li>
 <li>The official "YouTube Shopping" Chrome extension lets you save products to tag later and preview commission rates while you browse the web.</li>
 <li>Commissions are paid through AdSense for YouTube, typically 60–120 days after purchase, to account for the return window. If a customer returns the item, the commission is reversed.</li>
@@ -98,7 +98,7 @@ related_terms:
 <p><strong>Why a tag might get blocked or removed:</strong> the video is set to <a href="/glossary/made-for-kids/">Made for Kids</a>, the video has an active <a href="/glossary/copyright-claim/">copyright claim</a> against it (see <a href="/glossary/content-id/">Content ID</a>), the content is limited or ineligible for monetization, you're using a non-Shopping-eligible sound on a Short with a product sticker, the viewer is outside an eligible country, or the viewer is on a mobile browser, smart TV, or game console. Repeated non-compliant tagging can put your access to the affiliate program at risk, so treat the guidelines the same way you'd treat any other YouTube monetization policy.</p>
 
 <h3>Where Shopping features show up for viewers</h3>
-<p>Tagged and store products can surface in several places beyond the video itself: a product shelf below or beside a video or live stream, an automatically generated product section in the watch feed or home feed (in a subset of countries), search results, and via <a href="/glossary/browse-features/">browse features</a> like the home feed or <a href="/glossary/suggested-videos/">suggested videos</a> that recommend related content. Viewer purchasing availability spans a much longer list of countries and regions than creator eligibility does — so a creator who isn't yet eligible to join the affiliate program may still see shopping features active on similar content from bigger channels in their niche.</p>
+<p>Tagged and store products can surface in several places beyond the video itself: a product shelf below or beside a video or live stream, an automatically generated product section in the watch feed or home feed (in a subset of countries), search results, and via <a href="/glossary/browse-features/">browse features</a> like the home feed or <a href="/glossary/suggested-videos/">suggested videos</a> that recommend related content. Viewer purchasing availability spans a much longer list of countries and regions than creator eligibility does — so a creator who isn't yet eligible to join the affiliate program may still see shopping features active on similar content from bigger channels in their <a href="/glossary/niche/">niche</a>.</p>
 
 <h3>Measuring your Shopping performance</h3>
 <p>For affiliate tags, use expanded reports in YouTube Analytics (found via <a href="/glossary/youtube-advanced-mode/">YouTube Advanced Mode</a> in YouTube Studio) to see engagement with tagged products and how much of your <a href="/glossary/traffic-sources/">traffic sources</a> come specifically from product pages. For your own store, sales and order totals are visible in the Shopping tab of Studio for supported platforms, but the authoritative numbers live on your retailer's own dashboard — YouTube's figures may not exactly match due to attribution differences, ad blockers, or multi-device purchases.</p>

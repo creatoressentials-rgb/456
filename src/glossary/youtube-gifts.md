@@ -28,7 +28,7 @@ related_terms:
 <li>Gifts are purchased with <a href="/glossary/youtube-jewels/">YouTube Jewels</a>, which viewers buy inside the YouTube mobile app (Android, iPhone, iPad).</li>
 <li>Sending a Gift shows an animated overlay directly on top of the live stream — not just in the chat panel, the way <a href="/glossary/super-chat/">Super Chat</a> and <a href="/glossary/super-stickers/">Super Stickers</a> messages do.</li>
 <li>Creators are paid in Rubies, redeemable at $0.01 each. Earnings show up in YouTube Analytics under Revenue → How you make money → Gifts.</li>
-<li>Gifts launched in November 2024 for eligible US creators on vertical live streams, initially replacing Super Stickers there, and has since expanded to more countries and gift types.</li>
+<li>Gifts launched in November 2024 for eligible US creators on <a href="/glossary/vertical-live/">vertical live</a> streams, initially replacing Super Stickers there, and has since expanded to more countries and gift types.</li>
 </ul>
 
 <h3>YouTube Gifts vs. Gifted Channel Memberships vs. YouTube Jewels</h3>
@@ -40,7 +40,7 @@ related_terms:
 <tr><td>What's exchanged</td><td>Jewels → Gifts → Rubies</td><td>Cash → 1 month of membership perks</td><td>Cash → Jewels</td></tr>
 <tr><td>Where it shows up</td><td>Overlay on top of eligible vertical/horizontal live streams</td><td>Announcement in live chat during a live stream or Premiere</td><td>Purchased in the mobile app; spent on Gifts</td></tr>
 <tr><td>Recurring?</td><td>No — one-time sends, no subscription</td><td>No — one month only, non-recurring</td><td>N/A</td></tr>
-<tr><td>Creator payout</td><td>Rubies, $0.01 each, no fixed revenue-share percentage published</td><td>Standard membership revenue share (same as a paid membership)</td><td>N/A (Jewels are the input, not the payout)</td></tr>
+<tr><td>Creator payout</td><td>Rubies, $0.01 each, no fixed revenue-share percentage published</td><td>Standard membership <a href="/glossary/revenue-share/">revenue share</a> (same as a paid membership)</td><td>N/A (Jewels are the input, not the payout)</td></tr>
 </tbody>
 </table>
 <p>In short: <strong>Jewels are the currency, Gifts are what you buy and send with it, and Rubies are what the creator ends up with.</strong> Gifted Channel Memberships is a completely separate mechanic that extends the Memberships subscription product — it doesn't touch Jewels or Rubies at all.</p>
@@ -55,7 +55,7 @@ related_terms:
 </ol>
 <p><strong>For creators — turning Gifts on:</strong></p>
 <ol>
-<li>In YouTube Studio, go to Earn in the left menu.</li>
+<li>In <a href="/glossary/youtube-studio/">YouTube Studio</a>, go to Earn in the left menu.</li>
 <li>Click the Supers &amp; gifts tab.</li>
 <li>Scroll to "Turn on gifts in live streams" and select Get Started.</li>
 <li>Accept the Virtual Items (VI) Module terms.</li>

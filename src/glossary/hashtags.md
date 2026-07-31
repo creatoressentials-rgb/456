@@ -13,11 +13,11 @@ related_terms:
 
 <h2>What are hashtags?</h2>
 
-<p>Hashtags are keywords or phrases preceded by the "#" symbol, commonly used on social media platforms like YouTube, Instagram, Twitter, and more. They serve as a way to categorize and organize content, making it easier for users to discover relevant posts and videos. The purpose of using a hashtag is to increase the visibility of your content to a wider audience, beyond just your immediate followers.</p>
+<p>Hashtags are <a href="/glossary/keywords/">keywords</a> or phrases preceded by the "#" symbol, commonly used on social media platforms like YouTube, Instagram, Twitter, and more. They serve as a way to categorize and organize content, making it easier for users to discover relevant posts and videos. The purpose of using a hashtag is to increase the visibility of your content to a wider audience, beyond just your immediate followers.</p>
 
 <h2>Are Hashtags really important?</h2>
 
-<p>Yes, hashtags are indeed important. They help increase the discoverability of your content by making it searchable under specific topics or themes. When users search for or click on a hashtag, they're taken to a page that displays all the posts or videos using that same hashtag. This can lead to more views, engagement, and potential subscribers for your YouTube channel.</p>
+<p>Yes, hashtags are indeed important. They help increase the discoverability of your content by making it searchable under specific topics or themes. When users search for or click on a hashtag, they're taken to a page that displays all the posts or videos using that same hashtag. This can lead to more views, engagement, and potential subscribers for your <a href="/glossary/youtube-channel/">YouTube channel</a>.</p>
 
 <h2>What is a hashtag example?</h2>
 

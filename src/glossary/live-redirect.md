@@ -15,10 +15,10 @@ related_terms:
 <p><strong>Live Redirect</strong> is a YouTube feature that automatically moves viewers from an ending live stream or Premiere to another selected live stream or Premiere. It is designed to keep an audience watching after one event finishes and can also be used to introduce viewers to another creator.</p>
 <p>The handoff happens after the source event ends. Viewers briefly see the page reload and are then taken to the destination selected by the creator.</p>
 
-<h3>How YouTube Live Redirect works</h3>
+<h3>How <a href="/glossary/youtube-live/">YouTube Live</a> Redirect works</h3>
 <ol>
 <li>The creator schedules or selects the live stream or Premiere that will send the audience.</li>
-<li>In YouTube Studio, the creator opens the video's customization settings and adds a redirect destination.</li>
+<li>In <a href="/glossary/youtube-studio/">YouTube Studio</a>, the creator opens the video's customization settings and adds a redirect destination.</li>
 <li>The source live stream or Premiere runs normally.</li>
 <li>When it ends, YouTube automatically sends eligible viewers to the chosen destination.</li>
 </ol>
@@ -94,6 +94,6 @@ related_terms:
 <h4>Can another channel redirect viewers to me without permission?</h4>
 <p>You control who can redirect to your content through YouTube Studio. You can approve subscribed channels, all eligible channels, or a manual list of specific channels.</p>
 <h4>Can Live Redirect send viewers to a regular uploaded video?</h4>
-<p>The feature is built for eligible live streams and Premieres. A normal uploaded video is promoted through other tools such as links, cards, playlists, or end screens.</p>
+<p>The feature is built for eligible live streams and Premieres. A normal uploaded video is promoted through other tools such as links, cards, playlists, or <a href="/glossary/end-screens/">end screens</a>.</p>
 <h4>Does Live Redirect combine the two streams' analytics?</h4>
 <p>No. It transfers viewers between separate events. Each video retains its own analytics, chat, watch page, and settings.</p>

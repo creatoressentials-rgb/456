@@ -14,7 +14,7 @@ related_terms:
 ---
 
 <h2>Ultra-Low Latency</h2>
-<p><strong>Ultra-Low Latency</strong> is YouTube Live's most responsive selectable latency mode for encoder streams. It is designed for broadcasts where creators and viewers need to react to each other quickly, such as live Q&amp;As, coaching, auctions, interactive games, and audience-controlled events.</p>
+<p><strong>Ultra-Low Latency</strong> is <a href="/glossary/youtube-live/">YouTube Live</a>'s most responsive selectable latency mode for encoder streams. It is designed for broadcasts where creators and viewers need to react to each other quickly, such as live Q&amp;As, coaching, auctions, interactive games, and audience-controlled events.</p>
 <p>YouTube says most viewers of an Ultra-low Latency stream experience less than five seconds of <a href="/glossary/stream-latency/">stream latency</a>. That is a typical platform target, not a guarantee that every viewer will see the same delay.</p>
 
 <h3>How Ultra-Low Latency works</h3>
@@ -62,10 +62,10 @@ related_terms:
 <h3>What "under five seconds" means</h3>
 <p>YouTube's wording applies to <strong>most viewers</strong>. Actual delay can vary because of:</p>
 <ul>
-<li>Encoding time and production hardware.</li>
+<li><a href="/glossary/encoding/">Encoding</a> time and production hardware.</li>
 <li>The creator's upload route and connection stability.</li>
 <li>The selected <a href="/glossary/stream-bitrate/">stream bitrate</a>.</li>
-<li>YouTube ingest, transcoding, and distribution.</li>
+<li>YouTube ingest, <a href="/glossary/transcoding/">transcoding</a>, and distribution.</li>
 <li>The viewer's network, device, and selected playback quality.</li>
 <li>Pausing, buffering, or watching behind the live edge with <a href="/glossary/live-dvr/">Live DVR</a>.</li>
 </ul>
@@ -109,7 +109,7 @@ related_terms:
 <h3>How to select Ultra-Low Latency</h3>
 <p>For an eligible encoder stream:</p>
 <ol>
-<li>Open YouTube Studio.</li>
+<li>Open <a href="/glossary/youtube-studio/">YouTube Studio</a>.</li>
 <li>Select <strong>Create</strong> and then <strong>Go live</strong>.</li>
 <li>Create or select the stream in Live Control Room.</li>
 <li>Open <strong>Stream settings</strong>.</li>

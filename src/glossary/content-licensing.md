@@ -9,7 +9,7 @@ permalink: /glossary/content-licensing/
 <h2>Content Licensing</h2>
 <p><strong>Content licensing</strong> is the process of giving another person or company permission to use creator-owned content under agreed conditions. A license can cover a YouTube video, Short, photograph, audio recording, script, thumbnail, raw clip, or another creative asset.</p>
 <p>Licensing does not automatically transfer <a href="/glossary/content-ownership">content ownership</a>. A creator can retain copyright while allowing a brand to repost, edit, advertise, distribute, or otherwise use selected content for a limited purpose.</p>
-<p>The license should say exactly what is permitted. Broad wording such as “all usage rights” can hide major differences in value and control.</p>
+<p>The license should say exactly what is permitted. Broad wording such as “all <a href="/glossary/usage-rights/">usage rights</a>” can hide major differences in value and control.</p>
 <h3>How content licensing works</h3>
 <p>A creator who owns the relevant copyright can grant permission through a contract or license clause. The permission may be:</p>
 <ul>
@@ -24,7 +24,7 @@ permalink: /glossary/content-licensing/
 <li>Editable or usable only in its approved form</li>
 </ul>
 <p>The brand receives only the rights described in the agreement. Rights not granted normally remain with the owner, subject to the contract and applicable law.</p>
-<h3>Content license vs. content ownership</h3>
+<h3>Content license vs. <a href="/glossary/content-ownership/">content ownership</a></h3>
 <table>
 <thead>
 <tr>
@@ -50,7 +50,7 @@ permalink: /glossary/content-licensing/
   <td>Only rights expressly retained</td>
 </tr>
 <tr>
-  <td>Work made for hire</td>
+  <td><a href="/glossary/work-made-for-hire/">Work made for hire</a></td>
   <td>The qualifying hiring party is treated as the author and copyright owner</td>
   <td>Rights, if any, preserved by the agreement</td>
 </tr>
@@ -76,7 +76,7 @@ permalink: /glossary/content-licensing/
 <p>A brand may request permission to repost the content on retailer sites, partner pages, regional accounts, press pages, or third-party channels.</p>
 <p>The agreement should identify whether the brand may provide the asset to distributors, affiliates, agencies, or retailers.</p>
 <h4>Editing and derivative works</h4>
-<p>A license can permit cropping, captions, resizing, translation, excerpts, voice-over replacement, music changes, new calls to action, or larger derivative works.</p>
+<p>A license can permit cropping, captions, resizing, translation, excerpts, <a href="/glossary/voice-over/">voice-over</a> replacement, music changes, new calls to action, or larger derivative works.</p>
 <p>Creators should decide whether edits require approval and whether the brand may change a statement in a way that alters its meaning.</p>
 <h4>Raw footage and source files</h4>
 <p>A finished-video license does not automatically include unused footage, project files, layered graphics, scripts, or other source materials. Those should be listed as separate <a href="/glossary/deliverables">deliverables</a> and licensed or transferred deliberately.</p>
@@ -92,7 +92,7 @@ permalink: /glossary/content-licensing/
 <li><strong>Exclusivity:</strong> Whether the same rights can be licensed to another party</li>
 <li><strong>Editing:</strong> Permitted modifications and creator approval requirements</li>
 <li><strong>Sublicensing:</strong> Whether agencies, retailers, and partners may use the content</li>
-<li><strong>Attribution:</strong> Whether the creator must be named or tagged</li>
+<li><strong><a href="/glossary/attribution/">Attribution</a>:</strong> Whether the creator must be named or tagged</li>
 <li><strong>Paid media:</strong> Whether the brand can promote, boost, or run ads with the content</li>
 <li><strong>Account access:</strong> Whether creator handles, codes, or platform partnership tools are involved</li>
 <li><strong>Archiving:</strong> Whether old posts may remain visible after the active term</li>

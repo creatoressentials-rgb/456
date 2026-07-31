@@ -95,7 +95,7 @@ related_terms:
 <ul>
 <li><strong>Easy decoding:</strong> Intraframe editing codecs are often smoother than heavily compressed delivery codecs.</li>
 <li><strong>Manageable file size:</strong> The files must be small enough to store and transfer conveniently.</li>
-<li><strong>Reliable relinking:</strong> Frame rate, duration, audio configuration, timecode, and clip identity should remain compatible with the originals.</li>
+<li><strong>Reliable relinking:</strong> <a href="/glossary/frame-rate-fps/">Frame rate</a>, duration, audio configuration, timecode, and clip identity should remain compatible with the originals.</li>
 </ul>
 <p>Common proxy choices include ProRes Proxy, DNxHR LB, and other editor-supported presets. Adobe Premiere's current default proxy preset uses ProRes QuickTime Proxy at a reduced frame size, although creators can choose other presets.</p>
 <p>A very low-bitrate H.264 file may be small, but it can still be harder to decode than a larger editing codec. Smallest is not always fastest.</p>
@@ -142,7 +142,7 @@ related_terms:
 <h4>Are proxy files lower quality?</h4>
 <p>Usually, yes by design. They trade image detail or compression efficiency for smoother editing. The quality of the original media remains unchanged.</p>
 <h4>Can I delete proxy files after finishing a project?</h4>
-<p>Yes, provided the original media and final deliverables are safely backed up. Proxies can be regenerated, although keeping them may simplify future revisions.</p>
+<p>Yes, provided the original media and final <a href="/glossary/deliverables/">deliverables</a> are safely backed up. Proxies can be regenerated, although keeping them may simplify future revisions.</p>
 <h4>Can I upload a proxy file to YouTube?</h4>
 <p>Technically yes, but it is usually a poor choice because proxies are made for editing convenience rather than final delivery quality. Export from the originals whenever possible.</p>
 <h4>Are proxies the same as preview files?</h4>

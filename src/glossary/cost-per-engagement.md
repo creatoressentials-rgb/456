@@ -7,7 +7,7 @@ permalink: /glossary/cost-per-engagement/
 ---
 
 <h2>Cost per Engagement</h2>
-<p><strong>Cost per engagement</strong>, or <strong>CPE</strong>, is the average amount spent for each defined engagement with an advertisement or piece of sponsored content.</p>
+<p><strong>Cost per engagement</strong>, or <strong>CPE</strong>, is the average amount spent for each defined engagement with an advertisement or piece of <a href="/glossary/sponsored-content/">sponsored content</a>.</p>
 <p>A basic formula is:</p>
 <p><strong>CPE = total cost ÷ number of counted engagements</strong></p>
 <p>If a campaign costs $2,000 and records 4,000 eligible engagements, average CPE is $0.50.</p>
@@ -35,7 +35,7 @@ permalink: /glossary/cost-per-engagement/
 <p>Its reporting also distinguishes:</p>
 <ul>
 <li><strong>Engagements:</strong> Count of qualifying ad engagements</li>
-<li><strong>Engagement rate:</strong> Engagements divided by impressions</li>
+<li><strong><a href="/glossary/engagement-rate/">Engagement rate</a>:</strong> Engagements divided by impressions</li>
 <li><strong>Average CPE:</strong> Cost divided by engagements</li>
 <li><strong>Clicks:</strong> Click-throughs to the destination, which may differ from the engagement event</li>
 </ul>
@@ -101,7 +101,7 @@ permalink: /glossary/cost-per-engagement/
 </tbody>
 </table>
 <p>Engagement-rate denominators also vary. A rate based on impressions is not directly comparable to one based on followers.</p>
-<h3>CPE vs. CPM</h3>
+<h3>CPE vs. <a href="/glossary/cost-per-mille-cpm/">CPM</a></h3>
 <table>
 <thead>
 <tr>
@@ -128,7 +128,7 @@ permalink: /glossary/cost-per-engagement/
 </tr>
 </tbody>
 </table>
-<p>A low CPM can produce a high CPE if people see the ad but rarely engage.</p>
+<p>A low <a href="/glossary/playback-based-cpm/">CPM</a> can produce a high CPE if people see the ad but rarely engage.</p>
 <h3>CPE vs. CPC</h3>
 <p><strong>Cost per click</strong> counts destination or eligible clicks.</p>
 <p>CPE can count a broader interaction such as a video watch or expansion.</p>
@@ -180,7 +180,7 @@ permalink: /glossary/cost-per-engagement/
 <p>A video platform may define engagement using a minimum watch threshold. A social campaign may report views separately from social interactions.</p>
 <p>If views are added to likes and comments, CPE will usually appear much lower. The report should clearly state that methodology.</p>
 <h3>Creator campaign CPE example</h3>
-<p>Suppose a sponsored video costs $4,000 and generates:</p>
+<p>Suppose a <a href="/glossary/sponsored-video/">sponsored video</a> costs $4,000 and generates:</p>
 <ul>
 <li>3,000 likes</li>
 <li>300 comments</li>
@@ -202,10 +202,10 @@ permalink: /glossary/cost-per-engagement/
 <p>A low CPE can result from:</p>
 <ul>
 <li>Strong creative</li>
-<li>Good audience fit</li>
+<li>Good <a href="/glossary/audience-fit/">audience fit</a></li>
 <li>Broad targeting</li>
 <li>Controversy</li>
-<li>Clickbait</li>
+<li><a href="/glossary/clickbait/">Clickbait</a></li>
 <li>Giveaway participation</li>
 <li>Low-cost markets</li>
 <li>Very loose engagement definition</li>
@@ -216,7 +216,7 @@ permalink: /glossary/cost-per-engagement/
 <li>Comment relevance</li>
 <li>Sentiment</li>
 <li>Clicks</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Brand safety</li>
 <li>Audience geography</li>
 <li>Purchase intent</li>

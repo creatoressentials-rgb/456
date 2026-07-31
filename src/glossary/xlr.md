@@ -185,13 +185,13 @@ related_terms:
 </table>
 <p>A 1/4-inch TRS connector can also carry stereo unbalanced audio, insert signals, or other wiring. As with XLR, the connector shape alone does not identify the exact signal.</p>
 <h3>XLR and phantom power</h3>
-<p>Many audio interfaces and mixers can send DC power through a balanced XLR microphone cable to operate compatible condenser microphones and active circuitry. The common studio value is +48V.</p>
+<p>Many audio interfaces and mixers can send DC power through a balanced XLR microphone cable to operate compatible <a href="/glossary/condenser-microphones/">condenser microphones</a> and active circuitry. The common studio value is +48V.</p>
 <p>Important distinctions:</p>
 <ul>
 <li>XLR does not mean phantom power is active.</li>
 <li>An XLR input may have no phantom-power capability.</li>
 <li>Phantom power may be switched globally, by channel group, or per input.</li>
-<li>Dynamic microphones usually do not need phantom power.</li>
+<li><a href="/glossary/dynamic-microphones/">Dynamic microphones</a> usually do not need phantom power.</li>
 <li>Some active dynamic, inline preamp, and condenser designs do require it.</li>
 <li>Unbalanced, damaged, incorrectly wired, or sensitive vintage equipment requires caution.</li>
 </ul>

@@ -22,7 +22,7 @@ related_terms:
 <li>A creator's name, channel, or social handle</li>
 <li>A location, date, event, or chapter topic</li>
 <li>A product name, model, price, or specification</li>
-<li>A quoted source or attribution</li>
+<li>A quoted source or <a href="/glossary/attribution/">attribution</a></li>
 <li>A website, discount code, or call to action</li>
 <li>A score, statistic, or live update</li>
 <li>A subscribe, like, or notification prompt</li>

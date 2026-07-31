@@ -29,7 +29,7 @@ permalink: /glossary/attribution/
 <li>A viewer watches a creator mention a product.</li>
 <li>The viewer later searches for the brand.</li>
 <li>The viewer clicks a brand advertisement.</li>
-<li>The viewer returns through an affiliate link.</li>
+<li>The viewer returns through an <a href="/glossary/affiliate-link/">affiliate link</a>.</li>
 <li>The viewer purchases.</li>
 </ol>
 <p>Several touchpoints may have contributed. The attribution model determines whether the conversion is credited to the creator mention, the first tracked click, the final affiliate click, the paid advertisement, several interactions, or a data-driven combination.</p>
@@ -81,7 +81,7 @@ permalink: /glossary/attribution/
 </ul>
 <p>Attribution is useful for operational reporting, but it should not be treated as perfect causal measurement.</p>
 <h3>Common attribution models</h3>
-<h4>Last-click attribution</h4>
+<h4>Last-<a href="/glossary/click-attribution/">click attribution</a></h4>
 <p>The final eligible click receives all credit.</p>
 <p>Advantages include simplicity and straightforward direct-response reporting. Its main weakness is that it can undervalue earlier discovery and consideration while giving the closing interaction all credit.</p>
 <h4>First-click attribution</h4>

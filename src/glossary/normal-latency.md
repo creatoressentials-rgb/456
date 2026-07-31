@@ -12,7 +12,7 @@ related_terms:
 ---
 
 <h2>Normal Latency</h2>
-<p><strong>Normal Latency</strong> is YouTube Live's quality-and-stability-focused latency setting. It allows a larger playback buffer between the live event and the viewer, making the stream less sensitive to short network fluctuations.</p>
+<p><strong>Normal Latency</strong> is <a href="/glossary/youtube-live/">YouTube Live</a>'s quality-and-stability-focused latency setting. It allows a larger playback buffer between the live event and the viewer, making the stream less sensitive to short network fluctuations.</p>
 <p>YouTube recommends Normal Latency for non-interactive broadcasts where the creator does not need to respond quickly to live chat. It supports all resolutions and live features, including 4K.</p>
 
 <h3>How Normal Latency works</h3>
@@ -30,7 +30,7 @@ related_terms:
 </ul>
 <p>Normal Latency is also a reasonable fallback when a lower-latency stream produces too much buffering and immediate interaction is not essential.</p>
 
-<h3>Normal vs. Low vs. Ultra-low latency</h3>
+<h3>Normal vs. Low vs. <a href="/glossary/ultra-low-latency/">Ultra-low latency</a></h3>
 <table>
 <thead><tr><th>Setting</th><th>Main advantage</th><th>Main trade-off</th><th>Best fit</th></tr></thead>
 <tbody>
@@ -41,16 +41,16 @@ related_terms:
 </table>
 
 <h3>How many seconds is Normal Latency?</h3>
-<p>YouTube does not currently publish a fixed Normal Latency duration. Actual delay can vary by encoder configuration, stream resolution, ingest performance, transcoding, delivery path, player buffer, device, and network conditions.</p>
+<p>YouTube does not currently publish a fixed Normal Latency duration. Actual delay can vary by encoder configuration, stream resolution, ingest performance, <a href="/glossary/transcoding/">transcoding</a>, delivery path, player buffer, device, and network conditions.</p>
 <p>Exact figures reported in creator guides are usually measurements from individual tests. They can be useful examples, but they should not be treated as a platform-wide guarantee.</p>
 
 <h3>How to select Normal Latency</h3>
 <ol>
-<li>Open YouTube Studio.</li>
+<li>Open <a href="/glossary/youtube-studio/">YouTube Studio</a>.</li>
 <li>Select <strong>Create → Go live</strong>.</li>
 <li>Open the event in <a href="/glossary/live-control-room/">Live Control Room</a>.</li>
 <li>Select <strong>Stream Settings</strong>.</li>
-<li>Under <strong>Stream latency</strong>, choose <strong>Normal latency</strong>.</li>
+<li>Under <strong><a href="/glossary/stream-latency/">Stream latency</a></strong>, choose <strong>Normal latency</strong>.</li>
 </ol>
 <p>The manual latency selector is intended for supported live workflows. YouTube says webcam and mobile streams are automatically configured for interactivity and do not provide the same manual choice.</p>
 

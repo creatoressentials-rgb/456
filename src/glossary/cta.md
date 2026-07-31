@@ -22,7 +22,7 @@ related_terms:
 
 <p>For creators, leveraging effective CTAs is a strategic way to boost metrics like watch time, subscriber count, and engagement—all critical factors in YouTube’s algorithm.</p>
 
-<h2>What Are Call to Action YouTube Cards?</h2>
+<h2>What Are Call to Action <a href="/glossary/youtube-cards/">YouTube Cards</a>?</h2>
 
 <p>Call to Action YouTube cards are interactive, clickable elements that appear during a video to guide viewers toward taking a specific action. These cards can pop up as annotations in the top corner of a video and are customizable to link viewers to other videos, playlists, or external sites (if the creator is eligible).</p>
 
@@ -64,7 +64,7 @@ related_terms:
 
 <ul>
 <li>
-<p>End Screens: Use end screens to prompt viewers to subscribe, watch related videos, or visit a playlist. For example, add a subscribe button and two video suggestions tailored to your audience’s interests.</p>
+<p><a href="/glossary/end-screens/">End Screens</a>: Use end screens to prompt viewers to subscribe, watch related videos, or visit a playlist. For example, add a subscribe button and two video suggestions tailored to your audience’s interests.</p>
 </li>
 <li>
 <p>Banners or Text Overlays: Highlight a CTA like “Hit the like button if you agree!” with an animated overlay during key moments.</p>

@@ -9,7 +9,7 @@ permalink: /glossary/right-of-first-refusal/
 <h2>Right of First Refusal</h2>
 <p>A <strong>right of first refusal</strong>, commonly abbreviated <strong>ROFR</strong>, is a contract provision giving one party the opportunity to accept or match a future deal before the other party completes that deal with someone else.</p>
 <p>In a creator agreement, an existing sponsor may receive a ROFR covering a renewal, another campaign, a named content series, or future work in a defined product category. The right usually becomes relevant after the creator receives a genuine third-party offer or decides to accept specified terms from another brand.</p>
-<p>A ROFR does not automatically renew the sponsorship. It gives the holder a contractual opportunity to take the covered deal under the matching rules written into the agreement.</p>
+<p>A ROFR does not automatically renew the <a href="/glossary/sponsorship/">sponsorship</a>. It gives the holder a contractual opportunity to take the covered deal under the matching rules written into the agreement.</p>
 <h3>How a creator ROFR can work</h3>
 <p>A simplified process might look like this:</p>
 <ol>
@@ -99,10 +99,10 @@ permalink: /glossary/right-of-first-refusal/
 </ul>
 <p>The phrase <strong>bona fide offer</strong> should be considered carefully. The contract may require a signed offer, detailed term sheet, proposed agreement, or other credible evidence rather than an informal inquiry.</p>
 <h3>What does matching mean?</h3>
-<p>Matching is not always as simple as offering the same dollar amount. A brand deal can include:</p>
+<p>Matching is not always as simple as offering the same dollar amount. A <a href="/glossary/brand-deal/">brand deal</a> can include:</p>
 <ul>
 <li>Guaranteed cash fee</li>
-<li>Affiliate commission</li>
+<li><a href="/glossary/affiliate-commission/">Affiliate commission</a></li>
 <li>Performance bonuses</li>
 <li>Free products, travel, or services</li>
 <li>Number and format of <a href="/glossary/deliverables">deliverables</a></li>
@@ -124,10 +124,10 @@ permalink: /glossary/right-of-first-refusal/
 <ul>
 <li>The third-party brand or category</li>
 <li>Proposed compensation</li>
-<li>Deliverables</li>
+<li><a href="/glossary/deliverables/">Deliverables</a></li>
 <li>Usage and exclusivity</li>
 <li>Campaign dates</li>
-<li>Payment terms</li>
+<li><a href="/glossary/payment-terms/">Payment terms</a></li>
 <li>Material conditions</li>
 <li>A copy or summary of the offer</li>
 </ul>
@@ -180,7 +180,7 @@ permalink: /glossary/right-of-first-refusal/
 <li>Automatic expiration after the sponsor declines</li>
 <li>Compensation for an extended hold or negotiation period</li>
 </ul>
-<h3>Is a ROFR the same as category exclusivity?</h3>
+<h3>Is a ROFR the same as <a href="/glossary/category-exclusivity/">category exclusivity</a>?</h3>
 <p>No. Category exclusivity prevents defined competing activity during a restricted period. A ROFR allows the creator to pursue a future opportunity but gives the holder a chance to take or match it before completion.</p>
 <p>The two can appear together. For example:</p>
 <ul>

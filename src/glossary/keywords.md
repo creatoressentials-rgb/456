@@ -14,7 +14,7 @@ related_terms:
 
 <h2>Keywords</h2>
 
-<h2>What Are Keywords in SEO?</h2>
+<h2>What Are Keywords in <a href="/glossary/seo/">SEO</a>?</h2>
 
 <p>SEO keywords are the specific words and phrases that help search engines understand what your content is about. These terms connect your content with the search queries your audience types into search engines like Google. By strategically integrating SEO keywords into your website or content, you can improve your search engine rankings, attract more organic traffic, and reach the right audience.</p>
 
@@ -23,7 +23,7 @@ For example, if you’re a YouTuber sharing video editing tutorials, a keyword l
 
 <h2>How Are Keywords Used for YouTube?</h2>
 
-<p>Keywords in YouTube play a critical role in helping your videos get discovered by the right audience. Just like SEO keywords for websites, YouTube keywords signal what your content is about—both to the YouTube algorithm and to viewers.</p>
+<p>Keywords in YouTube play a critical role in helping your videos get discovered by the right audience. Just like SEO keywords for websites, YouTube keywords signal what your content is about—both to the <a href="/glossary/youtube-algorithm/">YouTube algorithm</a> and to viewers.</p>
 
 <p>Here are the key areas where you can use keywords in YouTube:</p>
 
@@ -56,7 +56,7 @@ For example, if you’re a YouTuber sharing video editing tutorials, a keyword l
 </ul>
 </li>
 <li>
-<p>Closed Captions and Subtitles:</p>
+<p><a href="/glossary/closed-captions/">Closed Captions</a> and Subtitles:</p>
 
 <ul>
 <li>
@@ -75,4 +75,4 @@ For example, if you’re a YouTuber sharing video editing tutorials, a keyword l
 </li>
 </ol>
 
-<p>By using keywords in YouTube strategically, you can increase the likelihood of your content being recommended, showing up in search results, and reaching the audience most interested in your niche.</p>
+<p>By using keywords in YouTube strategically, you can increase the likelihood of your content being recommended, showing up in search results, and reaching the audience most interested in your <a href="/glossary/niche/">niche</a>.</p>

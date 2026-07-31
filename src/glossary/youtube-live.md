@@ -17,7 +17,7 @@ related_terms:
 
 <h2>What Do You Need for YouTube Live?</h2>
 
-<p>To start streaming on YouTube Live, you need a verified YouTube channel. Desktop streaming is available for all users, while mobile streaming requires at least 1,000 subscribers. Various streaming options include using a mobile device, webcam, or encoder for different types of content.</p>
+<p>To start streaming on YouTube Live, you need a verified <a href="/glossary/youtube-channel/">YouTube channel</a>. Desktop streaming is available for all users, while mobile streaming requires at least 1,000 subscribers. Various streaming options include using a mobile device, webcam, or encoder for different types of content.</p>
 
 <h2>Why Use YouTube Live?</h2>
 

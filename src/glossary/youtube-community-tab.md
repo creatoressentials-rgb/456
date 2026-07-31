@@ -18,7 +18,7 @@ related_terms:
 <h2>What is the Community Tab on YouTube?</h2>
 
 <p>The YouTube Community Tab is a feature on the YouTube platform designed to enhance interaction between creators and their audience beyond traditional video content. It allows creators to engage with their audience through various types of posts, including text, images, polls, GIFs, and videos.</p>
-<p>This tab appears on a YouTube channel's page and serves as a social platform within YouTube, fostering community engagement and conversation.</p>
+<p>This tab appears on a <a href="/glossary/youtube-channel/">YouTube channel</a>'s page and serves as a social platform within YouTube, fostering community engagement and conversation.</p>
 
 <h2>Benefits of the YouTube Community Tab</h2>
 

@@ -76,11 +76,11 @@ permalink: /glossary/cost-per-acquisition/
 <ul>
 <li>Creator fee</li>
 <li><a href="/glossary/paid-usage">Paid usage</a> fee</li>
-<li>Whitelisting fee</li>
+<li><a href="/glossary/whitelisting/">Whitelisting</a> fee</li>
 <li>Media spend</li>
 <li>Agency cost</li>
 <li>Production</li>
-<li>Affiliate commission</li>
+<li><a href="/glossary/affiliate-commission/">Affiliate commission</a></li>
 <li>Discount subsidy</li>
 <li>Tracking platform</li>
 </ul>
@@ -99,12 +99,12 @@ permalink: /glossary/cost-per-acquisition/
 <ul>
 <li>Creator fee</li>
 <li>Advertising spend</li>
-<li>Network fee</li>
+<li><a href="/glossary/dropped-frames/">Network</a> fee</li>
 <li>Discount</li>
 <li>Agency fee</li>
 <li>Production costs</li>
 </ul>
-<h3>CPA vs. conversion rate</h3>
+<h3>CPA vs. <a href="/glossary/conversion-rate/">conversion rate</a></h3>
 <table>
 <thead>
 <tr>
@@ -164,7 +164,7 @@ permalink: /glossary/cost-per-acquisition/
 <li>New-customer status</li>
 <li>Gross margin</li>
 <li>Refund rate</li>
-<li>Retention</li>
+<li><a href="/glossary/retention/">Retention</a></li>
 <li>Customer lifetime value</li>
 <li>Subscription activation</li>
 <li>Lead-to-sale rate</li>
@@ -204,11 +204,11 @@ permalink: /glossary/cost-per-acquisition/
 </table>
 <p>Revenue is not profit. The allowable CPA should reflect margins, service cost, returns, and cash flow.</p>
 <h3>Creator campaign CPA</h3>
-<p>A brand evaluating a sponsored video may calculate:</p>
+<p>A brand evaluating a <a href="/glossary/sponsored-video/">sponsored video</a> may calculate:</p>
 <p><strong>Total creator campaign cost ÷ attributed new customers</strong></p>
 <p>Total cost might include:</p>
 <ul>
-<li>Sponsorship compensation</li>
+<li><a href="/glossary/sponsorship-compensation/">Sponsorship compensation</a></li>
 <li>Product cost</li>
 <li>Shipping</li>
 <li>Agency fee</li>
@@ -218,7 +218,7 @@ permalink: /glossary/cost-per-acquisition/
 <li><a href="/glossary/partnership-ads">Partnership ads</a></li>
 </ul>
 <p>The creator should confirm which costs and acquisitions the brand is using before accepting a CPA-based performance requirement.</p>
-<h3>CPA and attribution</h3>
+<h3>CPA and <a href="/glossary/attribution/">attribution</a></h3>
 <p>CPA depends on <a href="/glossary/attribution">attribution</a>.</p>
 <p>If the final click receives all credit, a creator who built awareness may appear to have a high CPA or no acquisitions.</p>
 <p>If a long view-through window credits many conversions, CPA may appear unusually low.</p>

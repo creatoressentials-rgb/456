@@ -15,7 +15,7 @@ related_terms:
 
 <h2>What are YouTube Video Tags?</h2>
 
-<p>YouTube tags, also known as "video tags," are words and phrases added to videos during upload. They function as metadata, providing YouTube and search engines like Google with contextual information about the video's content, topic, and category. This data plays a crucial role in how the YouTube algorithm categorizes and ranks videos in search results and suggestions, making tags a vital element of video SEO.</p>
+<p>YouTube tags, also known as "video tags," are words and phrases added to videos during upload. They function as metadata, providing YouTube and search engines like Google with contextual information about the video's content, topic, and category. This data plays a crucial role in how the <a href="/glossary/youtube-algorithm/">YouTube algorithm</a> categorizes and ranks videos in search results and suggestions, making tags a vital element of video <a href="/glossary/seo/">SEO</a>.</p>
 
 <h2>Why are Tags Important for Video SEO?</h2>
 

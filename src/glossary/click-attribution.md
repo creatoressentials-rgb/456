@@ -6,7 +6,7 @@ permalink: /glossary/click-attribution/
 
 ---
 
-<h2>Click Attribution</h2>
+<h2>Click <a href="/glossary/attribution/">Attribution</a></h2>
 <p><strong>Click attribution</strong> is the process of assigning conversion credit to one or more clicks that occurred before a sale, sign-up, lead, download, or other valuable action.</p>
 <p>The click may come from:</p>
 <ul>
@@ -108,7 +108,7 @@ permalink: /glossary/click-attribution/
 <thead>
 <tr>
   <th>Click attribution</th>
-  <th>View-through attribution</th>
+  <th><a href="/glossary/view-through-attribution/">View-through attribution</a></th>
 </tr>
 </thead>
 <tbody>
@@ -214,7 +214,7 @@ permalink: /glossary/click-attribution/
 <p>Before a performance campaign, confirm:</p>
 <ul>
 <li>Conversion event</li>
-<li>Tracking link</li>
+<li><a href="/glossary/tracking-link/">Tracking link</a></li>
 <li>Click identifier</li>
 <li>Attribution model</li>
 <li>Conversion window</li>

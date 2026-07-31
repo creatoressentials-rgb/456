@@ -59,7 +59,7 @@ related_terms:
 <tr>
   <td>Video editing</td>
   <td>Selecting and arranging picture and sound over time</td>
-  <td>Cutting A-roll, B-roll, music, and dialogue</td>
+  <td>Cutting <a href="/glossary/a-roll/">A-roll</a>, <a href="/glossary/b-roll/">B-roll</a>, music, and dialogue</td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +99,7 @@ related_terms:
 <h4>To direct attention</h4>
 <p>An arrow, highlight, zoom, outline, or animated callout can show viewers where to look in a product demonstration, interface, gameplay clip, or screen recording.</p>
 <p>Too many moving elements compete for attention, so prioritize one focal point at a time.</p>
-<h4>To improve information retention</h4>
+<h4>To improve information <a href="/glossary/retention/">retention</a></h4>
 <p>Showing a keyword, statistic, step number, or visual model while it is discussed can reinforce the spoken explanation. This is especially useful in tutorials, educational videos, and presentations.</p>
 <h4>To create recognizable branding</h4>
 <p>Consistent type, shapes, colors, transitions, and movement patterns can make a channel identifiable before the logo even appears.</p>

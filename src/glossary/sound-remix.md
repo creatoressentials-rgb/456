@@ -16,7 +16,7 @@ related_terms:
 ---
 
 <h2>Sound Remix</h2>
-<p><strong>Sound Remix</strong> is a YouTube Shorts feature that lets you create new visuals using audio from an eligible Short, long-form video, music video, or shared sound page. The remixed audio becomes the soundtrack or spoken-audio layer of your Short, while YouTube connects the new upload to the sound and its source.</p>
+<p><strong>Sound Remix</strong> is a <a href="/glossary/youtube-shorts/">YouTube Shorts</a> feature that lets you create new visuals using audio from an eligible Short, long-form video, music video, or shared sound page. The remixed audio becomes the soundtrack or spoken-audio layer of your Short, while YouTube connects the new upload to the sound and its source.</p>
 <p>Creators use Sound Remix for music trends, voice clips, dialogue, jokes, narration, challenges, and repeatable formats built around a recognizable audio cue.</p>
 
 <h3>How Sound Remix works</h3>
@@ -111,9 +111,9 @@ related_terms:
   <td>YouTube's in-app Shorts music catalog</td>
 </tr>
 <tr>
-  <td>YouTube Audio Library</td>
+  <td><a href="/glossary/youtube-audio-library/">YouTube Audio Library</a></td>
   <td>Download music and sound effects for video production</td>
-  <td>YouTube Studio; some tracks require attribution</td>
+  <td><a href="/glossary/youtube-studio/">YouTube Studio</a>; some tracks require <a href="/glossary/attribution/">attribution</a></td>
 </tr>
 </tbody>
 </table>
@@ -129,7 +129,7 @@ related_terms:
 <li>The video has copyright or policy restrictions.</li>
 <li>The app, account, or device does not show the feature.</li>
 </ul>
-<p>A source can sometimes permit audio remixing while blocking visual remix tools. YouTube notes that certain third-party claims may prevent Cut, Collab, or Green Screen even when the underlying music remains available as audio.</p>
+<p>A source can sometimes permit audio remixing while blocking visual remix tools. YouTube notes that certain third-party claims may prevent Cut, Collab, or <a href="/glossary/green-screen/">Green Screen</a> even when the underlying music remains available as audio.</p>
 
 <h3>Attribution and sound pages</h3>
 <p>YouTube attributes a Sound Remix through the sound chip, audio page, and source metadata. Viewers can use the sound page to discover the original audio and other Shorts using the same sound.</p>

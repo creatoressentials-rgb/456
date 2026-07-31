@@ -14,7 +14,7 @@ related_terms:
 ---
 
 <h2>YouTube Inspiration Tab</h2>
-<p>The <strong>YouTube Inspiration tab</strong> is a section of YouTube Studio that helps creators brainstorm what to make next. It generates video ideas, titles, hooks, outlines, and thumbnail concepts using AI, all shaped by a channel's own audience and content data — not a generic list of "what's trending on YouTube."</p>
+<p>The <strong>YouTube Inspiration tab</strong> is a section of <a href="/glossary/youtube-studio/">YouTube Studio</a> that helps creators brainstorm what to make next. It generates video ideas, titles, hooks, outlines, and thumbnail concepts using AI, all shaped by a channel's own audience and content data — not a generic list of "what's trending on YouTube."</p>
 <p>It sits inside <strong>Content → Inspiration</strong> in YouTube Studio, and it's closely tied to <a href="/glossary/ask-studio/">Ask Studio</a>, YouTube's conversational AI assistant — the two tools share data and can hand ideas back and forth between them.</p>
 
 <h3>What the Inspiration Tab Actually Shows</h3>
@@ -52,7 +52,7 @@ related_terms:
 <td>Proposes titles based on similar and currently trending videos</td>
 </tr>
 <tr>
-<td>Thumbnails</td>
+<td><a href="/glossary/youtube-thumbnails/">Thumbnails</a></td>
 <td>Generates customizable thumbnail concepts (with an optional C2PA authenticity manifest attached to downloaded images)</td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ related_terms:
 <p>The Inspiration tab wasn't always AI-driven. It launched as a keyword/topic "Research" tab focused on search volume and content-gap analysis, and was renamed "Inspiration" around mid-2024. Generative features — outlines, hooks, AI thumbnails, and the current nine-cards-per-prompt structure — were added through 2024 and 2025, with the most significant relaunch announced at YouTube's Made on YouTube event in September 2025. Older tutorials describing a search-volume dashboard under the Analytics menu are describing that earlier version, not the current tool.</p>
 
 <h3>Why It Matters for Growth</h3>
-<p>The Inspiration tab won't replace channel strategy, but it removes a common bottleneck: staring at a blank content calendar. Because suggestions are tied to a channel's own <a href="/glossary/returning-viewers/">returning viewers</a> and recent audience behavior rather than generic <a href="/glossary/youtube-hype/">YouTube Hype</a>-driven trends, it's more useful as a way to validate or extend ideas already working for a specific audience than as a source of one-size-fits-all viral topics. Pairing an Inspiration idea with genuine on-camera perspective — rather than publishing the AI outline verbatim — is what separates a video that performs from one that reads as templated.</p>
+<p>The Inspiration tab won't replace channel strategy, but it removes a common bottleneck: staring at a blank content calendar. Because suggestions are tied to a channel's own <a href="/glossary/returning-viewers/">returning viewers</a> and recent audience behavior rather than generic <a href="/glossary/youtube-hype/">YouTube Hype</a>-driven trends, it's more useful as a way to validate or extend ideas already working for a specific audience than as a source of one-size-fits-all <a href="/glossary/viral/">viral</a> topics. Pairing an Inspiration idea with genuine on-camera perspective — rather than publishing the AI outline verbatim — is what separates a video that performs from one that reads as templated.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

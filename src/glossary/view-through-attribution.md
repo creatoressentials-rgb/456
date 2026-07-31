@@ -6,7 +6,7 @@ permalink: /glossary/view-through-attribution/
 
 ---
 
-<h2>View-Through Attribution</h2>
+<h2>View-Through <a href="/glossary/attribution/">Attribution</a></h2>
 <p><strong>View-through attribution</strong> assigns conversion credit after a person sees an eligible advertisement, does not click or otherwise complete a stronger qualifying interaction, and later converts within the applicable view-through window.</p>
 <p>The reported outcome is commonly called a <strong>view-through conversion</strong>.</p>
 <p>A simplified journey is:</p>
@@ -18,7 +18,7 @@ permalink: /glossary/view-through-attribution/
 <li>The advertising system connects the conversion with the earlier impression.</li>
 <li>The conversion is reported as view-through under the platform's rules.</li>
 </ol>
-<h3>View-through attribution vs. click attribution</h3>
+<h3>View-through attribution vs. <a href="/glossary/click-attribution/">click attribution</a></h3>
 <table>
 <thead>
 <tr>
@@ -85,7 +85,7 @@ permalink: /glossary/view-through-attribution/
 </table>
 <p>The exact thresholds depend on campaign and ad format.</p>
 <h3>View-through attribution vs. organic creator views</h3>
-<p>A viewer watching a creator's normal sponsored video is not automatically a Google Ads view-through impression.</p>
+<p>A viewer watching a creator's normal <a href="/glossary/sponsored-video/">sponsored video</a> is not automatically a Google Ads view-through impression.</p>
 <p>View-through attribution normally refers to eligible <strong>paid advertising impressions</strong> measured by the ad platform.</p>
 <p>Creator organic influence can instead be measured through:</p>
 <ul>
@@ -166,7 +166,7 @@ permalink: /glossary/view-through-attribution/
 <h3>View-through attribution and creator ads</h3>
 <p>A brand may turn creator content into:</p>
 <ul>
-<li>YouTube creator partnership ads</li>
+<li>YouTube creator <a href="/glossary/partnership-ads/">partnership ads</a></li>
 <li>Meta partnership ads</li>
 <li>TikTok Spark Ads</li>
 <li>Brand-account video ads</li>

@@ -117,16 +117,16 @@ permalink: /glossary/revenue-share/
 </tr>
 </tbody>
 </table>
-<p>In affiliate marketing, people often use <strong>revenue share</strong> to describe a percentage commission on sales. That is one type of affiliate commission, not the only possible meaning of revenue share.</p>
+<p>In <a href="/glossary/affiliate-marketing/">affiliate marketing</a>, people often use <strong>revenue share</strong> to describe a percentage commission on sales. That is one type of <a href="/glossary/affiliate-commission/">affiliate commission</a>, not the only possible meaning of revenue share.</p>
 <h3>Common creator revenue-share arrangements</h3>
 <h4>Affiliate sales</h4>
-<p>The creator receives a percentage of qualifying sales tracked through an <a href="/glossary/affiliate-link">affiliate link</a>, code, product tag, or another attribution method.</p>
+<p>The creator receives a percentage of qualifying sales tracked through an <a href="/glossary/affiliate-link">affiliate link</a>, code, product tag, or another <a href="/glossary/attribution/">attribution</a> method.</p>
 <h4>Co-created products</h4>
 <p>A creator collaborates on a product and receives a percentage of sales. The contract should define inventory, manufacturing, returns, marketing costs, and product lifespan.</p>
 <h4>Courses, memberships, or subscriptions</h4>
-<p>The creator receives a percentage of subscription or enrollment revenue. Important issues include renewals, cancellations, refunds, free trials, payment failures, and customer retention.</p>
+<p>The creator receives a percentage of subscription or enrollment revenue. Important issues include renewals, cancellations, refunds, free trials, payment failures, and customer <a href="/glossary/retention/">retention</a>.</p>
 <h4>Advertising revenue</h4>
-<p>A creator, platform, production partner, or network shares advertising revenue. The agreement should define whether the percentage applies before or after platform deductions and which revenue reports control.</p>
+<p>A creator, platform, production partner, or <a href="/glossary/dropped-frames/">network</a> shares advertising revenue. The agreement should define whether the percentage applies before or after platform deductions and which revenue reports control.</p>
 <p>YouTube notes that multi-channel networks commonly take a percentage from the creator's portion before paying the creator. The creator should understand the network's deductions and the underlying YouTube revenue calculation separately.</p>
 <h4>Licensing and distribution</h4>
 <p>A creator licenses a show, format, video library, or other asset and receives a percentage of revenue from distribution, subscriptions, advertising, or sales.</p>
@@ -158,7 +158,7 @@ permalink: /glossary/revenue-share/
 <h3>Attribution and revenue share</h3>
 <p>When revenue share depends on creator-generated sales, the agreement should define:</p>
 <ul>
-<li>Tracking link or code</li>
+<li><a href="/glossary/tracking-link/">Tracking link</a> or code</li>
 <li>Attribution window</li>
 <li>First-click, last-click, or another model</li>
 <li>Cross-device tracking</li>
@@ -202,7 +202,7 @@ permalink: /glossary/revenue-share/
 <li>Platform reporting</li>
 <li>Minimum payment thresholds</li>
 </ul>
-<p>The <a href="/glossary/payment-terms">payment terms</a> should identify the reporting period, approval process, payment date, reserve, minimum threshold, and treatment of late reports.</p>
+<p>The <a href="/glossary/payment-terms">payment terms</a> should identify the reporting period, <a href="/glossary/approval-process/">approval process</a>, payment date, reserve, minimum threshold, and treatment of late reports.</p>
 <h3>Guaranteed fee plus revenue share</h3>
 <p>A hybrid structure can combine:</p>
 <ul>
@@ -275,4 +275,4 @@ permalink: /glossary/revenue-share/
 <h4>Does revenue share give a creator ownership?</h4>
 <p>No. A percentage of revenue is compensation. Equity or copyright ownership must be granted separately.</p>
 <h4>What is a good revenue-share percentage?</h4>
-<p>There is no universal percentage. The value depends on the revenue definition, margins, creator contribution, guaranteed fee, usage rights, attribution, risk, and duration.</p>
+<p>There is no universal percentage. The value depends on the revenue definition, margins, creator contribution, guaranteed fee, <a href="/glossary/usage-rights/">usage rights</a>, attribution, risk, and duration.</p>

@@ -38,12 +38,12 @@ related_terms:
 <p>This determination is genuinely fact-specific, and getting it wrong has consequences under federal law. We're laying out YouTube's and the FTC's own published factors here, not offering a compliance verdict — if you're unsure where your content lands, especially in a "mixed audience" gray zone, talk to a lawyer or consult YouTube's own guidance directly.</p>
 
 <h3>How to set it: channel default vs. per-video</h3>
-<p>You can handle this two ways in YouTube Studio (web only — the mobile app doesn't support the channel-level setting):</p>
+<p>You can handle this two ways in <a href="/glossary/youtube-studio/">YouTube Studio</a> (web only — the mobile app doesn't support the channel-level setting):</p>
 <ol>
 <li><strong>Channel-level default.</strong> Settings → Channel → Advanced Settings → Audience. Choose "made for kids," "not made for kids," or "review for every video." This applies to all existing and future videos, but...</li>
 <li><strong>Per-video override.</strong> Every upload has an Audience field on the Basic Info tab. A per-video setting overrides the channel default — so if your channel default is "not made for kids" but one video is squarely kid-directed, you set that video individually.</li>
 </ol>
-<p>Live streams (including archived ones) have their own audience setting in the Live Control Room, with the same logic.</p>
+<p>Live streams (including archived ones) have their own audience setting in the <a href="/glossary/live-control-room/">Live Control Room</a>, with the same logic.</p>
 <p>If you never touch this setting, YouTube's machine-learning systems may set it for you based on what looks "clearly directed to young audiences" — but YouTube is explicit that you shouldn't rely on this. Its systems aren't built to make the legal determination for you.</p>
 
 <h3>What gets disabled when content is MFK</h3>
@@ -52,11 +52,11 @@ related_terms:
 <li>Personalized advertising (contextual ads only)</li>
 <li>Comments</li>
 <li>Notification bell</li>
-<li>Cards and end screens</li>
+<li>Cards and <a href="/glossary/end-screens/">end screens</a></li>
 <li>Video watermarks</li>
 <li>Channel Memberships</li>
 <li>Donate button, live chat, and live chat donations</li>
-<li>Super Chat and Super Stickers</li>
+<li><a href="/glossary/super-chat/">Super Chat</a> and <a href="/glossary/super-stickers/">Super Stickers</a></li>
 <li>Merchandise shelf and ticketing</li>
 <li>Save to playlist / Save to Watch Later</li>
 <li>Miniplayer playback</li>
@@ -67,8 +67,8 @@ related_terms:
 <p>Practically: this wipes out most of the tools that drive repeat engagement and fan-funding revenue. See <a href="/glossary/channel-memberships/">Channel Memberships</a> and <a href="/glossary/fan-funding/">Fan Funding</a> for how those normally work — both are unavailable on MFK content, full stop.</p>
 
 <h3>The honest revenue impact</h3>
-<p>Here's the part most articles either skip or oversell: <strong>MFK doesn't zero out your ad revenue — it removes personalized targeting, which pulls your CPM down, sometimes a lot, but "sometimes a lot" is doing real work in that sentence.</strong></p>
-<p>Without personal data to target against, YouTube can only sell contextual ads (matched to the video's content, not the viewer). Contextual ads generally pay less than personalized ones, but the gap varies wildly by niche, advertiser demand, region, and season — there's no single, YouTube-published "MFK tax" percentage. Creator-reported figures range from under $1 to around $7 CPM depending on the niche, with educational and toy-review content typically outperforming generic entertainment, and Q4 seeing the usual seasonal bump. Treat any single number you see quoted — including ours — as a rough range, not a guarantee.</p>
+<p>Here's the part most articles either skip or oversell: <strong>MFK doesn't zero out your ad revenue — it removes personalized targeting, which pulls your <a href="/glossary/cost-per-mille-cpm/">CPM</a> down, sometimes a lot, but "sometimes a lot" is doing real work in that sentence.</strong></p>
+<p>Without personal data to target against, YouTube can only sell contextual ads (matched to the video's content, not the viewer). Contextual ads generally pay less than personalized ones, but the gap varies wildly by <a href="/glossary/niche/">niche</a>, advertiser demand, region, and season — there's no single, YouTube-published "MFK tax" percentage. Creator-reported figures range from under $1 to around $7 <a href="/glossary/youtube-cpm/">CPM</a> depending on the niche, with educational and toy-review content typically outperforming generic entertainment, and Q4 seeing the usual seasonal bump. Treat any single number you see quoted — including ours — as a rough range, not a guarantee.</p>
 <p>This connects to two other terms worth understanding if you're modeling revenue: <a href="/glossary/ad-revenue/">Ad Revenue</a> (the underlying mechanic) and <a href="/glossary/youtube-rpm/">YouTube RPM</a> and <a href="/glossary/playback-based-cpm/">Playback-Based CPM</a> (how the rate you actually see is calculated). MFK affects the ad-buy side of that equation, not views or watch time directly.</p>
 <p>What MFK does <em>not</em> touch: brand sponsorships, affiliate links, off-platform merch stores, or licensing deals — none of those run through YouTube's ad system, so COPPA's targeting restrictions don't apply to them. For a lot of successful kids' channels, these off-platform streams end up mattering more than AdSense.</p>
 

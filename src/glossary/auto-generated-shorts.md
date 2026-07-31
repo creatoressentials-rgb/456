@@ -14,7 +14,7 @@ related_terms:
 
 <h2>Auto-Generated Shorts</h2>
 <p><strong>Auto-Generated Shorts</strong> is creator shorthand for the ways YouTube itself — rather than the creator manually editing a clip — turns existing long-form video into Shorts-format content that can appear on a channel's Shorts shelf. In practice, this covers three distinct YouTube mechanisms: automatic reclassification of videos that already meet Shorts specs, the "Remix"/"Edit into a Short" system (which is opt-out by default), and YouTube's own experimental tools that auto-select highlight segments from a video.</p>
-<p>It is <strong>not</strong> the same thing as Auto-Generated Clips, which refers specifically to YouTube's highlight-moment clipping experiments (like the "Create a video highlight" test), and it is not the same as a creator sitting down and manually cutting their own Short in the Shorts editor. This entry focuses on the automatic/system-driven side of Shorts creation and covers what's confirmed, what's opt-out, and what's simply internet folklore.</p>
+<p>It is <strong>not</strong> the same thing as <a href="/glossary/auto-generated-clips/">Auto-Generated Clips</a>, which refers specifically to YouTube's highlight-moment clipping experiments (like the "Create a video highlight" test), and it is not the same as a creator sitting down and manually cutting their own Short in the Shorts editor. This entry focuses on the automatic/system-driven side of Shorts creation and covers what's confirmed, what's opt-out, and what's simply internet folklore.</p>
 
 <h3>What Actually Counts as "Auto-Generated" Shorts</h3>
 <table>
@@ -35,9 +35,9 @@ related_terms:
 </tr>
 <tr>
 <td><strong>Remix / "Create Shorts from your videos"</strong></td>
-<td>Creator (own video, via "Edit into a Short") or another viewer (via Remix: Cut, Green Screen, Collab)</td>
+<td>Creator (own video, via "Edit into a Short") or another viewer (via Remix: Cut, <a href="/glossary/green-screen/">Green Screen</a>, Collab)</td>
 <td>Semi-automatic — the tool assembles the Short, but a human selects and publishes it</td>
-<td>Yes — per-video or bulk "Shorts remixing" setting in YouTube Studio</td>
+<td>Yes — per-video or bulk "Shorts remixing" setting in <a href="/glossary/youtube-studio/">YouTube Studio</a></td>
 </tr>
 <tr>
 <td><strong>Automated highlight/segment-selection experiments</strong> ("Create a video highlight," a.k.a. Auto-Generated Clips)</td>
@@ -110,10 +110,10 @@ related_terms:
 <li>For a full picture of how these rules fit into your channel's eligibility, see YouTube Monetization and Policies and <a href="/glossary/ad-revenue/">Ad Revenue</a>.</li>
 </ul>
 
-<h3>Credit, Ownership, and Traffic Attribution</h3>
+<h3>Credit, Ownership, and Traffic <a href="/glossary/attribution/">Attribution</a></h3>
 <ul>
 <li>A Short cut from your <strong>own</strong> long-form video stays on your channel and links back to the source video — no ownership changes hands.</li>
-<li>A Short someone else creates by remixing your public video is uploaded to <strong>their</strong> channel, with attribution/a link back to your original — you don't get a revenue share from their Short, but you may gain new viewers.</li>
+<li>A Short someone else creates by remixing your public video is uploaded to <strong>their</strong> channel, with attribution/a link back to your original — you don't get a <a href="/glossary/revenue-share/">revenue share</a> from their Short, but you may gain new viewers.</li>
 <li>Traffic driven by remixes of your content shows up in your Reach reports under a distinct "Remixed video" source, separate from <a href="/glossary/traffic-sources/">Traffic Sources</a> like <a href="/glossary/suggested-videos/">Suggested Videos</a> or <a href="/glossary/browse-features/">Browse Features</a>.</li>
 <li>Watch time and view counts for the Short and the original long-form video are tracked separately; a Short's performance does not add to the original video's watch time, though it can indirectly drive new viewers back to it — a distinction worth tracking alongside <a href="/glossary/returning-viewers/">Returning Viewers</a> and <a href="/glossary/unique-viewers/">Unique Viewers</a> metrics for your channel.</li>
 </ul>

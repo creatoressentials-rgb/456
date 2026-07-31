@@ -175,7 +175,7 @@ permalink: /glossary/partnership-ads/
 <h4>Are partnership ads the same as branded-content posts?</h4>
 <p>No. A branded-content post can remain organic. A partnership ad uses paid advertising distribution and requires the appropriate Meta permissions.</p>
 <h4>Does a paid partnership label let the brand run ads?</h4>
-<p>Not automatically. The advertiser needs partnership-ad permission through Meta and should also have the required contractual paid-usage rights.</p>
+<p>Not automatically. The advertiser needs partnership-ad permission through Meta and should also have the required contractual paid-<a href="/glossary/usage-rights/">usage rights</a>.</p>
 <h4>Can a creator revoke partnership-ad access?</h4>
 <p>Meta says partners can revoke permissions. The creator should still follow any contract requiring access for a specified campaign term.</p>
 <h4>Does archiving an Instagram post stop an ad code?</h4>

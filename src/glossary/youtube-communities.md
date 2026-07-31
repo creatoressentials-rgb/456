@@ -56,7 +56,7 @@ related_terms:
 </tr>
 </tbody>
 </table>
-<p>Instead of a subscriber count, YouTube gates Posts behind <strong>"Advanced features"</strong> access in YouTube Studio, unlocked by one of:</p>
+<p>Instead of a subscriber count, YouTube gates Posts behind <strong>"Advanced features"</strong> access in <a href="/glossary/youtube-studio/">YouTube Studio</a>, unlocked by one of:</p>
 <ul>
 <li>Phone/ID verification</li>
 <li>Video verification</li>
@@ -87,7 +87,7 @@ related_terms:
 <tr>
 <td>Image</td>
 <td>Up to 10 photos</td>
-<td>16 MB per image; JPG, PNG, GIF, or WEBP; 1:1 aspect ratio suggested</td>
+<td>16 MB per image; JPG, PNG, GIF, or WEBP; 1:1 <a href="/glossary/aspect-ratio/">aspect ratio</a> suggested</td>
 </tr>
 <tr>
 <td>GIF</td>

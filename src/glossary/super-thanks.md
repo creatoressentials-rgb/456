@@ -24,9 +24,9 @@ related_terms:
 <li>A one-time animated GIF shown only to them, over the video</li>
 <li>The ability to post one distinct, colorful, highlighted comment — visible to everyone, and separate from regular comments</li>
 </ul>
-<p>It launched in beta in July 2021 (originally called "Viewer Applause") and rolled out to all eligible YouTube Partner Program creators in April 2022. It sits alongside <a href="/glossary/super-chat/">Super Chat</a>, <a href="/glossary/super-stickers/">Super Stickers</a>, and <a href="/glossary/channel-memberships/">Channel Memberships</a> as one of YouTube's fan-funding tools — see <a href="/glossary/fan-funding/">Fan Funding</a> for how all four compare.</p>
+<p>It launched in beta in July 2021 (originally called "Viewer Applause") and rolled out to all eligible <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> creators in April 2022. It sits alongside <a href="/glossary/super-chat/">Super Chat</a>, <a href="/glossary/super-stickers/">Super Stickers</a>, and <a href="/glossary/channel-memberships/">Channel Memberships</a> as one of YouTube's fan-funding tools — see <a href="/glossary/fan-funding/">Fan Funding</a> for how all four compare.</p>
 
-<h3>Price tiers and revenue share</h3>
+<h3>Price tiers and <a href="/glossary/revenue-share/">revenue share</a></h3>
 <p>Four fixed tiers (local-currency equivalent varies by country):</p>
 <table>
 <thead><tr><th>Tip amount</th><th>Creator keeps (~70%)</th></tr></thead>
@@ -44,7 +44,7 @@ related_terms:
 <ul>
 <li>Meet the minimum fan-funding requirements — this unlocks at YouTube's 500-subscriber Early Monetization tier plus associated watch-time/Shorts-views thresholds. You don't need the full 1,000-subscriber standard monetization bar just for Super Thanks.</li>
 <li>Be located in one of YouTube's eligible countries/regions (check YouTube's current list — it covers dozens of markets but isn't universal).</li>
-<li>Accept and comply with YouTube's terms, including the Commerce Product Module (CPM).</li>
+<li>Accept and comply with YouTube's terms, including the Commerce Product Module (<a href="/glossary/cost-per-mille-cpm/">CPM</a>).</li>
 <li>Channel isn't set as <a href="/glossary/made-for-kids/">Made for Kids</a> and doesn't carry a significant share of MFK or ineligible videos.</li>
 <li>Some music channels under SRAV contracts are excluded.</li>
 </ul>
@@ -60,7 +60,7 @@ related_terms:
 
 <h3>How to turn it on</h3>
 <ol>
-<li>In YouTube Studio (desktop or mobile app), go to Earn.</li>
+<li>In <a href="/glossary/youtube-studio/">YouTube Studio</a> (desktop or mobile app), go to Earn.</li>
 <li>Open the Supers tab — it only appears if your channel is eligible.</li>
 <li>Click Get started and accept the Commerce Product Module if you haven't already.</li>
 <li>Toggle Super Thanks on.</li>

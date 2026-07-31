@@ -31,7 +31,7 @@ related_terms:
 
 <ol>
 <li>
-<p>Increased Visibility: Thumbnails can significantly boost a video's CTR, leading to more views.</p>
+<p>Increased Visibility: Thumbnails can significantly boost a video's <a href="/glossary/youtube-impressions/">CTR</a>, leading to more views.</p>
 </li>
 <li>
 <p>Enhanced Engagement: An inviting thumbnail can improve watch time and viewer interaction.</p>

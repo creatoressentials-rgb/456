@@ -20,7 +20,7 @@ related_terms:
 
 <p>To create chapters, creators include timestamps in the video description. This feature enhances user engagement by making videos more accessible and easier to navigate.</p>
 
-<h2>Do Chapters Help YouTube SEO?</h2>
+<h2>Do Chapters Help YouTube <a href="/glossary/seo/">SEO</a>?</h2>
 
 <p>YouTube video chapters can contribute to a video's SEO by providing additional text metadata. This metadata helps YouTube's algorithm better understand the content of the video, potentially improving its discoverability in search results and recommendations. Chapters make it easier for viewers to find and watch relevant sections, possibly increasing viewer engagement and watch time, which are key factors in YouTube's ranking algorithm.<br>
 <br>
@@ -28,7 +28,7 @@ However, the direct impact of chapters on SEO is not explicitly stated by YouTub
 
 <h2>Can you turn off chapters on YouTube?</h2>
 
-<p>Creators have the option to turn off chapters on YouTube. If chapters are not desired, creators can simply avoid including timestamps in their video descriptions. Alternatively, if chapters are automatically generated and unwanted, creators can edit their video details in YouTube Studio and manually remove or adjust the chapters. This flexibility allows creators to choose whether to use chapters based on their content strategy and viewer preferences.</p>
+<p>Creators have the option to turn off chapters on YouTube. If chapters are not desired, creators can simply avoid including timestamps in their video descriptions. Alternatively, if chapters are automatically generated and unwanted, creators can edit their video details in <a href="/glossary/youtube-studio/">YouTube Studio</a> and manually remove or adjust the chapters. This flexibility allows creators to choose whether to use chapters based on their content strategy and viewer preferences.</p>
 
 <h2>Is it good to add chapters to YouTube videos?</h2>
 

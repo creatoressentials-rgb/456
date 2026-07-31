@@ -13,7 +13,7 @@ related_terms:
 ---
 
 <h2>ISO</h2>
-<p><strong>ISO</strong> is a camera setting that controls how strongly a digital camera amplifies or maps the signal produced by the light captured on its sensor. Raising ISO makes the recorded image brighter, while lowering ISO makes it darker when <a href="/glossary/aperture/">aperture</a>, shutter speed, and lighting remain unchanged.</p>
+<p><strong>ISO</strong> is a camera setting that controls how strongly a digital camera amplifies or maps the signal produced by the light captured on its sensor. Raising ISO makes the recorded image brighter, while lowering ISO makes it darker when <a href="/glossary/aperture/">aperture</a>, <a href="/glossary/shutter-speed/">shutter speed</a>, and lighting remain unchanged.</p>
 <p>ISO is often described as the sensor's sensitivity to light. That is a useful shortcut, but a digital sensor does not physically become more light-sensitive each time the number changes. The amount of captured light is controlled primarily by the scene illumination, lens aperture, and shutter duration. ISO changes what the camera does with the resulting signal.</p>
 <h3>How ISO numbers work</h3>
 <p>Common full-stop ISO values include:</p>
@@ -110,7 +110,7 @@ related_terms:
 <p>Creators should consult camera-specific documentation and tests. Applying one manufacturer's terminology to another model can produce incorrect advice.</p>
 <h3>The lowest ISO is not always the best ISO</h3>
 <p>"Use the lowest ISO possible" is incomplete advice.</p>
-<p>A low ISO is useful when the scene provides enough light for the required shutter speed and aperture. It can preserve highlight headroom and reduce the need for amplification. But forcing ISO 100 in a dim scene may lead to severe underexposure, motion blur, or an aperture that does not provide enough depth of field.</p>
+<p>A low ISO is useful when the scene provides enough light for the required shutter speed and aperture. It can preserve highlight headroom and reduce the need for amplification. But forcing ISO 100 in a dim scene may lead to severe underexposure, motion blur, or an aperture that does not provide enough <a href="/glossary/depth-of-field/">depth of field</a>.</p>
 <p>The better rule is to capture enough light for the shot, protect important highlights, and use an ISO that places the signal correctly for the camera mode.</p>
 <p>For video creators, this may mean:</p>
 <ul>
@@ -136,7 +136,7 @@ related_terms:
   <td>Consistency and highlight control matter more than automatic exposure</td>
 </tr>
 <tr>
-  <td>Handheld indoor vlog</td>
+  <td>Handheld indoor <a href="/glossary/vlog/">vlog</a></td>
   <td>Auto ISO with a sensible maximum can help</td>
   <td>Light changes faster than manual adjustments are practical</td>
 </tr>

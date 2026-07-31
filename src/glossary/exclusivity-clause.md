@@ -11,7 +11,7 @@ permalink: /glossary/exclusivity-clause/
 <p>In creator agreements, the clause may restrict competing sponsorships, work with named brands, publication on other platforms, licensing of the same asset, or other commercial activity for a defined time.</p>
 <p>“Exclusive” is incomplete by itself. The contract should identify <strong>what is exclusive, to whom, where, and for how long</strong>.</p>
 <h3>Common types of creator exclusivity</h3>
-<h4>Category exclusivity</h4>
+<h4><a href="/glossary/category-exclusivity/">Category exclusivity</a></h4>
 <p>The creator cannot promote other brands within a defined product or service category.</p>
 <p>For example, the contract may prohibit competing meal-kit sponsorships for a specified period. See <a href="/glossary/category-exclusivity">category exclusivity</a> for the detailed category-based restriction.</p>
 <h4>Named-competitor exclusivity</h4>
@@ -166,7 +166,7 @@ permalink: /glossary/exclusivity-clause/
 
 <h3>Frequently asked questions</h3>
 <h4>Is an exclusivity clause the same as category exclusivity?</h4>
-<p>No. Category exclusivity is one type of exclusivity clause. The broader clause may instead restrict platforms, formats, named competitors, content licensing, appearances, or all brand partnerships.</p>
+<p>No. Category exclusivity is one type of exclusivity clause. The broader clause may instead restrict platforms, formats, named competitors, <a href="/glossary/content-licensing/">content licensing</a>, appearances, or all brand partnerships.</p>
 <h4>Should creators charge extra for exclusivity?</h4>
 <p>Often yes when it blocks realistic revenue opportunities. The amount should reflect the actual scope and opportunity cost rather than a universal percentage.</p>
 <h4>Can exclusivity apply to old videos?</h4>

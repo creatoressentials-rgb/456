@@ -16,7 +16,7 @@ permalink: /glossary/ugc-creator/
 <li>Unboxing</li>
 <li>Problem-and-solution video</li>
 <li>Lifestyle scene</li>
-<li>Voice-over</li>
+<li><a href="/glossary/voice-over/">Voice-over</a></li>
 <li>Before-and-after</li>
 <li>App walkthrough</li>
 <li>Product photography</li>
@@ -45,7 +45,7 @@ permalink: /glossary/ugc-creator/
   <td>Reflects spontaneous customer activity</td>
 </tr>
 <tr>
-  <td>Produces defined deliverables</td>
+  <td>Produces defined <a href="/glossary/deliverables/">deliverables</a></td>
   <td>No negotiated deliverables</td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ permalink: /glossary/ugc-creator/
 </tr>
 <tr>
   <td>Follower count may be less important</td>
-  <td>Reach and audience fit often matter</td>
+  <td>Reach and <a href="/glossary/audience-fit/">audience fit</a> often matter</td>
 </tr>
 <tr>
   <td>Brand may publish the content</td>
@@ -123,7 +123,7 @@ permalink: /glossary/ugc-creator/
 <li>Delivery</li>
 </ul>
 <p>It does not automatically include unlimited advertising rights or ownership.</p>
-<h3>Usage rights</h3>
+<h3><a href="/glossary/usage-rights/">Usage rights</a></h3>
 <p>A UGC agreement should define:</p>
 <ul>
 <li>Organic use</li>
@@ -142,7 +142,7 @@ permalink: /glossary/ugc-creator/
 <li>Renewal</li>
 </ul>
 <p>See <a href="/glossary/usage-rights">usage rights</a> and <a href="/glossary/paid-usage">paid usage</a>.</p>
-<h3>UGC creator vs. partnership ads</h3>
+<h3>UGC creator vs. <a href="/glossary/partnership-ads/">partnership ads</a></h3>
 <p>The brand can run a UGC asset:</p>
 <ul>
 <li>From the brand account</li>
@@ -154,12 +154,12 @@ permalink: /glossary/ugc-creator/
 <li>On retailer sites</li>
 </ul>
 <p>Partnership or Spark-style ads use platform permission and creator identity. That should be priced and authorized separately.</p>
-<h3>Content ownership</h3>
+<h3><a href="/glossary/content-ownership/">Content ownership</a></h3>
 <p>The creator may:</p>
 <ul>
 <li>Retain copyright and license the content</li>
 <li>Assign copyright</li>
-<li>Create a qualifying work made for hire</li>
+<li>Create a qualifying <a href="/glossary/work-made-for-hire/">work made for hire</a></li>
 <li>Transfer selected rights</li>
 <li>Exclude preexisting materials</li>
 </ul>
@@ -178,7 +178,7 @@ permalink: /glossary/ugc-creator/
 <p>The FTC requires endorsements to reflect honest experience and material relationships to be disclosed when presented publicly.</p>
 <h3>Disclosure</h3>
 <h4>Creator posts the content</h4>
-<p>Clear sponsorship disclosure is generally needed.</p>
+<p>Clear <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a> is generally needed.</p>
 <h4>Brand posts the advertisement</h4>
 <p>The ad must still be truthful. The creative should not falsely imply that the creator is an unpaid customer.</p>
 <h4>Creator authorizes partnership advertising</h4>
@@ -264,5 +264,5 @@ permalink: /glossary/ugc-creator/
 <p>No. Many UGC creators deliver content for the brand to publish or advertise.</p>
 <h4>Who owns UGC creator content?</h4>
 <p>Ownership depends on the contract. The creator may retain copyright and grant a license, assign rights, or create qualifying work made for hire.</p>
-<h4>Does UGC content require sponsorship disclosure?</h4>
+<h4>Does UGC content require <a href="/glossary/sponsorship/">sponsorship</a> disclosure?</h4>
 <p>When the creator publicly endorses or posts paid content, clear disclosure is generally needed. Brand-run ads must also avoid misleading viewers about the relationship.</p>

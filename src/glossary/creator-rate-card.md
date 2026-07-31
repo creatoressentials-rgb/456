@@ -12,22 +12,22 @@ related_terms:
 ---
 
 <h2>Creator Rate Card</h2>
-<p>A <strong>creator rate card</strong> is a document that lists a content creator’s services, baseline prices, packages, and common commercial add-ons for potential brand partners. It gives the creator a consistent starting point for discussing a <a href="/glossary/brand-deal/">brand deal</a> and helps a brand understand what kinds of work the creator offers.</p>
-<p>A rate card is usually <strong>a negotiation tool, not a binding final quote</strong>. The actual fee can change after the creator learns the campaign scope, required <a href="/glossary/deliverables/">deliverables</a>, usage rights, exclusivity, timeline, production costs, and approval requirements.</p>
+<p>A <strong>creator rate card</strong> is a document that lists a <a href="/glossary/content-creator/">content creator</a>’s services, baseline prices, packages, and common commercial add-ons for potential brand partners. It gives the creator a consistent starting point for discussing a <a href="/glossary/brand-deal/">brand deal</a> and helps a brand understand what kinds of work the creator offers.</p>
+<p>A rate card is usually <strong>a negotiation tool, not a binding final quote</strong>. The actual fee can change after the creator learns the campaign scope, required <a href="/glossary/deliverables/">deliverables</a>, <a href="/glossary/usage-rights/">usage rights</a>, exclusivity, <a href="/glossary/timeline/">timeline</a>, production costs, and approval requirements.</p>
 <p>Creators may keep a detailed internal rate card for their own pricing decisions, share a simplified version after a brand inquiry, or include selected “starting at” rates in a <a href="/glossary/creator-media-kit/">creator media kit</a>.</p>
 <h3>What a creator rate card includes</h3>
 <p>A useful rate card normally identifies each service clearly enough that a brand can compare options. It may include:</p>
 <ul>
 <li>YouTube integrations or sponsored segments</li>
 <li>Dedicated sponsored videos</li>
-<li>YouTube Shorts</li>
+<li><a href="/glossary/youtube-shorts/">YouTube Shorts</a></li>
 <li>Livestream mentions or sponsored segments</li>
 <li>Community posts</li>
 <li>Cross-platform packages</li>
 <li>Unposted user-generated content for the brand’s channels</li>
 <li>Event appearances, hosting, or production services</li>
 <li>Affiliate or performance-based options</li>
-<li>Content licensing and paid-media add-ons</li>
+<li><a href="/glossary/content-licensing/">Content licensing</a> and paid-media add-ons</li>
 </ul>
 <p>For each item, state the <strong>base scope</strong> behind the price. “YouTube integration — $X” is incomplete unless the creator knows what that rate assumes, such as the segment length, placement, number of links, review process, and expected publication window.</p>
 <h3>Rate card vs. media kit, proposal, quote, and contract</h3>
@@ -92,20 +92,20 @@ related_terms:
 <h4>Usage rights</h4>
 <p>The creator’s fee for producing and publishing content does not automatically give the brand unlimited permission to reuse it. Usage terms should define where the content can appear, whether it can be edited, which accounts can publish it, how long the permission lasts, and whether it may be used in advertising.</p>
 <h4>Paid amplification and brand partner access</h4>
-<p>A brand may want to boost the creator’s content through an advertising platform or use brand partner tools. On YouTube, brand partner access can allow a brand to view certain performance data and promote a sponsored video. YouTube advises creators to discuss usage rights and obtain the required agreements independently.</p>
+<p>A brand may want to boost the creator’s content through an advertising platform or use brand partner tools. On YouTube, brand partner access can allow a brand to view certain performance data and promote a <a href="/glossary/sponsored-video/">sponsored video</a>. YouTube advises creators to discuss usage rights and obtain the required agreements independently.</p>
 <h4>Exclusivity</h4>
 <p>Exclusivity prevents the creator from working with specified competitors or product categories for a defined period. Because it can block other income, it should identify the restricted brands or category, geography, platforms, and start and end dates rather than using a vague phrase such as “no competitors.”</p>
 <h4>Additional revision rounds</h4>
 <p>A base package might include one consolidated feedback cycle. Additional rounds, changes after approval, or a new concept can be charged separately. The contract should explain what counts as a round and whether corrections caused by the creator count against the limit.</p>
 <h4>Raw footage and project files</h4>
-<p>A final published video is different from the camera originals, audio files, graphics, thumbnails, scripts, or editable project files. These materials can have independent production and licensing value and should be listed separately when requested.</p>
+<p>A final published video is different from the camera originals, audio files, graphics, <a href="/glossary/youtube-thumbnails/">thumbnails</a>, scripts, or editable project files. These materials can have independent production and licensing value and should be listed separately when requested.</p>
 <h4>Rush work and production expenses</h4>
 <p>A shortened schedule may require rearranging other work, hiring help, expedited shipping, travel, studio rental, props, talent, or specialized equipment. State whether expenses are included, reimbursed, capped, or subject to approval.</p>
 <h3>How creators set baseline rates</h3>
 <p>There is no official universal price per follower or subscriber. A creator can build a more defensible baseline by considering:</p>
 <ol>
-<li><strong>Typical comparable performance:</strong> Use recent median or average views for similar content, not only subscriber count or a single viral upload.</li>
-<li><strong>Audience value:</strong> Niche expertise, purchase intent, geography, demographics, and brand fit may matter more than raw reach.</li>
+<li><strong>Typical comparable performance:</strong> Use recent median or average views for similar content, not only subscriber count or a single <a href="/glossary/viral/">viral</a> upload.</li>
+<li><strong>Audience value:</strong> <a href="/glossary/niche/">Niche</a> expertise, purchase intent, geography, demographics, and brand fit may matter more than raw reach.</li>
 <li><strong>Production cost:</strong> Include planning, scripting, filming, editing, graphics, equipment, labor, and administration.</li>
 <li><strong>Opportunity cost:</strong> A sponsored upload may replace an organic video or conflict with another sponsor.</li>
 <li><strong>Commercial rights:</strong> Organic posting, paid advertising, content repurposing, and exclusivity are different uses.</li>
@@ -146,7 +146,7 @@ related_terms:
 <h4>Is a creator rate card the same as a media kit?</h4>
 <p>No. A media kit sells the creator’s fit and credibility. A rate card focuses on services, baseline prices, packages, and commercial add-ons. They can be combined, but their functions are different.</p>
 <h4>Is the price on a rate card final?</h4>
-<p>Usually not. It is commonly a starting price based on stated assumptions. The final quote should reflect the campaign’s deliverables, rights, exclusivity, schedule, expenses, and approval process.</p>
+<p>Usually not. It is commonly a starting price based on stated assumptions. The final quote should reflect the campaign’s deliverables, rights, exclusivity, schedule, expenses, and <a href="/glossary/approval-process/">approval process</a>.</p>
 <h4>Should usage rights be included in a creator’s base rate?</h4>
 <p>Only when the included rights are clearly defined. A common baseline is organic publication on the creator’s own channel, with broader brand reuse or paid advertising priced separately.</p>
 <h4>Do small creators need a rate card?</h4>

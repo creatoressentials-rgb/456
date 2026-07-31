@@ -30,7 +30,7 @@ Versatility in Ad Formats: YouTube’s variety of ad formats allows for creative
 
 <h2>Benefits of YouTube Ads for Creators</h2>
 
-<p>Monetization Opportunity: Ads provide a revenue stream for creators. When ads are shown with their content, creators earn a portion of the ad revenue.<br>
+<p>Monetization Opportunity: Ads provide a revenue stream for creators. When ads are shown with their content, creators earn a portion of the <a href="/glossary/ad-revenue/">ad revenue</a>.<br>
 Audience Growth: Ads can help attract new subscribers and increase video views.<br>
 Community Engagement: Ad revenue allows creators to invest in better content, indirectly boosting viewer engagement.<br>
 Brand Partnerships: Successful ad integrations can lead to brand partnerships, offering additional revenue and growth opportunities.<br>

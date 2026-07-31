@@ -20,8 +20,8 @@ related_terms:
 
 <h2>Why are YouTube video titles important?</h2>
 
-<p>Titles play a pivotal role in viewer engagement, SEO, and algorithmic performance. They influence click-through rates, with direct implications for a video's reach and popularity. A title that is optimized for search engines can enhance a video's discoverability, making it more likely to be recommended by YouTube's algorithm.</p>
+<p>Titles play a pivotal role in viewer engagement, <a href="/glossary/seo/">SEO</a>, and algorithmic performance. They influence click-through rates, with direct implications for a video's reach and popularity. A title that is optimized for search engines can enhance a video's discoverability, making it more likely to be recommended by YouTube's algorithm.</p>
 
 <h2>What makes a good YouTube video title?</h2>
 
-<p>An effective title is concise, descriptive, and engaging, often incorporating keywords strategically for SEO purposes. It should accurately reflect the video's content while piquing the viewer's interest. Titles that strike a balance between providing information and creating intrigue are more likely to draw in viewers and retain their attention.</p>
+<p>An effective title is concise, descriptive, and engaging, often incorporating <a href="/glossary/keywords/">keywords</a> strategically for SEO purposes. It should accurately reflect the video's content while piquing the viewer's interest. Titles that strike a balance between providing information and creating intrigue are more likely to draw in viewers and retain their attention.</p>

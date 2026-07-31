@@ -14,10 +14,10 @@ related_terms:
 ---
 
 <h2>Super Stickers</h2>
-<p><strong>Quick answer:</strong> Super Stickers are paid, often-animated images viewers can send into live chat during YouTube live streams and Premieres. They're the visual counterpart to <a href="/glossary/super-chat/">Super Chat</a> — same eligibility, same 70/30 revenue split, same live-only availability — but instead of a highlighted text message, the viewer sends a themed graphic that appears in the chat feed.</p>
+<p><strong>Quick answer:</strong> Super Stickers are paid, often-animated images viewers can send into live chat during <a href="/glossary/youtube-live/">YouTube live</a> streams and Premieres. They're the visual counterpart to <a href="/glossary/super-chat/">Super Chat</a> — same eligibility, same 70/30 revenue split, same live-only availability — but instead of a highlighted text message, the viewer sends a themed graphic that appears in the chat feed.</p>
 
 <h3>How Super Stickers work</h3>
-<p>Super Stickers piggyback entirely on Super Chat's underlying mechanics: eligibility requirements, the YouTube Partner Program fan-funding rules, moderation tools, and the 70% creator / 30% YouTube revenue split are identical. See <a href="/glossary/super-chat/">Super Chat</a> and <a href="/glossary/fan-funding/">Fan Funding</a> for the full breakdown of those shared mechanics — this entry focuses on what's actually different about stickers.</p>
+<p>Super Stickers piggyback entirely on Super Chat's underlying mechanics: eligibility requirements, the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> fan-funding rules, moderation tools, and the 70% creator / 30% YouTube revenue split are identical. See <a href="/glossary/super-chat/">Super Chat</a> and <a href="/glossary/fan-funding/">Fan Funding</a> for the full breakdown of those shared mechanics — this entry focuses on what's actually different about stickers.</p>
 <p>If your channel is already eligible for Super Chat, you're automatically eligible for Super Stickers, and if you've already turned on Super Chat you're typically opted in without extra setup. Both features are available on any eligible live stream or Premiere where live chat is on, and both are unavailable on age-restricted, unlisted, private, or <a href="/glossary/made-for-kids/">Made for Kids</a> content.</p>
 
 <h3>What's different from Super Chat</h3>
@@ -56,6 +56,6 @@ related_terms:
 <h4>Are Super Stickers the same price as Super Chat?</h4>
 <p>No. Super Chat messages can go up to $500 each; individual Super Stickers top out much lower, around $50, with entry prices near $1.</p>
 <h4>Do I need to turn on Super Stickers separately from Super Chat?</h4>
-<p>If you're already eligible for and using Super Chat, Super Stickers generally come with it — check the Supers tab under Earn in YouTube Studio to confirm both are on.</p>
+<p>If you're already eligible for and using Super Chat, Super Stickers generally come with it — check the Supers tab under Earn in <a href="/glossary/youtube-studio/">YouTube Studio</a> to confirm both are on.</p>
 <h4>Can viewers send Super Stickers on regular uploads or Shorts?</h4>
 <p>No. Like Super Chat, Super Stickers only work on live streams and Premieres. For non-live content, viewers can send <a href="/glossary/super-thanks/">Super Thanks</a> instead.</p>

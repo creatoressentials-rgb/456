@@ -12,14 +12,14 @@ related_terms:
 ---
 
 <h2>RTMP</h2>
-<p><strong>RTMP</strong> stands for <strong>Real-Time Messaging Protocol</strong>. In a YouTube live-streaming workflow, it is commonly used to send encoded video, audio, and control data from a creator's encoder to YouTube's ingest server.</p>
+<p><strong>RTMP</strong> stands for <strong>Real-Time Messaging Protocol</strong>. In a <a href="/glossary/youtube-live/">YouTube live</a>-streaming workflow, it is commonly used to send encoded video, audio, and control data from a creator's encoder to YouTube's ingest server.</p>
 <p>RTMP is part of the connection between the creator and YouTube. It should not be confused with the full delivery path YouTube uses to process the stream and play it for viewers on different devices.</p>
 
 <h3>How RTMP works with YouTube Live</h3>
 <ol>
 <li>A camera, microphone, screen capture, or other source feeds a <a href="/glossary/live-encoder/">Live Encoder</a>.</li>
 <li>The encoder compresses the production into a supported video and audio stream.</li>
-<li>The creator enters YouTube's stream server URL and a stream key into the encoder.</li>
+<li>The creator enters YouTube's stream server URL and a <a href="/glossary/stream-key/">stream key</a> into the encoder.</li>
 <li>The encoder sends the feed to YouTube through RTMP or a supported alternative.</li>
 <li>YouTube processes and distributes the live stream to viewers.</li>
 </ol>
@@ -51,7 +51,7 @@ related_terms:
 <thead><tr><th>Protocol</th><th>Strength</th><th>Trade-off</th></tr></thead>
 <tbody>
 <tr><td>RTMP/RTMPS</td><td>Broad encoder support and compatibility with all three YouTube latency modes</td><td>Current YouTube comparison limits these ingest options to H.264</td></tr>
-<tr><td>HLS</td><td>Encrypted ingest, HEVC support, HDR, and strong 4K suitability</td><td>Segment-based delivery generally creates more latency and does not support Ultra-low Latency</td></tr>
+<tr><td>HLS</td><td>Encrypted ingest, HEVC support, HDR, and strong 4K suitability</td><td>Segment-based delivery generally creates more latency and does not support <a href="/glossary/ultra-low-latency/">Ultra-low Latency</a></td></tr>
 <tr><td>DASH</td><td>Encrypted ingest and VP9 support for high-resolution streaming</td><td>Generally higher latency and no Ultra-low Latency support</td></tr>
 </tbody>
 </table>
@@ -59,11 +59,11 @@ related_terms:
 
 <h3>How to connect an encoder with RTMP</h3>
 <ol>
-<li>Open YouTube Studio and choose <strong>Create → Go live</strong>.</li>
+<li>Open <a href="/glossary/youtube-studio/">YouTube Studio</a> and choose <strong>Create → Go live</strong>.</li>
 <li>Create or select the event in <a href="/glossary/live-control-room/">Live Control Room</a>.</li>
 <li>Copy the stream URL and stream key from Stream Settings.</li>
 <li>Paste them into the server and stream-key fields in the encoder.</li>
-<li>Configure the recommended resolution, frame rate, bitrate, keyframe interval, video codec, and audio settings.</li>
+<li>Configure the recommended resolution, <a href="/glossary/frame-rate-fps/">frame rate</a>, bitrate, keyframe interval, <a href="/glossary/video-codec/">video codec</a>, and audio settings.</li>
 <li>Start the encoder and confirm that YouTube receives a healthy preview before going live.</li>
 </ol>
 

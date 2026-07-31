@@ -18,7 +18,7 @@ related_terms:
 
 <h2>YouTube Supers</h2>
 <p><strong>YouTube Supers</strong> is YouTube's own umbrella term for its three paid fan-funding products that let viewers pay to support a creator and stand out while doing it: <a href="/glossary/super-chat/">Super Chat</a>, <a href="/glossary/super-stickers/">Super Stickers</a>, and <a href="/glossary/super-thanks/">Super Thanks</a>. "Supers" isn't a single feature you turn on — it's the family name for these three, each with its own pricing, placement, and rules.</p>
-<p>If you've seen "Supers" show up in YouTube Studio's <strong>Earn</strong> tab and wondered what it actually covers, this entry is the map. For the full mechanics of any one product, jump to its dedicated entry — this page focuses on how the three relate, where they overlap with YouTube's broader <a href="/glossary/fan-funding/">fan-funding</a> tools, and the eligibility/revenue details that apply across all of them.</p>
+<p>If you've seen "Supers" show up in <a href="/glossary/youtube-studio/">YouTube Studio</a>'s <strong>Earn</strong> tab and wondered what it actually covers, this entry is the map. For the full mechanics of any one product, jump to its dedicated entry — this page focuses on how the three relate, where they overlap with YouTube's broader <a href="/glossary/fan-funding/">fan-funding</a> tools, and the eligibility/revenue details that apply across all of them.</p>
 
 <h3>What Does "Supers" Mean on YouTube?</h3>
 <p>Supers launched in stages:</p>
@@ -71,7 +71,7 @@ related_terms:
 <td>Age-restricted, unlisted, private, Made for Kids content, videos with a Content ID claim, fundraiser-linked videos, or a stream/Premiere still live</td>
 </tr>
 <tr>
-<td><strong>Creator revenue share</strong></td>
+<td><strong>Creator <a href="/glossary/revenue-share/">revenue share</a></strong></td>
 <td>70% (after local tax/App Store fees)</td>
 <td>70% (after local tax/App Store fees)</td>
 <td>70% (after local tax/App Store fees)</td>
@@ -105,7 +105,7 @@ related_terms:
 <li>A common misconception is that you need the 1,000-subscriber threshold to use Supers at all. You don't — that threshold is specifically for ad monetization.</li>
 <li><strong>Minimum age of 18.</strong></li>
 <li><strong>Residency in an eligible country/region</strong> — availability lists for each Super are maintained directly on YouTube's Help Center and updated periodically, so always check the current list rather than relying on a cached count.</li>
-<li><strong>Acceptance of the Commerce Product Module (CPM)</strong> by the creator (and their MCN, if applicable) — this is the agreement that governs all fan-funding features, referenced in YouTube's monetization and policies.</li>
+<li><strong>Acceptance of the Commerce Product Module (<a href="/glossary/cost-per-mille-cpm/">CPM</a>)</strong> by the creator (and their MCN, if applicable) — this is the agreement that governs all fan-funding features, referenced in YouTube's monetization and policies.</li>
 <li><strong>Content-level eligibility</strong> — the video or stream itself can't be age-restricted, unlisted, private, or set as <a href="/glossary/made-for-kids/">Made for Kids</a>; comments or live chat must be turned on; and for Super Thanks specifically, the video can't carry an active <a href="/glossary/content-id/">Content ID claim</a> or <a href="/glossary/copyright-claim/">copyright claim</a>.</li>
 </ol>
 

@@ -182,7 +182,7 @@ permalink: /glossary/merchandising/
   <td>Match products to the video's topic</td>
 </tr>
 <tr>
-  <td>YouTube Shopping</td>
+  <td><a href="/glossary/youtube-shopping/">YouTube Shopping</a></td>
   <td>Arrange product shelf and collections</td>
 </tr>
 <tr>
@@ -274,9 +274,9 @@ permalink: /glossary/merchandising/
 <p>Creators can track:</p>
 <ul>
 <li>Product-page views</li>
-<li>Click-through rate</li>
+<li><a href="/glossary/click-through-rate/">Click-through rate</a></li>
 <li>Add-to-cart rate</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Units sold</li>
 <li>Gross revenue</li>
 <li>Gross margin</li>

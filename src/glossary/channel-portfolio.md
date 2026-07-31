@@ -55,9 +55,9 @@ permalink: /glossary/channel-portfolio/
 </tbody>
 </table>
 <p>A video editor's portfolio website is not automatically a channel portfolio.</p>
-<h3>Channel portfolio vs. channel network</h3>
+<h3>Channel portfolio vs. channel <a href="/glossary/dropped-frames/">network</a></h3>
 <p>A <strong>channel network</strong> can refer broadly to affiliated channels.</p>
-<p>A <strong>multi-channel network</strong>, or MCN, has a more specific YouTube business history involving services, rights management, monetization, and contractual relationships with multiple channels.</p>
+<p>A <strong><a href="/glossary/multi-channel-network/">multi-channel network</a></strong>, or MCN, has a more specific YouTube business history involving services, rights management, monetization, and contractual relationships with multiple channels.</p>
 <p>A company can own a portfolio without being an MCN. A creator can operate three owned channels without signing other creators or providing network services.</p>
 <h3>Why creators build multiple channels</h3>
 <h4>Different audience promises</h4>
@@ -106,7 +106,7 @@ permalink: /glossary/channel-portfolio/
 <p>Users can switch between channels associated with their account.</p>
 <p>Depending on setup, teams can use:</p>
 <ul>
-<li>YouTube Studio channel permissions</li>
+<li><a href="/glossary/youtube-studio/">YouTube Studio</a> <a href="/glossary/channel-permissions/">channel permissions</a></li>
 <li>Brand Account ownership and manager roles</li>
 <li>Separate Google Accounts</li>
 <li>Content-owner systems for eligible organizations</li>
@@ -133,7 +133,7 @@ permalink: /glossary/channel-portfolio/
 </ul>
 <p>A business can lose control when the only primary owner leaves or the recovery information belongs to a contractor.</p>
 <h3>Channel permissions</h3>
-<p>YouTube channel permissions allow invited users to receive specific access roles without receiving the owner's Google Account password.</p>
+<p><a href="/glossary/youtube-channel/">YouTube channel</a> permissions allow invited users to receive specific access roles without receiving the owner's Google Account password.</p>
 <p>Roles can differ in their ability to:</p>
 <ul>
 <li>View data</li>
@@ -163,7 +163,7 @@ permalink: /glossary/channel-portfolio/
 <li>Editing</li>
 <li>Production</li>
 <li>Analytics</li>
-<li>Sponsorship sales</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a> sales</li>
 <li>Rights management</li>
 <li>Accounting</li>
 <li>Legal review</li>
@@ -204,7 +204,7 @@ permalink: /glossary/channel-portfolio/
   <td>Total and channel-level revenue</td>
 </tr>
 <tr>
-  <td>RPM</td>
+  <td><a href="/glossary/youtube-rpm/">RPM</a></td>
   <td>Weighted revenue efficiency</td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ permalink: /glossary/channel-portfolio/
   <td>Growth by channel and total reach</td>
 </tr>
 <tr>
-  <td>Returning viewers</td>
+  <td><a href="/glossary/returning-viewers/">Returning viewers</a></td>
   <td>Audience health by channel</td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ permalink: /glossary/channel-portfolio/
 <ul>
 <li><a href="/glossary/ad-revenue">Ad revenue</a></li>
 <li>Sponsorships</li>
-<li>Affiliate marketing</li>
+<li><a href="/glossary/affiliate-marketing/">Affiliate marketing</a></li>
 <li>Merchandise</li>
 <li>Digital products</li>
 <li>Memberships</li>
@@ -284,7 +284,7 @@ permalink: /glossary/channel-portfolio/
 <li>Does the business need a separate brand?</li>
 <li>Will sponsors value the separation?</li>
 <li>Would playlists and channel sections solve the problem?</li>
-<li>Would multi-language audio solve the language need?</li>
+<li>Would <a href="/glossary/multi-language-audio/">multi-language audio</a> solve the language need?</li>
 </ul>
 <p>A new channel starts with no established audience and can divide production focus.</p>
 <h3>Portfolio risks</h3>
@@ -331,10 +331,10 @@ permalink: /glossary/channel-portfolio/
 <li>Data access</li>
 </ul>
 <p>Moving a channel between Brand Accounts can cause loss or replacement of a channel if the process is misunderstood. Follow current YouTube instructions and obtain professional advice for a material transaction.</p>
-<h3>Channel portfolio vs. creator media kit</h3>
+<h3>Channel portfolio vs. <a href="/glossary/creator-media-kit/">creator media kit</a></h3>
 <p>A <a href="/glossary/creator-media-kit">creator media kit</a> presents audience, performance, services, and partnership information.</p>
 <p>A channel portfolio is the underlying collection of channels.</p>
-<p>A media company can create one portfolio-level sales deck while still providing channel-specific metrics and audience fit.</p>
+<p>A media company can create one portfolio-level sales deck while still providing channel-specific metrics and <a href="/glossary/audience-fit/">audience fit</a>.</p>
 <h3>Related terms</h3>
 <p><a href="/glossary/creator-economy">Creator Economy</a>, <a href="/glossary/creator-media-kit">Creator Media Kit</a>, <a href="/glossary/audience-fit">Audience Fit</a>, <a href="/glossary/reused-content">Reused Content</a>, <a href="/glossary/multi-language-audio">Multi-Language Audio</a>, and <a href="/glossary/youtube-partner-program">YouTube Partner Program</a></p>
 

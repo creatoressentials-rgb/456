@@ -8,7 +8,7 @@ permalink: /glossary/content-ownership/
 
 <h2>Content Ownership</h2>
 <p><strong>Content ownership</strong> describes who holds the legal rights in a creative work and who may control its reproduction, distribution, adaptation, display, performance, or other protected uses.</p>
-<p>For creators, the question can apply to videos, Shorts, photographs, recordings, scripts, thumbnails, graphics, animations, raw footage, project files, and other original material.</p>
+<p>For creators, the question can apply to videos, Shorts, photographs, recordings, scripts, <a href="/glossary/youtube-thumbnails/">thumbnails</a>, graphics, animations, raw footage, project files, and other original material.</p>
 <p>Under the general U.S. copyright rule, the person who creates original expression is the author and initial copyright owner. Important exceptions include qualifying works made for hire and written transfers of copyright.</p>
 <p>Payment alone does not automatically answer the ownership question.</p>
 <h3>Who normally owns creator content?</h3>
@@ -25,14 +25,14 @@ permalink: /glossary/content-ownership/
 <li>A company structure in which the creator assigns work to the business</li>
 </ul>
 <h3>Paying for content vs. owning content</h3>
-<p>A brand may pay a creator to produce and publish a <a href="/glossary/sponsored-video">sponsored video</a>. That payment can purchase production services, deliverables, posting, usage permission, exclusivity, or other obligations.</p>
+<p>A brand may pay a creator to produce and publish a <a href="/glossary/sponsored-video">sponsored video</a>. That payment can purchase production services, <a href="/glossary/deliverables/">deliverables</a>, posting, usage permission, exclusivity, or other obligations.</p>
 <p>It does not automatically mean the brand owns the copyright.</p>
 <p>The agreement should state whether the creator:</p>
 <ul>
 <li>Retains ownership and grants a <a href="/glossary/content-licensing">content license</a></li>
 <li>Assigns selected copyright rights</li>
 <li>Transfers the entire copyright</li>
-<li>Creates the work as a qualifying work made for hire</li>
+<li>Creates the work as a qualifying <a href="/glossary/work-made-for-hire/">work made for hire</a></li>
 <li>Retains ownership of preexisting materials and tools</li>
 <li>Delivers raw files without transferring their copyright</li>
 <li>Allows the brand to own only specified brand-created elements</li>
@@ -178,10 +178,10 @@ permalink: /glossary/content-ownership/
 <li>Raw-file delivery</li>
 <li>Third-party materials</li>
 </ul>
-<h3>Content ownership in a creator brand deal</h3>
+<h3>Content ownership in a creator <a href="/glossary/brand-deal/">brand deal</a></h3>
 <p>Before signing, confirm:</p>
 <ul>
-<li>Who owns the final sponsored content</li>
+<li>Who owns the final <a href="/glossary/sponsored-content/">sponsored content</a></li>
 <li>Who owns raw footage and project files</li>
 <li>Whether the brand receives a license or assignment</li>
 <li>Whether the license is exclusive</li>

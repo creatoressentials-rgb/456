@@ -89,7 +89,7 @@ Vlogs and Blogs?</h2>
 <p>Expressing Creativity: Vlogging is a creative outlet that allows individuals to experiment with video production, editing, and storytelling. It encourages self-expression and the development of new skills.</p>
 </li>
 <li>
-<p>Making Money: For many, vlogging offers a way to earn income. Through ad revenue, sponsorships, affiliate marketing, and merchandise sales, successful vloggers can turn their passion into a profitable career.</p>
+<p>Making Money: For many, vlogging offers a way to earn income. Through <a href="/glossary/ad-revenue/">ad revenue</a>, sponsorships, <a href="/glossary/affiliate-marketing/">affiliate marketing</a>, and merchandise sales, successful vloggers can turn their passion into a profitable career.</p>
 </li>
 </ul>
 
@@ -196,12 +196,12 @@ Vlogs and Blogs?</h2>
 
 <h3>Reaction Vlog Example: Rob Squad Reactions</h3>
 
-<p>Rob Squad Reactions features a couple reacting to various media, including music, movies, and viral videos. Their genuine and often humorous reactions provide entertaining commentary on popular content.</p>
+<p>Rob Squad Reactions features a couple reacting to various media, including music, movies, and <a href="/glossary/viral/">viral</a> videos. Their genuine and often humorous reactions provide entertaining commentary on popular content.</p>
 
 <h2>How to Start Vlogging</h2>
 
 <p>Starting a vlog can be exciting, allowing you to share your life, interests, and insights with a global audience. Below are some steps to help you get started.</p>
-<p>Identify a specific topic or theme you are passionate about and knowledgeable in. Both of these are vital for your vlog to succeed. Defining your niche will help you target a specific audience and stand out in the crowded vlogging space. Whether it's travel, cooking, fashion, or tech, choose a niche that excites you and aligns with your interests.</p>
+<p>Identify a specific topic or theme you are passionate about and knowledgeable in. Both of these are vital for your vlog to succeed. Defining your <a href="/glossary/niche/">niche</a> will help you target a specific audience and stand out in the crowded vlogging space. Whether it's travel, cooking, fashion, or tech, choose a niche that excites you and aligns with your interests.</p>
 <p>Remember: vlogging is a marathon and not a sprint. Make sure you choose something that you will be just as excited about in 5-10 years as you are at the start!</p>
 <p>Create a content plan that outlines your video ideas and a posting schedule. Think about the type of content you want to produce, such as tutorials, daily vlogs, reviews, or educational videos.</p>
 <p>Having a general idea of these things can be really helpful to get you started but be flexible! Creating content irregularly is much, much better than not creating any content.</p>
@@ -219,11 +219,11 @@ Vlogs and Blogs?</h2>
 </ul>
 
 <p>Put yourself on a trial run with what you have for 1-2 weeks and see how it goes.</p>
-<p>After your initial trial run, you should invest in some basic equipment. A good camera, a microphone for clear audio, a gimbal, and a tripod for steady shots are great for vloggers (see my recommended equipment here). As you progress, you might consider additional equipment like lighting and editing software to enhance your production quality.</p>
+<p>After your initial trial run, you should invest in some basic equipment. A good camera, a microphone for clear audio, a <a href="/glossary/gimbal/">gimbal</a>, and a tripod for steady shots are great for vloggers (see my recommended equipment here). As you progress, you might consider additional equipment like lighting and editing software to enhance your production quality.</p>
 
-<h3>4. Set Up Your YouTube Channel</h3>
+<h3>4. Set Up Your <a href="/glossary/youtube-channel/">YouTube Channel</a></h3>
 
-<p>Create a YouTube channel. Customize your channel with a clear/catchy name, profile picture, and channel art that reflects your brand. Write a compelling channel description that explains what your vlog is about and what viewers can expect. Visitors to your channel should have a basic understanding of what your niche is within a few seconds.</p>
+<p>Create a YouTube channel. Customize your channel with a clear/catchy name, <a href="/glossary/profile-picture/">profile picture</a>, and channel art that reflects your brand. Write a compelling channel description that explains what your vlog is about and what viewers can expect. Visitors to your channel should have a basic understanding of what your niche is within a few seconds.</p>
 
 <h3>5. Create Your First Video</h3>
 
@@ -232,7 +232,7 @@ Vlogs and Blogs?</h2>
 
 <h3>7. Upload and Optimize Your Videos</h3>
 
-<p>Upload your videos to your channel, optimizing them for search engines. Use relevant keywords in your video titles, descriptions, and tags to improve discoverability. Create eye-catching thumbnails to attract clicks.</p>
+<p>Upload your videos to your channel, optimizing them for search engines. Use relevant <a href="/glossary/keywords/">keywords</a> in your video titles, descriptions, and tags to improve discoverability. Create eye-catching <a href="/glossary/youtube-thumbnails/">thumbnails</a> to attract clicks.</p>
 
 <h3>8. Engage with Your Audience</h3>
 
@@ -240,7 +240,7 @@ Vlogs and Blogs?</h2>
 
 <h3>9. Monitor Your Performance</h3>
 
-<p>Use YouTube Studio to track your channel's performance. Pay attention to metrics like views, watch time, and audience retention (Average View Duration and Average Percentage Viewed) to understand what works and what doesn't. Use this data to refine your content strategy and improve your videos.</p>
+<p>Use <a href="/glossary/youtube-studio/">YouTube Studio</a> to track your channel's performance. Pay attention to metrics like views, watch time, and audience <a href="/glossary/retention/">retention</a> (<a href="/glossary/average-view-duration/">Average View Duration</a> and <a href="/glossary/average-percentage-viewed/">Average Percentage Viewed</a>) to understand what works and what doesn't. Use this data to refine your content strategy and improve your videos.</p>
 <p>Sound like a lot? Learn more about my YouTube consulting and YouTube channel management services to get some help!</p>
 
 <h3>10. Stay Consistent and Persistent</h3>

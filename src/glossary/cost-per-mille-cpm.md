@@ -81,11 +81,11 @@ permalink: /glossary/cost-per-mille-cpm/
 <p>A bid ceiling used in older or eligible bidding setups.</p>
 <h4>Target CPM</h4>
 <p>The average amount the advertiser wants to pay per 1,000 impressions. The system can deliver some impressions above or below that target while attempting to achieve the average.</p>
-<h3>YouTube CPM</h3>
-<p>YouTube defines CPM as the cost an advertiser pays for 1,000 ad impressions before YouTube's revenue share.</p>
+<h3><a href="/glossary/youtube-cpm/">YouTube CPM</a></h3>
+<p>YouTube defines CPM as the cost an advertiser pays for 1,000 ad impressions before YouTube's <a href="/glossary/revenue-share/">revenue share</a>.</p>
 <p>This is an advertiser-side metric surfaced to creators to help explain monetization demand.</p>
 <p>It is not the amount the creator keeps.</p>
-<h3>Playback-based CPM</h3>
+<h3><a href="/glossary/playback-based-cpm/">Playback-based CPM</a></h3>
 <p>YouTube defines <strong>playback-based CPM</strong> as the cost an advertiser pays for 1,000 video playbacks in which an ad is displayed.</p>
 <p>One monetized playback can include more than one ad impression.</p>
 <p>This creates an important difference:</p>
@@ -111,12 +111,12 @@ permalink: /glossary/cost-per-mille-cpm/
 </tr>
 <tr>
   <td>Sponsor CPM</td>
-  <td>Often sponsorship fee divided by video views × 1,000</td>
+  <td>Often <a href="/glossary/sponsorship/">sponsorship</a> fee divided by video views × 1,000</td>
 </tr>
 </tbody>
 </table>
 <p>The terms should not be mixed.</p>
-<h3>CPM vs. RPM</h3>
+<h3>CPM vs. <a href="/glossary/youtube-rpm/">RPM</a></h3>
 <table>
 <thead>
 <tr>
@@ -144,7 +144,7 @@ permalink: /glossary/cost-per-mille-cpm/
 </tbody>
 </table>
 <p>A channel can have high CPM but lower RPM when only a portion of views are monetized or when revenue sharing and other factors reduce creator revenue per view.</p>
-<h3>CPM vs. monetized playbacks</h3>
+<h3>CPM vs. <a href="/glossary/monetized-playbacks/">monetized playbacks</a></h3>
 <p>A <a href="/glossary/monetized-playbacks">monetized playback</a> occurs when a viewer watches a video and is shown at least one ad impression.</p>
 <p>Not every video view is monetized because:</p>
 <ul>
@@ -156,7 +156,7 @@ permalink: /glossary/cost-per-mille-cpm/
 <li>Monetization is disabled</li>
 </ul>
 <p>CPM should therefore not be multiplied by total video views to estimate creator earnings.</p>
-<h3>CPM vs. cost per view</h3>
+<h3>CPM vs. <a href="/glossary/cost-per-view/">cost per view</a></h3>
 <table>
 <thead>
 <tr>
@@ -223,7 +223,7 @@ permalink: /glossary/cost-per-mille-cpm/
 <li>The creator produces and integrates the endorsement</li>
 <li>The brand may receive <a href="/glossary/usage-rights">usage rights</a></li>
 <li>Audience trust and content context are involved</li>
-<li>The sponsorship may include links, exclusivity, and deliverables</li>
+<li>The sponsorship may include links, exclusivity, and <a href="/glossary/deliverables/">deliverables</a></li>
 <li>The sponsor message can remain in evergreen content</li>
 </ul>
 <p>A creator sponsorship should not be priced solely by comparing it with automated ad inventory.</p>
@@ -231,7 +231,7 @@ permalink: /glossary/cost-per-mille-cpm/
 <p>CPM can vary with:</p>
 <ul>
 <li>Country</li>
-<li>Audience demographics</li>
+<li><a href="/glossary/audience-demographics/">Audience demographics</a></li>
 <li>Advertiser demand</li>
 <li>Season</li>
 <li>Industry</li>

@@ -13,7 +13,7 @@ permalink: /glossary/digital-product/
 <li>Ebook</li>
 <li>Template</li>
 <li>Preset</li>
-<li>LUT</li>
+<li><a href="/glossary/lut/">LUT</a></li>
 <li>Spreadsheet</li>
 <li>Printable</li>
 <li>Digital art</li>
@@ -229,7 +229,7 @@ permalink: /glossary/digital-product/
 <li>Marketplace fees</li>
 <li>Refunds</li>
 <li>Taxes</li>
-<li>Affiliate commission</li>
+<li><a href="/glossary/affiliate-commission/">Affiliate commission</a></li>
 <li>Bundling</li>
 <li>Customer acquisition cost</li>
 </ul>

@@ -19,7 +19,7 @@ related_terms:
 <p>A few mechanics worth knowing:</p>
 <ul>
 <li><strong>Date range:</strong> You can pull unique viewers for any window up to <strong>90 days</strong>. Historical data goes back to August 1, 2017.</li>
-<li><strong>Shorts:</strong> Unique viewers for Shorts are estimated from <strong>engaged views</strong> and their watch time, not raw play counts, since Shorts autoplay and loop.</li>
+<li><strong>Shorts:</strong> Unique viewers for Shorts are estimated from <strong><a href="/glossary/engaged-views/">engaged views</a></strong> and their watch time, not raw play counts, since Shorts autoplay and loop.</li>
 <li><strong>It's an estimate, not an exact count.</strong> Shared devices, VPNs, and incognito sessions can occasionally cause under- or over-counting — YouTube doesn't claim perfection here.</li>
 </ul>
 
@@ -29,7 +29,7 @@ related_terms:
 <p>If unique viewers stays flat while views climbs, your existing audience is rewatching or binging more of your catalog, not growing. If unique viewers rises alongside views, you're reaching new people.</p>
 
 <h3>Unique Viewers vs. Monthly Audience vs. Unique Reach</h3>
-<p>This is where most explainers get vague — and it's worth being precise, because all three live in the same <strong>Audience</strong> tab in YouTube Studio and are easy to mix up:</p>
+<p>This is where most explainers get vague — and it's worth being precise, because all three live in the same <strong>Audience</strong> tab in <a href="/glossary/youtube-studio/">YouTube Studio</a> and are easy to mix up:</p>
 <ul>
 <li><strong>Unique Viewers</strong> — the count for whatever date range you select, up to 90 days.</li>
 <li><strong>Monthly Audience</strong> — the same underlying metric, but locked to a rolling <strong>28-day</strong> window, recalculated daily. It's not a different calculation; it's a standardized, fixed-window version of unique viewers, useful for comparing audience size apples-to-apples over time.</li>

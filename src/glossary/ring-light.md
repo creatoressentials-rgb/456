@@ -49,7 +49,7 @@ related_terms:
 </li>
 </ol>
 
-<h2>Tips For End Screens</h2>
+<h2>Tips For <a href="/glossary/end-screens/">End Screens</a></h2>
 
 <p>Here are helpful tips for making the most out of your End Screens on YouTube:</p>
 

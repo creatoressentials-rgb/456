@@ -8,7 +8,7 @@ permalink: /glossary/category-exclusivity/
 
 <h2>Category Exclusivity</h2>
 <p><strong>Category exclusivity</strong> is a contract term that restricts a creator from promoting or working with competing brands in a defined product or service category for a specified period.</p>
-<p>For example, a meal-delivery sponsor might prohibit the creator from accepting another paid meal-kit sponsorship for 30 days before and 30 days after the sponsored video publishes. The restriction should identify what counts as the category, which competitors are covered, where the restriction applies, and how long it lasts.</p>
+<p>For example, a meal-delivery sponsor might prohibit the creator from accepting another paid meal-kit sponsorship for 30 days before and 30 days after the <a href="/glossary/sponsored-video/">sponsored video</a> publishes. The restriction should identify what counts as the category, which competitors are covered, where the restriction applies, and how long it lasts.</p>
 <p>Category exclusivity is not automatically part of every <a href="/glossary/sponsorship/">sponsorship</a>. It must be negotiated and written into the agreement.</p>
 <h3>Why brands request category exclusivity</h3>
 <p>A sponsor may want exclusivity to:</p>
@@ -21,7 +21,7 @@ permalink: /glossary/category-exclusivity/
 <li>Support a longer-term ambassador relationship</li>
 </ul>
 <p>For the creator, exclusivity has an opportunity cost because it can block other paid work. That cost should be considered when using a <a href="/glossary/creator-rate-card/">creator rate card</a> or preparing the campaign quote.</p>
-<h3>What a category exclusivity clause should define</h3>
+<h3>What a category <a href="/glossary/exclusivity-clause/">exclusivity clause</a> should define</h3>
 <h4>Product or service category</h4>
 <p>Avoid broad labels such as “technology,” “finance,” “food,” or “beauty” unless the creator understands exactly what they cover.</p>
 <p>A narrower definition might be:</p>
@@ -50,7 +50,7 @@ permalink: /glossary/category-exclusivity/
 <p>Clarify whether exclusivity applies to:</p>
 <ul>
 <li>YouTube videos</li>
-<li>YouTube Shorts</li>
+<li><a href="/glossary/youtube-shorts/">YouTube Shorts</a></li>
 <li>Livestreams</li>
 <li>Community posts</li>
 <li>Other social platforms</li>
@@ -112,7 +112,7 @@ permalink: /glossary/category-exclusivity/
 </tr>
 </tbody>
 </table>
-<p>Category exclusivity is not the same as usage rights or ownership. A brand can restrict competitors without owning the video, and it can license the video without restricting the creator's other sponsorships.</p>
+<p>Category exclusivity is not the same as <a href="/glossary/usage-rights/">usage rights</a> or ownership. A brand can restrict competitors without owning the video, and it can license the video without restricting the creator's other sponsorships.</p>
 <h3>How category exclusivity affects creator pricing</h3>
 <p>Exclusivity can increase the fee because the creator may lose future revenue or need to reject existing opportunities. The impact depends on:</p>
 <ul>

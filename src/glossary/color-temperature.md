@@ -57,7 +57,7 @@ related_terms:
 </tbody>
 </table>
 <p>These values are approximations. A light's actual output can vary with the fixture, dimming method, weather, time of day, reflections, and manufacturing tolerances.</p>
-<h3>Color temperature versus white balance</h3>
+<h3>Color temperature versus <a href="/glossary/white-balance/">white balance</a></h3>
 <p>These terms are connected but describe different things.</p>
 <ul>
 <li><strong>Color temperature</strong> describes the color appearance of the light illuminating the scene.</li>
@@ -163,7 +163,7 @@ related_terms:
 <h3>Kelvin does not measure every color problem</h3>
 <p>Color temperature mainly describes the orange-to-blue axis. It does not fully describe green or magenta tint.</p>
 <p>Fluorescent and inexpensive LED fixtures can introduce a green cast even when their Kelvin label seems correct. Cameras often provide a separate white-balance shift, tint adjustment, or green-magenta control for this reason.</p>
-<p>Kelvin also does not measure color-rendering quality. Two lights can both claim 5600 K while rendering skin, fabric, and saturated colors differently because their spectral output differs. Metrics such as CRI, TLCI, SSI, and spectral measurements address other parts of light quality.</p>
+<p>Kelvin also does not measure color-<a href="/glossary/rendering/">rendering</a> quality. Two lights can both claim 5600 K while rendering skin, fabric, and saturated colors differently because their spectral output differs. Metrics such as CRI, TLCI, SSI, and spectral measurements address other parts of light quality.</p>
 <h3>Color temperature for a consistent creator setup</h3>
 <p>A repeatable studio is easier to manage when the creator chooses one lighting standard.</p>
 <ul>
@@ -187,7 +187,7 @@ related_terms:
 <h3>White balance, log footage, and post-production</h3>
 <p>Recording log or raw footage provides more grading flexibility, but it does not make white balance irrelevant.</p>
 <p>Severe white-balance errors can push channels unevenly, complicate skin-tone correction, increase noise after adjustment, or make multiple cameras harder to match. Compressed video formats provide less room for large corrections than raw formats.</p>
-<p>Creators should get white balance reasonably close in camera, capture a neutral reference, and then refine the creative look in post. Color grading is stronger when it begins with consistent source footage.</p>
+<p>Creators should get white balance reasonably close in camera, capture a neutral reference, and then refine the creative look in post. <a href="/glossary/color-grading/">Color grading</a> is stronger when it begins with consistent source footage.</p>
 <h3>Common color-temperature mistakes</h3>
 <ul>
 <li>Thinking higher Kelvin always means a warmer light source.</li>

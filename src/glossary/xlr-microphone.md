@@ -143,8 +143,8 @@ related_terms:
 <p><a href="/glossary/phantom-power/">Phantom power</a> sends DC voltage through a balanced microphone cable to operate compatible active electronics. +48V is common on creator interfaces and mixers.</p>
 <p>Key points:</p>
 <ul>
-<li>Many condenser microphones require phantom power.</li>
-<li>Most passive dynamic microphones do not require it.</li>
+<li>Many <a href="/glossary/condenser-microphones/">condenser microphones</a> require phantom power.</li>
+<li>Most passive <a href="/glossary/dynamic-microphones/">dynamic microphones</a> do not require it.</li>
 <li>Some active dynamic microphones, active ribbons, inline preamps, and specialty microphones do require it.</li>
 <li>Some condenser microphones use batteries, external power supplies, USB power, or other systems instead.</li>
 <li>Phantom power is not microphone gain.</li>
@@ -213,7 +213,7 @@ related_terms:
 <li>Shock mount when useful.</li>
 <li>Pop filter or windscreen.</li>
 <li>Headphones.</li>
-<li>Acoustic treatment or soft furnishings.</li>
+<li><a href="/glossary/acoustic-treatment/">Acoustic treatment</a> or soft furnishings.</li>
 <li>Cable management.</li>
 </ul>
 <p>The microphone is only one part of the usable system.</p>

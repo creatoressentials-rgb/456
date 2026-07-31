@@ -81,7 +81,7 @@ permalink: /glossary/personal-brand/
 <p>This can include voice, format, design, humor, terminology, storytelling, or visual identity.</p>
 <h3>Personal brand is not follower count</h3>
 <p>A large audience can exist without a clear brand.</p>
-<p>A strong personal brand can exist within a small professional niche.</p>
+<p>A strong personal brand can exist within a small professional <a href="/glossary/niche/">niche</a>.</p>
 <p>Useful signals include:</p>
 <ul>
 <li>Direct searches for the creator</li>
@@ -130,7 +130,7 @@ permalink: /glossary/personal-brand/
 <li>Speaking</li>
 <li>Licensing</li>
 <li>Consulting</li>
-<li>Affiliate marketing</li>
+<li><a href="/glossary/affiliate-marketing/">Affiliate marketing</a></li>
 <li>Media</li>
 <li>Events</li>
 </ul>
@@ -147,7 +147,7 @@ permalink: /glossary/personal-brand/
 <li>Reputation</li>
 </ul>
 <p>The FTC requires material connections and endorsement claims to be handled clearly and truthfully.</p>
-<p>A poor sponsorship can damage the personal brand beyond the value of the campaign fee.</p>
+<p>A poor <a href="/glossary/sponsorship/">sponsorship</a> can damage the personal brand beyond the value of the campaign fee.</p>
 <h3>Risks of a personal-brand business</h3>
 <ul>
 <li>Reputation concentrated in one person</li>

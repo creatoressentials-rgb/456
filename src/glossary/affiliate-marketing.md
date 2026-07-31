@@ -28,9 +28,9 @@ permalink: /glossary/affiliate-marketing/
 <p>The party promoting the advertiser and referring customers. A YouTube creator is one type of affiliate publisher.</p>
 <h4>Customer</h4>
 <p>The viewer or buyer who clicks, uses a code, or completes another tracked action.</p>
-<h4>Affiliate network or platform</h4>
+<h4><a href="/glossary/affiliate-network/">Affiliate network</a> or platform</h4>
 <p>The technology and business intermediary that can connect advertisers and affiliates, track activity, report results, and facilitate payments. See <a href="/glossary/affiliate-network">affiliate network</a>.</p>
-<p>A brand can also operate a direct program without a third-party network.</p>
+<p>A brand can also operate a direct program without a third-party <a href="/glossary/dropped-frames/">network</a>.</p>
 <h3>How affiliate marketing works</h3>
 <p>A common affiliate workflow is:</p>
 <ol>
@@ -40,7 +40,7 @@ permalink: /glossary/affiliate-marketing/
 <li>The creator publishes content recommending the product.</li>
 <li>A viewer clicks or uses the tracking method.</li>
 <li>The viewer completes a qualifying action.</li>
-<li>The system applies the attribution rules.</li>
+<li>The system applies the <a href="/glossary/attribution/">attribution</a> rules.</li>
 <li>The action remains pending during review or the return window.</li>
 <li>The program approves or reverses the commission.</li>
 <li>Approved earnings are paid according to the <a href="/glossary/payment-terms">payment terms</a>.</li>
@@ -62,7 +62,7 @@ permalink: /glossary/affiliate-marketing/
   <td>Approved purchase</td>
 </tr>
 <tr>
-  <td>Percentage revenue share</td>
+  <td>Percentage <a href="/glossary/revenue-share/">revenue share</a></td>
   <td>Percentage of qualifying sales</td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ permalink: /glossary/affiliate-marketing/
   <td>Qualified inquiry or application</td>
 </tr>
 <tr>
-  <td>Cost per acquisition</td>
+  <td><a href="/glossary/cost-per-acquisition/">Cost per acquisition</a></td>
   <td>New customer or completed action</td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ permalink: /glossary/affiliate-marketing/
 <thead>
 <tr>
   <th>Affiliate marketing</th>
-  <th>Sponsorship</th>
+  <th><a href="/glossary/sponsorship/">Sponsorship</a></th>
 </tr>
 </thead>
 <tbody>
@@ -111,7 +111,7 @@ permalink: /glossary/affiliate-marketing/
 </tr>
 <tr>
   <td>Standard program rules often apply</td>
-  <td>Custom contract and deliverables are common</td>
+  <td>Custom contract and <a href="/glossary/deliverables/">deliverables</a> are common</td>
 </tr>
 <tr>
   <td>Link, code, or tag drives attribution</td>
@@ -129,8 +129,8 @@ permalink: /glossary/affiliate-marketing/
 </table>
 <p>One campaign can include both.</p>
 <h3>Affiliate marketing vs. referral marketing</h3>
-<p>A <strong>referral program</strong> often rewards existing customers for recommending friends. Rewards might include credits, discounts, cash, or products.</p>
-<p>An <strong>affiliate program</strong> is typically a structured commercial marketing arrangement involving publishers or creators who promote the brand to an audience.</p>
+<p>A <strong><a href="/glossary/referral-program/">referral program</a></strong> often rewards existing customers for recommending friends. Rewards might include credits, discounts, cash, or products.</p>
+<p>An <strong><a href="/glossary/affiliate-program/">affiliate program</a></strong> is typically a structured commercial marketing arrangement involving publishers or creators who promote the brand to an audience.</p>
 <p>The labels overlap. The program terms, compensation, and tax or disclosure obligations matter more than the heading.</p>
 <h3>Affiliate marketing vs. influencer marketing</h3>
 <p>Influencer marketing focuses on a creator's content, audience, and influence. Compensation can be flat-fee, gifted, performance-based, or hybrid.</p>
@@ -139,7 +139,7 @@ permalink: /glossary/affiliate-marketing/
 <p>Creators can use:</p>
 <ul>
 <li>YouTube descriptions</li>
-<li>YouTube Shopping product tags</li>
+<li><a href="/glossary/youtube-shopping/">YouTube Shopping</a> product tags</li>
 <li>Dedicated product reviews</li>
 <li>Tutorials</li>
 <li>Comparison videos</li>
@@ -154,9 +154,9 @@ permalink: /glossary/affiliate-marketing/
 <li>Coupon codes</li>
 </ul>
 <p>Program and platform rules determine where links and claims are allowed.</p>
-<h3>YouTube affiliate marketing</h3>
+<h3><a href="/glossary/youtube-affiliate-marketing/">YouTube affiliate marketing</a></h3>
 <p>YouTube describes affiliate links as a lightweight brand-deal strategy in which creators can be paid for embedding links to brands, products, or services in descriptions.</p>
-<p>YouTube also operates the YouTube Shopping affiliate program. Eligible creators can tag participating products, review commission offers, and track Shopping affiliate performance in YouTube Studio.</p>
+<p>YouTube also operates the YouTube Shopping affiliate program. Eligible creators can tag participating products, review commission offers, and track Shopping affiliate performance in <a href="/glossary/youtube-studio/">YouTube Studio</a>.</p>
 <p>YouTube Shopping commissions can remain pending while return windows expire. The general availability, eligibility, merchants, products, and rates can change, so creators should check current Studio and Help Center information.</p>
 <h3>Tracking and attribution</h3>
 <p>Affiliate marketing can use:</p>
@@ -169,7 +169,7 @@ permalink: /glossary/affiliate-marketing/
 <li>Product tags</li>
 <li>Call tracking</li>
 <li>App-install data</li>
-<li>View-through attribution</li>
+<li><a href="/glossary/view-through-attribution/">View-through attribution</a></li>
 <li>Cross-device systems</li>
 </ul>
 <p>The attribution model decides which partner receives credit when several marketing touchpoints influence the same customer.</p>
@@ -184,7 +184,7 @@ permalink: /glossary/affiliate-marketing/
 <li>Time-decay or position-based models</li>
 </ul>
 <h3>Affiliate disclosure</h3>
-<p>Affiliate commission is a material financial connection.</p>
+<p><a href="/glossary/affiliate-commission/">Affiliate commission</a> is a material financial connection.</p>
 <p>FTC guidance says creators should clearly disclose relationships that could affect how viewers evaluate an endorsement. A disclosure should be close to the recommendation and easy to understand.</p>
 <p>Examples include:</p>
 <ul>
@@ -204,7 +204,7 @@ permalink: /glossary/affiliate-marketing/
 <li>Brand reputation</li>
 <li>Commission structure</li>
 <li>Attribution window</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Product price</li>
 <li>Recurring earnings</li>
 <li>Program stability</li>
@@ -260,7 +260,7 @@ permalink: /glossary/affiliate-marketing/
 <p>No. Links are one tracking method. Affiliate marketing also includes program selection, content, attribution, disclosure, reporting, optimization, and payment.</p>
 <h4>Do creators need a large audience for affiliate marketing?</h4>
 <p>Not necessarily. A smaller audience with strong relevance and purchase intent can generate meaningful results, but no audience size guarantees earnings.</p>
-<h4>Is affiliate marketing passive income?</h4>
+<h4>Is affiliate marketing <a href="/glossary/passive-income/">passive income</a>?</h4>
 <p>Evergreen content can generate commission after publication, but links, products, program rules, disclosures, and content usually require ongoing maintenance.</p>
-<h4>Can a sponsored video also use affiliate links?</h4>
+<h4>Can a <a href="/glossary/sponsored-video/">sponsored video</a> also use affiliate links?</h4>
 <p>Yes. The contract should define the guaranteed fee and affiliate compensation separately, and the creator should clearly disclose both relevant relationships.</p>

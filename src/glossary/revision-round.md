@@ -102,7 +102,7 @@ related_terms:
 <li>Requiring new filming after the approved footage was captured</li>
 <li>Moving the shoot to a new location</li>
 <li>Changing the talent, language, or format</li>
-<li>Expanding usage rights or exclusivity</li>
+<li>Expanding <a href="/glossary/usage-rights/">usage rights</a> or exclusivity</li>
 <li>Shortening the agreed deadline</li>
 <li>Reopening a stage that was already approved</li>
 </ul>
@@ -148,9 +148,9 @@ related_terms:
 <li>A new quote for substantial scope changes</li>
 </ul>
 <p>The creator should obtain written approval before completing extra work. A simple change order can state the additional notes, fee, and revised publication date.</p>
-<h3>Revisions and truthful sponsored content</h3>
+<h3>Revisions and truthful <a href="/glossary/sponsored-content/">sponsored content</a></h3>
 <p>A brand may review factual accuracy and legal compliance, but it should not require a creator to make an endorsement that is false or inconsistent with the creator’s real experience. The creator should reject unsupported claims and preserve the ability to communicate honestly.</p>
-<p>Disclosure should also remain clear after revisions. A request to hide, shorten, or remove a required sponsorship disclosure can create platform and legal risk.</p>
+<p>Disclosure should also remain clear after revisions. A request to hide, shorten, or remove a required <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a> can create platform and legal risk.</p>
 <h3>Common revision-round mistakes</h3>
 <ul>
 <li><strong>Using the phrase without defining it:</strong> The parties assume different meanings.</li>

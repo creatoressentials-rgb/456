@@ -86,7 +86,7 @@ related_terms:
   <td>Space between operating or peak level and clipping</td>
 </tr>
 <tr>
-  <td>Dynamic range</td>
+  <td><a href="/glossary/dynamic-range/">Dynamic range</a></td>
   <td>Range between the quietest usable level and loudest undistorted level</td>
 </tr>
 <tr>

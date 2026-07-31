@@ -72,7 +72,7 @@ related_terms:
 <tr>
 <td><strong>Opt-out</strong></td>
 <td>N/A</td>
-<td>Can disable via YouTube Studio &gt; Settings &gt; Channel &gt; Advanced settings &gt; "Let viewers hype my content"</td>
+<td>Can disable via <a href="/glossary/youtube-studio/">YouTube Studio</a> &gt; Settings &gt; Channel &gt; Advanced settings &gt; "Let viewers hype my content"</td>
 </tr>
 <tr>
 <td><strong>Visibility</strong></td>

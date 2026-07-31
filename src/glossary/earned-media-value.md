@@ -17,13 +17,13 @@ permalink: /glossary/earned-media-value/
 <li>User-generated content</li>
 <li>Comments and social conversation</li>
 <li>Views, reach, or impressions</li>
-<li>Engagement generated beyond contracted deliverables</li>
+<li>Engagement generated beyond contracted <a href="/glossary/deliverables/">deliverables</a></li>
 </ul>
 <p>EMV is a modeled proxy. It is not cash earned by the creator or brand.</p>
 <h3>There is no universal EMV formula</h3>
 <p>An EMV provider might calculate value using:</p>
 <ul>
-<li>Impressions multiplied by an assumed CPM</li>
+<li>Impressions multiplied by an assumed <a href="/glossary/cost-per-mille-cpm/">CPM</a></li>
 <li>Views multiplied by an assumed CPV</li>
 <li>Likes, comments, shares, and saves assigned different dollar weights</li>
 <li>Platform-specific rates</li>
@@ -133,7 +133,7 @@ permalink: /glossary/earned-media-value/
 </ul>
 <p>EMV can summarize media activity, but outcomes show whether the activity mattered.</p>
 <h3>EMV example</h3>
-<p>Suppose a creator post receives 200,000 organic impressions after a brand sends a free product. An analytics provider assumes comparable paid exposure costs $12 CPM.</p>
+<p>Suppose a creator post receives 200,000 organic impressions after a brand sends a free product. An analytics provider assumes comparable paid exposure costs $12 <a href="/glossary/playback-based-cpm/">CPM</a>.</p>
 <p>Estimated media cost equivalency:</p>
 <p>200,000 ÷ 1,000 × $12 = $2,400</p>
 <p>Calling this <strong>$2,400 in earned media revenue</strong> would be wrong. At most, it is an estimated comparable media cost under that specific assumption.</p>
@@ -144,7 +144,7 @@ permalink: /glossary/earned-media-value/
 <li>Engagement can be negative or irrelevant.</li>
 <li>Rates vary by audience, country, placement, and objective.</li>
 <li>Proprietary multipliers can hide subjective judgment.</li>
-<li>Viral reach can have little commercial value.</li>
+<li><a href="/glossary/viral/">Viral</a> reach can have little commercial value.</li>
 <li>A small trusted community can produce high business value despite low EMV.</li>
 <li>Platform data can overlap or be estimated.</li>
 <li>EMV does not measure incrementality.</li>

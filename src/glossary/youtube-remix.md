@@ -20,7 +20,7 @@ related_terms:
 ---
 
 <h2>YouTube Remix</h2>
-<p><strong>YouTube Remix</strong> is the umbrella name for YouTube's content-remixing system for Shorts — the "Remix" menu and its full set of creation tools that let a viewer build a new Short out of an existing video. It's the feature behind Cut, Green Screen, Collab, Add object, Use this sound, Shorts templates, and the AI-powered Reimagine tool.</p>
+<p><strong>YouTube Remix</strong> is the umbrella name for YouTube's content-remixing system for Shorts — the "Remix" menu and its full set of creation tools that let a viewer build a new Short out of an existing video. It's the feature behind Cut, <a href="/glossary/green-screen/">Green Screen</a>, Collab, Add object, Use this sound, Shorts templates, and the AI-powered Reimagine tool.</p>
 <p>Remix is not a single button — it's an entry point into several different creation modes, each with its own rules for length, eligibility, credit, and monetization. This entry covers the whole menu. For the deep mechanics of collaborating side-by-side with another video, see <a href="/glossary/youtube-collaborations/">YouTube Collaborations</a>. For AI-based Shorts creation, opt-in-by-default remixing settings, and the "Edit into a Short" workflow, see <a href="/glossary/auto-generated-shorts/">Auto-Generated Shorts</a>.</p>
 
 <h3>What Counts as a "Remix" on YouTube</h3>
@@ -44,7 +44,7 @@ related_terms:
 <tr>
 <td>Cut</td>
 <td>Samples a 1–5 second video+audio segment from an eligible Short or long-form video and places it at the start of your new Short.</td>
-<td>Reacting to a specific moment; building on a viral clip.</td>
+<td>Reacting to a specific moment; building on a <a href="/glossary/viral/">viral</a> clip.</td>
 </tr>
 <tr>
 <td>Green Screen</td>
@@ -84,13 +84,13 @@ related_terms:
 <p>Public Shorts and long-form videos are opted in to remixing by default — no action is needed to make your content remixable. Some videos are automatically excluded: private or unlisted videos, videos claimed by third-party copyright owners who haven't enabled remix use, and (for music) tracks restricted by licensing terms.</p>
 <p>To restrict remixing of your own content:</p>
 <ol>
-<li>Go to YouTube Studio → Content.</li>
+<li>Go to <a href="/glossary/youtube-studio/">YouTube Studio</a> → Content.</li>
 <li>Open a video's details, click Show more, and find "Shorts remixing."</li>
 <li>Choose whether to allow remixing, then Save.</li>
 </ol>
 <p>This setting can also be applied in bulk across multiple videos, or set when you first upload. For a standalone Short, this generally lets you block video remixing of it. However, blocking audio remixing of your own content is only available to creators or labels with access to YouTube Studio Content Manager — regular creators without Content Manager access can restrict video reuse but not audio-only sampling. This distinction is frequently missed in generic "how to opt out" guides.</p>
 
-<h3>Attribution, Notifications, and Reach</h3>
+<h3><a href="/glossary/attribution/">Attribution</a>, Notifications, and Reach</h3>
 <ul>
 <li>Video credit appears directly in the Shorts player with a clickable link to the source channel/video.</li>
 <li>Audio credit appears on the Sound Library page, linking back to the original.</li>

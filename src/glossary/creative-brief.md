@@ -69,7 +69,7 @@ related_terms:
 <li>YouTube video, Short, livestream, post, or another format</li>
 <li>Landscape, square, or vertical <a href="/glossary/aspect-ratio/">aspect ratio</a></li>
 <li>Approximate length</li>
-<li>Sponsorship placement</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a> placement</li>
 <li>Caption and link requirements</li>
 <li>Safe areas for a <a href="/glossary/lower-third/">lower third</a>, subtitles, and interface elements</li>
 <li>Required versions or cutdowns</li>
@@ -87,7 +87,7 @@ related_terms:
 <li>On-screen disclosure</li>
 <li>Call to action</li>
 <li>Discount code or URL</li>
-<li>Hashtags and tags</li>
+<li><a href="/glossary/hashtags/">Hashtags</a> and tags</li>
 <li>Safety demonstrations</li>
 <li>Copyright-cleared music or assets</li>
 </ul>
@@ -144,7 +144,7 @@ related_terms:
 <h3>Creative brief vs. campaign brief</h3>
 <p>The names are often used interchangeably, and there is no universal industry rule. A practical separation is:</p>
 <ul>
-<li><strong>Campaign brief:</strong> The overall plan—business goal, audience, offer, channels, deliverables, schedule, and success metrics.</li>
+<li><strong>Campaign brief:</strong> The overall plan—business goal, audience, offer, channels, <a href="/glossary/deliverables/">deliverables</a>, schedule, and success metrics.</li>
 <li><strong>Creative brief:</strong> The communication plan for the content—message, tone, concept, required elements, examples, and execution constraints.</li>
 </ul>
 <p>For a multi-creator launch, everyone may receive one campaign brief while each creator or content format receives a tailored creative brief.</p>
@@ -184,7 +184,7 @@ related_terms:
 <li>Consolidate feedback through one decision-maker.</li>
 <li>Review for accuracy and compliance, not personal taste alone.</li>
 <li>Allow the creator to disclose the partnership clearly.</li>
-<li>Use performance lessons to improve the next brief rather than imitating one viral video.</li>
+<li>Use performance lessons to improve the next brief rather than imitating one <a href="/glossary/viral/">viral</a> video.</li>
 </ul>
 <p>Creative freedom does not mean the brand gives up every requirement. It means the brief focuses control on the facts and risks that matter while letting the creator solve the communication problem.</p>
 <h3>Common creative-brief mistakes</h3>

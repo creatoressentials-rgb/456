@@ -15,7 +15,7 @@ related_terms:
 ---
 
 <h2>Vertical Live</h2>
-<p><strong>Vertical Live</strong> is a YouTube live-stream format designed for portrait viewing on mobile devices. The video is taller than it is wide—typically a 9:16 layout—and can appear in a full-screen, swipeable experience while viewers browse Shorts or other vertical live streams in the YouTube app.</p>
+<p><strong>Vertical Live</strong> is a <a href="/glossary/youtube-live/">YouTube live</a>-stream format designed for portrait viewing on mobile devices. The video is taller than it is wide—typically a 9:16 layout—and can appear in a full-screen, swipeable experience while viewers browse Shorts or other vertical live streams in the YouTube app.</p>
 <p>Vertical Live is not a YouTube Short or a prerecorded vertical upload. It is a live broadcast with real-time chat, live audience metrics, and supported fan-funding features.</p>
 
 <h3>How viewers find Vertical Live streams</h3>
@@ -85,7 +85,7 @@ related_terms:
 <p>Automatic conversion is convenient, but a center crop can remove important content near the left and right edges. Presenters, captions, gameplay interfaces, and graphics should be tested inside a 9:16 safe area.</p>
 
 <h3>Using a separate vertical encoder feed</h3>
-<p>Creators who want full control over both layouts can select the encoder option in YouTube's dual-stream setup. YouTube recommends RTMP(S) for this third-party workflow.</p>
+<p>Creators who want full control over both layouts can select the encoder option in YouTube's dual-stream setup. YouTube recommends <a href="/glossary/rtmp/">RTMP</a>(S) for this third-party workflow.</p>
 <p>The creator supplies a second <a href="/glossary/stream-key/">stream key</a> for the vertical feed and sends the correct format to each key:</p>
 <ul>
 <li>Horizontal content to the horizontal stream key.</li>
@@ -163,14 +163,14 @@ related_terms:
 <li><a href="/glossary/channel-memberships/">Channel memberships</a>.</li>
 <li>Gifted memberships.</li>
 </ul>
-<p>Because monetization surfaces and eligibility can change by country, device, and program status, creators should confirm current options in YouTube Studio rather than relying on an old feature chart.</p>
+<p>Because monetization surfaces and eligibility can change by country, device, and program status, creators should confirm current options in <a href="/glossary/youtube-studio/">YouTube Studio</a> rather than relying on an old feature chart.</p>
 
 <h3>Vertical Live analytics</h3>
 <p>During a dual-format broadcast, YouTube combines the formats' metrics in Live Control Room. That combined view helps creators operate one event, but it does not immediately show how the vertical surface performed by itself.</p>
 <p>After at least 24 hours, creators can use YouTube Analytics Advanced Mode, choose <strong>Playback location</strong>, and isolate <strong>Vertical live feed</strong>. This can help evaluate:</p>
 <ul>
 <li>Watch time from vertical discovery.</li>
-<li>Views and audience retention.</li>
+<li>Views and audience <a href="/glossary/retention/">retention</a>.</li>
 <li>Traffic from the vertical live surface.</li>
 <li>How vertical viewers compare with the full event audience.</li>
 </ul>

@@ -34,7 +34,7 @@ related_terms:
 <p>Keyword Research: Identify and analyze the terms that users are searching for that you want your website to rank for.</p>
 </li>
 <li>
-<p>Content Creation and Optimization: Create high-quality, relevant content that answers users' questions and optimize it with your target keywords.</p>
+<p>Content Creation and Optimization: Create high-quality, relevant content that answers users' questions and optimize it with your target <a href="/glossary/keywords/">keywords</a>.</p>
 </li>
 <li>
 <p>Technical Optimization: Ensure your website is crawlable for search engines, improve site speed, use SSL, ensure mobile-friendliness, and set up structured data.</p>
@@ -47,7 +47,7 @@ related_terms:
 </li>
 </ol>
 
-<h2>How can I do SEO on my YouTube Channel?</h2>
+<h2>How can I do SEO on my <a href="/glossary/youtube-channel/">YouTube Channel</a>?</h2>
 
 <ol>
 <li>
@@ -63,9 +63,9 @@ related_terms:
 <p>Engage with Your Audience: Engagement metrics such as likes, comments, and shares are critical for SEO on YouTube. Encourage viewers to engage with your content.</p>
 </li>
 <li>
-<p>Custom Thumbnails: Create compelling thumbnails for your videos. Thumbnails that stand out can improve your click-through rate, an important metric for SEO.</p>
+<p>Custom <a href="/glossary/youtube-thumbnails/">Thumbnails</a>: Create compelling thumbnails for your videos. Thumbnails that stand out can improve your <a href="/glossary/click-through-rate/">click-through rate</a>, an important metric for SEO.</p>
 </li>
 <li>
-<p>Closed Captions and Subtitles: Adding captions and subtitles can make your videos more accessible to a wider audience, including those in different languages, and can also provide additional keywords for YouTube’s crawlers.</p>
+<p><a href="/glossary/closed-captions/">Closed Captions</a> and Subtitles: Adding captions and subtitles can make your videos more accessible to a wider audience, including those in different languages, and can also provide additional keywords for YouTube’s crawlers.</p>
 </li>
 </ol>

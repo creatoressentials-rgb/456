@@ -78,12 +78,12 @@ related_terms:
 </tr>
 </tbody>
 </table>
-<p>YouTube says it can still run platform ads against videos that include paid promotions. A sponsored video and YouTube ad revenue are separate monetization systems.</p>
+<p>YouTube says it can still run platform ads against videos that include paid promotions. A sponsored video and YouTube <a href="/glossary/ad-revenue/">ad revenue</a> are separate monetization systems.</p>
 <h3>Sponsored content vs. branded content</h3>
 <p>The phrases are often used interchangeably. <strong>Sponsored content</strong> emphasizes that a commercial relationship funded or influenced the content. <strong>Branded content</strong> can mean creator content featuring a brand, but marketers may also use it for entertainment or editorial-style content produced by a company itself.</p>
 <p>Because the terminology is inconsistent, creators should focus on the actual relationship, compensation, control, rights, and disclosure—not only the label in the brief.</p>
 <h3>YouTube’s paid-promotion declaration</h3>
-<p>When a YouTube video contains a paid product placement, sponsorship, endorsement, or another commercial relationship, YouTube instructs the creator to declare the paid promotion in Studio. YouTube then displays a paid-promotion message at the beginning and may apply other platform handling.</p>
+<p>When a YouTube video contains a paid product placement, <a href="/glossary/sponsorship/">sponsorship</a>, endorsement, or another commercial relationship, YouTube instructs the creator to declare the paid promotion in Studio. YouTube then displays a paid-promotion message at the beginning and may apply other platform handling.</p>
 <p>The declaration does not prevent YouTube from showing ordinary ads on the video. YouTube says it may replace an ad that conflicts with the brand partner.</p>
 <p>Creators must also follow YouTube’s advertising policies and Community Guidelines. Paid promotion does not make otherwise prohibited content acceptable.</p>
 <h3>Viewer-facing disclosure</h3>
@@ -109,7 +109,7 @@ related_terms:
 <li>A misleading comparison or demonstration</li>
 </ul>
 <p>The agreement should define which parts the brand can approve and how many <a href="/glossary/revision-round/">revision rounds</a> are included.</p>
-<h3>Usage rights and amplification</h3>
+<h3><a href="/glossary/usage-rights/">Usage rights</a> and amplification</h3>
 <p>Posting sponsored content on the creator’s channel does not automatically grant the brand unlimited rights to reuse it. The contract can separately address organic reposting, paid advertising, editing, cutdowns, email, websites, retail displays, television, territory, duration, and use of the creator’s name and likeness.</p>
 <p>On YouTube, brand partner access may allow a brand to view certain performance data and promote the creator’s video through eligible advertising tools. The creator should understand and price the separate rights before granting access.</p>
 <h3>Common sponsored-content mistakes</h3>
@@ -136,7 +136,7 @@ related_terms:
 <h4>Is sponsored content always paid with money?</h4>
 <p>No. Free products, services, travel, commissions, and other benefits may create a material connection even without a cash fee.</p>
 <h4>Is all branded content sponsored content?</h4>
-<p>Not necessarily. A company can create branded entertainment without hiring an outside creator, and a creator can mention a brand independently. The actual commercial relationship determines whether sponsorship disclosure is needed.</p>
+<p>Not necessarily. A company can create branded entertainment without hiring an outside creator, and a creator can mention a brand independently. The actual commercial relationship determines whether <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a> is needed.</p>
 <h4>Does YouTube allow sponsored content?</h4>
 <p>Yes, paid product placements and endorsements are allowed when they comply with YouTube policies and applicable law. Creators must declare applicable paid promotions in Studio.</p>
 <h4>Does the YouTube paid-promotion label replace a spoken disclosure?</h4>

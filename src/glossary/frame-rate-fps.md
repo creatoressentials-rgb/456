@@ -63,7 +63,7 @@ related_terms:
 <p>The term frame rate can describe more than one stage.</p>
 <ul>
 <li><strong>Capture frame rate</strong> is how many frames the camera records per second of real time.</li>
-<li><strong>Timeline or project frame rate</strong> is the rate used by the editing sequence.</li>
+<li><strong><a href="/glossary/timeline/">Timeline</a> or project frame rate</strong> is the rate used by the editing sequence.</li>
 <li><strong>Playback frame rate</strong> is how many frames are presented per second in the final file.</li>
 <li><strong>Display refresh rate</strong> is how often a screen can update each second and is measured in hertz.</li>
 </ul>
@@ -109,7 +109,7 @@ related_terms:
 </tbody>
 </table>
 <p>Some cameras have an S&amp;Q or high-frame-rate mode that records at one rate and creates a file already tagged for slower playback. Other cameras record normal 60 or 120 fps files that the editor must interpret.</p>
-<h3>Frame rate versus shutter speed</h3>
+<h3>Frame rate versus <a href="/glossary/shutter-speed/">shutter speed</a></h3>
 <p>Frame rate determines how often the camera starts a new frame. Shutter speed determines how long each frame gathers light.</p>
 <p>At 30 fps, each frame has no more than about 1/30 second available. A shutter speed of 1/60 exposes for roughly half that interval. A shutter speed of 1/500 exposes each frame for a much shorter period and creates crisper, more staccato motion.</p>
 <p>A common starting guideline is a shutter speed near twice the frame rate:</p>
@@ -125,7 +125,7 @@ related_terms:
 <p>Higher frame rates usually require more light because each frame has less time available for exposure when a similar shutter angle is maintained. Creators may need a wider <a href="/glossary/aperture/">aperture</a>, higher <a href="/glossary/iso/">ISO</a>, or stronger lighting.</p>
 <h3>Frame rate versus refresh rate</h3>
 <p>Frame rate belongs to the video signal. Refresh rate belongs to the display.</p>
-<p>A 60 Hz screen can refresh up to 60 times per second, but it may show a 24 fps video by repeating frames in a cadence. A 120 Hz display can repeat 24 fps frames evenly five times each. Playback quality also depends on the device, browser, app, selected resolution, and platform encoding.</p>
+<p>A 60 Hz screen can refresh up to 60 times per second, but it may show a 24 fps video by repeating frames in a cadence. A 120 Hz display can repeat 24 fps frames evenly five times each. Playback quality also depends on the device, browser, app, selected resolution, and platform <a href="/glossary/encoding/">encoding</a>.</p>
 <p>A high-refresh-rate screen does not turn a 24 fps upload into true 120 fps capture. Motion-interpolation features may synthesize additional frames, but those frames were not recorded by the creator.</p>
 <h3>24 fps versus 30 fps versus 60 fps</h3>
 <h4>24 fps</h4>
@@ -178,7 +178,7 @@ related_terms:
   <td>Smoother motion and slow-motion flexibility</td>
 </tr>
 <tr>
-  <td>Cinematic B-roll</td>
+  <td>Cinematic <a href="/glossary/b-roll/">B-roll</a></td>
   <td style="text-align:right">24 fps delivery; 60 or 120 fps for selected slow-motion shots</td>
   <td>Keeps a consistent final cadence while allowing creative speed changes</td>
 </tr>

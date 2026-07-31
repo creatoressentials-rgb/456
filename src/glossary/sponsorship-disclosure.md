@@ -44,14 +44,14 @@ permalink: /glossary/sponsorship-disclosure/
 <h4>Long-form video</h4>
 <p>Place the disclosure in the video close to the sponsored message. If the paid integration begins later, disclose immediately before or as the integration begins rather than relying only on an announcement viewers may have heard much earlier.</p>
 <p>An on-screen disclosure plus a spoken disclosure is generally more noticeable than either format alone. The description can repeat the information but should not be the only place viewers can find it.</p>
-<h4>YouTube Shorts and other short video</h4>
+<h4><a href="/glossary/youtube-shorts/">YouTube Shorts</a> and other short video</h4>
 <p>Make the disclosure visible and understandable within the content. Avoid placing tiny text where interface buttons or captions can cover it. Give viewers enough time to read any on-screen wording.</p>
 <h4>Livestream</h4>
 <p>A one-time disclosure at the beginning can be missed by viewers who join later. Repeat the disclosure periodically and when the sponsored segment or product is discussed. A persistent on-screen label can provide additional context when it remains readable.</p>
 <h4>Description, caption, or community post</h4>
-<p>Place the disclosure before viewers must click “more” and close to the endorsement or link it explains. Do not bury it after a long block of hashtags, affiliate links, or unrelated text.</p>
+<p>Place the disclosure before viewers must click “more” and close to the endorsement or link it explains. Do not bury it after a long block of <a href="/glossary/hashtags/">hashtags</a>, affiliate links, or unrelated text.</p>
 <h4>Affiliate links</h4>
-<p>Explain that the creator may earn money or a commission. “Affiliate link” alone may not communicate the financial result to every viewer as clearly as “I earn a commission from qualifying purchases.”</p>
+<p>Explain that the creator may earn money or a commission. “<a href="/glossary/affiliate-link/">Affiliate link</a>” alone may not communicate the financial result to every viewer as clearly as “I earn a commission from qualifying purchases.”</p>
 <h3>Disclosure vs. platform label vs. contract term</h3>
 <table>
 <thead>

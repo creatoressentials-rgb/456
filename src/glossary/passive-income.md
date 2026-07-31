@@ -13,7 +13,7 @@ permalink: /glossary/passive-income/
 <li>Revenue from an evergreen YouTube video</li>
 <li><a href="/glossary/affiliate-commission">Affiliate commission</a> from an old tutorial</li>
 <li>Sales of a <a href="/glossary/digital-product">digital product</a></li>
-<li>Licensing of stock footage or music</li>
+<li>Licensing of <a href="/glossary/stock-footage/">stock footage</a> or music</li>
 <li>Royalties</li>
 <li>Automated course sales</li>
 <li>Advertising from a content library</li>
@@ -71,8 +71,8 @@ permalink: /glossary/passive-income/
 </tbody>
 </table>
 <p>Many creator businesses combine both.</p>
-<p>A creator might earn active income from sponsorship production and passive-like income from an evergreen template library.</p>
-<h3>Passive income vs. recurring revenue</h3>
+<p>A creator might earn active income from <a href="/glossary/sponsorship/">sponsorship</a> production and passive-like income from an evergreen template library.</p>
+<h3>Passive income vs. <a href="/glossary/recurring-revenue/">recurring revenue</a></h3>
 <table>
 <thead>
 <tr>
@@ -94,7 +94,7 @@ permalink: /glossary/passive-income/
   <td>Often comes from the same customers</td>
 </tr>
 <tr>
-  <td>An old video can earn passive ad revenue</td>
+  <td>An old video can earn passive <a href="/glossary/ad-revenue/">ad revenue</a></td>
   <td>A membership produces monthly or annual payments</td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ permalink: /glossary/passive-income/
 <p>A digital template can produce passive-like income through repeated one-time sales but no recurring contract.</p>
 <h3>Passive income vs. scalable income</h3>
 <p><strong>Scalable income</strong> can grow without labor increasing at the same rate.</p>
-<p>A digital product is scalable because one file can be delivered many times. It is not fully passive if the creator constantly promotes, supports, and updates it.</p>
+<p>A <a href="/glossary/digital-product/">digital product</a> is scalable because one file can be delivered many times. It is not fully passive if the creator constantly promotes, supports, and updates it.</p>
 <p>Scalability is often a more accurate goal than passivity.</p>
 <h3>Passive income vs. tax passive activity</h3>
 <p>The IRS uses <strong>passive activity</strong> as a specific tax term.</p>
@@ -136,7 +136,7 @@ permalink: /glossary/passive-income/
 <ul>
 <li>Update facts</li>
 <li>Replace broken links</li>
-<li>Refresh thumbnails or titles</li>
+<li>Refresh <a href="/glossary/youtube-thumbnails/">thumbnails</a> or titles</li>
 <li>Monitor declining search demand</li>
 <li>Respond to policy changes</li>
 </ul>

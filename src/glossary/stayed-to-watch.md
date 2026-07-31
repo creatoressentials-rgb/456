@@ -11,12 +11,12 @@ related_terms:
 ---
 
 <h2>Stayed to Watch</h2>
-<p><strong>Quick answer:</strong> Stayed to Watch is a YouTube Shorts metric that shows the percentage of viewers who kept watching a Short past its opening seconds instead of swiping to the next one. You'll find it in YouTube Studio under <strong>Analytics → Content → Shorts</strong>, in the "How viewers engaged" section. It's YouTube's official term for what creators commonly call "viewed vs. swiped away" — it's your Short's hook rate.</p>
+<p><strong>Quick answer:</strong> Stayed to Watch is a <a href="/glossary/youtube-shorts/">YouTube Shorts</a> metric that shows the percentage of viewers who kept watching a Short past its opening seconds instead of swiping to the next one. You'll find it in <a href="/glossary/youtube-studio/">YouTube Studio</a> under <strong>Analytics → Content → Shorts</strong>, in the "How viewers engaged" section. It's YouTube's official term for what creators commonly call "viewed vs. swiped away" — it's your Short's hook rate.</p>
 
 <h3>What it means, exactly</h3>
 <p>YouTube defines Stayed to Watch as "the percentage of times viewers stayed to watch past the initial seconds of a Short." It only applies to Shorts — regular videos and live streams don't have this metric, because the vertical, swipe-to-skip feed is what makes the first couple of seconds so decisive.</p>
 <p>It's closely tied to <a href="/glossary/engaged-views/">Engaged Views</a>, another Shorts-specific metric. The relationship is simple: <strong>Engaged Views is the raw count</strong> of viewers who stayed past the initial seconds; <strong>Stayed to Watch is that same behavior expressed as a percentage</strong> of everyone who saw the Short. Same underlying signal, two different formats.</p>
-<p>From there, YouTube calculates average view duration and average percentage viewed for your Short — but only from the pool of viewers who already stayed to watch. So the order matters:</p>
+<p>From there, YouTube calculates <a href="/glossary/average-view-duration/">average view duration</a> and <a href="/glossary/average-percentage-viewed/">average percentage viewed</a> for your Short — but only from the pool of viewers who already stayed to watch. So the order matters:</p>
 <ol>
 <li><strong>Shown in feed</strong> — your Short gets served</li>
 <li><strong>Stayed to Watch / Engaged Views</strong> — did they stop scrolling?</li>
@@ -24,7 +24,7 @@ related_terms:
 <li><strong>Satisfaction signals</strong> — likes, dislikes, "Not interested," survey responses</li>
 </ol>
 
-<h3>Is Stayed to Watch the same as Audience Retention?</h3>
+<h3>Is Stayed to Watch the same as Audience <a href="/glossary/retention/">Retention</a>?</h3>
 <p>No, and this is where a lot of creators get confused. The "Audience retention" report with its intro percentage, spikes, and dips is built for regular videos. Shorts don't get that same graph — instead, Shorts get Stayed to Watch as a single hook-rate number, plus average view duration and average % viewed as separate hold-rate numbers. Think of Stayed to Watch as the gate a viewer has to pass through before retention (in the traditional sense) even becomes relevant.</p>
 
 <h3>Where to find it in YouTube Studio</h3>

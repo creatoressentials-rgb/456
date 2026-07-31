@@ -13,7 +13,7 @@ related_terms:
 
 <h2>Dynamic Range</h2>
 <p><strong>Dynamic range</strong> is the span between the darkest and brightest parts of a scene that a camera can record while still preserving usable detail. A camera with more dynamic range can hold texture in bright highlights and dark shadows at the same time, while a camera with less range may turn one end of the image into featureless white or black.</p>
-<p>For creators, dynamic range matters most in high-contrast situations: a person sitting near a bright window, an outdoor vlog under midday sun, a concert stage with spotlights, or a product shot that combines reflective highlights with deep shadows.</p>
+<p>For creators, dynamic range matters most in high-contrast situations: a person sitting near a bright window, an outdoor <a href="/glossary/vlog/">vlog</a> under midday sun, a concert stage with spotlights, or a product shot that combines reflective highlights with deep shadows.</p>
 <h3>How dynamic range works</h3>
 <p>Every scene contains a range of brightness values. The darkest useful value may be a black shirt in shade, while the brightest may be sunlight reflecting from glass. The difference between those values is the <strong>scene dynamic range</strong>.</p>
 <p>The camera has its own limit. If the scene exceeds that limit, the creator has to decide which tones to protect or change the lighting so the scene fits within the camera's range.</p>
@@ -97,7 +97,7 @@ related_terms:
 <p>In photography, HDR often means combining bracketed exposures so that different files contribute highlight and shadow detail. In video, HDR usually refers to a capture-to-display workflow using formats such as HLG or PQ with compatible editing and playback.</p>
 <p>A single camera file can have strong dynamic range without being delivered as HDR. Likewise, labeling a file HDR does not guarantee that it was exposed, graded, or displayed well.</p>
 <h3>Does Log increase dynamic range?</h3>
-<p>A Log profile such as S-Log, C-Log, or N-Log uses a low-contrast gamma curve to allocate recorded values across a wide tonal range. It helps preserve highlight and shadow information for later color grading and can allow the recording to retain more of the camera's available range than a contrast-heavy standard profile.</p>
+<p>A Log profile such as S-Log, C-Log, or N-Log uses a low-contrast gamma curve to allocate recorded values across a wide tonal range. It helps preserve highlight and shadow information for later <a href="/glossary/color-grading/">color grading</a> and can allow the recording to retain more of the camera's available range than a contrast-heavy standard profile.</p>
 <p>However, Log does not create sensor detail that was never captured. It also brings tradeoffs:</p>
 <ul>
 <li>The ungraded image looks flat and desaturated.</li>
@@ -122,13 +122,13 @@ related_terms:
 <li>Diffuse or flag a bright source.</li>
 <li>Turn down a practical lamp in the frame.</li>
 <li>Use a reflector to lift shadows.</li>
-<li>Use a neutral-density or graduated ND filter where appropriate.</li>
+<li>Use a neutral-density or graduated <a href="/glossary/nd-filter/">ND filter</a> where appropriate.</li>
 </ul>
 <p>Reducing the scene's contrast lets more of it fit inside the camera's capture range.</p>
 <h4>Record an appropriate profile and codec</h4>
 <p>A Log or wide-dynamic-range profile can preserve more grading flexibility, especially when paired with sufficient bit depth and bitrate. It is not automatically necessary for every YouTube video. Controlled talking-head footage may look cleaner and require less work in a well-chosen standard profile.</p>
 <h4>Expose with the final grade in mind</h4>
-<p>An image that looks acceptable on the camera screen may still contain clipped highlights or severely underexposed shadows. Use exposure tools and understand how the selected profile should be monitored. A viewing LUT can make Log footage easier to judge without changing the underlying recording.</p>
+<p>An image that looks acceptable on the camera screen may still contain clipped highlights or severely underexposed shadows. Use exposure tools and understand how the selected profile should be monitored. A viewing <a href="/glossary/lut/">LUT</a> can make Log footage easier to judge without changing the underlying recording.</p>
 <h3>Dynamic range tools creators should understand</h3>
 <table>
 <thead>

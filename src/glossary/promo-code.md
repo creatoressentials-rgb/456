@@ -43,7 +43,7 @@ permalink: /glossary/promo-code/
 </tr>
 <tr>
   <td>Affiliate code</td>
-  <td>Supports commission attribution under an affiliate program</td>
+  <td>Supports commission <a href="/glossary/attribution/">attribution</a> under an <a href="/glossary/affiliate-program/">affiliate program</a></td>
 </tr>
 <tr>
   <td>Referral code</td>
@@ -97,7 +97,7 @@ permalink: /glossary/promo-code/
 <li>The creator influenced a later full-price purchase</li>
 </ul>
 <p>Promo-code reporting is useful evidence, not perfect causal attribution.</p>
-<h3>Promo code vs. affiliate link</h3>
+<h3>Promo code vs. <a href="/glossary/affiliate-link/">affiliate link</a></h3>
 <table>
 <thead>
 <tr>
@@ -128,7 +128,7 @@ permalink: /glossary/promo-code/
 </tr>
 <tr>
   <td>Merchant reports code usage</td>
-  <td>Network reports tracked link conversions</td>
+  <td><a href="/glossary/dropped-frames/">Network</a> reports tracked link conversions</td>
 </tr>
 </tbody>
 </table>
@@ -185,7 +185,7 @@ permalink: /glossary/promo-code/
 <li>Product cost</li>
 <li>Discount</li>
 <li>Creator commission</li>
-<li>Sponsorship fee</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a> fee</li>
 <li>Paid media</li>
 <li>Shipping subsidy</li>
 <li>Processing fees</li>
@@ -235,7 +235,7 @@ permalink: /glossary/promo-code/
 <p>Not always. A promo code provides an offer. It becomes an affiliate code when the program uses it to attribute commission.</p>
 <h4>Can promo codes track creator sales?</h4>
 <p>Yes, but they miss sales without the code and can credit sales from coupon sites or other sources.</p>
-<h4>Does a promo code replace sponsorship disclosure?</h4>
+<h4>Does a promo code replace <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a>?</h4>
 <p>No. Viewers still need to understand the creator's material relationship with the brand.</p>
 <h4>Should commission be based on sales before or after the discount?</h4>
 <p>The agreement should define commissionable revenue, including discounts, taxes, shipping, refunds, and returns.</p>

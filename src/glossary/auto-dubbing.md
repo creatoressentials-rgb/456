@@ -44,12 +44,12 @@ related_terms:
 <li><strong>Dubbing from English</strong> currently covers about 20 target languages.</li>
 <li><strong>Expressive Speech</strong> (the more natural-sounding voice mode) is live on a growing subset of those languages — more than were listed when YouTube first announced the upgrade earlier in 2026, so don't assume an older article's list is current.</li>
 </ul>
-<p>A video is <strong>ineligible</strong> for auto-dubbing if it's longer than 120 minutes, has little or no spoken content, has speech too fast to dub cleanly, has an audio language YouTube can't detect, or carries an active Content ID claim.</p>
+<p>A video is <strong>ineligible</strong> for auto-dubbing if it's longer than 120 minutes, has little or no spoken content, has speech too fast to dub cleanly, has an audio language YouTube can't detect, or carries an active <a href="/glossary/content-id/">Content ID</a> claim.</p>
 
 <h3>How it affects reach and revenue</h3>
 <ul>
 <li><strong>Reach:</strong> Dubbed tracks let non-native-language viewers discover and watch your content as if it were made for them. YouTube says having dubs published carries no discovery penalty for your original video — if anything, it opens up new <a href="/glossary/suggested-videos/">suggested videos</a> and <a href="/glossary/traffic-sources/">traffic sources</a> exposure in the dubbed language's market. Use YouTube Analytics' audio track filter to see which dubbed languages are actually pulling <a href="/glossary/engaged-views/">engaged views</a> and whether those <a href="/glossary/unique-viewers/">unique viewers</a> turn into <a href="/glossary/returning-viewers/">returning viewers</a> or even <a href="/glossary/regular-viewers/">regular viewers</a> over time.</li>
-<li><strong>Revenue:</strong> A dubbed view is still a normal <a href="/glossary/monetized-playbacks/">monetized playback</a> — it's just monetized at the ad rates of the viewer's market. Because <a href="/glossary/playback-based-cpm/">playback-based CPM</a> varies a lot by country, a wave of new dubbed views from a lower-CPM region can grow your total <a href="/glossary/ad-revenue/">ad revenue</a> in absolute terms while pulling your overall <a href="/glossary/youtube-rpm/">RPM</a> down. Don't judge a dub's value purely by view count — check the revenue and CPM it's actually generating by audio track before deciding a language "worked."</li>
+<li><strong>Revenue:</strong> A dubbed view is still a normal <a href="/glossary/monetized-playbacks/">monetized playback</a> — it's just monetized at the ad rates of the viewer's market. Because <a href="/glossary/playback-based-cpm/">playback-based CPM</a> varies a lot by country, a wave of new dubbed views from a lower-<a href="/glossary/cost-per-mille-cpm/">CPM</a> region can grow your total <a href="/glossary/ad-revenue/">ad revenue</a> in absolute terms while pulling your overall <a href="/glossary/youtube-rpm/">RPM</a> down. Don't judge a dub's value purely by view count — check the revenue and <a href="/glossary/youtube-cpm/">CPM</a> it's actually generating by audio track before deciding a language "worked."</li>
 </ul>
 
 <h3>Quality caveats</h3>
@@ -75,5 +75,5 @@ related_terms:
 <p>No — YouTube states that publishing dubs has no negative effect on how your original-language video is recommended. Dubs only add new discovery surface area in other languages; they don't replace or compete with your main upload.</p>
 <h4>Can I edit or fix a bad auto-dub?</h4>
 <p>No. Automatic dubs can't be edited line-by-line — you can only unpublish or delete a dub, or replace it entirely by uploading your own audio track for that language. Turning on "Publish manually" lets you catch bad dubs before they go live instead of fixing them after.</p>
-<h4>Do I need to be in the YouTube Partner Program to get auto-dubbing?</h4>
+<h4>Do I need to be in the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> to get auto-dubbing?</h4>
 <p>Not anymore. It launched limited to Partner Program channels in late 2024, but expanded to all channels by early 2026. If you don't see it, check Settings → Content → Automatic dubbing, or the "Advanced settings" early-access option.</p>

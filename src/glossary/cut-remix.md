@@ -15,7 +15,7 @@ related_terms:
 ---
 
 <h2>Cut Remix</h2>
-<p><strong>Cut Remix</strong> is a YouTube Shorts tool that lets you place a <strong>1–5 second segment</strong> from an eligible YouTube video or Short into a new Short. The sampled segment includes both the source video and its audio, and YouTube attributes the remix back to the original content.</p>
+<p><strong>Cut Remix</strong> is a <a href="/glossary/youtube-shorts/">YouTube Shorts</a> tool that lets you place a <strong>1–5 second segment</strong> from an eligible YouTube video or Short into a new Short. The sampled segment includes both the source video and its audio, and YouTube attributes the remix back to the original content.</p>
 <p>Creators commonly use Cut as a hook or reference point before adding their own reaction, explanation, demonstration, joke, or continuation.</p>
 
 <h3>How Cut Remix works</h3>
@@ -28,7 +28,7 @@ related_terms:
 <ul>
 <li>The source video frames.</li>
 <li>The source audio that plays during those frames.</li>
-<li>Attribution connecting the new Short to the original video.</li>
+<li><a href="/glossary/attribution/">Attribution</a> connecting the new Short to the original video.</li>
 </ul>
 <p>For audio without the source visuals, use <a href="/glossary/sound-remix/">Sound Remix</a> instead.</p>
 
@@ -137,7 +137,7 @@ related_terms:
 
 <h3>What happens if the source is deleted or restricted?</h3>
 <p>Cut is a visual remix. If the original creator deletes the source, restricts visual remixing, or makes certain source edits, YouTube may delete the Cut Remix that depends on it.</p>
-<p>The source creator can also prevent future Cut remixes by changing the Shorts remixing setting in YouTube Studio. Existing visual remixes may be affected when access is withdrawn.</p>
+<p>The source creator can also prevent future Cut remixes by changing the Shorts remixing setting in <a href="/glossary/youtube-studio/">YouTube Studio</a>. Existing visual remixes may be affected when access is withdrawn.</p>
 
 <h3>Can Cut Remix content be monetized?</h3>
 <p>A Cut Remix can only earn revenue when the channel and video meet the applicable YouTube monetization rules. Access to the tool is not the same as approval for monetization.</p>

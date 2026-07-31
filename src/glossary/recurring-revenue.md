@@ -27,8 +27,8 @@ permalink: /glossary/recurring-revenue/
 <li>Licensing</li>
 <li>Subscription courses</li>
 <li>Product boxes</li>
-<li>Recurring affiliate commission</li>
-<li>Ongoing sponsorship agreements</li>
+<li>Recurring <a href="/glossary/affiliate-commission/">affiliate commission</a></li>
+<li>Ongoing <a href="/glossary/sponsorship/">sponsorship</a> agreements</li>
 <li>Maintenance plans</li>
 </ul>
 <p>Recurring revenue is predictable relative to one-time sales, but it is not guaranteed.</p>
@@ -42,7 +42,7 @@ permalink: /glossary/recurring-revenue/
 <li>Ongoing value or access</li>
 <li>A cancellation or expiration process</li>
 <li>Payment processing</li>
-<li>Customer retention</li>
+<li>Customer <a href="/glossary/retention/">retention</a></li>
 </ol>
 <p>When the customer cancels, fails to pay, downgrades, or does not renew, the expected revenue changes.</p>
 <h3>Recurring revenue vs. repeat revenue</h3>
@@ -77,7 +77,7 @@ permalink: /glossary/recurring-revenue/
 </tbody>
 </table>
 <p>A creator with loyal customers can have repeat sales without contractual recurring revenue.</p>
-<h3>Recurring revenue vs. passive income</h3>
+<h3>Recurring revenue vs. <a href="/glossary/passive-income/">passive income</a></h3>
 <table>
 <thead>
 <tr>
@@ -142,7 +142,7 @@ permalink: /glossary/recurring-revenue/
 <li>Editing</li>
 <li>Channel management</li>
 <li>Sponsorship access</li>
-<li>Ongoing deliverables</li>
+<li>Ongoing <a href="/glossary/deliverables/">deliverables</a></li>
 </ul>
 <p>A retainer should define included capacity and unused work.</p>
 <h4>Recurring affiliate commission</h4>
@@ -343,7 +343,7 @@ permalink: /glossary/recurring-revenue/
 </div>
 
 <h3>Frequently asked questions</h3>
-<h4>Is ad revenue recurring revenue?</h4>
+<h4>Is <a href="/glossary/ad-revenue/">ad revenue</a> recurring revenue?</h4>
 <p>Usually not in the subscription sense. Ads can generate repeated revenue, but no individual customer normally commits to recurring payments.</p>
 <h4>Is MRR the money collected this month?</h4>
 <p>No. MRR is a normalized management metric for recurring value. Cash collected can include annual prepayments and one-time charges.</p>

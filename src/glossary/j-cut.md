@@ -14,7 +14,7 @@ related_terms:
 <h2>J-Cut</h2>
 <p>A <strong>J-cut</strong> is a video-editing transition in which the audio from the next shot or scene begins before the viewer sees the new picture. The audience hears what is coming, then the image changes.</p>
 <p>J-cuts are a type of <strong>split edit</strong> because the audio and video edit points occur at different times. They can make dialogue feel more natural, introduce a location before revealing it, build anticipation, and connect <a href="/glossary/a-roll/">A-roll</a> with supporting footage without relying on a visible transition effect.</p>
-<p>The name comes from the approximate shape created by staggered video and audio clips on a traditional editing timeline. The visual cut forms the top of the letter while the incoming audio extends earlier beneath it.</p>
+<p>The name comes from the approximate shape created by staggered video and audio clips on a traditional editing <a href="/glossary/timeline/">timeline</a>. The visual cut forms the top of the letter while the incoming audio extends earlier beneath it.</p>
 <h3>How a J-cut works</h3>
 <p>Imagine a creator finishing a sentence in a studio. Before the picture changes, the audience begins hearing ocean waves. A moment later, the video cuts to the beach.</p>
 <p>The sound prepares the viewer for the next image:</p>
@@ -25,7 +25,7 @@ related_terms:
 <li>The incoming audio continues with its matching image.</li>
 </ol>
 <p>The overlap can last a fraction of a second or several seconds. The correct duration depends on speech rhythm, pacing, meaning, and whether the sound should subtly guide the viewer or deliberately create suspense.</p>
-<h3>J-cut vs. L-cut</h3>
+<h3>J-cut vs. <a href="/glossary/l-cut/">L-cut</a></h3>
 <table>
 <thead>
 <tr>

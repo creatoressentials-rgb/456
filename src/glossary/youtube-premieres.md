@@ -108,7 +108,7 @@ related_terms:
 
 <h3>How to Schedule a YouTube Premiere</h3>
 <ol>
-<li><strong>Upload the video.</strong> In YouTube Studio, click Create → Upload videos and select your file. Fill in title, description, thumbnail, and other details as usual. (Note: Shorts, 360°/VR180 video, and resolutions above 1080p aren't supported for Premieres.)</li>
+<li><strong>Upload the video.</strong> In <a href="/glossary/youtube-studio/">YouTube Studio</a>, click Create → Upload videos and select your file. Fill in title, description, thumbnail, and other details as usual. (Note: Shorts, 360°/VR180 video, and resolutions above 1080p aren't supported for Premieres.)</li>
 <li><strong>Choose visibility.</strong> On the Visibility step, pick Schedule, set a date and time, then check Set as Premiere. To release it as soon as processing finishes instead, choose Public → Set as instant Premiere.</li>
 <li><strong>Set up the Premiere.</strong> Click Set up Premiere to choose a countdown theme and length. Channels with 1,000+ subscribers and no active Community Guidelines strikes can also add a 15-second to 3-minute trailer to play on the watch page before the countdown.</li>
 <li><strong>Turn on monetization options.</strong> If your channel runs ads, confirm ads are enabled (only pre-roll ads play during the Premiere itself). If you're eligible, make sure <a href="/glossary/youtube-supers/">Super Chat and Super Stickers</a> and <a href="/glossary/channel-memberships/">channel memberships</a> perks are switched on so fans can support you live.</li>

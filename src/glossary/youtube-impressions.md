@@ -32,7 +32,7 @@ related_terms:
 
 <ul>
 <li>
-<p>Optimizing Video Titles and Descriptions: Use relevant keywords in your video titles and video descriptions that your target audience is searching for. Using <a href="/blog/">tools</a> like <a href="https://www.tubebuddy.com/pricing?a=creatoressentials">TubeBuddy</a> or <a href="https://vidiq.com/creatoressential">VidIQ</a> can greatly improve your channel's <a href="/products/youtube-seo/">search engine optimization (SEO)</a>.</p>
+<p>Optimizing Video Titles and Descriptions: Use relevant <a href="/glossary/keywords/">keywords</a> in your video titles and video descriptions that your target audience is searching for. Using <a href="/blog/">tools</a> like <a href="https://www.tubebuddy.com/pricing?a=creatoressentials">TubeBuddy</a> or <a href="https://vidiq.com/creatoressential">VidIQ</a> can greatly improve your channel's <a href="/products/youtube-seo/">search engine optimization (SEO)</a>.</p>
 </li>
 <li>
 <p>Creating Engaging Thumbnails: Thumbnails should be visually appealing and relevant to the video content to encourage clicks.</p>

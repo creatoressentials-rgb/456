@@ -28,7 +28,7 @@ related_terms:
 Audience Engagement: High retention rates suggest that your content is resonating with your audience, which can lead to better subscriber growth and community building.</p>
 
 <p><br>
-Monetization: On platforms like YouTube, higher retention can lead to increased ad revenue, as ads are more likely to be shown on videos with better engagement.</p>
+Monetization: On platforms like YouTube, higher retention can lead to increased <a href="/glossary/ad-revenue/">ad revenue</a>, as ads are more likely to be shown on videos with better engagement.</p>
 
 <h2>How Do You Analyze Retention?</h2>
 

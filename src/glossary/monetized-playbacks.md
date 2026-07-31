@@ -11,11 +11,11 @@ related_terms:
 ---
 
 <h2>Monetized Playbacks</h2>
-<p><strong>Quick answer:</strong> A monetized playback is a single instance of a viewer watching your video <em>with at least one ad shown</em> — including cases where they bail out during a pre-roll ad before your video even starts. It's YouTube's way of counting "views that had a shot at earning you ad money," which is why it's the number that actually feeds your ad revenue, not your total view count.</p>
+<p><strong>Quick answer:</strong> A monetized playback is a single instance of a viewer watching your video <em>with at least one ad shown</em> — including cases where they bail out during a pre-roll ad before your video even starts. It's YouTube's way of counting "views that had a shot at earning you ad money," which is why it's the number that actually feeds your <a href="/glossary/ad-revenue/">ad revenue</a>, not your total view count.</p>
 
 <h3>The definition, precisely</h3>
 <p>YouTube's own metric definition: a monetized playback is counted "when a viewer played your video and was shown at least one ad impression," or when a viewer abandons the video during a pre-roll ad before ever reaching your content. It's reported as <em>estimated</em>, with a stated margin of error of about <strong>±2.0%</strong> — worth knowing before you treat the number as exact.</p>
-<p>You'll find it in YouTube Studio under <strong>Analytics → Revenue</strong>, alongside RPM, CPM, and Playback-Based CPM. It's only visible to channels in the YouTube Partner Program with monetization enabled.</p>
+<p>You'll find it in <a href="/glossary/youtube-studio/">YouTube Studio</a> under <strong>Analytics → Revenue</strong>, alongside <a href="/glossary/youtube-rpm/">RPM</a>, <a href="/glossary/cost-per-mille-cpm/">CPM</a>, and <a href="/glossary/playback-based-cpm/">Playback-Based CPM</a>. It's only visible to channels in the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> with monetization enabled.</p>
 
 <h3>Monetized playbacks vs. views vs. ad impressions</h3>
 <p>These three numbers look similar and get mixed up constantly. They're not the same:</p>
@@ -35,7 +35,7 @@ related_terms:
 <p>That's also why <strong>monetized playback rate</strong> (monetized playbacks ÷ total views) is worth tracking over time, not just the raw number. A rate in the 30–50% range is common; some well-established, highly advertiser-friendly channels report rates of 70% or higher. If yours is well under that, it's worth investigating why — see below.</p>
 
 <h3>How monetized playbacks connect to your actual payout</h3>
-<p>This is the part most explainers skip: Monetized Playbacks is a <em>volume</em> metric — it tells you how many ad-eligible views you got. <strong>Playback-Based CPM</strong> is the <em>value</em> metric next to it — how much advertisers paid per 1,000 of those monetized playbacks. Put them together and you get your estimated gross ad revenue:</p>
+<p>This is the part most explainers skip: Monetized Playbacks is a <em>volume</em> metric — it tells you how many ad-eligible views you got. <strong>Playback-Based <a href="/glossary/youtube-cpm/">CPM</a></strong> is the <em>value</em> metric next to it — how much advertisers paid per 1,000 of those monetized playbacks. Put them together and you get your estimated gross ad revenue:</p>
 <p><strong>Estimated ad revenue ≈ (Playback-Based CPM ÷ 1,000) × Monetized Playbacks</strong></p>
 <p>In other words, growing revenue isn't just about getting more monetized playbacks — it's about growing monetized playbacks <em>and</em> keeping your Playback-Based CPM competitive. Neither number alone tells the full story.</p>
 
@@ -45,17 +45,17 @@ related_terms:
 <ul>
 <li>Viewers in regions with less ad inventory or heavier ad-blocker usage</li>
 <li>Viewers watching via YouTube Premium (no ads shown, so no monetized playback — though you're still paid from Premium revenue separately)</li>
-<li>Temporary lack of advertiser demand for your audience/niche</li>
+<li>Temporary lack of advertiser demand for your audience/<a href="/glossary/niche/">niche</a></li>
 </ul>
 <p><strong>Worth fixing:</strong></p>
 <ul>
 <li>Video flagged as not advertiser-friendly (check your content against YouTube's advertiser-friendly guidelines)</li>
 <li>Monetization not turned on for that specific video</li>
-<li>Weak early retention — YouTube is more conservative about serving ads on videos with poor audience-retention signals, especially new or unproven videos</li>
+<li>Weak early <a href="/glossary/retention/">retention</a> — YouTube is more conservative about serving ads on videos with poor audience-retention signals, especially new or unproven videos</li>
 </ul>
 
 <h3>A note on Shorts</h3>
-<p>Monetized Playbacks and Playback-Based CPM are long-form video metrics. Shorts revenue-sharing runs on a different model — RPM calculated per 1,000 <strong>engaged views</strong>, not monetized playbacks. If you're comparing Shorts and long-form earnings, don't expect Monetized Playbacks to show up in your Shorts numbers the same way.</p>
+<p>Monetized Playbacks and Playback-Based CPM are long-form video metrics. Shorts revenue-sharing runs on a different model — RPM calculated per 1,000 <strong><a href="/glossary/engaged-views/">engaged views</a></strong>, not monetized playbacks. If you're comparing Shorts and long-form earnings, don't expect Monetized Playbacks to show up in your Shorts numbers the same way.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

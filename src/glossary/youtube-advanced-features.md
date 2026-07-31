@@ -14,10 +14,10 @@ related_terms:
 ---
 
 <h2>YouTube Advanced Features</h2>
-<p><strong>YouTube Advanced Features</strong> are a channel-level eligibility tier that YouTube unlocks after a creator completes identity verification. Verification requires a phone number plus one additional trust signal — either sufficient channel history, valid ID verification, or video verification. Once unlocked, advanced features include longer daily upload limits, live streaming access, custom thumbnails, pinned comments, Content ID claim appeals, and the ability to apply for YouTube Partner Program monetization.</p>
+<p><strong>YouTube Advanced Features</strong> are a channel-level eligibility tier that YouTube unlocks after a creator completes identity verification. Verification requires a phone number plus one additional trust signal — either sufficient channel history, valid ID verification, or video verification. Once unlocked, advanced features include longer daily upload limits, live streaming access, custom <a href="/glossary/youtube-thumbnails/">thumbnails</a>, pinned comments, Content ID claim appeals, and the ability to apply for YouTube Partner Program monetization.</p>
 <p>Advanced features sit at the top of a three-tier system: <strong>Standard → Intermediate → Advanced</strong>. Each tier requires more trust from YouTube than the last, and losing that trust (through Community Guidelines strikes or copyright strikes) can push a channel back down a tier.</p>
 <blockquote>
-<p><strong>Not the same as YouTube Advanced Mode.</strong> "Advanced features" (this page) is about what actions your channel is <em>allowed</em> to take. <a href="/glossary/youtube-advanced-mode/">YouTube Advanced Mode</a> is a completely different thing — the expanded analytics/reporting screen inside YouTube Studio. The two share a word, nothing else.</p>
+<p><strong>Not the same as YouTube Advanced Mode.</strong> "Advanced features" (this page) is about what actions your channel is <em>allowed</em> to take. <a href="/glossary/youtube-advanced-mode/">YouTube Advanced Mode</a> is a completely different thing — the expanded analytics/reporting screen inside <a href="/glossary/youtube-studio/">YouTube Studio</a>. The two share a word, nothing else.</p>
 </blockquote>
 
 <h3>What Are YouTube Advanced Features?</h3>
@@ -131,7 +131,7 @@ related_terms:
 <h4>Step 2: Unlock Advanced features</h4>
 <p>After phone verification, go to <strong>Settings → Channel → Feature eligibility → Advanced features → Access features</strong> and choose one of:</p>
 <ul>
-<li><strong>Build channel history.</strong> Keep uploading, stay compliant with YouTube's Community Guidelines, and avoid strikes. Most active, established channels qualify automatically without doing anything extra. YouTube doesn't publish a fixed timeline for a first-time unlock, but it states that channels rebuilding <em>lost</em> access can typically do so within about 2 months of clean activity — a reasonable benchmark, not a guarantee.</li>
+<li><strong>Build channel history.</strong> Keep uploading, stay compliant with YouTube's Community Guidelines, and avoid strikes. Most active, established channels qualify automatically without doing anything extra. YouTube doesn't publish a fixed <a href="/glossary/timeline/">timeline</a> for a first-time unlock, but it states that channels rebuilding <em>lost</em> access can typically do so within about 2 months of clean activity — a reasonable benchmark, not a guarantee.</li>
 <li><strong>Verify with a valid ID.</strong> Choose "Use your ID," get an email or scan a QR code, open it on your phone, photograph your ID (the birthdate must match your Google Account), and submit. Review usually takes 24 hours.</li>
 <li><strong>Verify with video.</strong> Choose "Use video verification," open the emailed link on your phone, and follow prompts (such as turning your head) to record a short verification video. Review usually takes 24 hours.</li>
 </ul>

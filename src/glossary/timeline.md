@@ -118,7 +118,7 @@ related_terms:
 <p>A tidy timeline does not change what the audience sees, but it reduces mistakes and makes revisions faster.</p>
 <h3>Timeline performance and playback</h3>
 <p>A timeline may stutter because the software is decoding high-resolution media, calculating effects, mixing layers, or reading from slow storage. This is a playback issue, not proof that frames are missing from the recorded clips.</p>
-<p>Creators can improve performance by using <a href="/glossary/proxy-files/">proxy files</a>, reducing preview resolution, rendering difficult sections, disabling heavy effects temporarily, or moving media to faster storage.</p>
+<p>Creators can improve performance by using <a href="/glossary/proxy-files/">proxy files</a>, reducing preview resolution, <a href="/glossary/rendering/">rendering</a> difficult sections, disabling heavy effects temporarily, or moving media to faster storage.</p>
 <h3>Common timeline mistakes</h3>
 <ul>
 <li><strong>Leaving accidental gaps:</strong> A few empty frames can create a flash of black or silence.</li>

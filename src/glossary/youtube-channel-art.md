@@ -18,7 +18,7 @@ related_terms:
 
 <p>YouTube Channel Art, also known as a Channel Header Image or YouTube Banner, is a prominent graphical element displayed at the top of a <a href="/glossary/youtube-channel/">YouTube channel</a> page. It serves a crucial role in visually representing the channel's identity, theme, and brand. The channel art is often the first visual element that viewers notice when they visit a channel, making it an essential component for creating a strong and memorable first impression.</p>
 
-<p>Channel Art typically reflects the style, aesthetics, and personality of the channel and its content creator. This banner is not only a decorative feature but also a strategic tool for channel branding, helping to communicate the essence of the channel to the audience.</p>
+<p>Channel Art typically reflects the style, aesthetics, and personality of the channel and its <a href="/glossary/content-creator/">content creator</a>. This banner is not only a decorative feature but also a strategic tool for channel branding, helping to communicate the essence of the channel to the audience.</p>
 
 <h2>Why is Channel Art Important?</h2>
 

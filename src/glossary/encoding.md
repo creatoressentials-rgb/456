@@ -40,7 +40,7 @@ related_terms:
 <tr>
   <td>Encoding</td>
   <td>The process of creating a coded stream</td>
-  <td>Exporting a timeline as H.264</td>
+  <td>Exporting a <a href="/glossary/timeline/">timeline</a> as H.264</td>
 </tr>
 <tr>
   <td>Encoder</td>
@@ -63,7 +63,7 @@ related_terms:
   <td>A browser playing an H.264 video</td>
 </tr>
 <tr>
-  <td>Transcoding</td>
+  <td><a href="/glossary/transcoding/">Transcoding</a></td>
   <td>Decoding one encoded format and encoding it again</td>
   <td>YouTube creating multiple playback versions</td>
 </tr>
@@ -90,7 +90,7 @@ related_terms:
 <li><strong>Constant quality or quality-target modes:</strong> Adjust bitrate as needed to maintain a chosen quality target, subject to encoder limits.</li>
 </ul>
 <p>The labels and behavior differ among encoders. A "CBR" implementation may still fluctuate around a target, and a VBR maximum may be as important as its average.</p>
-<h4>Keyframes and GOP</h4>
+<h4><a href="/glossary/keyframes/">Keyframes</a> and GOP</h4>
 <p>Interframe codecs periodically store complete or independently decodable frames, then store predicted frames between them. The structure is called a group of pictures, or GOP.</p>
 <p>More frequent keyframes can improve seeking, editing, stream recovery, and platform compatibility, but they reduce compression efficiency. Livestream platforms often specify a keyframe interval.</p>
 <h4>Bit depth and chroma subsampling</h4>
@@ -153,7 +153,7 @@ related_terms:
 <li>Low enough CPU or GPU load to prevent skipped or <a href="/glossary/dropped-frames/">dropped frames</a>.</li>
 <li>A latency mode appropriate for interaction and quality.</li>
 </ul>
-<p>A stream key and RTMP or RTMPS connection identify and transport the stream; they are not the encoding method themselves.</p>
+<p>A <a href="/glossary/stream-key/">stream key</a> and <a href="/glossary/rtmp/">RTMP</a> or RTMPS connection identify and transport the stream; they are not the encoding method themselves.</p>
 <h3>Re-encoding and generation loss</h3>
 <p>Each lossy encoding pass can discard additional information. Downloading a compressed upload, editing it, exporting it again, and re-uploading it can increase blocking, banding, mosquito noise, ringing, and smeared detail.</p>
 <p>Whenever possible, return to the original camera files or a high-quality intermediate master rather than using a previous delivery file as the new source.</p>

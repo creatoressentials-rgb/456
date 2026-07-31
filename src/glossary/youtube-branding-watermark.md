@@ -26,7 +26,7 @@ related_terms:
 
 <ol>
 <li>
-<p>Log in to your YouTube account and navigate to YouTube Studio.</p>
+<p>Log in to your YouTube account and navigate to <a href="/glossary/youtube-studio/">YouTube Studio</a>.</p>
 </li>
 <li>
 <p>From the left-hand menu, select "Customization" and then navigate to the "Branding" tab.</p>
@@ -45,7 +45,7 @@ related_terms:
 </li>
 </ol>
 
-<h2>What size is the YouTube channel Branding watermark?</h2>
+<h2>What size is the <a href="/glossary/youtube-channel/">YouTube channel</a> Branding watermark?</h2>
 
 <p>The recommended size for a YouTube channel branding watermark is 150 x 150 pixels. </p>
 

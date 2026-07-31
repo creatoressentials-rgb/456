@@ -54,7 +54,7 @@ permalink: /glossary/tracking-link/
 </tr>
 <tr>
   <td>Useful for navigation</td>
-  <td>Useful for measurement and attribution</td>
+  <td>Useful for measurement and <a href="/glossary/attribution/">attribution</a></td>
 </tr>
 <tr>
   <td>Can still appear as referral traffic</td>
@@ -73,7 +73,7 @@ permalink: /glossary/tracking-link/
 <p>Example:</p>
 <p><code>https://example.com/product?utm_source=youtube&amp;utm_medium=creator&amp;utm_campaign=summer_launch</code></p>
 <p>UTMs organize traffic in analytics. They do not by themselves determine commission eligibility.</p>
-<h4>Affiliate link</h4>
+<h4><a href="/glossary/affiliate-link/">Affiliate link</a></h4>
 <p>An <a href="/glossary/affiliate-link">affiliate link</a> identifies the affiliate or publisher and connects eligible actions with <a href="/glossary/affiliate-commission">affiliate commission</a>.</p>
 <p>It may use:</p>
 <ul>
@@ -133,7 +133,7 @@ permalink: /glossary/tracking-link/
 <li>Apps do not handle deep links correctly</li>
 <li>Privacy or security tools block the redirect</li>
 </ul>
-<h3>Tracking links vs. UTM parameters</h3>
+<h3>Tracking links vs. <a href="/glossary/utm-parameters/">UTM parameters</a></h3>
 <table>
 <thead>
 <tr>
@@ -198,7 +198,7 @@ permalink: /glossary/tracking-link/
 <li>Missing analytics tag</li>
 <li>Incorrect conversion event</li>
 <li>Duplicate transaction ID</li>
-<li>Expired affiliate program</li>
+<li>Expired <a href="/glossary/affiliate-program/">affiliate program</a></li>
 <li>Product unavailable in the viewer's country</li>
 <li>Link pasted into a platform that rewrites URLs</li>
 </ul>
@@ -262,7 +262,7 @@ permalink: /glossary/tracking-link/
 <li>Unique clicks</li>
 <li>Sessions</li>
 <li>Users</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Sales</li>
 <li>Leads</li>
 <li>Revenue</li>
@@ -293,5 +293,5 @@ permalink: /glossary/tracking-link/
 <p>They classify campaign traffic in analytics. Conversion measurement also requires the site or app to record the conversion event and connect it with the visit.</p>
 <h4>Can a tracking link follow someone across devices?</h4>
 <p>Sometimes, when systems have consented logged-in or first-party identifiers. Simple browser-cookie tracking often cannot connect every cross-device journey.</p>
-<h4>Does a tracking link replace a promo code?</h4>
+<h4>Does a tracking link replace a <a href="/glossary/promo-code/">promo code</a>?</h4>
 <p>No. The link records clicks and visits, while a promo code can identify a purchase at checkout. Campaigns often use both.</p>

@@ -16,7 +16,7 @@ related_terms:
 
 <h2>What is a YouTube Channel and How Does it Work?</h2>
 
-<p>A YouTube channel is a dedicated page on YouTube where individuals or organizations can upload, share, and manage their video content. Each channel is linked to a Google account and serves as the home base for all video content created by the channel owner. Users can customize their channel with unique branding, including a profile picture and channel art, and provide a description to outline their channel's focus.</p>
+<p>A YouTube channel is a dedicated page on YouTube where individuals or organizations can upload, share, and manage their video content. Each channel is linked to a Google account and serves as the home base for all video content created by the channel owner. Users can customize their channel with unique branding, including a <a href="/glossary/profile-picture/">profile picture</a> and channel art, and provide a description to outline their channel's focus.</p>
 
 <p>Channels enable content creators to build an audience, engage with viewers through comments and likes, and track viewership statistics using YouTube's analytics tools. Viewers can subscribe to channels to receive updates on new content.</p>
 

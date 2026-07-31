@@ -58,10 +58,10 @@ related_terms:
 <p>That distinction has several consequences:</p>
 <ul>
 <li>YouTube may still run platform ads on a sponsored video.</li>
-<li>YouTube Premium does not remove a sponsorship that is part of the creator’s video.</li>
-<li>The sponsor and creator negotiate the video separately from YouTube ad revenue.</li>
-<li>The creator must handle sponsorship disclosure and any applicable legal obligations.</li>
-<li>Brand usage rights are not automatically created by uploading the video.</li>
+<li>YouTube Premium does not remove a <a href="/glossary/sponsorship/">sponsorship</a> that is part of the creator’s video.</li>
+<li>The sponsor and creator negotiate the video separately from YouTube <a href="/glossary/ad-revenue/">ad revenue</a>.</li>
+<li>The creator must handle <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a> and any applicable legal obligations.</li>
+<li>Brand <a href="/glossary/usage-rights/">usage rights</a> are not automatically created by uploading the video.</li>
 </ul>
 <p>YouTube says that when a creator declares paid promotion, it may replace an ordinary ad that conflicts with the sponsor, but ads can still run.</p>
 <h3>YouTube’s rule on embedded third-party ads</h3>
@@ -148,7 +148,7 @@ related_terms:
 <li><strong>Accepting a pre-produced third-party commercial without checking policy:</strong> YouTube restricts embedded ads that duplicate its own formats.</li>
 <li><strong>Disclosing only in the description:</strong> Many viewers never open it.</li>
 <li><strong>Guaranteeing organic performance casually:</strong> Views and sales are not fully controlled by the creator.</li>
-<li><strong>Allowing unlimited revisions:</strong> The approval process becomes open-ended.</li>
+<li><strong>Allowing unlimited revisions:</strong> The <a href="/glossary/approval-process/">approval process</a> becomes open-ended.</li>
 <li><strong>Ignoring usage rights:</strong> The brand may expect to run the video as an ad.</li>
 <li><strong>Giving the brand full editorial control:</strong> The creator may be pushed into an untruthful endorsement.</li>
 <li><strong>Publishing before the agreement is settled:</strong> Payment, rights, and cancellation remain exposed.</li>
@@ -166,7 +166,7 @@ related_terms:
 <h4>Is every sponsored video fully about the sponsor?</h4>
 <p>No. A video can contain a short sponsored integration while the main video covers another topic. A dedicated sponsored video centers most or all of the content on the sponsor.</p>
 <h4>Is a sponsored video the same as a YouTube ad?</h4>
-<p>No. A sponsored video is creator content produced under a commercial relationship. YouTube ads are delivered separately through the platform’s advertising system.</p>
+<p>No. A sponsored video is creator content produced under a commercial relationship. <a href="/glossary/youtube-ads/">YouTube ads</a> are delivered separately through the platform’s advertising system.</p>
 <h4>Can YouTube run ads on a sponsored video?</h4>
 <p>Yes. YouTube says ads may still run, although it may replace an ad that conflicts with the declared brand partner.</p>
 <h4>Does YouTube Premium remove sponsored segments?</h4>

@@ -7,7 +7,7 @@ permalink: /glossary/creator-educator/
 ---
 
 <h2>Creator-Educator</h2>
-<p>A <strong>creator-educator</strong> is a content creator whose central purpose is helping an audience learn, build skills, make better decisions, or achieve a defined transformation.</p>
+<p>A <strong>creator-educator</strong> is a <a href="/glossary/content-creator/">content creator</a> whose central purpose is helping an audience learn, build skills, make better decisions, or achieve a defined transformation.</p>
 <p>Creator-educators can teach through:</p>
 <ul>
 <li>YouTube videos</li>
@@ -139,7 +139,7 @@ permalink: /glossary/creator-educator/
 <li>Decide</li>
 <li>Apply</li>
 </ul>
-<p>“Learn video editing” is broad. “Edit and export a five-minute interview with clean dialogue and basic color correction” is more measurable.</p>
+<p>“Learn video editing” is broad. “Edit and export a five-minute interview with clean dialogue and basic <a href="/glossary/color-correction/">color correction</a>” is more measurable.</p>
 <h3>Course vs. coaching vs. consulting</h3>
 <table>
 <thead>
@@ -226,7 +226,7 @@ permalink: /glossary/creator-educator/
 <li>Assessment</li>
 <li>Project quality</li>
 <li>Skill confidence</li>
-<li>Learner retention</li>
+<li>Learner <a href="/glossary/retention/">retention</a></li>
 <li>Support use</li>
 <li>Refunds</li>
 <li>Repeat purchase</li>

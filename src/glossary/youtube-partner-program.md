@@ -31,7 +31,7 @@ related_terms:
 <ul>
 <li>A share of the revenue from ads shown on their videos and Shorts</li>
 <li>A share of YouTube Premium subscription revenue from members who watch their content</li>
-<li>Access to fan-funding features like memberships, Super Chat, Super Stickers, and Super Thanks</li>
+<li>Access to fan-funding features like memberships, Super Chat, <a href="/glossary/super-stickers/">Super Stickers</a>, and Super Thanks</li>
 <li>Access to <a href="/glossary/youtube-shopping/">YouTube Shopping</a> and other commerce features</li>
 <li>Access to YouTube's Creator Support team and, at higher subscriber tiers, a dedicated partner manager</li>
 <li>Eligibility for <a href="/glossary/youtube-creator-partnerships/">YouTube Creator Partnerships</a> and brand-facing programs that require an active YPP channel</li>
@@ -48,7 +48,7 @@ related_terms:
 <tr><td>Subscribers</td><td>500</td><td>1,000</td></tr>
 <tr><td>Recent uploads</td><td>3 valid public uploads in the last 90 days</td><td>Not separately required</td></tr>
 <tr><td>Watch hours or Shorts views</td><td>3,000 valid public watch hours (last 12 months) or 3,000,000 valid public Shorts views (last 90 days)</td><td>4,000 valid public watch hours (last 12 months) or 10,000,000 valid public Shorts views (last 90 days)</td></tr>
-<tr><td>What it unlocks</td><td>Channel Memberships, Super Chat &amp; Super Stickers, Super Thanks, Jewels and gifts during live streams, Shopping</td><td>Everything in Early Monetization, plus ad revenue sharing (watch page and Shorts Feed ads) and YouTube Premium revenue share</td></tr>
+<tr><td>What it unlocks</td><td>Channel Memberships, Super Chat &amp; Super Stickers, Super Thanks, Jewels and gifts during live streams, Shopping</td><td>Everything in Early Monetization, plus ad revenue sharing (watch page and Shorts Feed ads) and YouTube Premium <a href="/glossary/revenue-share/">revenue share</a></td></tr>
 <tr><td>Country/region availability</td><td>Available in a defined, expanding list of countries/regions</td><td>Available more broadly</td></tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ related_terms:
 <h4>Additional requirements (apply to both tiers)</h4>
 <p>Meeting the subscriber/watch-hour/view numbers only gets you an application, not approval. YouTube also requires:</p>
 <ul>
-<li>Compliance with the YouTube channel monetization policies — this includes rules on <a href="/glossary/reused-content/">reused content</a> and repetitious uploads, which is one of the most common rejection reasons</li>
+<li>Compliance with the <a href="/glossary/youtube-channel/">YouTube channel</a> monetization policies — this includes rules on <a href="/glossary/reused-content/">reused content</a> and repetitious uploads, which is one of the most common rejection reasons</li>
 <li>No active <a href="/glossary/copyright-strike/">Community Guidelines strikes</a> on the channel</li>
 <li>2-Step Verification turned on for the linked Google Account</li>
 <li>"Advanced features" access on the channel — see <a href="/glossary/youtube-advanced-mode/">YouTube Advanced Mode</a> for what this unlocks and how to verify your phone number to get it</li>
@@ -70,7 +70,7 @@ related_terms:
 
 <h3>How to apply to the YouTube Partner Program</h3>
 <ol>
-<li>Confirm you've cleared one of the eligibility paths above in YouTube Studio's Earn tab.</li>
+<li>Confirm you've cleared one of the eligibility paths above in <a href="/glossary/youtube-studio/">YouTube Studio</a>'s Earn tab.</li>
 <li>Turn on 2-Step Verification for your Google Account, if it isn't already.</li>
 <li>Go to YouTube Studio → Earn → Apply now.</li>
 <li>Review and accept the YPP Base terms.</li>
@@ -109,7 +109,7 @@ related_terms:
 <ul>
 <li>Build a base of <a href="/glossary/regular-viewers/">regular viewers</a> and <a href="/glossary/returning-viewers/">returning viewers</a> rather than relying only on one-off spikes — repeat viewership compounds watch hours faster than constant new-viewer acquisition alone.</li>
 <li>Pay attention to which <a href="/glossary/traffic-sources/">traffic sources</a> are actually driving views — channels that get meaningful volume from <a href="/glossary/suggested-videos/">suggested videos</a> and <a href="/glossary/browse-features/">browse features</a> tend to accumulate watch hours more efficiently than those relying only on external traffic.</li>
-<li>Track how often viewers <a href="/glossary/stayed-to-watch/">stayed to watch</a> versus clicking away immediately — retention has a direct effect on how much of your <a href="/glossary/unique-viewers/">unique viewers</a> pool converts into real watch hours.</li>
+<li>Track how often viewers <a href="/glossary/stayed-to-watch/">stayed to watch</a> versus clicking away immediately — <a href="/glossary/retention/">retention</a> has a direct effect on how much of your <a href="/glossary/unique-viewers/">unique viewers</a> pool converts into real watch hours.</li>
 <li>If your audience spans multiple languages, features like <a href="/glossary/multi-language-audio/">multi-language audio</a> and <a href="/glossary/auto-dubbing/">auto-dubbing</a> can expand your reach into new regions and add watch hours without producing entirely new videos.</li>
 </ul>
 

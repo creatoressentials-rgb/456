@@ -45,7 +45,7 @@ related_terms:
 <tr>
   <td>Condenser cardioid</td>
   <td>Higher sensitivity and detail, captures more room sound</td>
-  <td>Voice-over, vocals, acoustic instruments</td>
+  <td><a href="/glossary/voice-over/">Voice-over</a>, vocals, acoustic instruments</td>
 </tr>
 <tr>
   <td>Multi-pattern condenser</td>
@@ -58,14 +58,14 @@ related_terms:
   <td>Field sound, instruments, environmental video</td>
 </tr>
 <tr>
-  <td>Hybrid USB/XLR</td>
+  <td>Hybrid USB/<a href="/glossary/xlr/">XLR</a></td>
   <td>Works digitally by USB or as an analog XLR mic</td>
   <td>Creators who may expand to an interface later</td>
 </tr>
 </tbody>
 </table>
 <p>The connector alone does not determine sound quality, directionality, sensitivity, or whether the microphone is appropriate for the room.</p>
-<h3>USB microphone vs. XLR microphone</h3>
+<h3>USB microphone vs. <a href="/glossary/xlr-microphone/">XLR microphone</a></h3>
 <table>
 <thead>
 <tr>
@@ -178,7 +178,7 @@ related_terms:
 <li><strong>DSP presets:</strong> Apply EQ, noise reduction, gating, de-essing, or other processing.</li>
 </ul>
 <p>A touch control or software slider can change several parameters depending on the selected mode. Verify what is being adjusted before recording.</p>
-<h3>Gain staging a USB microphone</h3>
+<h3><a href="/glossary/gain-staging/">Gain staging</a> a USB microphone</h3>
 <p>Gain should be high enough to capture a healthy signal but low enough to avoid clipping when the speaker becomes louder.</p>
 <p>A practical process is:</p>
 <ol>

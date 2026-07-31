@@ -12,7 +12,7 @@ related_terms:
 ---
 
 <h2>YouTube Audio Library</h2>
-<p>The <strong>YouTube Audio Library</strong> is a free, built-in collection of royalty-free production music and sound effects inside YouTube Studio. Creators can browse, preview, and download tracks to use in their videos without paying a license fee — and, in almost all cases, without risking a music-related <a href="/glossary/copyright-claim/">copyright claim</a> or <a href="/glossary/copyright-strike/">copyright strike</a>.</p>
+<p>The <strong>YouTube Audio Library</strong> is a free, built-in collection of royalty-free production music and sound effects inside <a href="/glossary/youtube-studio/">YouTube Studio</a>. Creators can browse, preview, and download tracks to use in their videos without paying a license fee — and, in almost all cases, without risking a music-related <a href="/glossary/copyright-claim/">copyright claim</a> or <a href="/glossary/copyright-strike/">copyright strike</a>.</p>
 <p>It's one of the simplest tools available for adding professional-sounding background music, transitions, and sound effects to a video, which is why it's a standard stop for new creators building out their YouTube monetization and policies knowledge before their first upload.</p>
 
 <h3>Where to find the YouTube Audio Library</h3>
@@ -29,7 +29,7 @@ related_terms:
 <li><strong>Music</strong> — thousands of production tracks across genres like cinematic, pop, hip-hop, electronic, ambient, and more. New releases are added <strong>twice a month</strong>, according to YouTube's own documentation, so the catalog is a moving target rather than a fixed number.</li>
 <li><strong>Sound Effects</strong> — a separate catalog of short audio clips (impacts, ambiences, foley, transitions, crowd noise, etc.) for editing polish.</li>
 </ul>
-<p>You can filter and sort music by <strong>track title, genre, mood, artist name, attribution requirement, and duration</strong>. Sound effects can be filtered by <strong>category and duration</strong>. You can also star tracks to save them to a Favorites list for later.</p>
+<p>You can filter and sort music by <strong>track title, genre, mood, artist name, <a href="/glossary/attribution/">attribution</a> requirement, and duration</strong>. Sound effects can be filtered by <strong>category and duration</strong>. You can also star tracks to save them to a Favorites list for later.</p>
 <p>Note: You may see specific track counts (like "150 tracks" or "1,600 tracks") quoted elsewhere online. YouTube doesn't publish a current running total, and the numbers you'll find online vary widely and go stale quickly — treat any specific figure as a rough snapshot, not a fact to rely on.</p>
 
 <h3>Licensing: attribution required vs. not required</h3>
@@ -51,7 +51,7 @@ related_terms:
 <td>Listed simply as "YouTube Audio Library License"</td>
 </tr>
 <tr>
-<td><strong>Creative Commons – Attribution (CC BY 4.0)</strong></td>
+<td><strong><a href="/glossary/creative-commons/">Creative Commons</a> – Attribution (<a href="/glossary/closed-captions/">CC</a> BY 4.0)</strong></td>
 <td>Yes</td>
 <td>Credit the artist and link the track in your video's description</td>
 <td>Marked with a Creative Commons icon in the License type column</td>
@@ -77,7 +77,7 @@ related_terms:
 <p>That said, it's worth reading YouTube's own fine print rather than the flattened "100% safe, no exceptions" version that circulates in a lot of creator content:</p>
 <ul>
 <li>This guarantee applies specifically to files <strong>downloaded from the Audio Library itself</strong> — not to similar-sounding "royalty-free" tracks from other channels or third-party libraries. YouTube is explicit that it can't vouch for those.</li>
-<li>In practice, some creators do occasionally see a Content ID claim land on a video using a legitimate Audio Library track — typically because a third-party rights-management service has separately registered the same or a similar recording in Content ID's database, independent of YouTube's own licensing. This isn't a strike, and it's disputable: go to the <strong>Copyright</strong> section of Studio, dispute the claim, and cite the Audio Library license as proof of usage rights. These disputes are generally resolved quickly.</li>
+<li>In practice, some creators do occasionally see a Content ID claim land on a video using a legitimate Audio Library track — typically because a third-party rights-management service has separately registered the same or a similar recording in Content ID's database, independent of YouTube's own licensing. This isn't a strike, and it's disputable: go to the <strong>Copyright</strong> section of Studio, dispute the claim, and cite the Audio Library license as proof of <a href="/glossary/usage-rights/">usage rights</a>. These disputes are generally resolved quickly.</li>
 <li>YouTube also states it "can't give legal guidance" on music issues, especially ones that occur off the platform, and recommends consulting a lawyer if you have specific legal concerns.</li>
 </ul>
 
@@ -92,7 +92,7 @@ related_terms:
 <h3>YouTube Audio Library vs. Creator Music</h3>
 <p>These two are easy to mix up because they live in the same part of Studio:</p>
 <ul>
-<li><strong>Audio Library</strong> — always free, no revenue share, no licensing fee. Covers original production music and sound effects made available specifically through this program.</li>
+<li><strong>Audio Library</strong> — always free, no <a href="/glossary/revenue-share/">revenue share</a>, no licensing fee. Covers original production music and sound effects made available specifically through this program.</li>
 <li><strong>Creator Music</strong> — a separate, newer Studio feature that lets creators license popular commercial songs, either through a revenue-share arrangement or a flat fee, for use in monetized videos.</li>
 </ul>
 <p>This entry covers the Audio Library specifically.</p>

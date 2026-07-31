@@ -26,7 +26,7 @@ related_terms:
 
 <ol>
 <li>
-<p>User Retention: They help <a>retain viewers</a> by guiding them to more of your content, preventing them from drifting to other videos or channels.</p>
+<p>User <a href="/glossary/retention/">Retention</a>: They help <a>retain viewers</a> by guiding them to more of your content, preventing them from drifting to other videos or channels.</p>
 </li>
 <li>
 <p>Enhanced Engagement: By presenting options directly related to the content they've just viewed, it enhances user engagement and can lead to increased watch time.</p>
@@ -75,7 +75,7 @@ related_terms:
 <p>After selecting each element, fill in the required information, and click 'Create Element'.</p>
 </li>
 <li>
-<p>Adjust the display time of each element using the timeline below.</p>
+<p>Adjust the display time of each element using the <a href="/glossary/timeline/">timeline</a> below.</p>
 </li>
 <li>
 <p>Save changes and optionally preview the video to check the end screen.</p>

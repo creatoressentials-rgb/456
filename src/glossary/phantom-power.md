@@ -13,9 +13,9 @@ related_terms:
 
 <h2>Phantom Power</h2>
 <p><strong>Phantom power</strong> is DC electricity delivered through a balanced microphone cable to operate compatible microphone electronics. It is most commonly supplied by a mixer, recorder, preamp, or <a href="/glossary/audio-interface/">audio interface</a> and is usually activated with a button labeled <strong>48V</strong>, <strong>P48</strong>, or <strong>phantom</strong>.</p>
-<p>The power travels through the same XLR cable that carries the audio signal, so no separate power wire is required. This is the "phantom" part: the voltage is present on the balanced line without becoming the recorded audio.</p>
+<p>The power travels through the same <a href="/glossary/xlr/">XLR</a> cable that carries the audio signal, so no separate power wire is required. This is the "phantom" part: the voltage is present on the balanced line without becoming the recorded audio.</p>
 <h3>What phantom power does</h3>
-<p>Many condenser microphones contain active electronics that require power. Phantom power can operate components such as:</p>
+<p>Many <a href="/glossary/condenser-microphones/">condenser microphones</a> contain active electronics that require power. Phantom power can operate components such as:</p>
 <ul>
 <li>The microphone's internal impedance converter.</li>
 <li>A built-in preamplifier.</li>
@@ -90,7 +90,7 @@ related_terms:
   <td>Follow the manufacturer's specified voltage</td>
 </tr>
 <tr>
-  <td>USB microphone</td>
+  <td><a href="/glossary/usb-microphone/">USB microphone</a></td>
   <td>No external phantom</td>
   <td>Powered through USB and contains its own interface electronics</td>
 </tr>
@@ -141,7 +141,7 @@ related_terms:
 <tr>
   <td>Typical use</td>
   <td>Professional condenser microphones and active devices</td>
-  <td>Small electret camera or lavalier microphones</td>
+  <td>Small electret camera or <a href="/glossary/lavalier-microphones/">lavalier microphones</a></td>
 </tr>
 <tr>
   <td>Voltage</td>
@@ -162,7 +162,7 @@ related_terms:
 </table>
 <p>Do not use a simple passive adapter and assume the voltage systems become compatible. Use the adapter, preamp, or power converter specified by the microphone manufacturer.</p>
 <h3>Phantom power and audio interfaces</h3>
-<p>On an <a href="/glossary/audio-interface/">audio interface</a>, the 48V switch normally applies power only to the XLR microphone portion of a combo input—not the quarter-inch line or instrument connection.</p>
+<p>On an <a href="/glossary/audio-interface/">audio interface</a>, the 48V switch normally applies power only to the <a href="/glossary/xlr-microphone/">XLR microphone</a> portion of a combo input—not the quarter-inch line or instrument connection.</p>
 <p>Interfaces may switch phantom power:</p>
 <ul>
 <li>Per individual input.</li>
@@ -172,7 +172,7 @@ related_terms:
 </ul>
 <p>A grouped switch means all XLR devices in that bank must be compatible before phantom is enabled.</p>
 <h3>Can phantom power damage a microphone?</h3>
-<p>Properly wired modern balanced dynamic microphones usually tolerate phantom power, even though they do not need it. That does not make phantom universally harmless.</p>
+<p>Properly wired modern balanced <a href="/glossary/dynamic-microphones/">dynamic microphones</a> usually tolerate phantom power, even though they do not need it. That does not make phantom universally harmless.</p>
 <p>Risk increases with:</p>
 <ul>
 <li>Vintage or passive ribbon microphones not designed for it.</li>

@@ -160,7 +160,7 @@ permalink: /glossary/kill-fee/
 <p>The contract should coordinate the kill-fee provision with <a href="/glossary/content-ownership">content ownership</a>. Common approaches include:</p>
 <ul>
 <li>The creator retains all rights in unpaid work.</li>
-<li>The brand receives no usage rights unless it pays the full agreed license fee.</li>
+<li>The brand receives no <a href="/glossary/usage-rights/">usage rights</a> unless it pays the full agreed license fee.</li>
 <li>The brand may use completed work after paying a stated buyout.</li>
 <li>Brand-confidential materials must still be returned or destroyed.</li>
 <li>The creator may reuse general concepts but not confidential campaign information.</li>
@@ -173,7 +173,7 @@ permalink: /glossary/kill-fee/
 <li><strong>Termination for cause:</strong> One party materially breaches and does not cure within the agreed period.</li>
 <li><strong>Mutual cancellation:</strong> Both sides agree to stop.</li>
 <li><strong>Force majeure:</strong> An uncontrollable event prevents performance.</li>
-<li><strong>Rescheduling:</strong> The project continues on a new timeline.</li>
+<li><strong>Rescheduling:</strong> The project continues on a new <a href="/glossary/timeline/">timeline</a>.</li>
 </ul>
 <p>The payment outcome can differ for each category.</p>
 <h3>Is a kill fee enforceable?</h3>

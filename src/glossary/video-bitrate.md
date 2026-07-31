@@ -95,7 +95,7 @@ related_terms:
 <li>Bit depth.</li>
 <li>Chroma subsampling.</li>
 <li>Keyframe structure.</li>
-<li>Encoding preset and quality mode.</li>
+<li><a href="/glossary/encoding/">Encoding</a> preset and quality mode.</li>
 <li>Source content.</li>
 </ul>
 <p>A 12 Mbps H.264 file and a 12 Mbps AV1 file are not equivalent simply because the number matches.</p>
@@ -120,7 +120,7 @@ related_terms:
 <li>Grass, leaves, hair, glitter, smoke, water, or confetti.</li>
 <li>Fast games or sports.</li>
 <li>Handheld camera movement.</li>
-<li>Film grain or high-ISO noise.</li>
+<li>Film grain or high-<a href="/glossary/iso/">ISO</a> noise.</li>
 <li>Rapid lighting changes.</li>
 <li>Detailed screen captures with scrolling text.</li>
 </ul>
@@ -162,7 +162,7 @@ related_terms:
 </tr>
 </tbody>
 </table>
-<p>For normal YouTube uploads, the official recommended H.264 settings specify <strong>variable bitrate</strong> and say that no bitrate limit is required, while providing reference bitrates. For YouTube Live over RTMP/RTMPS, the current encoder guidance specifies CBR because real-time ingest has different bandwidth needs.</p>
+<p>For normal YouTube uploads, the official recommended H.264 settings specify <strong>variable bitrate</strong> and say that no bitrate limit is required, while providing reference bitrates. For <a href="/glossary/youtube-live/">YouTube Live</a> over <a href="/glossary/rtmp/">RTMP</a>/RTMPS, the current encoder guidance specifies CBR because real-time ingest has different bandwidth needs.</p>
 <h3>One-pass vs. two-pass VBR</h3>
 <p>A one-pass encoder makes decisions while moving through the video. It is faster and may be appropriate for quick exports.</p>
 <p>A two-pass encoder first analyzes the full video and then allocates data during a second pass. It can be more accurate when the creator needs a target average bitrate or predictable file size, although modern constant-quality and hardware encoders may use different strategies.</p>
@@ -246,7 +246,7 @@ related_terms:
 <tr>
   <td>Recovery</td>
   <td>File can be re-exported and uploaded again</td>
-  <td>Lost data can create live artifacts or dropped frames</td>
+  <td>Lost data can create live artifacts or <a href="/glossary/dropped-frames/">dropped frames</a></td>
 </tr>
 <tr>
   <td>Platform processing</td>
@@ -264,7 +264,7 @@ related_terms:
 <li>Banding in gradients, skies, and shadows.</li>
 <li>Mosquito noise around text or high-contrast edges.</li>
 <li>Muddy dark areas.</li>
-<li>Pulsing detail as keyframes and predictions change.</li>
+<li>Pulsing detail as <a href="/glossary/keyframes/">keyframes</a> and predictions change.</li>
 <li>Color breakup or posterization.</li>
 <li>Softness during camera movement.</li>
 </ul>
@@ -276,7 +276,7 @@ related_terms:
 <li>Keep the highest-quality original recordings.</li>
 <li>Edit in a suitable project or intermediate format.</li>
 <li>Avoid downloading a platform copy as the next editing master.</li>
-<li>Export once from the best available timeline or master.</li>
+<li>Export once from the best available <a href="/glossary/timeline/">timeline</a> or master.</li>
 <li>Use a bitrate appropriate to the chosen codec and delivery target.</li>
 </ul>
 <p>A high-bitrate final export cannot fully reverse damage from an earlier low-bitrate recording or render.</p>

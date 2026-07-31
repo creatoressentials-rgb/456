@@ -127,8 +127,8 @@ permalink: /glossary/content-creator/
 <li>Services</li>
 <li>Licensing</li>
 <li>Events</li>
-<li>Fan funding</li>
-<li>Revenue share</li>
+<li><a href="/glossary/fan-funding/">Fan funding</a></li>
+<li><a href="/glossary/revenue-share/">Revenue share</a></li>
 </ul>
 <p>Creation and monetization are separate. A creator may publish for artistic, educational, community, or business reasons.</p>
 <h3>Creator responsibilities</h3>
@@ -138,7 +138,7 @@ permalink: /glossary/content-creator/
 <li>Copyright</li>
 <li>Music and stock licenses</li>
 <li>Privacy</li>
-<li>Sponsorship disclosure</li>
+<li><a href="/glossary/sponsorship-disclosure/">Sponsorship disclosure</a></li>
 <li>Advertising claims</li>
 <li>Contracts</li>
 <li>Taxes</li>
@@ -147,7 +147,7 @@ permalink: /glossary/content-creator/
 <li>Safety</li>
 </ul>
 <p>A creator who hires an editor or agency still remains responsible for what appears on the channel.</p>
-<h3>Content ownership</h3>
+<h3><a href="/glossary/content-ownership/">Content ownership</a></h3>
 <p>Creating a piece of content does not always mean the creator owns every included element.</p>
 <p>Ownership can depend on:</p>
 <ul>
@@ -203,7 +203,7 @@ permalink: /glossary/content-creator/
 
 <h3>Frequently asked questions</h3>
 <h4>Does a content creator need a large following?</h4>
-<p>No. Someone can create for a small niche, clients, a company, or a developing audience.</p>
+<p>No. Someone can create for a small <a href="/glossary/niche/">niche</a>, clients, a company, or a developing audience.</p>
 <h4>Is a YouTuber a content creator?</h4>
 <p>Yes. A YouTuber is a content creator whose work is distributed substantially through YouTube.</p>
 <h4>Is content creation a business?</h4>

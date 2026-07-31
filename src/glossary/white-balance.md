@@ -182,7 +182,7 @@ related_terms:
 <li>Avoid clipped highlights or deep underexposure.</li>
 <li>Be remeasured if the light changes.</li>
 </ol>
-<p>A color checker provides additional patches for color correction and matching, but it does not replace good exposure or consistent lighting.</p>
+<p>A color checker provides additional patches for <a href="/glossary/color-correction/">color correction</a> and matching, but it does not replace good exposure or consistent lighting.</p>
 <h3>Temperature vs. tint</h3>
 <p>White balance has two major correction directions:</p>
 <ul>

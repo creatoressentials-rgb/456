@@ -15,7 +15,7 @@ related_terms:
 ---
 
 <h2>Super Chat</h2>
-<p><strong>Quick answer:</strong> A Super Chat is a paid message a viewer buys during a YouTube live stream or Premiere to highlight and pin their comment above the regular live chat feed. The amount paid sets the message's color, character limit, and how long it stays pinned — anywhere from a few seconds up to 5 hours at the $500 maximum. Super Chat is one of YouTube's <a href="/glossary/fan-funding/">fan funding</a> features; eligible creators keep 70% of confirmed revenue.</p>
+<p><strong>Quick answer:</strong> A Super Chat is a paid message a viewer buys during a <a href="/glossary/youtube-live/">YouTube live</a> stream or Premiere to highlight and pin their comment above the regular live chat feed. The amount paid sets the message's color, character limit, and how long it stays pinned — anywhere from a few seconds up to 5 hours at the $500 maximum. Super Chat is one of YouTube's <a href="/glossary/fan-funding/">fan funding</a> features; eligible creators keep 70% of confirmed revenue.</p>
 
 <h3>How it looks in chat</h3>
 <p>When a viewer sends a Super Chat, their comment breaks out of the normal scrolling chat and appears as a colored banner, with their name and profile photo surfaced at the top of the feed for as long as their tier stays pinned. Everyone watching — not just the creator — sees it, which is the point: it's built for social proof. A visible string of Super Chats tends to pull more Super Chats, especially once the creator starts reacting to them on screen.</p>

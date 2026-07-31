@@ -88,7 +88,7 @@ permalink: /glossary/approval-process/
 </tr>
 </tbody>
 </table>
-<p>Approval of the creative does not automatically transfer ownership or grant usage rights. Those permissions must be defined separately.</p>
+<p>Approval of the creative does not automatically transfer ownership or grant <a href="/glossary/usage-rights/">usage rights</a>. Those permissions must be defined separately.</p>
 <h3>Who should approve creator content?</h3>
 <p>The contract should identify one person or a clearly defined role that can give binding final approval. That person may collect internal comments from:</p>
 <ul>
@@ -110,7 +110,7 @@ permalink: /glossary/approval-process/
 <li>Major changes after concept approval may require a revised fee or schedule.</li>
 </ul>
 <p>A highly scripted endorsement can create both performance and compliance problems if the creator no longer sounds truthful.</p>
-<h3>A practical approval timeline</h3>
+<h3>A practical approval <a href="/glossary/timeline/">timeline</a></h3>
 <p>A campaign schedule can include:</p>
 <ol>
 <li>Concept due Monday</li>
@@ -134,7 +134,7 @@ permalink: /glossary/approval-process/
 </div>
 
 <h3>Frequently asked questions</h3>
-<h4>Does every sponsored video need brand approval?</h4>
+<h4>Does every <a href="/glossary/sponsored-video/">sponsored video</a> need brand approval?</h4>
 <p>Not necessarily. Approval rights depend on the agreement. Some brands approve only claims and disclosure, while others require concept, script, rough-cut, and final approval.</p>
 <h4>How many approval rounds are normal?</h4>
 <p>There is no universal number. The contract should state how many revision rounds are included and require the brand to consolidate feedback. Additional rounds or reshoots can be separately priced.</p>

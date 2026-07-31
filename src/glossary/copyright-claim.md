@@ -24,7 +24,7 @@ related_terms:
 <li><strong>Block</strong> — your video is taken down or blocked from view, sometimes only in specific regions.</li>
 </ul>
 <p>The claim itself doesn't touch your watch time, your <a href="/glossary/engaged-views/">engaged views</a>, or your channel's overall good standing. If the video is blocked in some countries, you'll naturally see fewer <a href="/glossary/unique-viewers/">unique viewers</a> and less <a href="/glossary/monetized-playbacks/">monetized playbacks</a> from those regions — but that's a side effect of the block, not a separate penalty.</p>
-<p>In YouTube Studio, a claimed video shows a "Copyright" status under Content &gt; Restrictions. Click it for the specific claimant, the copyrighted work detected, and the exact timestamp.</p>
+<p>In <a href="/glossary/youtube-studio/">YouTube Studio</a>, a claimed video shows a "Copyright" status under Content &gt; Restrictions. Click it for the specific claimant, the copyrighted work detected, and the exact timestamp.</p>
 
 <h3>What you can do about it</h3>
 <p>You generally have three options:</p>

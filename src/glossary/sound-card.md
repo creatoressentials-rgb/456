@@ -39,9 +39,9 @@ related_terms:
 </li>
 </ul>
 
-<p>For creators managing podcasts, recording music, or producing video content, an external sound card (also known as an audio interface) can deliver professional-grade results by supporting more ports and features.</p>
+<p>For creators managing podcasts, recording music, or producing video content, an external sound card (also known as an <a href="/glossary/audio-interface/">audio interface</a>) can deliver professional-grade results by supporting more ports and features.</p>
 
-<h2>Do I Need a Sound Card for My YouTube Channel?</h2>
+<h2>Do I Need a Sound Card for My <a href="/glossary/youtube-channel/">YouTube Channel</a>?</h2>
 
 <p>Whether or not you need a sound card depends on your audio requirements. For most casual users, the built-in sound card in your computer is sufficient. However, there are situations where upgrading to a dedicated or external sound card is worth considering:</p>
 

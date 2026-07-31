@@ -15,7 +15,7 @@ related_terms:
 ---
 
 <h2>Live Control Room</h2>
-<p><strong>Live Control Room</strong> is YouTube Studio's desktop workspace for setting up, scheduling, previewing, monitoring, and managing live streams. It is the control center for the YouTube side of a broadcast.</p>
+<p><strong>Live Control Room</strong> is <a href="/glossary/youtube-studio/">YouTube Studio</a>'s desktop workspace for setting up, scheduling, previewing, monitoring, and managing live streams. It is the control center for the YouTube side of a broadcast.</p>
 <p>Creators can use Live Control Room to configure stream details, connect a <a href="/glossary/live-encoder/">Live Encoder</a>, review stream health, manage chat and monetization, monitor <a href="/glossary/concurrent-viewers/">Concurrent Viewers</a>, and end the event.</p>
 
 <h3>How to open Live Control Room</h3>
@@ -30,7 +30,7 @@ related_terms:
 <table>
 <thead><tr><th>Stage</th><th>Common tasks</th></tr></thead>
 <tbody>
-<tr><td>Before the stream</td><td>Create or schedule the event, enter metadata, select privacy, configure monetization, choose latency, enable DVR, manage the stream key, and test the feed</td></tr>
+<tr><td>Before the stream</td><td>Create or schedule the event, enter metadata, select privacy, configure monetization, choose latency, enable DVR, manage the <a href="/glossary/stream-key/">stream key</a>, and test the feed</td></tr>
 <tr><td>During the stream</td><td>Preview the feed, go live, monitor health and analytics, read chat, track revenue, edit supported settings, and end the event</td></tr>
 <tr><td>After the stream</td><td>Review the performance snapshot, access the archive, open analytics, and reuse settings for a future broadcast</td></tr>
 </tbody>
@@ -49,7 +49,7 @@ related_terms:
 <tr><td>Live encoder</td><td>Captures, combines, compresses, and sends the audio-video feed</td></tr>
 </tbody>
 </table>
-<p>OBS Studio, a hardware encoder, or another production platform may control cameras, microphones, screen capture, scenes, overlays, and encoding. Live Control Room receives that feed through a stream URL and stream key, then manages its delivery on YouTube.</p>
+<p>OBS Studio, a hardware encoder, or another production platform may control cameras, microphones, screen capture, scenes, overlays, and <a href="/glossary/encoding/">encoding</a>. Live Control Room receives that feed through a stream URL and stream key, then manages its delivery on YouTube.</p>
 
 <h3>Stream key and stream URL</h3>
 <p>The stream URL tells the encoder which YouTube ingest server to send the feed to. The stream key identifies the destination stream and allows YouTube to accept the feed.</p>
@@ -64,7 +64,7 @@ related_terms:
 <ul>
 <li>Incorrect or unsupported video and audio codecs.</li>
 <li>Bitrate that is too high or too low for the selected configuration.</li>
-<li>Unsupported resolution or frame rate.</li>
+<li>Unsupported resolution or <a href="/glossary/frame-rate-fps/">frame rate</a>.</li>
 <li>Improper keyframe frequency.</li>
 <li>Missing audio or video.</li>
 <li>Differences between primary and backup streams.</li>
@@ -74,12 +74,12 @@ related_terms:
 <h3>Real-time analytics in Live Control Room</h3>
 <p>While live, creators can monitor metrics such as:</p>
 <ul>
-<li>Current and peak concurrent viewers.</li>
+<li>Current and <a href="/glossary/peak-concurrent-viewers/">peak concurrent viewers</a>.</li>
 <li>Views.</li>
 <li>Likes.</li>
 <li>Stream duration.</li>
 <li>Chat rate.</li>
-<li>Average view duration.</li>
+<li><a href="/glossary/average-view-duration/">Average view duration</a>.</li>
 </ul>
 <p>After the stream, YouTube provides a quick performance snapshot and more detailed analytics in YouTube Studio. Real-time numbers may be estimates and can be processed further after the event.</p>
 
@@ -91,8 +91,8 @@ related_terms:
 <p>Being in the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> does not guarantee that every viewer will receive an ad or that every live format supports identical monetization features.</p>
 
 <h3>DVR and latency settings</h3>
-<p><a href="/glossary/live-dvr/">Live DVR</a> lets viewers pause and rewind an active broadcast. Stream latency controls the delay between capture and viewer playback.</p>
-<p>Lower latency supports faster interaction but leaves less playback buffer and can increase the chance of interruptions. Normal latency generally prioritizes playback stability and supports more features.</p>
+<p><a href="/glossary/live-dvr/">Live DVR</a> lets viewers pause and rewind an active broadcast. <a href="/glossary/stream-latency/">Stream latency</a> controls the delay between capture and viewer playback.</p>
+<p>Lower latency supports faster interaction but leaves less playback buffer and can increase the chance of interruptions. <a href="/glossary/normal-latency/">Normal latency</a> generally prioritizes playback stability and supports more features.</p>
 
 <h3>Scheduled streams and reusable settings</h3>
 <p>Scheduling creates a watch page before the event so creators can share the URL and viewers can set reminders. Creators can also reuse a previous stream's metadata, settings, and stream key, then edit the copied event as needed.</p>
@@ -123,7 +123,7 @@ related_terms:
 
 <h3>Frequently asked questions</h3>
 <h4>Is Live Control Room the same as OBS?</h4>
-<p>No. OBS is encoding and production software. Live Control Room is YouTube's dashboard for configuring and managing the YouTube live event.</p>
+<p>No. OBS is encoding and production software. Live Control Room is YouTube's dashboard for configuring and managing the <a href="/glossary/youtube-live/">YouTube live</a> event.</p>
 <h4>Can I use Live Control Room without an encoder?</h4>
 <p>Yes. YouTube supports webcam and other live workflows, although some settings and controls differ by streaming method.</p>
 <h4>Where is my YouTube stream key?</h4>

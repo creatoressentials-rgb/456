@@ -13,7 +13,7 @@ related_terms:
 ---
 
 <h2>Keyframes</h2>
-<p><strong>Keyframes</strong> are timeline markers that define the value of an editable property at specific moments. Video-editing software uses the values between keyframes to create changes over time.</p>
+<p><strong>Keyframes</strong> are <a href="/glossary/timeline/">timeline</a> markers that define the value of an editable property at specific moments. Video-editing software uses the values between keyframes to create changes over time.</p>
 <p>For example, a creator can place one position keyframe with a graphic on the left side of the frame and a later keyframe with the graphic on the right. The editor calculates the intermediate positions, creating motion.</p>
 <p>Keyframes can animate far more than movement. They can control scale, rotation, opacity, crop, blur, color adjustments, mask paths, effect intensity, audio volume, panning, and many other properties supported by the editing application.</p>
 <h3>How keyframes work</h3>

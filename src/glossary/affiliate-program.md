@@ -30,18 +30,18 @@ permalink: /glossary/affiliate-program/
 <li>The creator receives an <a href="/glossary/affiliate-link">affiliate link</a>, referral code, product tag, or other tracking method.</li>
 <li>The creator publishes eligible promotional content.</li>
 <li>A customer completes a qualifying action.</li>
-<li>The tracking system applies the attribution rules.</li>
+<li>The tracking system applies the <a href="/glossary/attribution/">attribution</a> rules.</li>
 <li>The conversion remains pending during fraud, return, or compliance review.</li>
 <li>The program approves, reverses, or declines the <a href="/glossary/affiliate-commission">affiliate commission</a>.</li>
 <li>Approved earnings are paid under the program's <a href="/glossary/payment-terms">payment terms</a>.</li>
 </ol>
 <p>A creator is not normally paid for every click or initial order. The action must satisfy the complete program rules.</p>
-<h3>Direct affiliate program vs. affiliate network</h3>
+<h3>Direct affiliate program vs. <a href="/glossary/affiliate-network/">affiliate network</a></h3>
 <table>
 <thead>
 <tr>
   <th>Direct affiliate program</th>
-  <th>Network-hosted affiliate program</th>
+  <th><a href="/glossary/dropped-frames/">Network</a>-hosted affiliate program</th>
 </tr>
 </thead>
 <tbody>
@@ -68,7 +68,7 @@ permalink: /glossary/affiliate-program/
 </tbody>
 </table>
 <p>An affiliate network can contain many programs. Joining the network does not automatically enroll or approve the creator for every advertiser.</p>
-<h3>Affiliate program vs. referral program</h3>
+<h3>Affiliate program vs. <a href="/glossary/referral-program/">referral program</a></h3>
 <table>
 <thead>
 <tr>
@@ -107,7 +107,7 @@ permalink: /glossary/affiliate-program/
 <li>Country</li>
 <li>Age</li>
 <li>Business type</li>
-<li>Audience or niche</li>
+<li>Audience or <a href="/glossary/niche/">niche</a></li>
 <li>Website or channel quality</li>
 <li>Platform</li>
 <li>Content category</li>
@@ -172,7 +172,7 @@ permalink: /glossary/affiliate-program/
 <li>Program violations</li>
 <li>Unqualified leads</li>
 </ul>
-<h4>Payment terms</h4>
+<h4><a href="/glossary/payment-terms/">Payment terms</a></h4>
 <p>Review:</p>
 <ul>
 <li>Payment schedule</li>
@@ -243,13 +243,13 @@ permalink: /glossary/affiliate-program/
 <h3>Evaluating an affiliate program</h3>
 <p>Consider:</p>
 <ul>
-<li>Product-audience fit</li>
+<li>Product-<a href="/glossary/audience-fit/">audience fit</a></li>
 <li>Brand reputation</li>
 <li>Product quality</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Commission rate</li>
 <li>Average order value</li>
-<li>Recurring revenue</li>
+<li><a href="/glossary/recurring-revenue/">Recurring revenue</a></li>
 <li>Attribution window</li>
 <li>Return rate</li>
 <li>Reporting quality</li>
@@ -279,7 +279,7 @@ permalink: /glossary/affiliate-program/
 <li>Require misleading claims</li>
 <li>Have no identifiable advertiser or customer product</li>
 </ul>
-<p>Affiliate marketing pays for customer results. It should not depend primarily on recruiting other participants into the program.</p>
+<p><a href="/glossary/affiliate-marketing/">Affiliate marketing</a> pays for customer results. It should not depend primarily on recruiting other participants into the program.</p>
 <h3>Related terms</h3>
 <p><a href="/glossary/affiliate-marketing">Affiliate Marketing</a>, <a href="/glossary/affiliate-link">Affiliate Link</a>, <a href="/glossary/affiliate-commission">Affiliate Commission</a>, <a href="/glossary/affiliate-network">Affiliate Network</a>, <a href="/glossary/referral-program">Referral Program</a>, and <a href="/glossary/revenue-share">Revenue Share</a></p>
 

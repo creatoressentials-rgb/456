@@ -67,7 +67,7 @@ permalink: /glossary/return-on-investment/
 <li>A course launch</li>
 <li>A membership program</li>
 <li>A creator event</li>
-<li>A new YouTube channel</li>
+<li>A new <a href="/glossary/youtube-channel/">YouTube channel</a></li>
 <li>A website redesign</li>
 <li>An email list</li>
 <li>An affiliate campaign</li>
@@ -111,7 +111,7 @@ permalink: /glossary/return-on-investment/
 <li>Subscription lifetime value</li>
 <li>Cost savings</li>
 <li>Licensing income</li>
-<li>Increased recurring revenue</li>
+<li>Increased <a href="/glossary/recurring-revenue/">recurring revenue</a></li>
 <li>Resale value of an asset</li>
 <li>Estimated long-term customer value</li>
 </ul>
@@ -154,7 +154,7 @@ permalink: /glossary/return-on-investment/
 </tbody>
 </table>
 <p>Creators and brands should state which version they are using.</p>
-<h3>Attribution vs. incrementality in ROI</h3>
+<h3><a href="/glossary/attribution/">Attribution</a> vs. incrementality in ROI</h3>
 <p><a href="/glossary/attribution">Attribution</a> assigns credit to observed touchpoints.</p>
 <p>Incrementality asks what additional outcome occurred because of the investment.</p>
 <p>A creator campaign may receive attributed sales from customers who already intended to buy. Conversely, it may create future awareness and demand that a last-click report gives to another channel.</p>

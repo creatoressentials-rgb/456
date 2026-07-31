@@ -12,9 +12,9 @@ related_terms:
   - youtube-studio
 ---
 
-<h2>YouTube CPM</h2>
+<h2>YouTube <a href="/glossary/cost-per-mille-cpm/">CPM</a></h2>
 
-<h2>What Is YouTube CPM?</h2>
+<h2>What Is YouTube <a href="/glossary/playback-based-cpm/">CPM</a>?</h2>
 
 <p>YouTube CPM, or Cost Per Mille, is a metric that measures how much advertisers pay for every 1,000 ad views on your videos. It’s a vital concept for YouTube creators because it directly impacts how much revenue you can earn through ads on your channel.</p>
 
@@ -25,11 +25,11 @@ related_terms:
 <p>If an advertiser pays $20 for 1,000 ad impressions, your CPM is $20.</p>
 </li>
 <li>
-<p>Keep in mind that YouTube keeps 45% of this amount, leaving you with 55% of the ad revenue.</p>
+<p>Keep in mind that YouTube keeps 45% of this amount, leaving you with 55% of the <a href="/glossary/ad-revenue/">ad revenue</a>.</p>
 </li>
 </ul>
 
-<p>CPM varies based on factors like your content’s niche, audience location, video type, and even the time of year. For instance, niches like finance and digital marketing typically have much higher CPMs than entertainment or music.</p>
+<p>CPM varies based on factors like your content’s <a href="/glossary/niche/">niche</a>, audience location, video type, and even the time of year. For instance, niches like finance and digital marketing typically have much higher CPMs than entertainment or music.</p>
 
 <h2>How to Calculate YouTube CPM</h2>
 
@@ -52,7 +52,7 @@ related_terms:
 
 <p>It’s important to note that not all views on your channel generate revenue. Factors like ad blockers, viewer location, and content eligibility can reduce the number of monetized views.</p>
 
-<h2>YouTube CPM vs RPM: What’s The Difference?</h2>
+<h2>YouTube CPM vs <a href="/glossary/youtube-rpm/">RPM</a>: What’s The Difference?</h2>
 
 <p>While CPM is all about the cost advertisers pay for 1,000 ad views, RPM (Revenue Per Mille) reflects the actual revenue you earn for every 1,000 views on your channel. Think of it this way:</p>
 

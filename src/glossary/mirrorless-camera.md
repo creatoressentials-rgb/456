@@ -51,7 +51,7 @@ related_terms:
 <tr>
   <td>Exposure preview</td>
   <td>Usually visible before capture</td>
-  <td>Optical viewfinder does not normally preview recorded brightness or white balance</td>
+  <td>Optical viewfinder does not normally preview recorded brightness or <a href="/glossary/white-balance/">white balance</a></td>
 </tr>
 <tr>
   <td>Video autofocus</td>
@@ -137,7 +137,7 @@ related_terms:
 <li>Articulating screens for self-recording.</li>
 <li>Microphone and headphone connections.</li>
 <li>Clean HDMI or USB streaming.</li>
-<li>Waveforms, zebras, focus peaking, false color, or LUT previews.</li>
+<li>Waveforms, zebras, focus peaking, false color, or <a href="/glossary/lut/">LUT</a> previews.</li>
 <li>Vertical-video metadata and creator-oriented shooting modes.</li>
 </ul>
 <p>Feature names can sound similar while behaving very differently. Check crop factors, overheating limits, autofocus availability, bit depth, recording duration, and whether the advertised resolution uses the full sensor width.</p>
@@ -296,4 +296,4 @@ related_terms:
 <h4>Does a mirrorless camera always have an electronic viewfinder?</h4>
 <p>No. Some models include an EVF and rear screen, while others use only the rear display. Check the specific body before buying.</p>
 <h4>Can a mirrorless camera livestream?</h4>
-<p>Many can output clean HDMI or work as USB webcams, but support differs by model. Confirm output resolution, overlays, power behavior, heat performance, autofocus, and whether a capture card or manufacturer utility is required.</p>
+<p>Many can output clean HDMI or work as USB <a href="/glossary/webcams/">webcams</a>, but support differs by model. Confirm output resolution, overlays, power behavior, heat performance, autofocus, and whether a capture card or manufacturer utility is required.</p>

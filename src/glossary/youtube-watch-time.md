@@ -20,7 +20,7 @@ related_terms:
 
 <p>In simple terms, Watch Time accounts for every minute a viewer spends watching a video. This includes watching a video from start to finish, any rewatches, or even partial views. It’s the cumulative time that all viewers have spent on a video, giving content creators and YouTube itself a comprehensive view of a video's engagement level.</p>
 
-<h2>Watch Time vs. Audience Retention: What's the Difference?</h2>
+<h2>Watch Time vs. Audience <a href="/glossary/retention/">Retention</a>: What's the Difference?</h2>
 
 <p>While often mentioned in the same breath, Watch Time and Audience Retention are distinct metrics. Watch Time focuses on the total accumulated time spent by viewers on a video. In contrast, Audience Retention measures the percentage of a video watched by viewers. Audience Retention gives insight into how much of your video, on average, viewers are watching, while Watch Time indicates the total amount of time viewers have spent with your content.</p>
 
@@ -42,7 +42,7 @@ related_terms:
 
 <h3>YouTube's Preference for Longer Viewing Sessions</h3>
 
-<p>YouTube's algorithm favors videos that contribute to longer overall viewing sessions. This is because YouTube aims to keep users on the platform as long as possible, which in turn increases the potential for ad revenue. Therefore, videos that contribute to longer viewing sessions are likely to be promoted more by YouTube's algorithm, making Watch Time an essential metric for creators aiming for higher visibility and success on the platform.</p>
+<p>YouTube's algorithm favors videos that contribute to longer overall viewing sessions. This is because YouTube aims to keep users on the platform as long as possible, which in turn increases the potential for <a href="/glossary/ad-revenue/">ad revenue</a>. Therefore, videos that contribute to longer viewing sessions are likely to be promoted more by YouTube's algorithm, making Watch Time an essential metric for creators aiming for higher visibility and success on the platform.</p>
 
 <p>Understanding and optimizing for Watch Time is not just about ensuring viewers watch a video in its entirety, but also about contributing to the larger goal of keeping viewers engaged on the platform for extended periods. This approach aligns with YouTube's objectives and can significantly benefit creators in terms of content reach and audience growth.</p>
 
@@ -79,7 +79,7 @@ related_terms:
 <p>Understanding Audience Behavior: Identify when viewers tend to drop off and adjust your content accordingly. Tailoring content to audience preferences can significantly boost Watch Time.</p>
 </li>
 <li>
-<p>Optimizing Video Length: Experiment with different video lengths to see what works best for your audience. Sometimes longer videos result in more total Watch Time, but this can vary by niche and content type.</p>
+<p>Optimizing Video Length: Experiment with different video lengths to see what works best for your audience. Sometimes longer videos result in more total Watch Time, but this can vary by <a href="/glossary/niche/">niche</a> and content type.</p>
 </li>
 </ul>
 

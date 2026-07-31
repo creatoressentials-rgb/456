@@ -39,7 +39,7 @@ related_terms:
   <td><a href="/glossary/encoding/">Encoding</a></td>
   <td>Raw or rendered frames and audio</td>
   <td>An encoded media file</td>
-  <td>Exporting an edited timeline to H.264</td>
+  <td>Exporting an edited <a href="/glossary/timeline/">timeline</a> to H.264</td>
 </tr>
 <tr>
   <td>Transcoding</td>
@@ -101,7 +101,7 @@ related_terms:
 <li>Number of repeated generations.</li>
 <li>Content complexity, grain, motion, and fine texture.</li>
 </ul>
-<p>A high-quality intermediate transcode may look visually indistinguishable in normal use, but it cannot improve the captured detail or dynamic range beyond the source. Some processing such as denoising or upscaling may create a more pleasing image, yet that is not the same as restoring original information.</p>
+<p>A high-quality intermediate transcode may look visually indistinguishable in normal use, but it cannot improve the captured detail or <a href="/glossary/dynamic-range/">dynamic range</a> beyond the source. Some processing such as denoising or upscaling may create a more pleasing image, yet that is not the same as restoring original information.</p>
 <p>Lossless codecs can avoid compression loss, but changes such as scaling or frame conversion still alter the pixels.</p>
 <h3>Does transcoding always make files smaller?</h3>
 <p>No. An editing-friendly ProRes or DNxHR transcode can be much larger than the H.264 or HEVC source. A high-bitrate archival output may also grow.</p>

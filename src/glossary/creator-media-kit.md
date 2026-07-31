@@ -14,15 +14,15 @@ related_terms:
 ---
 
 <h2>Creator Media Kit</h2>
-<p>A <strong>creator media kit</strong> is a concise document or web page that introduces a content creator to prospective brand partners. It summarizes the creator’s positioning, audience, channels, performance, services, past work, and contact information so a brand can quickly evaluate partnership fit.</p>
+<p>A <strong>creator media kit</strong> is a concise document or web page that introduces a <a href="/glossary/content-creator/">content creator</a> to prospective brand partners. It summarizes the creator’s positioning, audience, channels, performance, services, past work, and contact information so a brand can quickly evaluate partnership fit.</p>
 <p>It functions like a combination of a sales brochure, professional profile, and evidence packet. A strong kit does more than list followers: it explains <strong>who the creator reaches, what the creator makes, how the audience responds, and what a partner can buy</strong>.</p>
-<p>Creators may also call it an <strong>influencer media kit</strong>, <strong>sponsorship deck</strong>, <strong>partnership deck</strong>, or <strong>creator one-sheet</strong>.</p>
+<p>Creators may also call it an <strong>influencer media kit</strong>, <strong><a href="/glossary/sponsorship/">sponsorship</a> deck</strong>, <strong>partnership deck</strong>, or <strong>creator one-sheet</strong>.</p>
 <h3>What to include in a creator media kit</h3>
 <h4>Creator introduction</h4>
 <p>Open with a short positioning statement that explains:</p>
 <ul>
 <li>Creator or channel name</li>
-<li>Content niche and point of view</li>
+<li>Content <a href="/glossary/niche/">niche</a> and point of view</li>
 <li>Main platforms</li>
 <li>Audience promise</li>
 <li>Location or market when relevant</li>
@@ -49,10 +49,10 @@ related_terms:
 <ul>
 <li>Typical or median views for comparable recent content</li>
 <li>Average views within a defined period</li>
-<li>Watch time or average view duration</li>
-<li>Audience retention highlights</li>
+<li>Watch time or <a href="/glossary/average-view-duration/">average view duration</a></li>
+<li>Audience <a href="/glossary/retention/">retention</a> highlights</li>
 <li>Engagement counts or rate</li>
-<li>Click-through rate when available and meaningful</li>
+<li><a href="/glossary/click-through-rate/">Click-through rate</a> when available and meaningful</li>
 <li>Livestream concurrency</li>
 <li>Newsletter opens or podcast downloads</li>
 <li>Conversion, affiliate, or code-use results from past campaigns</li>
@@ -69,8 +69,8 @@ related_terms:
 <li>Livestream examples</li>
 <li><a href="/glossary/voice-over/">Voice-over</a>, animation, or <a href="/glossary/motion-graphics/">motion graphics</a> capabilities</li>
 </ul>
-<p>Choose examples that match the type of partnership being pitched. A viral comedy Short may not prove the creator can produce a technical long-form integration.</p>
-<h4>Services and deliverables</h4>
+<p>Choose examples that match the type of partnership being pitched. A <a href="/glossary/viral/">viral</a> comedy Short may not prove the creator can produce a technical long-form integration.</p>
+<h4>Services and <a href="/glossary/deliverables/">deliverables</a></h4>
 <p>Explain what brands can hire the creator to do, such as:</p>
 <ul>
 <li>Integrated YouTube sponsorships</li>
@@ -81,7 +81,7 @@ related_terms:
 <li>Voice-over and demonstrations</li>
 <li>Event appearances</li>
 <li>Consulting or concept development</li>
-<li>Content licensing</li>
+<li><a href="/glossary/content-licensing/">Content licensing</a></li>
 <li>Paid-ad usage</li>
 <li>Affiliate partnerships</li>
 </ul>
@@ -128,12 +128,12 @@ related_terms:
   <td>Concept, brand fit, deliverables, expected outcome</td>
 </tr>
 <tr>
-  <td>Campaign brief</td>
+  <td><a href="/glossary/campaign-brief/">Campaign brief</a></td>
   <td>Explain the brand’s campaign plan</td>
   <td>Objective, audience, deliverables, dates, KPIs</td>
 </tr>
 <tr>
-  <td>Creative brief</td>
+  <td><a href="/glossary/creative-brief/">Creative brief</a></td>
   <td>Guide the content execution</td>
   <td>Message, tone, required elements, references, CTA</td>
 </tr>
@@ -155,12 +155,12 @@ related_terms:
 <li>Make the public kit easier to update</li>
 <li>Support different rates for agencies, small businesses, licensing, and paid media</li>
 </ul>
-<p>Many creators use “packages starting at” language or send a separate rate card after learning the campaign scope. A <a href="/glossary/brand-deal/">brand deal</a> should be priced based on workload, expected performance, usage rights, exclusivity, revisions, and risk—not only follower count.</p>
+<p>Many creators use “packages starting at” language or send a separate rate card after learning the campaign scope. A <a href="/glossary/brand-deal/">brand deal</a> should be priced based on workload, expected performance, <a href="/glossary/usage-rights/">usage rights</a>, exclusivity, revisions, and risk—not only follower count.</p>
 <h3>Which metrics belong in a media kit?</h3>
 <p>Prioritize metrics that help a brand predict the proposed campaign.</p>
 <p>For a long-form YouTube integration, typical views, watch time, retention, audience geography, and prior sponsor results may matter more than total subscribers. For a livestream, <a href="/glossary/peak-concurrent-viewers/">peak concurrent viewers</a> and average concurrency may be relevant. For affiliate content, tracked clicks and conversions can be valuable when disclosure is permitted.</p>
 <p>Use honest summaries rather than cherry-picking one viral result. A clear method builds more trust than an inflated number.</p>
-<h3>Engagement rate is not one universal metric</h3>
+<h3><a href="/glossary/engagement-rate/">Engagement rate</a> is not one universal metric</h3>
 <p>“Engagement rate” may be calculated using followers, impressions, reach, views, or another denominator. It may include likes and comments only or add shares, saves, clicks, and other interactions.</p>
 <p>A media kit should state the formula or avoid presenting an unexplained percentage. For example:</p>
 <blockquote>
@@ -203,7 +203,7 @@ related_terms:
 <li>Keep claims accurate and verifiable.</li>
 <li>Make the contact action obvious.</li>
 </ol>
-<p>A media kit supports outreach; it does not replace a thoughtful pitch explaining why the specific brand and audience fit each other.</p>
+<p>A media kit supports outreach; it does not replace a thoughtful pitch explaining why the specific brand and <a href="/glossary/audience-fit/">audience fit</a> each other.</p>
 <h3>Common creator media-kit mistakes</h3>
 <ul>
 <li><strong>Listing subscribers without typical views:</strong> The brand cannot estimate likely reach.</li>

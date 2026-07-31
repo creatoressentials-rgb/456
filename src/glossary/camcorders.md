@@ -19,7 +19,7 @@ related_terms:
 <p>A camcorder is an all-in-one device that combines a video camera, recorder, and playback system, making it a versatile tool for capturing video content. Unlike early setups where cameras and recorders were separate devices connected by cables, camcorders revolutionized video recording by integrating these functions into a single, portable unit.</p>
 
 <p><br>
-Modern camcorders record digitally onto memory cards, hard drives, or SSDs, and many feature advanced capabilities like high-definition (HD) and 4K recording, optical zoom, and image stabilization. For content creators, vloggers, and YouTubers, a camcorder offers high-quality video capture and extended recording times that surpass what most smartphones or webcams can deliver.</p>
+Modern camcorders record digitally onto memory cards, hard drives, or SSDs, and many feature advanced capabilities like high-definition (HD) and 4K recording, optical zoom, and image stabilization. For content creators, vloggers, and YouTubers, a camcorder offers high-quality video capture and extended recording times that surpass what most smartphones or <a href="/glossary/webcams/">webcams</a> can deliver.</p>
 
 <h2>Camcorders vs. Video Cameras</h2>
 

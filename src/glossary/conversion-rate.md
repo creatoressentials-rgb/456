@@ -81,7 +81,7 @@ permalink: /glossary/conversion-rate/
 <ul>
 <li>Conversions recorded under the selected conversion settings</li>
 <li>Ad interactions that can be tracked to a conversion</li>
-<li>The applicable attribution and conversion-window rules</li>
+<li>The applicable <a href="/glossary/attribution/">attribution</a> and conversion-window rules</li>
 </ul>
 <p>An interaction can be a click or another qualifying ad interaction, depending on the ad format.</p>
 <h3>Can conversion rate exceed 100%?</h3>
@@ -99,7 +99,7 @@ permalink: /glossary/conversion-rate/
 <li>Reported conversion rate: 140%</li>
 </ul>
 <p>That result is not automatically a tracking error. It may be correct for a repeatable action such as purchases, while a lead form may be better configured to count one conversion per interaction.</p>
-<h3>Conversion rate vs. click-through rate</h3>
+<h3>Conversion rate vs. <a href="/glossary/click-through-rate/">click-through rate</a></h3>
 <table>
 <thead>
 <tr>
@@ -127,11 +127,11 @@ permalink: /glossary/conversion-rate/
 </tbody>
 </table>
 <p>A video can have a strong click-through rate and weak conversion rate when the landing page, price, product, or checkout fails to persuade visitors.</p>
-<h3>Conversion rate vs. engagement rate</h3>
+<h3>Conversion rate vs. <a href="/glossary/engagement-rate/">engagement rate</a></h3>
 <p>An engagement can include a watch, expansion, interaction, comment, or another platform-defined action.</p>
 <p>A conversion represents a business outcome chosen by the advertiser or creator.</p>
 <p>A campaign can generate high engagement without producing sales. See <a href="/glossary/cost-per-engagement">Cost per Engagement</a> for the related efficiency metric.</p>
-<h3>Conversion rate and conversion tracking</h3>
+<h3>Conversion rate and <a href="/glossary/conversion-tracking/">conversion tracking</a></h3>
 <p>A conversion rate is only as reliable as the underlying <a href="/glossary/conversion-tracking">conversion tracking</a>.</p>
 <p>Tracking problems can include:</p>
 <ul>
@@ -152,7 +152,7 @@ permalink: /glossary/conversion-rate/
 <p>For an <a href="/glossary/affiliate-program">affiliate program</a>, the creator might calculate:</p>
 <p><strong>Approved affiliate sales ÷ tracked affiliate clicks × 100</strong></p>
 <p>Use approved rather than initial orders when returns and reversals are significant.</p>
-<p>The network may use a different rate based on:</p>
+<p>The <a href="/glossary/dropped-frames/">network</a> may use a different rate based on:</p>
 <ul>
 <li>Unique clicks</li>
 <li>Total clicks</li>
@@ -194,7 +194,7 @@ permalink: /glossary/conversion-rate/
 <p>A creator may influence a purchase but receive no tracked conversion when the customer later:</p>
 <ul>
 <li>Searches the brand</li>
-<li>Uses another affiliate link</li>
+<li>Uses another <a href="/glossary/affiliate-link/">affiliate link</a></li>
 <li>Purchases on another device</li>
 <li>Uses a public coupon</li>
 <li>Buys offline</li>

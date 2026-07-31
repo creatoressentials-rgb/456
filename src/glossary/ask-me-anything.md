@@ -37,7 +37,7 @@ permalink: /glossary/ask-me-anything/
 
 <h2>Why YouTubers Should Consider Doing AMA's</h2>
 
-<p>Ask Me Anything's are a great way to grow a loyal subscriber base and grow a YouTube channel. Here are some reasons why YouTube Creators should consider doing them:</p>
+<p>Ask Me Anything's are a great way to grow a loyal subscriber base and grow a <a href="/glossary/youtube-channel/">YouTube channel</a>. Here are some reasons why YouTube Creators should consider doing them:</p>
 <ul>
 <li>
 <p>Expertise Sharing: If a YouTuber has specific knowledge or skills, an AMA is an excellent platform for sharing this expertise.</p>

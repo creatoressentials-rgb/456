@@ -17,7 +17,7 @@ related_terms:
 ---
 
 <h2>YouTube Create</h2>
-<p><strong>YouTube Create</strong> is YouTube's standalone, free mobile video editing app for creators. It's a separate download from both the main YouTube app and the YouTube Studio app, built specifically for editing footage into Shorts or long-form videos — with templates, filters, transitions, automatic captions, voiceover recording, a royalty-free music library, and a growing set of generative AI tools — then publishing straight to a YouTube channel.</p>
+<p><strong>YouTube Create</strong> is YouTube's standalone, free mobile video editing app for creators. It's a separate download from both the main YouTube app and the <a href="/glossary/youtube-studio/">YouTube Studio</a> app, built specifically for editing footage into Shorts or long-form videos — with templates, filters, transitions, automatic captions, voiceover recording, a <a href="/glossary/royalty-free-music/">royalty-free music</a> library, and a growing set of generative AI tools — then publishing straight to a <a href="/glossary/youtube-channel/">YouTube channel</a>.</p>
 <p>It launched in beta on Android in September 2023 and expanded to iPhone on <strong>December 15, 2025</strong>, so it's now genuinely cross-platform. If you've seen older articles calling it "Android-only," that's out of date.</p>
 
 <h3>What Is YouTube Create?</h3>
@@ -93,7 +93,7 @@ related_terms:
 </tr>
 <tr>
 <td>Voiceover</td>
-<td>In-app microphone recording added as its own timeline track</td>
+<td>In-app microphone recording added as its own <a href="/glossary/timeline/">timeline</a> track</td>
 </tr>
 <tr>
 <td>Audio cleanup</td>
@@ -101,14 +101,14 @@ related_terms:
 </tr>
 <tr>
 <td>Background removal</td>
-<td>"Cut out" effect removes video backgrounds without a physical green screen</td>
+<td>"Cut out" effect removes video backgrounds without a physical <a href="/glossary/green-screen/">green screen</a></td>
 </tr>
 <tr>
 <td>Music &amp; sound effects</td>
 <td>Royalty-free tracks and SFX from YouTube's library, with beat-matching to sync cuts to music (see also the <a href="/glossary/youtube-audio-library/">YouTube Audio Library</a>)</td>
 </tr>
 <tr>
-<td>Aspect ratio switching</td>
+<td><a href="/glossary/aspect-ratio/">Aspect ratio</a> switching</td>
 <td>Landscape (16:9), portrait/Shorts (9:16), and square (1:1)</td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ related_terms:
 <p>YouTube Create is Google's answer to ByteDance's CapCut, but the two aren't evenly matched yet:</p>
 <ul>
 <li><strong>Ease and integration</strong>: YouTube Create is simpler and publishes straight into your YouTube channel with no export/import step. CapCut offers deeper editing control, a script-to-video generator, and cross-platform (mobile + desktop) editing.</li>
-<li><strong>Scale</strong>: Independent data reported by TechCrunch (via Sensor Tower, Q2 2025) shows CapCut with well over 400 million monthly active Android users versus fewer than 1 million for YouTube Create, and roughly 10x the 90-day user retention.</li>
+<li><strong>Scale</strong>: Independent data reported by TechCrunch (via Sensor Tower, Q2 2025) shows CapCut with well over 400 million monthly active Android users versus fewer than 1 million for YouTube Create, and roughly 10x the 90-day user <a href="/glossary/retention/">retention</a>.</li>
 <li><strong>Momentum</strong>: YouTube Create's user base grew faster year-over-year (+28%) than CapCut's (+9%) in the same period, suggesting it's gaining ground even from a small base — likely helped by the December 2025 iOS launch.</li>
 <li><strong>Music licensing</strong>: Both apps offer YouTube-safe royalty-free music, but content built from YouTube's own Audio Library inside YouTube Create carries less risk of a <a href="/glossary/copyright-claim/">copyright claim</a> or <a href="/glossary/content-id/">Content ID</a> match than pulling in outside audio, since the tracks are pre-cleared for YouTube use.</li>
 </ul>

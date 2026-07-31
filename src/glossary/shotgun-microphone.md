@@ -152,7 +152,7 @@ related_terms:
 </thead>
 <tbody>
 <tr>
-  <td>Professional XLR shotgun</td>
+  <td>Professional <a href="/glossary/xlr/">XLR</a> shotgun</td>
   <td>Balanced three-pin XLR</td>
   <td>Often <a href="/glossary/phantom-power/">phantom power</a>, sometimes battery</td>
 </tr>

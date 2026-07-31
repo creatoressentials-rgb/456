@@ -51,7 +51,7 @@ related_terms:
 
 <p>For YouTube creators, dynamic microphones are a reliable option for everything from recording commentary to capturing live performances, ensuring professional sound quality without breaking the bank.</p>
 
-<h2>Dynamic Microphones vs. Condenser Microphones</h2>
+<h2>Dynamic Microphones vs. <a href="/glossary/condenser-microphones/">Condenser Microphones</a></h2>
 
 <p>Understanding the difference between dynamic microphones and condenser microphones can help you choose the best tool for your content creation needs:</p>
 
@@ -62,7 +62,7 @@ Dynamic microphones are built to withstand rough handling and challenging enviro
 </li>
 <li>
 <p>Power Requirement<br>
-Dynamic microphones do not require external power, which makes them convenient and reliable in various situations. Condenser microphones, however, need phantom power from a mixer or audio interface to function.</p>
+Dynamic microphones do not require external power, which makes them convenient and reliable in various situations. Condenser microphones, however, need <a href="/glossary/phantom-power/">phantom power</a> from a mixer or <a href="/glossary/audio-interface/">audio interface</a> to function.</p>
 </li>
 <li>
 <p>Sound Sensitivity<br>

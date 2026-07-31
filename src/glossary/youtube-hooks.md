@@ -19,7 +19,7 @@ related_terms:
 <p>A hook on YouTube is the opening segment of a video designed to grab a viewer’s attention within the first few seconds. Given the short average attention span of viewers—just eight seconds—a well-crafted hook is crucial for retaining their interest and encouraging them to watch the video in its entirety.</p>
 
 <p><br>
-A strong hook not only captures attention but also sets the tone for the video, aligning with the viewer’s interests, emotions, or needs. Whether it’s a surprising fact, a question, or a bold statement, a YouTube hook helps improve engagement metrics such as watch time, click-through rates, and audience retention, making it an essential tool for growing your channel.</p>
+A strong hook not only captures attention but also sets the tone for the video, aligning with the viewer’s interests, emotions, or needs. Whether it’s a surprising fact, a question, or a bold statement, a YouTube hook helps improve engagement metrics such as watch time, click-through rates, and audience <a href="/glossary/retention/">retention</a>, making it an essential tool for growing your channel.</p>
 
 <h2>Tips for Creating Powerful Hooks on YouTube (+ Examples)</h2>
 
@@ -96,7 +96,7 @@ A strong hook not only captures attention but also sets the tone for the video, 
 
 <ul>
 <li>
-<p>Use dynamic visuals, such as fast-moving clips or motion graphics, to draw attention.</p>
+<p>Use dynamic visuals, such as fast-moving clips or <a href="/glossary/motion-graphics/">motion graphics</a>, to draw attention.</p>
 </li>
 <li>
 <p>Example: An animated countdown leading to the main content.​</p>
@@ -112,7 +112,7 @@ A strong hook not only captures attention but also sets the tone for the video, 
 <p>Speak directly to a challenge your audience faces, showing empathy and promising a solution.</p>
 </li>
 <li>
-<p>Example: "Tired of spending hours editing your thumbnails? Here’s how to create stunning ones in minutes."​</p>
+<p>Example: "Tired of spending hours editing your <a href="/glossary/youtube-thumbnails/">thumbnails</a>? Here’s how to create stunning ones in minutes."​</p>
 </li>
 </ul>
 

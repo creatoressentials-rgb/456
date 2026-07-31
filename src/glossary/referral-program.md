@@ -54,7 +54,7 @@ permalink: /glossary/referral-program/
 <p>The participant receives a larger or different reward after reaching several successful referrals.</p>
 <h4>Milestone or ambassador reward</h4>
 <p>High-performing referrers can unlock status, early access, products, events, or a transition into a formal <a href="/glossary/affiliate-program">affiliate program</a>.</p>
-<h3>Referral program vs. affiliate program</h3>
+<h3>Referral program vs. <a href="/glossary/affiliate-program/">affiliate program</a></h3>
 <table>
 <thead>
 <tr>
@@ -85,7 +85,7 @@ permalink: /glossary/referral-program/
 </tr>
 <tr>
   <td>Program can be simple and short-term</td>
-  <td>Detailed attribution and publisher rules are common</td>
+  <td>Detailed <a href="/glossary/attribution/">attribution</a> and publisher rules are common</td>
 </tr>
 </tbody>
 </table>
@@ -247,10 +247,10 @@ permalink: /glossary/referral-program/
 </div>
 
 <h3>Frequently asked questions</h3>
-<h4>Is a referral program the same as affiliate marketing?</h4>
+<h4>Is a referral program the same as <a href="/glossary/affiliate-marketing/">affiliate marketing</a>?</h4>
 <p>Not always. Referral programs commonly reward existing customers for personal introductions. Affiliate marketing commonly pays creators or publishers for ongoing commercial promotion. Some programs combine both models.</p>
 <h4>Does sharing a referral link guarantee a reward?</h4>
-<p>No. The referred person normally must satisfy eligibility, activation, purchase, or retention requirements.</p>
+<p>No. The referred person normally must satisfy eligibility, activation, purchase, or <a href="/glossary/retention/">retention</a> requirements.</p>
 <h4>Do referral rewards need disclosure?</h4>
 <p>They can when someone publicly recommends a product and receives a benefit for successful referrals. Clear disclosure helps viewers understand the incentive.</p>
 <h4>Can creators run their own referral program?</h4>

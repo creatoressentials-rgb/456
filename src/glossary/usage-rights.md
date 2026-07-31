@@ -50,7 +50,7 @@ permalink: /glossary/usage-rights/
 <li>Email campaigns</li>
 </ul>
 <p>A product-page endorsement can remain commercially active long after the creator's original post, so term and update obligations matter.</p>
-<h4>Paid usage</h4>
+<h4><a href="/glossary/paid-usage/">Paid usage</a></h4>
 <p>The brand may use the content in advertising. See <a href="/glossary/paid-usage">paid usage</a>.</p>
 <p>Paid use can include:</p>
 <ul>
@@ -116,7 +116,7 @@ permalink: /glossary/usage-rights/
   <td>Restriction on conflicting activity or rights</td>
 </tr>
 <tr>
-  <td>Work made for hire</td>
+  <td><a href="/glossary/work-made-for-hire/">Work made for hire</a></td>
   <td>Authorship and ownership rule for qualifying work</td>
 </tr>
 </tbody>

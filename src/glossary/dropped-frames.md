@@ -11,14 +11,14 @@ related_terms:
 ---
 
 <h2>Dropped Frames</h2>
-<p><strong>Dropped frames</strong> are video frames that a live-streaming encoder cannot successfully send to the platform's ingest server. In OBS Studio, the "Dropped Frames (Network)" counter usually indicates that the connection is unstable or cannot consistently support the selected video bitrate.</p>
+<p><strong>Dropped frames</strong> are video frames that a live-streaming encoder cannot successfully send to the platform's ingest server. In OBS Studio, the "Dropped Frames (Network)" counter usually indicates that the connection is unstable or cannot consistently support the selected <a href="/glossary/video-bitrate/">video bitrate</a>.</p>
 <p>When enough frames are dropped, viewers may see stuttering, freezes, missing motion, quality changes, buffering, or a disconnected stream.</p>
 
 <h3>What happens when a frame is dropped?</h3>
-<p>A live encoder captures, renders, compresses, and transmits a continuous sequence of video frames. If the connection cannot send data quickly enough, the encoder may discard some already encoded frames so it can continue trying to deliver the live feed without falling increasingly behind.</p>
+<p>A <a href="/glossary/live-encoder/">live encoder</a> captures, renders, compresses, and transmits a continuous sequence of video frames. If the connection cannot send data quickly enough, the encoder may discard some already encoded frames so it can continue trying to deliver the live feed without falling increasingly behind.</p>
 <p>A small isolated network interruption may be difficult for viewers to notice. Sustained or rapidly increasing dropped-frame counts can make the stream visibly choppy or cause the encoder to disconnect from YouTube.</p>
 
-<h3>Dropped frames vs. rendering and encoding lag</h3>
+<h3>Dropped frames vs. <a href="/glossary/rendering/">rendering</a> and <a href="/glossary/encoding/">encoding</a> lag</h3>
 <p>"Dropped frames" is often used loosely, but OBS separates three different kinds of frame loss:</p>
 <table>
 <thead><tr><th>OBS diagnostic</th><th>Typical cause</th><th>What failed</th></tr></thead>
@@ -32,7 +32,7 @@ related_terms:
 
 <h3>Are dropped frames a YouTube Analytics metric?</h3>
 <p>No. Dropped frames are primarily an encoder or broadcast-health diagnostic, not a standard audience metric like <a href="/glossary/concurrent-viewers/">Concurrent Viewers</a> or watch time.</p>
-<p>In <a href="/glossary/live-control-room/">Live Control Room</a>, YouTube monitors the feed it receives and displays stream-health warnings. Those warnings can identify problems such as unsupported codecs, incorrect bitrate, mismatched resolution, excessive frame rate, or improper keyframe frequency. The encoder may separately show its own dropped-frame counter.</p>
+<p>In <a href="/glossary/live-control-room/">Live Control Room</a>, YouTube monitors the feed it receives and displays stream-health warnings. Those warnings can identify problems such as unsupported codecs, incorrect bitrate, mismatched resolution, excessive <a href="/glossary/frame-rate-fps/">frame rate</a>, or improper keyframe frequency. The encoder may separately show its own dropped-frame counter.</p>
 
 <h3>Common causes of network-dropped frames</h3>
 <ul>
@@ -69,9 +69,9 @@ related_terms:
 <p>YouTube's current live-encoder guidance includes:</p>
 <ul>
 <li>Choose resolution, frame rate, and bitrate that the connection can reliably support.</li>
-<li>Use a supported video codec such as H.264, H.265, or AV1 where applicable.</li>
+<li>Use a supported <a href="/glossary/video-codec/">video codec</a> such as H.264, H.265, or AV1 where applicable.</li>
 <li>Use constant bitrate encoding.</li>
-<li>Send keyframes every two seconds and do not exceed four seconds.</li>
+<li>Send <a href="/glossary/keyframes/">keyframes</a> every two seconds and do not exceed four seconds.</li>
 <li>Test audio and movement before the event.</li>
 <li>Monitor stream-health messages during the broadcast.</li>
 </ul>

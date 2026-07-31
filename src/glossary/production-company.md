@@ -12,7 +12,7 @@ permalink: /glossary/production-company/
 <ul>
 <li>YouTube videos</li>
 <li>Commercials</li>
-<li>Sponsored content</li>
+<li><a href="/glossary/sponsored-content/">Sponsored content</a></li>
 <li>Films</li>
 <li>Television</li>
 <li>Podcasts</li>
@@ -63,7 +63,7 @@ permalink: /glossary/production-company/
 <li>Editing</li>
 <li>Color</li>
 <li>Sound mix</li>
-<li>Motion graphics</li>
+<li><a href="/glossary/motion-graphics/">Motion graphics</a></li>
 <li>Captions</li>
 <li>Music</li>
 <li>Versions</li>
@@ -159,7 +159,7 @@ permalink: /glossary/production-company/
 <li>Revisions</li>
 </ul>
 <p>Creators should ask whether the quote is fixed, estimated, cost-plus, or subject to overages.</p>
-<h3>Ownership and work made for hire</h3>
+<h3>Ownership and <a href="/glossary/work-made-for-hire/">work made for hire</a></h3>
 <p>Paying a production company does not automatically answer copyright ownership.</p>
 <p>The agreement should address:</p>
 <ul>
@@ -185,7 +185,7 @@ permalink: /glossary/production-company/
 <li>Storage media</li>
 <li>Organization</li>
 <li>Transfer timing</li>
-<li>Retention period</li>
+<li><a href="/glossary/retention/">Retention</a> period</li>
 <li>Fee</li>
 <li>License</li>
 </ul>
@@ -194,9 +194,9 @@ permalink: /glossary/production-company/
 <p>A brand or creator can hire a production company to make:</p>
 <ul>
 <li>UGC-style ad assets</li>
-<li>Dedicated sponsored video</li>
+<li>Dedicated <a href="/glossary/sponsored-video/">sponsored video</a></li>
 <li>Product photography</li>
-<li>Partnership ads</li>
+<li><a href="/glossary/partnership-ads/">Partnership ads</a></li>
 <li>Brand-account content</li>
 <li>Creator-owned series</li>
 <li>Livestream</li>
@@ -255,4 +255,4 @@ permalink: /glossary/production-company/
 <h4>Do production companies provide equipment?</h4>
 <p>Many do, directly or through rentals, but the quote should identify equipment and related costs.</p>
 <h4>Should raw files be included?</h4>
-<p>Only when the scope says so. Raw footage and project files are separate deliverables with storage, transfer, and rights implications.</p>
+<p>Only when the scope says so. Raw footage and project files are separate <a href="/glossary/deliverables/">deliverables</a> with storage, transfer, and rights implications.</p>

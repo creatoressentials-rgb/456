@@ -5,7 +5,7 @@ layout: layouts/base.njk
   <div class="container">
     <span class="eyebrow" style="color:var(--red)">{{ tags[0] if tags else "Blog" }}</span>
     <h1>{{ title }}</h1>
-    <p>By {{ author or "Rob Miller" }} &nbsp;·&nbsp; <time datetime="{{ page.date | dateISO }}">{{ page.date | dateDisplay }}</time></p>
+    <p>By {{ author or "Rob Miller, EA" }} &nbsp;·&nbsp; <time datetime="{{ page.date | dateISO }}">{{ page.date | dateDisplay }}</time></p>
   </div>
 </section>
 

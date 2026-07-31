@@ -9,7 +9,7 @@ permalink: /glossary/ftc-sponsorship-disclosure/
 <h2>FTC Sponsorship Disclosure</h2>
 <p>An <strong>FTC sponsorship disclosure</strong> is a clear and conspicuous explanation of a creator's material connection to a brand when that connection could affect how U.S. consumers evaluate an endorsement.</p>
 <p>The phrase does not refer to a form that creators submit to the Federal Trade Commission. It describes disclosure practices under the FTC's truth-in-advertising framework and its <strong>Endorsement Guides</strong>, which explain how the FTC Act applies to endorsements, testimonials, reviews, and influencer marketing.</p>
-<p>The FTC revised the Endorsement Guides in 2023. The update added more guidance about social-media tags, virtual influencers, platform disclosure tools, advertiser and intermediary responsibility, and what “clear and conspicuous” means.</p>
+<p>The FTC revised the Endorsement Guides in 2023. The update added more guidance about social-media tags, virtual <a href="/glossary/influencers/">influencers</a>, platform disclosure tools, advertiser and intermediary responsibility, and what “clear and conspicuous” means.</p>
 <h3>What is a material connection?</h3>
 <p>A material connection is a relationship between the creator and advertiser that viewers might consider important when evaluating the creator's message. It can include:</p>
 <ul>
@@ -65,9 +65,9 @@ permalink: /glossary/ftc-sponsorship-disclosure/
 <li>“SP,” “Spon,” or other shorthand</li>
 <li>“Endorsement”</li>
 <li>“Commissionable link”</li>
-<li>“Affiliate link” without explaining the financial relationship</li>
+<li>“<a href="/glossary/affiliate-link/">Affiliate link</a>” without explaining the financial relationship</li>
 <li>A brand-specific hashtag in which “ad” is difficult to notice</li>
-<li>A disclosure buried among many links and hashtags</li>
+<li>A disclosure buried among many links and <a href="/glossary/hashtags/">hashtags</a></li>
 <li>A statement placed only in comments or on a profile page</li>
 </ul>
 <p>The issue is not whether a creator used a particular hashtag. The issue is whether viewers understand the material connection.</p>
@@ -89,7 +89,7 @@ permalink: /glossary/ftc-sponsorship-disclosure/
 <tr>
   <td>Who controls it?</td>
   <td>Creator and advertiser are responsible for the disclosure</td>
-  <td>Creator selects the declaration in YouTube Studio</td>
+  <td>Creator selects the declaration in <a href="/glossary/youtube-studio/">YouTube Studio</a></td>
 </tr>
 <tr>
   <td>Where does it appear?</td>

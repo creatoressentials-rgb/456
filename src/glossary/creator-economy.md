@@ -23,7 +23,7 @@ permalink: /glossary/creator-economy/
 <li>Artists</li>
 <li>Coaches</li>
 <li>Reviewers</li>
-<li>Influencers</li>
+<li><a href="/glossary/influencers/">Influencers</a></li>
 <li>Game creators</li>
 <li>Independent media teams</li>
 <li>Subject-matter experts</li>
@@ -35,7 +35,7 @@ permalink: /glossary/creator-economy/
 <ul>
 <li>Platform monetization</li>
 <li>Brand partnerships</li>
-<li>Affiliate marketing</li>
+<li><a href="/glossary/affiliate-marketing/">Affiliate marketing</a></li>
 <li>Memberships</li>
 <li>Products</li>
 <li>Services</li>
@@ -123,7 +123,7 @@ permalink: /glossary/creator-economy/
   <td><a href="/glossary/ad-revenue">Ad revenue</a> and revenue sharing</td>
 </tr>
 <tr>
-  <td>Fan funding</td>
+  <td><a href="/glossary/fan-funding/">Fan funding</a></td>
   <td><a href="/glossary/channel-memberships">Channel memberships</a>, tips, gifts, and subscriptions</td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ permalink: /glossary/creator-economy/
   <td>Tickets, appearances, meetups, and conferences</td>
 </tr>
 <tr>
-  <td>Revenue share</td>
+  <td><a href="/glossary/revenue-share/">Revenue share</a></td>
   <td>Product collaborations, subscriptions, and distribution</td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ permalink: /glossary/creator-economy/
 </thead>
 <tbody>
 <tr>
-  <td>Built around content, intellectual property, audience, or personal brand</td>
+  <td>Built around content, intellectual property, audience, or <a href="/glossary/personal-brand/">personal brand</a></td>
   <td>Built around completing individual tasks or services</td>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ permalink: /glossary/creator-economy/
 <h4>Income volatility</h4>
 <p>Advertising, sponsorships, and product launches can fluctuate.</p>
 <h4>Concentration</h4>
-<p>One platform, sponsor, affiliate program, or customer can become too large a share of revenue.</p>
+<p>One platform, sponsor, <a href="/glossary/affiliate-program/">affiliate program</a>, or customer can become too large a share of revenue.</p>
 <h4>Burnout</h4>
 <p>The demand for constant publishing can turn creative work into an unsustainable production cycle.</p>
 <h4>Ownership and rights</h4>

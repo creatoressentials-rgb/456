@@ -50,9 +50,9 @@ permalink: /glossary/payment-terms/
 </ol>
 <p>Milestones reduce the amount either party has outstanding at one time.</p>
 <h4>Payment after delivery</h4>
-<p>The creator delivers the agreed assets and then invoices. The contract should state whether usage rights begin immediately or only after full payment.</p>
+<p>The creator delivers the agreed assets and then invoices. The contract should state whether <a href="/glossary/usage-rights/">usage rights</a> begin immediately or only after full payment.</p>
 <h4>Payment after publication</h4>
-<p>The payment obligation begins when the sponsored content goes live. This can expose the creator to delays when the brand controls approval or launch timing.</p>
+<p>The payment obligation begins when the <a href="/glossary/sponsored-content/">sponsored content</a> goes live. This can expose the creator to delays when the brand controls approval or launch timing.</p>
 <h4>Performance-based compensation</h4>
 <p>Some compensation depends on views, sales, leads, sign-ups, or another result. The agreement should separate guaranteed production fees from variable compensation and define the measurement source.</p>
 <h3>What does Net 30 mean?</h3>
@@ -126,7 +126,7 @@ permalink: /glossary/payment-terms/
 <li>Confirm the brand's commitment</li>
 <li>Compensate for early work if the project is canceled</li>
 </ul>
-<p>The contract should state whether the deposit is refundable, when it is earned, and whether it is credited against a kill fee or final invoice.</p>
+<p>The contract should state whether the deposit is refundable, when it is earned, and whether it is credited against a <a href="/glossary/kill-fee/">kill fee</a> or final invoice.</p>
 <h3>Approval and payment</h3>
 <p>Payment should not depend on unlimited or undefined approval.</p>
 <p>Coordinate the payment terms with the <a href="/glossary/approval-process">approval process</a>:</p>
@@ -166,7 +166,7 @@ permalink: /glossary/payment-terms/
 <li>Card</li>
 <li>PayPal or another payment processor</li>
 <li>Creator marketplace</li>
-<li>Affiliate network</li>
+<li><a href="/glossary/affiliate-network/">Affiliate network</a></li>
 <li>International payment service</li>
 </ul>
 <p>State who pays transaction, wire, currency-conversion, and platform fees. Confirm the payment currency so a cross-border conversion does not unexpectedly reduce the creator's compensation.</p>
@@ -210,7 +210,7 @@ permalink: /glossary/payment-terms/
 <li>The brand receives review copies before payment.</li>
 <li>The brand may not publish or advertise the content until payment.</li>
 <li>A limited organic license begins at publication.</li>
-<li>Paid usage begins only after the separate usage fee clears.</li>
+<li><a href="/glossary/paid-usage/">Paid usage</a> begins only after the separate usage fee clears.</li>
 <li>Ownership transfers only after the final invoice is paid.</li>
 </ul>
 <p>This structure should be consistent with every other ownership and work-made-for-hire clause.</p>
@@ -247,6 +247,6 @@ permalink: /glossary/payment-terms/
 <h4>Should a creator request a deposit?</h4>
 <p>A deposit can reduce cancellation and cash-flow risk, especially when the creator must reserve dates or spend money before delivery. The appropriate amount depends on the project.</p>
 <h4>Can a brand delay payment until it approves the content?</h4>
-<p>Only according to the contract. The approval process should include response deadlines and objective criteria so approval cannot be delayed indefinitely.</p>
+<p>Only according to the contract. The <a href="/glossary/approval-process/">approval process</a> should include response deadlines and objective criteria so approval cannot be delayed indefinitely.</p>
 <h4>When should usage rights begin?</h4>
 <p>The parties can choose, but creators often negotiate for licensing or ownership transfer to begin only after the required payment is received.</p>

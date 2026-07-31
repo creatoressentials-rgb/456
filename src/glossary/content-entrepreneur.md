@@ -20,7 +20,7 @@ permalink: /glossary/content-entrepreneur/
 <li>Community infrastructure</li>
 </ul>
 <p>A content entrepreneur may begin as a solo <a href="/glossary/content-creator">content creator</a> and gradually build products, systems, revenue streams, and a team.</p>
-<h3>Content creator vs. content entrepreneur</h3>
+<h3><a href="/glossary/content-creator/">Content creator</a> vs. content entrepreneur</h3>
 <table>
 <thead>
 <tr>
@@ -47,7 +47,7 @@ permalink: /glossary/content-entrepreneur/
 </tr>
 <tr>
   <td>Success may be measured by views</td>
-  <td>Success includes profit, retention, ownership, and resilience</td>
+  <td>Success includes profit, <a href="/glossary/retention/">retention</a>, ownership, and resilience</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ permalink: /glossary/content-entrepreneur/
   <td>Ads, subscriptions, gifts</td>
 </tr>
 <tr>
-  <td>Sponsorship</td>
+  <td><a href="/glossary/sponsorship/">Sponsorship</a></td>
   <td>Brand integration</td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ permalink: /glossary/content-entrepreneur/
   <td>Ticketed workshop or conference</td>
 </tr>
 <tr>
-  <td>Revenue share</td>
+  <td><a href="/glossary/revenue-share/">Revenue share</a></td>
   <td>Co-created product or distribution agreement</td>
 </tr>
 </tbody>
@@ -153,8 +153,8 @@ permalink: /glossary/content-entrepreneur/
 <li>Cash flow</li>
 <li>Revenue concentration</li>
 <li>Customer acquisition cost</li>
-<li>Conversion rate</li>
-<li>Recurring revenue</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
+<li><a href="/glossary/recurring-revenue/">Recurring revenue</a></li>
 <li>Churn</li>
 <li>Customer lifetime value</li>
 <li>Product margin</li>

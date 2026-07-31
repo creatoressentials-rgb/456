@@ -7,7 +7,7 @@ permalink: /glossary/merch-shelf/
 ---
 
 <h2>Merch Shelf</h2>
-<p>A <strong>merch shelf</strong> is a YouTube shopping surface that displays products associated with an eligible creator or channel.</p>
+<p>A <strong>merch shelf</strong> is a <a href="/glossary/youtube-shopping/">YouTube shopping</a> surface that displays products associated with an eligible creator or channel.</p>
 <p>The phrase originally became common for the row of official creator merchandise shown below a video. YouTube still uses <strong>merch shelf</strong> in some current Help Center and channel documentation, while its broader commerce system is now called <a href="/glossary/youtube-shopping">YouTube Shopping</a>.</p>
 <p>Depending on the channel, device, location, content, and current YouTube design, viewers may see products through:</p>
 <ul>
@@ -23,7 +23,7 @@ permalink: /glossary/merch-shelf/
 <p>A typical creator-owned merchandise workflow is:</p>
 <ol>
 <li>The creator becomes eligible for YouTube Shopping.</li>
-<li>The creator connects a supported store or retailer in YouTube Studio.</li>
+<li>The creator connects a supported store or retailer in <a href="/glossary/youtube-studio/">YouTube Studio</a>.</li>
 <li>Eligible products from that store are imported or selected.</li>
 <li>YouTube and Google Merchant Center systems review the products under applicable policies.</li>
 <li>The creator arranges products and chooses which products to feature.</li>
@@ -177,7 +177,7 @@ permalink: /glossary/merch-shelf/
 <h3>Merch shelf eligibility</h3>
 <p>Eligibility can depend on current:</p>
 <ul>
-<li>YouTube Partner Program participation</li>
+<li><a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> participation</li>
 <li>Channel and country availability</li>
 <li>Audience settings</li>
 <li>Channel policy standing</li>
@@ -185,7 +185,7 @@ permalink: /glossary/merch-shelf/
 <li>Product compliance</li>
 <li>Content type</li>
 </ul>
-<p>Some Shopping features are unavailable or limited on content set as <strong>made for kids</strong>. YouTube's eligibility rules and supported retailers can change, so creators should check YouTube Studio and current Help Center documentation rather than relying on an old subscriber threshold.</p>
+<p>Some Shopping features are unavailable or limited on content set as <strong><a href="/glossary/made-for-kids/">made for kids</a></strong>. YouTube's eligibility rules and supported retailers can change, so creators should check YouTube Studio and current Help Center documentation rather than relying on an old subscriber threshold.</p>
 <h3>Merch shelf vs. ordinary links</h3>
 <p>A creator can place a store link in the description without using the merch shelf.</p>
 <p>The shelf provides additional advantages:</p>
@@ -206,7 +206,7 @@ permalink: /glossary/merch-shelf/
 <li>Email capture</li>
 <li>Products not eligible for YouTube Shopping</li>
 </ul>
-<h3>Merch shelf merchandising</h3>
+<h3>Merch shelf <a href="/glossary/merchandising/">merchandising</a></h3>
 <p>Displaying products is only one part of <a href="/glossary/merchandising">merchandising</a>.</p>
 <p>Creators should decide:</p>
 <ul>
@@ -227,7 +227,7 @@ permalink: /glossary/merch-shelf/
 <p>Additional disclosure may be needed when:</p>
 <ul>
 <li>The product belongs to another brand</li>
-<li>The creator earns affiliate commission</li>
+<li>The creator earns <a href="/glossary/affiliate-commission/">affiliate commission</a></li>
 <li>The item is sponsored</li>
 <li>The creator received the item for free</li>
 <li>A commercial relationship is not obvious</li>
@@ -239,7 +239,7 @@ permalink: /glossary/merch-shelf/
 <li>Product clicks</li>
 <li>Product-page visits</li>
 <li>Sales</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Revenue</li>
 <li>Average order value</li>
 <li>Top products</li>

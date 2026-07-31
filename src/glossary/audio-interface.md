@@ -13,7 +13,7 @@ related_terms:
 
 <h2>Audio Interface</h2>
 <p>An <strong>audio interface</strong> is a device that connects microphones, instruments, headphones, and speakers to a computer or mobile device. It converts analog sound into digital data for recording or streaming and converts digital audio back into an analog signal that can be heard through headphones or monitors.</p>
-<p>For creators, an interface is most commonly used to connect one or more XLR microphones to recording software, a video editor, or a <a href="/glossary/live-encoder/">live encoder</a>.</p>
+<p>For creators, an interface is most commonly used to connect one or more <a href="/glossary/xlr/">XLR</a> microphones to recording software, a video editor, or a <a href="/glossary/live-encoder/">live encoder</a>.</p>
 <h3>What an audio interface does</h3>
 <p>A typical interface performs several jobs in one box:</p>
 <ul>
@@ -24,7 +24,7 @@ related_terms:
 <li>Converts computer audio back to analog with a DAC.</li>
 <li>Sends audio to headphones, studio monitors, or other outputs.</li>
 <li>Provides low-latency or direct monitoring while recording.</li>
-<li>May supply 48-volt phantom power to compatible microphones.</li>
+<li>May supply 48-volt <a href="/glossary/phantom-power/">phantom power</a> to compatible microphones.</li>
 </ul>
 <p>This makes the interface the central bridge between physical audio equipment and digital production software.</p>
 <h3>The creator audio signal chain</h3>
@@ -70,7 +70,7 @@ related_terms:
   <td>Usually lacks professional XLR inputs and controls</td>
 </tr>
 <tr>
-  <td>USB microphone</td>
+  <td><a href="/glossary/usb-microphone/">USB microphone</a></td>
   <td>Microphone with a built-in preamp and digital interface</td>
   <td>Connects directly without a separate interface</td>
 </tr>
@@ -84,7 +84,7 @@ related_terms:
 <p>A mixer is not automatically an interface, and an interface is not automatically a full mixer. Many modern products combine both functions, so creators should check the actual input, routing, and USB specifications.</p>
 <h3>Do USB microphones need an audio interface?</h3>
 <p>Usually, no. A USB microphone already includes analog-to-digital conversion and a USB connection. It is essentially a microphone and a small audio interface in one device.</p>
-<p>Most separate interfaces expect an <strong>analog XLR microphone</strong>, not a USB microphone. Plugging a USB mic into an ordinary USB port on an interface generally will not work because the interface is not acting as a USB host for another digital audio device.</p>
+<p>Most separate interfaces expect an <strong>analog <a href="/glossary/xlr-microphone/">XLR microphone</a></strong>, not a USB microphone. Plugging a USB mic into an ordinary USB port on an interface generally will not work because the interface is not acting as a USB host for another digital audio device.</p>
 <p>A creator might move from a USB microphone to an XLR microphone and interface when they need:</p>
 <ul>
 <li>Multiple microphones recorded at the same time.</li>
@@ -94,7 +94,7 @@ related_terms:
 <li>Integration with studio monitors, instruments, or outboard equipment.</li>
 </ul>
 <h3>Inputs and channels</h3>
-<p>The number on an interface's product name does not always equal the number of microphone preamps. Read the specifications carefully.</p>
+<p>The number on an interface's product name does not always equal the number of <a href="/glossary/microphone-preamp/">microphone preamps</a>. Read the specifications carefully.</p>
 <table>
 <thead>
 <tr>
@@ -126,11 +126,11 @@ related_terms:
 <p>Microphones produce relatively low-level signals. The interface's preamp raises that signal so it can be recorded at a healthy level.</p>
 <p><strong>Gain is not the same as volume.</strong> Input gain determines how strongly the signal is amplified before conversion. Headphone or monitor volume changes how loudly the already-recorded or monitored signal is heard.</p>
 <p>Set gain while the speaker performs at realistic volume. The meter should stay safely below clipping during the loudest moments. Recording too quietly can increase noise when the track is boosted later, while recording too hot can create permanent digital distortion.</p>
-<p>Some low-output dynamic microphones need substantial clean gain. An inline booster may help in certain setups, but it is not automatically required. Modern interfaces vary widely in available gain and noise performance.</p>
+<p>Some low-output <a href="/glossary/dynamic-microphones/">dynamic microphones</a> need substantial clean gain. An inline booster may help in certain setups, but it is not automatically required. Modern interfaces vary widely in available gain and noise performance.</p>
 <h3>Phantom power</h3>
 <p>Many interfaces include a button labeled <strong>48V</strong>. This sends phantom power through compatible XLR microphone inputs.</p>
 <ul>
-<li>Most condenser microphones require phantom power.</li>
+<li>Most <a href="/glossary/condenser-microphones/">condenser microphones</a> require phantom power.</li>
 <li>Ordinary passive dynamic microphones do not require it.</li>
 <li>Active ribbon microphones may require it.</li>
 <li>Vintage or unusual ribbon microphones may be vulnerable to improper phantom-power use.</li>
@@ -172,7 +172,7 @@ related_terms:
 </tr>
 </tbody>
 </table>
-<p>A device advertising 192 kHz is not automatically better for spoken-word video than one used at 48 kHz. Microphone placement, room acoustics, preamp quality, gain staging, and editing have a much larger practical effect.</p>
+<p>A device advertising 192 kHz is not automatically better for spoken-word video than one used at 48 kHz. Microphone placement, room acoustics, preamp quality, <a href="/glossary/gain-staging/">gain staging</a>, and editing have a much larger practical effect.</p>
 <p>For video projects, creators should keep the interface, operating system, recording software, and editor on matching sample-rate settings whenever possible. Mismatches can cause playback-speed issues, resampling, clicks, or routing confusion.</p>
 <h3>How to choose an audio interface</h3>
 <p>Prioritize the workflow rather than the largest specification list.</p>

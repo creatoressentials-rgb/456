@@ -13,8 +13,8 @@ related_terms:
   - copyright-claim
 ---
 
-<h2>Green Screen Remix</h2>
-<p><strong>Green Screen Remix</strong> is a YouTube Shorts tool that uses an eligible YouTube video or Short as the background of a new recording. You appear in the foreground while the source content plays behind you, making it easy to add commentary, reactions, explanations, or visual storytelling without downloading the original video.</p>
+<h2><a href="/glossary/green-screen/">Green Screen</a> Remix</h2>
+<p><strong>Green Screen Remix</strong> is a <a href="/glossary/youtube-shorts/">YouTube Shorts</a> tool that uses an eligible YouTube video or Short as the background of a new recording. You appear in the foreground while the source content plays behind you, making it easy to add commentary, reactions, explanations, or visual storytelling without downloading the original video.</p>
 <p>The feature is called Green Screen because it creates a composited background effect. You do not need a physical green screen.</p>
 
 <h3>How Green Screen Remix works</h3>
@@ -121,18 +121,18 @@ related_terms:
 </ul>
 <p>For music-related Shorts, YouTube notes that third-party claims can block visual options even when the audio remains available to remix.</p>
 
-<h3>Attribution and discovery</h3>
+<h3><a href="/glossary/attribution/">Attribution</a> and discovery</h3>
 <p>YouTube attributes Green Screen Remixes to the original source. Viewers can follow that attribution to discover the video that appears in the background.</p>
 <p>For the original creator, views produced by visual remixes may appear under <strong>Remixed video</strong> in <a href="/glossary/traffic-sources/">YouTube traffic sources</a>. Remix reports can also show total remixes and top-remixed content.</p>
 <p>The attribution tells viewers where the background came from. It does not mean the source creator endorsed your commentary or participated in making the Short.</p>
 
 <h3>What happens if the source is changed or removed?</h3>
-<p>Green Screen Remix is a visual remix that depends on the source video. If the original creator deletes the source, restricts video remixing, or makes certain edits through YouTube Studio, YouTube may delete the dependent Green Screen Short.</p>
+<p>Green Screen Remix is a visual remix that depends on the source video. If the original creator deletes the source, restricts video remixing, or makes certain edits through <a href="/glossary/youtube-studio/">YouTube Studio</a>, YouTube may delete the dependent Green Screen Short.</p>
 <p>Creators should account for that risk when using another channel's video as a core part of evergreen content. Your recorded foreground may be original, but the published remix still relies on access to the background source.</p>
 
 <h3>Copyright and monetization considerations</h3>
 <p>Using YouTube's built-in Green Screen Remix tool is different from downloading a video and placing it behind yourself in an external editor. The in-product tool provides attribution and operates within the permissions available for that source.</p>
-<p>That does not guarantee monetization. The finished Short must still comply with copyright rules, Community Guidelines, and YouTube channel monetization policies. A channel must also qualify for the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> before earning eligible Shorts revenue.</p>
+<p>That does not guarantee monetization. The finished Short must still comply with copyright rules, Community Guidelines, and <a href="/glossary/youtube-channel/">YouTube channel</a> monetization policies. A channel must also qualify for the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> before earning eligible Shorts revenue.</p>
 <p>Creators should add meaningful original commentary, performance, education, or creative context. Simply placing your face over another video with little contribution may create <a href="/glossary/reused-content/">reused content</a> concerns during channel review.</p>
 
 <h3>Effective ways to use Green Screen Remix</h3>

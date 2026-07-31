@@ -23,7 +23,7 @@ related_terms:
 <ol>
 <li><strong>Jewels</strong> — the currency. Viewers buy Jewels in preset bundles through the YouTube mobile app. Jewels don't expire (unless they're bonus/promotional Jewels tied to a specific offer).</li>
 <li><strong>Gifts</strong> — what Jewels buy. A Gift is an animated item — a sticker, effect, or combo — that a viewer sends during a live stream. It's the officially branded name for the whole mechanic: "Gifts, powered by Jewels."</li>
-<li><strong>Rubies</strong> — what creators earn. When a Gift is sent, the creator's channel earns Rubies. In the original US rollout, YouTube stated 1 Ruby = $0.01 USD. There is no fixed, guaranteed revenue share the way there is for <a href="/glossary/super-chat/">Super Chat</a> or <a href="/glossary/channel-memberships/">channel memberships</a> — the payout depends on which Jewels bundle the viewer purchased and whatever promotions were active, and YouTube itself has said this openly.</li>
+<li><strong>Rubies</strong> — what creators earn. When a Gift is sent, the creator's channel earns Rubies. In the original US rollout, YouTube stated 1 Ruby = $0.01 USD. There is no fixed, guaranteed <a href="/glossary/revenue-share/">revenue share</a> the way there is for <a href="/glossary/super-chat/">Super Chat</a> or <a href="/glossary/channel-memberships/">channel memberships</a> — the payout depends on which Jewels bundle the viewer purchased and whatever promotions were active, and YouTube itself has said this openly.</li>
 </ol>
 <p>Gifts appear as overlays directly on top of the video feed — a visually different placement than <a href="/glossary/super-stickers/">Super Stickers</a>, which show up in the live chat panel alongside comments.</p>
 
@@ -48,7 +48,7 @@ related_terms:
 <p>To receive Rubies from Gifts, a creator must:</p>
 <ul>
 <li>Be an active member of the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a></li>
-<li>Accept YouTube's Virtual Items (VI) Module in YouTube Studio (Earn hub → Supers &amp; gifts tab → Turn on gifts)</li>
+<li>Accept YouTube's Virtual Items (VI) Module in <a href="/glossary/youtube-studio/">YouTube Studio</a> (Earn hub → Supers &amp; gifts tab → Turn on gifts)</li>
 <li>Complete identity verification (YouTube maintains a dedicated help page for this step)</li>
 <li>Be streaming live with chat/comments enabled</li>
 </ul>

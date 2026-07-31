@@ -39,7 +39,7 @@ related_terms:
 </tbody>
 </table>
 <p>The key mental model: <strong>a Content ID claim is not a strike, and it never automatically becomes one.</strong> It only turns into a strike if the underlying dispute goes badly — you dispute a claim without valid grounds, the rights holder rejects it, and they escalate to a formal copyright removal request that YouTube finds valid. For the strike-specific consequences (Copyright School, 90-day countdown, channel termination) and how to resolve one, see our <a href="/glossary/copyright-strike/">Copyright Strike</a> entry.</p>
-<p>One more wrinkle worth knowing: YouTube itself uses "copyright claim" as a broad umbrella term that can mean an automated Content ID claim <em>or</em> a manually-filed claim (rights holders with advanced Content ID access have a separate Manual Claiming tool for content the automated system missed). When someone says "I got a copyright claim," always check YouTube Studio to confirm which kind it actually is.</p>
+<p>One more wrinkle worth knowing: YouTube itself uses "copyright claim" as a broad umbrella term that can mean an automated Content ID claim <em>or</em> a manually-filed claim (rights holders with advanced Content ID access have a separate Manual Claiming tool for content the automated system missed). When someone says "I got a copyright claim," always check <a href="/glossary/youtube-studio/">YouTube Studio</a> to confirm which kind it actually is.</p>
 
 <h3>What to do if you get a claim</h3>
 <ol>
@@ -61,7 +61,7 @@ related_terms:
 
 <h3>FAQ</h3>
 <h4>Does a Content ID claim hurt my channel?</h4>
-<p>No. Claims attach to the video, not the channel — they don't affect your standing, your ability to upload, or your monetization eligibility elsewhere on the channel. The most common real-world effect is lost ad revenue on that one video if the rights holder's policy is set to monetize.</p>
+<p>No. Claims attach to the video, not the channel — they don't affect your standing, your ability to upload, or your monetization eligibility elsewhere on the channel. The most common real-world effect is lost <a href="/glossary/ad-revenue/">ad revenue</a> on that one video if the rights holder's policy is set to monetize.</p>
 <h4>Can I get Content ID access as an individual creator?</h4>
 <p>Almost certainly not directly. YouTube requires exclusive ownership of a substantial, frequently-uploaded body of original material — a bar built for labels, studios, and distributors, not individual channels. Independent musicians usually get Content ID coverage through a distributor rather than applying themselves.</p>
 <h4>If I dispute a claim and lose, do I get a strike?</h4>

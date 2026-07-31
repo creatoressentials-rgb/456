@@ -20,7 +20,7 @@ permalink: /glossary/audience-demographics/
 </ul>
 <p>YouTube Analytics does not provide every demographic category. Its creator-facing Audience reports prominently include age, gender, geography, and subtitle or closed-caption language.</p>
 <h3>Where to find YouTube audience demographics</h3>
-<p>Creators can use YouTube Studio, open Analytics, choose Audience, and use Advanced Mode for deeper comparisons.</p>
+<p>Creators can use <a href="/glossary/youtube-studio/">YouTube Studio</a>, open Analytics, choose Audience, and use Advanced Mode for deeper comparisons.</p>
 <p>Current Audience reports can include:</p>
 <ul>
 <li>Age ranges contributing to watch time</li>
@@ -61,7 +61,7 @@ permalink: /glossary/audience-demographics/
 </tr>
 <tr>
   <td>Engagement</td>
-  <td>Watch time, comments, returning viewers</td>
+  <td>Watch time, comments, <a href="/glossary/returning-viewers/">returning viewers</a></td>
   <td>Relationship with content</td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ permalink: /glossary/audience-demographics/
 </tr>
 </tbody>
 </table>
-<p>A demographic match can support audience fit, but it does not prove the audience wants the product.</p>
+<p>A demographic match can support <a href="/glossary/audience-fit/">audience fit</a>, but it does not prove the audience wants the product.</p>
 <h3>YouTube age data</h3>
 <p>YouTube reports age in ranges rather than exact ages.</p>
 <p>Creators can use age distribution to:</p>
@@ -119,13 +119,13 @@ permalink: /glossary/audience-demographics/
 <li>Time zones</li>
 <li>Product availability</li>
 <li>Shipping limitations</li>
-<li>Sponsorship market relevance</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a> market relevance</li>
 <li>Regional pricing</li>
 <li>Live scheduling</li>
 <li>Local legal requirements</li>
 </ul>
 <p>A creator's location is not necessarily the same as the audience's location.</p>
-<p>For a brand deal, clarify whether the brand cares about viewer location, customer shipping location, sales territory, language, citizenship, or creator location. These are different facts.</p>
+<p>For a <a href="/glossary/brand-deal/">brand deal</a>, clarify whether the brand cares about viewer location, customer shipping location, sales territory, language, citizenship, or creator location. These are different facts.</p>
 <h3>Language data</h3>
 <p>YouTube can show top subtitle or closed-caption languages.</p>
 <p>Language information can help with:</p>
@@ -144,7 +144,7 @@ permalink: /glossary/audience-demographics/
 <ul>
 <li>The channel or video does not have enough relevant data</li>
 <li>Demographic reporting would create privacy concerns</li>
-<li>The content is made for kids</li>
+<li>The content is <a href="/glossary/made-for-kids/">made for kids</a></li>
 <li>Content violates Community Guidelines</li>
 <li>A video is private or unlisted</li>
 <li>A report is filtered too narrowly</li>
@@ -167,7 +167,7 @@ permalink: /glossary/audience-demographics/
 <li>Different filters and date ranges change the denominator.</li>
 </ul>
 <p>Always label the metric and period in a media kit.</p>
-<h3>Using demographics in a creator media kit</h3>
+<h3>Using demographics in a <a href="/glossary/creator-media-kit/">creator media kit</a></h3>
 <p>A useful audience section can include:</p>
 <ul>
 <li>Reporting period</li>
@@ -177,7 +177,7 @@ permalink: /glossary/audience-demographics/
 <li>Top countries</li>
 <li>Top languages</li>
 <li>Monthly audience</li>
-<li>Unique viewers</li>
+<li><a href="/glossary/unique-viewers/">Unique viewers</a></li>
 <li>New and <a href="/glossary/returning-viewers">returning viewers</a></li>
 <li>Relevant audience interests</li>
 <li>Source of each metric</li>

@@ -16,7 +16,7 @@ related_terms:
 ---
 
 <h2>YouTube Likeness Detection</h2>
-<p><strong>YouTube Likeness Detection</strong> is a YouTube Studio tool that scans newly uploaded videos for AI-altered or AI-generated content that uses an enrolled creator's face without permission. When it finds a potential match, the creator can review it and request removal through YouTube's privacy process — similar in concept to how <a href="/glossary/content-id/">Content ID</a> protects copyrighted media, except Likeness Detection protects a person's face instead of a piece of content.</p>
+<p><strong>YouTube Likeness Detection</strong> is a <a href="/glossary/youtube-studio/">YouTube Studio</a> tool that scans newly uploaded videos for AI-altered or AI-generated content that uses an enrolled creator's face without permission. When it finds a potential match, the creator can review it and request removal through YouTube's privacy process — similar in concept to how <a href="/glossary/content-id/">Content ID</a> protects copyrighted media, except Likeness Detection protects a person's face instead of a piece of content.</p>
 <p>It's currently an experimental, opt-in feature, not a default protection every creator automatically has.</p>
 
 <h3>What Is YouTube Likeness Detection?</h3>
@@ -31,7 +31,7 @@ related_terms:
 <li><strong>Genuine footage can still surface.</strong> Because the tool matches on appearance, not on whether content is actually AI-generated, it can also flag real, unaltered clips of the creator — for example, another channel re-uploading one of their real videos. That's not a deepfake, so it isn't eligible for removal under the likeness/privacy process — only a <a href="/glossary/copyright-claim/">copyright claim</a> could apply, and only if the upload doesn't qualify for a fair-use or public-domain exception.</li>
 </ul>
 
-<h3>Rollout Timeline</h3>
+<h3>Rollout <a href="/glossary/timeline/">Timeline</a></h3>
 <p>Likeness Detection didn't appear all at once — it's expanded in stages over roughly a year and a half:</p>
 <table>
 <thead>
@@ -51,7 +51,7 @@ related_terms:
 </tr>
 <tr>
 <td>Sept 2025</td>
-<td>YouTube announces the tool will roll out to all YouTube Partner Program creators</td>
+<td>YouTube announces the tool will roll out to all <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> creators</td>
 </tr>
 <tr>
 <td>Oct 2025</td>
@@ -63,7 +63,7 @@ related_terms:
 </tr>
 <tr>
 <td>April 2026</td>
-<td>Expands to the wider entertainment industry — talent agencies (CAA, UTA, WME, Untitled Management) can enroll celebrities regardless of whether they have a YouTube channel</td>
+<td>Expands to the wider entertainment industry — talent agencies (CAA, UTA, WME, Untitled Management) can enroll celebrities regardless of whether they have a <a href="/glossary/youtube-channel/">YouTube channel</a></td>
 </tr>
 </tbody>
 </table>

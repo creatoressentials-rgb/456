@@ -36,7 +36,7 @@ DSLRs offer high image and video quality, which is essential for professional-lo
 The optical viewfinder provides a direct, optical view from the lens, allowing for better framing and real-time focus adjustments without latency issues.</p>
 
 <p>Manual Control<br>
-DSLRs often come with extensive manual control options, giving you greater creative freedom over your shots, from aperture to shutter speed and ISO settings.</p>
+DSLRs often come with extensive manual control options, giving you greater creative freedom over your shots, from <a href="/glossary/aperture/">aperture</a> to <a href="/glossary/shutter-speed/">shutter speed</a> and <a href="/glossary/iso/">ISO</a> settings.</p>
 
 <h2>Disadvantages of DSLR Cameras</h2>
 
@@ -58,10 +58,10 @@ The mechanical shutter and mirror mechanisms in DSLRs are subject to wear and te
 The interchangeable lens system allows vloggers to use wide-angle lenses to capture more of their environment.</p>
 
 <p>Tutorial Videos<br>
-DSLRs provide the depth of field control and high image quality needed for crisp, clear instructional videos.</p>
+DSLRs provide the <a href="/glossary/depth-of-field/">depth of field</a> control and high image quality needed for crisp, clear instructional videos.</p>
 
 <p>Travel Videos<br>
-Their high dynamic range and color accuracy make DSLRs great for capturing stunning landscapes and intricate details.</p>
+Their high <a href="/glossary/dynamic-range/">dynamic range</a> and color accuracy make DSLRs great for capturing stunning landscapes and intricate details.</p>
 
 <p>Interviews<br>
 DSLRs offer the manual control necessary for professional-looking interview setups, especially when coupled with external microphones and lighting.</p>

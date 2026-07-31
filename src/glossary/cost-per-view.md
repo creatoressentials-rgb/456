@@ -23,7 +23,7 @@ permalink: /glossary/cost-per-view/
 <li>Whether the view is billable</li>
 <li>Whether repeat views count</li>
 <li>Whether Google Video Partners are included</li>
-<li>How public YouTube views are updated</li>
+<li>How public <a href="/glossary/youtube-view/">YouTube views</a> are updated</li>
 </ul>
 <p>Avoid using “30 seconds” as a universal definition.</p>
 <h3>CPV vs. related video metrics</h3>
@@ -62,13 +62,13 @@ permalink: /glossary/cost-per-view/
   <td>Cost of a business outcome</td>
 </tr>
 <tr>
-  <td>Sponsorship cost per organic view</td>
+  <td><a href="/glossary/sponsorship/">Sponsorship</a> cost per organic view</td>
   <td>Organic content views</td>
   <td>Custom creator-campaign efficiency estimate</td>
 </tr>
 <tr>
   <td><a href="/glossary/playback-based-cpm">Playback-based CPM</a></td>
-  <td>Monetized playbacks</td>
+  <td><a href="/glossary/monetized-playbacks/">Monetized playbacks</a></td>
   <td>Advertiser spend per 1,000 monetized YouTube playbacks</td>
 </tr>
 </tbody>

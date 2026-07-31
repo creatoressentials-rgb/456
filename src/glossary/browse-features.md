@@ -24,7 +24,7 @@ related_terms:
 </ul>
 <p>One thing worth knowing if you've read older guides: <strong>Trending and Explore are no longer part of this mix.</strong> YouTube shut down the Trending page in July 2025 and replaced it with category-based Charts. If a resource still lists "Trending" as a browse features source, it's out of date.</p>
 
-<h3>Browse Features vs. Search vs. Suggested Videos</h3>
+<h3>Browse Features vs. Search vs. <a href="/glossary/suggested-videos/">Suggested Videos</a></h3>
 <p>These three get lumped together, but they mean different things about your channel:</p>
 <ul>
 <li><strong>Browse features</strong> = the viewer wasn't watching or searching for anything. The algorithm put you in front of them cold.</li>
@@ -36,9 +36,9 @@ related_terms:
 <h3>What a normal Browse Features share looks like</h3>
 <p>There's no universal "good" number, but as a rough gut-check:</p>
 <ul>
-<li>Tutorial, how-to, and niche educational channels: often <strong>20–35%</strong> of views from browse, with search making up a bigger share</li>
-<li>Entertainment, vlog, and reaction-style channels: often <strong>40–60%+</strong>, since that content is built for casual, impulse-driven scrolling</li>
-<li>Smaller channels (under 10K subs) can absolutely see browse features spikes — subscriber count doesn't gate eligibility. One video that earns strong early clicks and retention can get tested with a wider audience regardless of channel size.</li>
+<li>Tutorial, how-to, and <a href="/glossary/niche/">niche</a> educational channels: often <strong>20–35%</strong> of views from browse, with search making up a bigger share</li>
+<li>Entertainment, <a href="/glossary/vlog/">vlog</a>, and reaction-style channels: often <strong>40–60%+</strong>, since that content is built for casual, impulse-driven scrolling</li>
+<li>Smaller channels (under 10K subs) can absolutely see browse features spikes — subscriber count doesn't gate eligibility. One video that earns strong early clicks and <a href="/glossary/retention/">retention</a> can get tested with a wider audience regardless of channel size.</li>
 </ul>
 <p>If your browse percentage dips one week, that's normal noise, not a verdict on your channel. Look at it over a month, not day to day.</p>
 
@@ -52,8 +52,8 @@ related_terms:
 <li><strong>Say something that hasn't already been said.</strong> Videos that closely repeat existing content on a topic tend to get less algorithmic push than ones with an original angle, framework, or experience behind them.</li>
 </ol>
 
-<h3>Where to find it in YouTube Studio</h3>
-<p>Analytics → Content → "See more" under "How viewers find your videos" → Traffic Source tab. Browse features will show up as its own row with impressions, views, and CTR. Click into it to see the Home vs. Subscriptions vs. other-surface breakdown — that split tells you whether new viewers are finding you (Home) or your existing audience is just showing up (Subscriptions), which are very different signals for channel growth.</p>
+<h3>Where to find it in <a href="/glossary/youtube-studio/">YouTube Studio</a></h3>
+<p>Analytics → Content → "See more" under "How viewers find your videos" → Traffic Source tab. Browse features will show up as its own row with impressions, views, and <a href="/glossary/youtube-impressions/">CTR</a>. Click into it to see the Home vs. Subscriptions vs. other-surface breakdown — that split tells you whether new viewers are finding you (Home) or your existing audience is just showing up (Subscriptions), which are very different signals for channel growth.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>
@@ -67,6 +67,6 @@ related_terms:
 <h4>Is browse features better than search traffic?</h4>
 <p>Neither is "better" — they tell you different things. Search means someone had a specific need and found you for it. Browse means the algorithm decided you were worth showing to someone who wasn't looking. The healthiest channels build both.</p>
 <h4>Why did my browse features traffic drop?</h4>
-<p>Usually normal fluctuation — the algorithm is constantly testing and re-testing videos. Check CTR and retention on your last few uploads before assuming something's wrong; a real drop in those two is the more likely explanation than the browse number itself.</p>
+<p>Usually normal fluctuation — the algorithm is constantly testing and re-testing videos. Check <a href="/glossary/click-through-rate/">CTR</a> and retention on your last few uploads before assuming something's wrong; a real drop in those two is the more likely explanation than the browse number itself.</p>
 <h4>Can a small channel get browse features traffic?</h4>
 <p>Yes. Eligibility isn't about subscriber count — YouTube tests every new upload with a small slice of potential viewers regardless of channel size, and expands from there based on performance.</p>

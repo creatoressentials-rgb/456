@@ -16,7 +16,7 @@ related_terms:
 <p>It launched on <strong>June 15, 2022</strong>, and it's still an active, documented feature as of this writing — YouTube's own Creator Blog republished a how-to guide on it in December 2025, and the mechanics below are pulled directly from YouTube's current Help Center documentation.</p>
 
 <h3>How YouTube Corrections Work</h3>
-<p>Corrections aren't a separate tool or form inside YouTube Studio — there's no dedicated "Corrections" tab. Instead, they're a text convention you type directly into the existing <strong>Description</strong> field, the same way you'd add <a href="/glossary/browse-features/">chapters</a>. YouTube's system reads the description, detects the correction syntax, and automatically generates the on-screen info card. Nothing about the underlying video file, its view count, likes, or comments changes — which is the whole point. Before this feature existed, the only way to fix a factual error was to take the video down and re-upload a corrected version, which reset engagement metrics to zero.</p>
+<p>Corrections aren't a separate tool or form inside <a href="/glossary/youtube-studio/">YouTube Studio</a> — there's no dedicated "Corrections" tab. Instead, they're a text convention you type directly into the existing <strong>Description</strong> field, the same way you'd add <a href="/glossary/browse-features/">chapters</a>. YouTube's system reads the description, detects the correction syntax, and automatically generates the on-screen info card. Nothing about the underlying video file, its view count, likes, or comments changes — which is the whole point. Before this feature existed, the only way to fix a factual error was to take the video down and re-upload a corrected version, which reset engagement metrics to zero.</p>
 
 <h3>What Viewers See</h3>
 <p>When a viewer reaches the timestamp of the first correction in a video, an info card appears during playback. If they click or tap it, it expands to show the full list of corrections for that video, each with its own timestamp and explanation. The same list is also visible in the expanded video description below the player — so viewers who never click the card can still find it by reading the description.</p>
@@ -57,7 +57,7 @@ related_terms:
 
 <h3>Why Creators Use Corrections</h3>
 <ul>
-<li>Fixing a factual, statistical, or attribution error after publishing.</li>
+<li>Fixing a factual, statistical, or <a href="/glossary/attribution/">attribution</a> error after publishing.</li>
 <li>Updating a video that covers news, current events, or fast-changing topics (e.g., pricing, specs, policy) without losing the video's watch history and accumulated <a href="/glossary/engaged-views/">engaged views</a> or <a href="/glossary/returning-viewers/">returning viewers</a>.</li>
 <li>Pointing viewers to a newer, updated video on the same topic without pulling the older one down — useful for preserving <a href="/glossary/traffic-sources/">traffic sources</a> and existing rankings on the original video.</li>
 <li>Publicly acknowledging an error transparently, which some creators use as a trust-building move with their audience.</li>

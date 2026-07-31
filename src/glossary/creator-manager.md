@@ -55,7 +55,7 @@ permalink: /glossary/creator-manager/
 </tbody>
 </table>
 <p>The labels are used inconsistently. The contract and applicable law matter more than the title.</p>
-<h3>Creator manager vs. creator agency</h3>
+<h3>Creator manager vs. <a href="/glossary/creator-agency/">creator agency</a></h3>
 <p>A <a href="/glossary/creator-agency">creator agency</a> is a company that can provide representation, production, campaign, or service functions.</p>
 <p>A creator manager is a role focused on an individual creator or roster.</p>
 <p>A manager can work inside an agency, and an agency can provide management.</p>
@@ -89,7 +89,7 @@ permalink: /glossary/creator-manager/
 <ul>
 <li>Negotiate business terms</li>
 <li>Coordinate contract review</li>
-<li>Track deliverables</li>
+<li>Track <a href="/glossary/deliverables/">deliverables</a></li>
 <li>Confirm payment</li>
 <li>Manage renewals</li>
 </ul>
@@ -153,7 +153,7 @@ permalink: /glossary/creator-manager/
 </ul>
 <p>Creators should not grant more authority than needed.</p>
 <h3>YouTube access</h3>
-<p>YouTube allows creators to add authorized agents or managers to Creator Partnerships and offers channel permissions for role-based access.</p>
+<p>YouTube allows creators to add authorized agents or managers to Creator Partnerships and offers <a href="/glossary/channel-permissions/">channel permissions</a> for role-based access.</p>
 <p>Use official permissions rather than sharing:</p>
 <ul>
 <li>Password</li>
@@ -203,9 +203,9 @@ permalink: /glossary/creator-manager/
 <ul>
 <li>Represent competing creators</li>
 <li>Receive brand-side fees</li>
-<li>Own an agency or production company</li>
+<li>Own an agency or <a href="/glossary/production-company/">production company</a></li>
 <li>Recommend vendors they own</li>
-<li>Prioritize higher commission over audience fit</li>
+<li>Prioritize higher commission over <a href="/glossary/audience-fit/">audience fit</a></li>
 <li>Control financial reporting</li>
 <li>Invest in a creator product</li>
 </ul>
@@ -241,7 +241,7 @@ permalink: /glossary/creator-manager/
 <p>There is no universal rate. The percentage and revenue base depend on services, market, bargaining power, and contract scope.</p>
 <h4>Is a creator manager a lawyer?</h4>
 <p>Not automatically. Managers can coordinate deals, but legal advice and contract interpretation may require qualified counsel.</p>
-<h4>Is a YouTube Partner Manager my talent manager?</h4>
+<h4>Is a YouTube Partner Manager my <a href="/glossary/talent-manager/">talent manager</a>?</h4>
 <p>No. A YouTube Partner Manager is part of an invite-only platform support program.</p>
 <h4>Should a manager have my YouTube password?</h4>
 <p>No. Use official channel permissions and authorized deal access instead of sharing passwords or authentication codes.</p>

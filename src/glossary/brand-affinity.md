@@ -64,7 +64,7 @@ permalink: /glossary/brand-affinity/
 </table>
 <p>These concepts overlap but are not interchangeable.</p>
 <p>A person can repeatedly buy a brand because it is cheapest without feeling affinity. Another person can love a brand but be temporarily unable to purchase it.</p>
-<h3>Brand affinity vs. audience fit</h3>
+<h3>Brand affinity vs. <a href="/glossary/audience-fit/">audience fit</a></h3>
 <p><a href="/glossary/audience-fit">Audience fit</a> measures whether a creator's viewers match the brand's intended market.</p>
 <p>Brand affinity measures the audience's relationship with the brand.</p>
 <p>A campaign can begin with strong audience fit, low brand awareness, and no existing affinity. The campaign goal may be to move viewers from awareness toward favorability, preference, or affinity.</p>
@@ -158,7 +158,7 @@ permalink: /glossary/brand-affinity/
 <h4>Preference and choice</h4>
 <p>Researchers can ask which brand people prefer or would choose among competitors.</p>
 <h4>Repeat behavior</h4>
-<p>Signals can include repeat purchase, retention, subscription renewal, direct traffic, branded search, organic engagement, referral, and community participation.</p>
+<p>Signals can include repeat purchase, <a href="/glossary/retention/">retention</a>, subscription renewal, direct traffic, branded search, organic engagement, referral, and community participation.</p>
 <p>Behavior supports interpretation but can have functional causes such as price or convenience.</p>
 <h4>Qualitative research</h4>
 <p>Interviews, open-ended survey responses, comments, and communities can reveal why people feel connected.</p>
@@ -180,9 +180,9 @@ permalink: /glossary/brand-affinity/
 <p>Google describes Brand Lift as measuring how campaigns influence feelings about a brand or product using exposed and baseline groups.</p>
 <p>A simple post-campaign survey without a baseline cannot isolate the campaign's effect as confidently.</p>
 <h3>Brand affinity is not the same as engagement</h3>
-<p>A person can like a funny sponsored video without caring about the brand, comment negatively, click because of curiosity, purchase because of a discount, or follow the brand only for a giveaway.</p>
+<p>A person can like a funny <a href="/glossary/sponsored-video/">sponsored video</a> without caring about the brand, comment negatively, click because of curiosity, purchase because of a discount, or follow the brand only for a giveaway.</p>
 <p>Engagement should be interpreted with content, sentiment, survey, and behavior.</p>
-<h3>Brand affinity and sponsorship selection</h3>
+<h3>Brand affinity and <a href="/glossary/sponsorship/">sponsorship</a> selection</h3>
 <p>Creators should consider:</p>
 <ul>
 <li>Do viewers already know the brand?</li>

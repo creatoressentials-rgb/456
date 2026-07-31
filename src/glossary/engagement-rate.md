@@ -26,7 +26,7 @@ permalink: /glossary/engagement-rate/
 <li>End-screen clicks</li>
 <li>Other platform-defined actions</li>
 </ul>
-<p>Watch time, audience retention, and video completion are also important signs of engagement, but they use time- or view-based units and should not be casually added to likes and comments as though they are identical actions.</p>
+<p>Watch time, audience <a href="/glossary/retention/">retention</a>, and video completion are also important signs of engagement, but they use time- or view-based units and should not be casually added to likes and comments as though they are identical actions.</p>
 <h3>Common engagement-rate formulas</h3>
 <table>
 <thead>
@@ -74,11 +74,11 @@ permalink: /glossary/engagement-rate/
 <p>YouTube Analytics provides engagement reports and interaction metrics, but it does not offer one universal field called creator engagement rate for every format.</p>
 <p>A brand might calculate:</p>
 <p><strong>YouTube interaction rate by views = (likes + comments + shares) ÷ views × 100</strong></p>
-<p>Another analyst might include new subscribers or use unique viewers. Both can be valid internal metrics if labeled precisely, but they should not be compared without aligning the formula.</p>
+<p>Another analyst might include new subscribers or use <a href="/glossary/unique-viewers/">unique viewers</a>. Both can be valid internal metrics if labeled precisely, but they should not be compared without aligning the formula.</p>
 <p>YouTube's Engagement tab also includes:</p>
 <ul>
 <li>Watch time</li>
-<li>Average view duration</li>
+<li><a href="/glossary/average-view-duration/">Average view duration</a></li>
 <li>Audience retention</li>
 <li>Likes and dislikes</li>
 <li>End-screen click rate</li>
@@ -111,7 +111,7 @@ permalink: /glossary/engagement-rate/
   <td>Views relative to impressions or eligible exposures</td>
 </tr>
 <tr>
-  <td>Click-through rate</td>
+  <td><a href="/glossary/click-through-rate/">Click-through rate</a></td>
   <td>Clicks relative to impressions</td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ permalink: /glossary/engagement-rate/
 </ul>
 <p>One hundred thoughtful questions can be more valuable than thousands of low-effort likes.</p>
 <h3>Engagement rate and creator size</h3>
-<p>Rates often vary by audience size, platform, format, niche, and posting frequency. Smaller accounts may have closer communities, while larger accounts can generate much higher total engagement despite a lower percentage.</p>
+<p>Rates often vary by audience size, platform, format, <a href="/glossary/niche/">niche</a>, and posting frequency. Smaller accounts may have closer communities, while larger accounts can generate much higher total engagement despite a lower percentage.</p>
 <p>Do not use one benchmark across:</p>
 <ul>
 <li>YouTube long-form videos</li>
@@ -231,4 +231,4 @@ permalink: /glossary/engagement-rate/
 <h4>Does YouTube provide an engagement-rate metric?</h4>
 <p>YouTube provides engagement reports and individual metrics, but analysts commonly calculate their own rate from selected interactions and a stated denominator.</p>
 <h4>Is a higher engagement rate always better?</h4>
-<p>No. Relevance, sentiment, authenticity, audience fit, scale, and business outcomes also matter.</p>
+<p>No. Relevance, sentiment, authenticity, <a href="/glossary/audience-fit/">audience fit</a>, scale, and business outcomes also matter.</p>

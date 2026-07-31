@@ -12,7 +12,7 @@ related_terms:
 ---
 
 <h2>Engaged Views</h2>
-<p><strong>Quick answer:</strong> Engaged Views count viewers who watched your video — almost always a Short — past the first few seconds instead of scrolling straight past. They're YouTube's original definition of a "view," kept alive under a new name after YouTube loosened its regular Views count in March 2025. Engaged Views, not total Views, are what YouTube uses to decide monetization and YouTube Partner Program (YPP) eligibility.</p>
+<p><strong>Quick answer:</strong> Engaged Views count viewers who watched your video — almost always a Short — past the first few seconds instead of scrolling straight past. They're YouTube's original definition of a "view," kept alive under a new name after YouTube loosened its regular Views count in March 2025. Engaged Views, not total Views, are what YouTube uses to decide monetization and <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> (YPP) eligibility.</p>
 
 <h3>Engaged Views vs. Views: what's the actual difference</h3>
 <p>Since March 31, 2025, YouTube counts a <strong>View</strong> on Shorts the moment a video starts playing, replays, or gets scrolled past — no minimum watch time required. That's why most creators saw their Shorts view counts jump 20–30% almost overnight; it's the same audience, counted more loosely.</p>
@@ -33,7 +33,7 @@ related_terms:
 
 <h3>Where to find your Engaged Views</h3>
 <ol>
-<li>Open <strong>YouTube Studio → Analytics</strong>.</li>
+<li>Open <strong><a href="/glossary/youtube-studio/">YouTube Studio</a> → Analytics</strong>.</li>
 <li>Switch to <strong>Advanced Mode</strong>.</li>
 <li>Add <strong>Engaged Views</strong> as a metric — it sits next to the standard Views count for Shorts.</li>
 </ol>
@@ -41,13 +41,13 @@ related_terms:
 
 <h3>Why it matters</h3>
 <ul>
-<li><strong>Monetization is gated on Engaged Views, not Views.</strong> Full ad-revenue eligibility through the YouTube Partner Program requires 1,000 subscribers and 10 million engaged Shorts views in the trailing 90 days (or 4,000 long-form watch hours in 12 months as the alternative path). A lower tier — 500 subscribers plus 3 million Shorts views in 90 days — unlocks fan-funding features like Super Thanks and memberships, but not ad revenue.</li>
+<li><strong>Monetization is gated on Engaged Views, not Views.</strong> Full ad-revenue eligibility through the YouTube Partner Program requires 1,000 subscribers and 10 million engaged Shorts views in the trailing 90 days (or 4,000 long-form watch hours in 12 months as the alternative path). A lower tier — 500 subscribers plus 3 million Shorts views in 90 days — unlocks fan-funding features like <a href="/glossary/super-thanks/">Super Thanks</a> and memberships, but not <a href="/glossary/ad-revenue/">ad revenue</a>.</li>
 <li><strong>The algorithm isn't scored on total Views either.</strong> YouTube has said the view-count change doesn't change how Shorts get distributed. Completion rate and swipe-away rate (visible under Content → Shorts → "Viewed vs. Swiped Away") are the signals actually driving reach — not your raw view total.</li>
-<li><strong>Total Views still have a use: brand deals.</strong> The bigger-looking totals bring your Shorts numbers in line with how TikTok and Instagram Reels have always counted views, which can help in sponsorship conversations where reach is the headline number. Just don't confuse that number with what pays you.</li>
+<li><strong>Total Views still have a use: brand deals.</strong> The bigger-looking totals bring your Shorts numbers in line with how TikTok and Instagram Reels have always counted views, which can help in <a href="/glossary/sponsorship/">sponsorship</a> conversations where reach is the headline number. Just don't confuse that number with what pays you.</li>
 </ul>
 
 <h3>What's a healthy Engaged View rate?</h3>
-<p>YouTube hasn't published an official benchmark for Engaged Views as a share of total Views, so treat any number here as directional, not a hard target. A reasonable proxy: use your <strong>Viewed vs. Swiped Away</strong> rate as a stand-in. Roughly 70%+ viewed is strong (viral territory), around 50/50 is average, and under 30% usually means the hook in your first 1–3 seconds isn't working. If your swipe-away rate is high, expect Engaged Views to be a much smaller slice of total Views than you'd like.</p>
+<p>YouTube hasn't published an official benchmark for Engaged Views as a share of total Views, so treat any number here as directional, not a hard target. A reasonable proxy: use your <strong>Viewed vs. Swiped Away</strong> rate as a stand-in. Roughly 70%+ viewed is strong (<a href="/glossary/viral/">viral</a> territory), around 50/50 is average, and under 30% usually means the hook in your first 1–3 seconds isn't working. If your swipe-away rate is high, expect Engaged Views to be a much smaller slice of total Views than you'd like.</p>
 
 <h3>A reporting gotcha to know about</h3>
 <p>If you're pulling historical data through a third-party tool or the YouTube API, note that the API didn't catch up to the new Views definition until April 30, 2025 — about a month after the March 31 rollout in Studio. If numbers from that window look inconsistent between Studio and an external dashboard, that's why. And when building any before/after report, treat March 31, 2025 as a hard line: don't average raw View totals across it, and use Engaged Views (or watch time, or subscriber growth) as your consistent cross-period metric instead.</p>

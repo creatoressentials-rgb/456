@@ -22,7 +22,7 @@ permalink: /glossary/talent-manager/
 <li>Long-term planning</li>
 </ul>
 <p>The exact role depends on the contract, jurisdiction, and management business.</p>
-<h3>Talent manager vs. creator manager</h3>
+<h3>Talent manager vs. <a href="/glossary/creator-manager/">creator manager</a></h3>
 <p>The terms often overlap.</p>
 <p>A <a href="/glossary/creator-manager">creator manager</a> may emphasize digital platforms, content operations, creator commerce, and brand partnerships.</p>
 <p>A talent manager may come from entertainment, advertising, sports, music, or traditional representation.</p>
@@ -98,7 +98,7 @@ permalink: /glossary/talent-manager/
 <li>Pitch brands</li>
 <li>Negotiate business terms</li>
 <li>Coordinate contracts</li>
-<li>Track deliverables</li>
+<li>Track <a href="/glossary/deliverables/">deliverables</a></li>
 <li>Follow payment</li>
 </ul>
 <h4>Team building</h4>
@@ -187,7 +187,7 @@ permalink: /glossary/talent-manager/
 </ul>
 <p>An unlimited commission on unrelated future work is a major red flag.</p>
 <h3>Permissions and security</h3>
-<p>YouTube allows authorized agents and managers to manage eligible creator deals and provides channel permissions.</p>
+<p>YouTube allows authorized agents and managers to manage eligible creator deals and provides <a href="/glossary/channel-permissions/">channel permissions</a>.</p>
 <p>Use role-based access rather than sharing:</p>
 <ul>
 <li>Password</li>
@@ -202,11 +202,11 @@ permalink: /glossary/talent-manager/
 <ul>
 <li>Represent competing creators</li>
 <li>Receive brand-side payments</li>
-<li>Own a production company</li>
+<li>Own a <a href="/glossary/production-company/">production company</a></li>
 <li>Recommend owned vendors</li>
 <li>Invest in a creator product</li>
 <li>Control financial reporting</li>
-<li>Prefer high-commission deals over audience fit</li>
+<li>Prefer high-commission deals over <a href="/glossary/audience-fit/">audience fit</a></li>
 </ul>
 <p>Conflicts should be disclosed.</p>
 <h3>Related terms</h3>

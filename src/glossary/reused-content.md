@@ -69,7 +69,7 @@ related_terms:
 <li><strong>Permission isn't a shield.</strong> Licensing a clip or getting a shoutout from the original creator doesn't clear this policy — it only affects copyright risk, which is separate.</li>
 <li><strong>Watermarks and un-edited re-uploads are the fastest way to get flagged.</strong> If your video and the source are visually near-identical, add visible original elements — not just a logo bug.</li>
 <li><strong>Disclose AI use.</strong> If you use AI for voiceover, dubbing, or visuals in your reaction/commentary content, YouTube expects you to disclose altered or synthetic elements to your audience.</li>
-<li><strong>If you're suspended:</strong> you can appeal within 21 days (decision in ~14 days), or reapply to the YouTube Partner Program 90 days after suspension once you've fixed or removed the violating content.</li>
+<li><strong>If you're suspended:</strong> you can appeal within 21 days (decision in ~14 days), or reapply to the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> 90 days after suspension once you've fixed or removed the violating content.</li>
 </ul>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">

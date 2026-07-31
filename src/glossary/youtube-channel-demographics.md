@@ -12,9 +12,9 @@ related_terms:
   - youtube-channel-keywords
 ---
 
-<h2>YouTube Channel Demographics</h2>
+<h2><a href="/glossary/youtube-channel/">YouTube Channel</a> Demographics</h2>
 
-<h2>What are YouTube Channel Demographics in YouTube Studio?</h2>
+<h2>What are YouTube Channel Demographics in <a href="/glossary/youtube-studio/">YouTube Studio</a>?</h2>
 
 <p>YouTube channel demographics in YouTube Studio refer to the statistical insights that reveal key information about your channel’s audience. These include:</p>
 

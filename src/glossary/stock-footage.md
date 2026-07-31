@@ -30,7 +30,7 @@ related_terms:
 <li>Placeholder footage during an early edit.</li>
 </ul>
 <p>Stock footage can save production time, but generic or mismatched clips can weaken credibility. The strongest choice usually supports the exact statement being made rather than serving as random visual decoration.</p>
-<h3>Stock footage vs. B-roll</h3>
+<h3>Stock footage vs. <a href="/glossary/b-roll/">B-roll</a></h3>
 <p>Stock footage and B-roll can overlap, but they are not synonyms.</p>
 <table>
 <thead>
@@ -69,7 +69,7 @@ related_terms:
 <li>The clip costs nothing.</li>
 <li>The clip has no copyright owner.</li>
 <li>Every commercial use is allowed.</li>
-<li>Attribution is never required.</li>
+<li><a href="/glossary/attribution/">Attribution</a> is never required.</li>
 <li>The file may be resold or redistributed by itself.</li>
 <li>The license is exclusive.</li>
 <li>Identifiable brands, people, artwork, or property are cleared for every purpose.</li>
@@ -82,10 +82,10 @@ related_terms:
 <h4>Editorial use only</h4>
 <p>Editorial footage is intended to illustrate newsworthy events, public-interest topics, culture, or factual reporting. It may include recognizable brands, public figures, events, or locations without the releases required for advertising.</p>
 <p>Editorial-only footage generally cannot be used to imply endorsement, sell a product, promote a company, or decorate unrelated commercial content. It may also require a credit and prohibit substantial alteration.</p>
-<p>A monetized YouTube channel is not automatically disqualified from editorial use, but the context of the specific video and the provider's terms matter. A creator should not assume "educational" or "commentary" overrides the license.</p>
+<p>A monetized <a href="/glossary/youtube-channel/">YouTube channel</a> is not automatically disqualified from editorial use, but the context of the specific video and the provider's terms matter. A creator should not assume "educational" or "commentary" overrides the license.</p>
 <h4>Free stock licenses</h4>
 <p>Free libraries use their own terms. Some permit commercial use without attribution; others require a credit, prohibit certain sensitive uses, or restrict redistribution. "Free download" is not a license description by itself.</p>
-<h4>Public domain and Creative Commons</h4>
+<h4>Public domain and <a href="/glossary/creative-commons/">Creative Commons</a></h4>
 <p>Public-domain footage can be reused without copyright permission, but privacy, publicity, trademark, contractual, or location restrictions may remain. Creative Commons licenses vary: some require attribution, prohibit commercial use, or require derivative works to use the same license.</p>
 <h3>What creators should check before using a clip</h3>
 <ol>
@@ -102,9 +102,9 @@ related_terms:
 <p>License terms can change over time. Keeping the version associated with the download helps document what permission was obtained.</p>
 <h3>How to choose stock footage that fits</h3>
 <h4>Match the technical properties</h4>
-<p>Look for compatible <a href="/glossary/aspect-ratio/">aspect ratio</a>, <a href="/glossary/video-resolution/">video resolution</a>, <a href="/glossary/frame-rate-fps/">frame rate</a>, camera movement, sharpness, and dynamic range. A low-resolution 24 fps clip may look out of place inside a sharp 4K60 project.</p>
+<p>Look for compatible <a href="/glossary/aspect-ratio/">aspect ratio</a>, <a href="/glossary/video-resolution/">video resolution</a>, <a href="/glossary/frame-rate-fps/">frame rate</a>, camera movement, sharpness, and <a href="/glossary/dynamic-range/">dynamic range</a>. A low-resolution 24 fps clip may look out of place inside a sharp 4K60 project.</p>
 <h4>Match the visual style</h4>
-<p>Color temperature, contrast, lens perspective, depth of field, lighting direction, and motion should support the surrounding footage. <a href="/glossary/color-correction/">Color correction</a> can improve consistency, but it cannot make every source look identical.</p>
+<p><a href="/glossary/color-temperature/">Color temperature</a>, contrast, lens perspective, <a href="/glossary/depth-of-field/">depth of field</a>, lighting direction, and motion should support the surrounding footage. <a href="/glossary/color-correction/">Color correction</a> can improve consistency, but it cannot make every source look identical.</p>
 <h4>Match the claim</h4>
 <p>Do not use imagery that falsely represents a person, place, product, or event. A generic laboratory clip should not be presented as footage of a specific scientific discovery unless that is accurate and licensed.</p>
 <h4>Avoid overused clichés</h4>
@@ -149,5 +149,5 @@ related_terms:
 <p>It depends on the license. Some commercial stock licenses do not require a routine credit, while editorial and certain free or Creative Commons licenses do.</p>
 <h4>Can I modify stock footage?</h4>
 <p>Many creative licenses allow editing, cropping, grading, and compositing. Editorial footage may allow only limited technical adjustments. Check the exact asset terms.</p>
-<h4>Can stock footage receive a copyright claim?</h4>
+<h4>Can stock footage receive a <a href="/glossary/copyright-claim/">copyright claim</a>?</h4>
 <p>A valid license gives permission but does not prevent every automated claim or mistaken dispute. Keep the license record and follow the platform's claim process when necessary.</p>

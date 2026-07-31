@@ -6,7 +6,7 @@ permalink: /glossary/multi-channel-network/
 
 ---
 
-<h2>Multi-Channel Network</h2>
+<h2>Multi-Channel <a href="/glossary/dropped-frames/">Network</a></h2>
 <p>A <strong>multi-channel network</strong>, abbreviated <strong>MCN</strong>, is a third-party company that affiliates with multiple YouTube channels and provides services to those channels.</p>
 <p>YouTube says MCN services may include:</p>
 <ul>
@@ -27,7 +27,7 @@ permalink: /glossary/multi-channel-network/
 <li>MCN receives defined YouTube management capabilities.</li>
 <li>YouTube revenue may flow through the network arrangement.</li>
 <li>MCN provides contracted services.</li>
-<li>MCN retains a fee or revenue share.</li>
+<li>MCN retains a fee or <a href="/glossary/revenue-share/">revenue share</a>.</li>
 <li>Relationship ends under the contract and YouTube unlinking process.</li>
 </ol>
 <p>The private agreement and YouTube technical relationship are separate but connected.</p>
@@ -83,7 +83,7 @@ permalink: /glossary/multi-channel-network/
 </ul>
 <h4>Monetization and sales</h4>
 <ul>
-<li>Sponsorship sales</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a> sales</li>
 <li>Advertising support</li>
 <li>Brand introductions</li>
 <li>Revenue optimization</li>
@@ -91,7 +91,7 @@ permalink: /glossary/multi-channel-network/
 </ul>
 <h4>Rights management</h4>
 <ul>
-<li>Content ID</li>
+<li><a href="/glossary/content-id/">Content ID</a></li>
 <li>Copyright claims</li>
 <li>Asset ownership</li>
 <li>Unauthorized upload management</li>
@@ -103,17 +103,17 @@ permalink: /glossary/multi-channel-network/
 <li>Studios</li>
 <li>Equipment</li>
 <li>Editing</li>
-<li>Thumbnails</li>
+<li><a href="/glossary/youtube-thumbnails/">Thumbnails</a></li>
 <li>Development</li>
 <li>Production financing</li>
 </ul>
-<h3>MCNs and the YouTube Partner Program</h3>
+<h3>MCNs and the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a></h3>
 <p>YouTube states that channels affiliated with MCNs must still be reviewed and comply with YouTube monetization policies.</p>
 <p>Joining an MCN does not guarantee:</p>
 <ul>
 <li>YPP approval</li>
 <li>Monetization</li>
-<li>Higher CPM</li>
+<li>Higher <a href="/glossary/cost-per-mille-cpm/">CPM</a></li>
 <li>Sponsorships</li>
 <li>More views</li>
 <li>Copyright protection</li>
@@ -161,7 +161,7 @@ permalink: /glossary/multi-channel-network/
 <li>Revenue share</li>
 <li>Payment</li>
 <li>Channel ownership</li>
-<li>Content ownership</li>
+<li><a href="/glossary/content-ownership/">Content ownership</a></li>
 <li>Content ID authority</li>
 <li>Sponsorship rights</li>
 <li>Data access</li>
@@ -229,5 +229,5 @@ permalink: /glossary/multi-channel-network/
 <p>Not automatically. Ownership depends on the account structure and contract.</p>
 <h4>Can a creator leave an MCN?</h4>
 <p>YouTube provides a technical removal-request process for eligible channels, but the creator must also consider the private agreement.</p>
-<h4>Is an MCN the same as a creator agency?</h4>
+<h4>Is an MCN the same as a <a href="/glossary/creator-agency/">creator agency</a>?</h4>
 <p>No. An agency can provide services without linking channels to a YouTube network content owner.</p>

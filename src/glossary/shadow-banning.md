@@ -34,7 +34,7 @@ related_terms:
 </li>
 </ul>
 
-<p>Platforms may use algorithms to automatically apply shadow bans based on certain triggers, such as the use of banned hashtags, spam-like behavior, or frequent violations of community guidelines.</p>
+<p>Platforms may use algorithms to automatically apply shadow bans based on certain triggers, such as the use of banned <a href="/glossary/hashtags/">hashtags</a>, spam-like behavior, or frequent violations of community guidelines.</p>
 
 <h2>What is the Point of Shadow Banning?</h2>
 

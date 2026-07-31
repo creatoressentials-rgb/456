@@ -9,7 +9,7 @@ permalink: /glossary/morality-clause/
 <h2>Morality Clause</h2>
 <p>A <strong>morality clause</strong> is a contract provision that allows a brand, creator, or both parties to suspend, terminate, or take another defined action when specified conduct creates legal, safety, or reputational risk.</p>
 <p>It is also called a <strong>morals clause</strong>, <strong>conduct clause</strong>, or <strong>reputation clause</strong>. In a creator <a href="/glossary/sponsorship">sponsorship</a>, the brand may use the clause to protect itself if the creator engages in conduct that materially conflicts with the brand's stated standards or damages the campaign.</p>
-<p>The clause should not be confused with <strong>moral rights</strong> in copyright law. Moral rights concern an author's attribution and the integrity of certain works. A morality clause concerns personal or organizational conduct under a contract.</p>
+<p>The clause should not be confused with <strong>moral rights</strong> in copyright law. Moral rights concern an author's <a href="/glossary/attribution/">attribution</a> and the integrity of certain works. A morality clause concerns personal or organizational conduct under a contract.</p>
 <h3>Why creator contracts include morality clauses</h3>
 <p>A brand may associate its name, product, and advertising budget with the creator's identity. A serious controversy can affect:</p>
 <ul>
@@ -129,7 +129,7 @@ permalink: /glossary/morality-clause/
 <li>Temporary campaign pause</li>
 <li>Removal of the creator's name or image</li>
 <li>Replacement content</li>
-<li>Suspension of future deliverables</li>
+<li>Suspension of future <a href="/glossary/deliverables/">deliverables</a></li>
 <li>Termination</li>
 <li>Repayment of unearned advances</li>
 <li>Payment for completed work</li>
@@ -157,10 +157,10 @@ permalink: /glossary/morality-clause/
 <p>The agreement should state:</p>
 <ul>
 <li>Whether unpublished work can be used</li>
-<li>Whether live sponsored content must be removed</li>
+<li>Whether live <a href="/glossary/sponsored-content/">sponsored content</a> must be removed</li>
 <li>Whether the brand may continue running ads</li>
 <li>Whether <a href="/glossary/partnership-ads">partnership ads</a> permission must be revoked</li>
-<li>Whether paid usage ends immediately or after a wind-down period</li>
+<li>Whether <a href="/glossary/paid-usage/">paid usage</a> ends immediately or after a wind-down period</li>
 <li>Whether the creator receives payment for completed deliverables</li>
 <li>Whether either party can use the other's name after termination</li>
 <li>How confidentiality and non-disparagement terms operate</li>

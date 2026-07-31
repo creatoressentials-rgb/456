@@ -59,7 +59,7 @@ related_terms:
   <td>720p HD</td>
   <td style="text-align:right">1280×720</td>
   <td style="text-align:right">0.92 million</td>
-  <td>Basic HD streaming, webcams, and lightweight exports</td>
+  <td>Basic HD streaming, <a href="/glossary/webcams/">webcams</a>, and lightweight exports</td>
 </tr>
 <tr>
   <td>1080p Full HD</td>
@@ -169,7 +169,7 @@ related_terms:
 <tr>
   <td>Cropping and reframing</td>
   <td>Limited before visible quality loss</td>
-  <td>More room to crop into a 1080p timeline</td>
+  <td>More room to crop into a 1080p <a href="/glossary/timeline/">timeline</a></td>
 </tr>
 <tr>
   <td>Viewer benefit</td>
@@ -196,7 +196,7 @@ related_terms:
 <li>Missed focus.</li>
 <li>Motion blur from unsuitable <a href="/glossary/shutter-speed/">shutter speed</a>.</li>
 <li>Clipped highlights or crushed shadows.</li>
-<li>Excessive ISO noise.</li>
+<li>Excessive <a href="/glossary/iso/">ISO</a> noise.</li>
 <li>Compression damage already baked into the source.</li>
 <li>Detail lost through aggressive digital zoom.</li>
 </ul>

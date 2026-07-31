@@ -37,7 +37,7 @@ related_terms:
 <tbody>
 <tr>
   <td>Technical or input LUT</td>
-  <td>Converts known source encoding into another expected space or display appearance</td>
+  <td>Converts known source <a href="/glossary/encoding/">encoding</a> into another expected space or display appearance</td>
   <td>Camera Log to Rec. 709</td>
 </tr>
 <tr>

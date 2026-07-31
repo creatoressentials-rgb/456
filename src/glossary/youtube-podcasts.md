@@ -22,7 +22,7 @@ related_terms:
 <h3>How the "podcast" designation actually works</h3>
 <p>You get a show marked as a podcast in one of two ways:</p>
 <ol>
-<li><strong>Create a new podcast in YouTube Studio.</strong> Go to Create → New podcast → "Create a new podcast," then fill in a title, description, visibility (public or private), and a square thumbnail (1280×1280 recommended).</li>
+<li><strong>Create a new podcast in <a href="/glossary/youtube-studio/">YouTube Studio</a>.</strong> Go to Create → New podcast → "Create a new podcast," then fill in a title, description, visibility (public or private), and a square thumbnail (1280×1280 recommended).</li>
 <li><strong>Set an existing playlist as a podcast.</strong> In YouTube Studio, go to Content → Playlists, hover over the playlist, open the menu, and choose Set as podcast.</li>
 </ol>
 <p>Either way, only add full-length episodes to the podcast playlist, in the order they should be consumed — YouTube's own guidance warns against generic titles like "Full Episodes" or "New Uploads" (YouTube will override these with your channel name inside the YouTube Music app if it decides your title is too vague).</p>
@@ -30,7 +30,7 @@ related_terms:
 <ul>
 <li>Not every playlist marked "podcast" gets podcast features. Content the creator doesn't own, or content with unresolved <a href="/glossary/copyright-claim/">copyright claims</a> or <a href="/glossary/copyright-strike/">copyright strikes</a>, is excluded even if you flag the playlist as a podcast.</li>
 <li>Shorts made to promote your podcast never appear in YouTube Music, even if the podcast playlist itself is eligible.</li>
-<li>You may be asked to verify your account before you can create a new podcast. This ties into YouTube's standard <a href="/glossary/youtube-advanced-features/">Advanced Features</a> verification system — phone verification unlocks intermediate features, while advanced features (longer uploads, custom thumbnails, and — practically speaking — a smoother podcast setup) come either automatically to channels with established positive history, or through identity verification. It is not, per YouTube's own documentation, framed as an absolute one-time gate — but budgeting time for verification before you plan a launch date is a smart move.</li>
+<li>You may be asked to verify your account before you can create a new podcast. This ties into YouTube's standard <a href="/glossary/youtube-advanced-features/">Advanced Features</a> verification system — phone verification unlocks intermediate features, while advanced features (longer uploads, custom <a href="/glossary/youtube-thumbnails/">thumbnails</a>, and — practically speaking — a smoother podcast setup) come either automatically to channels with established positive history, or through identity verification. It is not, per YouTube's own documentation, framed as an absolute one-time gate — but budgeting time for verification before you plan a launch date is a smart move.</li>
 </ul>
 
 <h3>Do you need video, or does audio-only work?</h3>
@@ -68,9 +68,9 @@ related_terms:
 <p>Once your playlist is a podcast, YouTube Studio gives you a dedicated analytics view: go to Analytics → Overview → the "Your Podcast(s)" card for a quick snapshot, or click through to "See Podcast Analytics" for the full picture, including:</p>
 <ul>
 <li>Views and <a href="/glossary/monetized-playbacks/">watch time</a></li>
-<li>Average view duration and audience-retention "key moments"</li>
+<li><a href="/glossary/average-view-duration/">Average view duration</a> and audience-<a href="/glossary/retention/">retention</a> "key moments"</li>
 <li><a href="/glossary/traffic-sources/">Traffic sources</a> and <a href="/glossary/suggested-videos/">suggested videos</a> performance</li>
-<li>Audience demographics</li>
+<li><a href="/glossary/audience-demographics/">Audience demographics</a></li>
 <li>Revenue data (once monetized)</li>
 </ul>
 <p>This is a genuinely separate view from standard per-video analytics, and it's one of the more useful reasons to formally designate your show as a podcast rather than leaving it as an ordinary playlist.</p>
@@ -105,6 +105,6 @@ related_terms:
 <h4>Can I use my existing RSS feed instead of manually uploading every episode?</h4>
 <p>Yes. Submit your RSS feed from YouTube Studio's Create menu, verify ownership via an emailed code, choose which episodes to bring in, and new episodes will auto-upload going forward. Keep in mind it won't distribute your YouTube presence elsewhere, won't notify subscribers about back-catalog additions, and won't auto-sync edits you make to your feed later.</p>
 <h4>Do I need to be in the YouTube Partner Program to monetize a podcast?</h4>
-<p>Yes — podcasts use the same YouTube Partner Program thresholds and monetization tools (ads, memberships, Super Chat/Super Thanks/Super Stickers) as any other channel. There's no separate podcast-specific monetization track.</p>
+<p>Yes — podcasts use the same YouTube Partner Program thresholds and monetization tools (ads, memberships, <a href="/glossary/super-chat/">Super Chat</a>/<a href="/glossary/super-thanks/">Super Thanks</a>/<a href="/glossary/super-stickers/">Super Stickers</a>) as any other channel. There's no separate podcast-specific monetization track.</p>
 <h4>Is YouTube really the most popular place people listen to podcasts?</h4>
 <p>YouTube's own marketing claims it's the #1 U.S. platform for podcast consumption, and independent Edison Research data backs a real trend in that direction — 31% of weekly U.S. podcast listeners named YouTube their most-used podcast service as of an October 2024 report, ahead of Spotify (27%) and Apple Podcasts (15%). Treat higher figures circulating online with caution unless you can trace them to a specific, dated source.</p>

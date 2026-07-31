@@ -6,7 +6,7 @@ permalink: /glossary/perpetual-usage-rights/
 
 ---
 
-<h2>Perpetual Usage Rights</h2>
+<h2>Perpetual <a href="/glossary/usage-rights/">Usage Rights</a></h2>
 <p><strong>Perpetual usage rights</strong> give a brand or other licensee permission to use creator content with no ordinary contractual end date.</p>
 <p>In creator negotiations, the phrase is often summarized as “the brand can use the content forever.” More precisely, the license continues indefinitely or for the remaining legal life of the relevant rights unless the agreement, applicable law, or another valid termination rule ends it.</p>
 <p>Perpetual usage does not automatically mean the brand owns the content. It is possible for the creator to retain <a href="/glossary/content-ownership">content ownership</a> while granting a license with no expiration date.</p>
@@ -23,7 +23,7 @@ permalink: /glossary/perpetual-usage-rights/
 <li>Exclusivity</li>
 <li>Creator name, image, voice, and likeness</li>
 <li>Advertising through creator accounts</li>
-<li>Attribution</li>
+<li><a href="/glossary/attribution/">Attribution</a></li>
 <li>AI training and synthetic-media uses</li>
 <li>Whether the license is revocable or irrevocable</li>
 <li>Whether the brand can transfer the rights</li>
@@ -66,7 +66,7 @@ permalink: /glossary/perpetual-usage-rights/
   <td>Ownership changes</td>
 </tr>
 <tr>
-  <td>Work made for hire</td>
+  <td><a href="/glossary/work-made-for-hire/">Work made for hire</a></td>
   <td>Qualifying hiring party is treated as author and owner</td>
   <td>Creator may never own the copyright</td>
 </tr>
@@ -159,7 +159,7 @@ permalink: /glossary/perpetual-usage-rights/
 <li>A one-year license</li>
 <li>Automatic expiration unless renewed</li>
 <li>Renewal at a stated fee</li>
-<li>Perpetual organic archive rights but limited paid usage</li>
+<li>Perpetual organic archive rights but limited <a href="/glossary/paid-usage/">paid usage</a></li>
 <li>A brand website archive with no new promotion</li>
 <li>A fixed number of advertising impressions</li>
 <li>A defined spend cap</li>
@@ -178,7 +178,7 @@ permalink: /glossary/perpetual-usage-rights/
 <li>AI training or synthetic replication</li>
 <li>Rights to every campaign draft and raw file</li>
 <li>Continued use after product or brand controversy</li>
-<li>Perpetual category exclusivity</li>
+<li>Perpetual <a href="/glossary/category-exclusivity/">category exclusivity</a></li>
 <li>Rights beginning before full payment</li>
 <li>A broad grant hidden in ordinary <a href="/glossary/payment-terms">payment terms</a></li>
 <li>Ownership language disguised as “standard usage”</li>

@@ -24,7 +24,7 @@ related_terms:
 
 <ul>
 <li>
-<p>Audience Retention: They can guide viewers to other relevant videos, keeping them engaged on your channel.</p>
+<p>Audience <a href="/glossary/retention/">Retention</a>: They can guide viewers to other relevant videos, keeping them engaged on your channel.</p>
 </li>
 <li>
 <p>Drive Traffic: You can use cards to send viewers to external websites, encouraging conversions and lead generation.</p>
@@ -43,7 +43,7 @@ related_terms:
 
 <ol>
 <li>
-<p>Find the Video: Log into your YouTube account and go to YouTube Studio. Locate the video to which you want to add a card.</p>
+<p>Find the Video: Log into your YouTube account and go to <a href="/glossary/youtube-studio/">YouTube Studio</a>. Locate the video to which you want to add a card.</p>
 </li>
 <li>
 <p>Pick the Card: In the video details section, click on "Cards" to open the card editor. Pick the type of card you want to add by hitting the plus sign next to your choice.</p>
@@ -63,7 +63,7 @@ related_terms:
 <p>Increased Engagement: Encourage viewers to interact more with your videos and channel.</p>
 </li>
 <li>
-<p>Better CTR: Interactive elements typically have better click-through rates than static links.</p>
+<p>Better <a href="/glossary/youtube-impressions/">CTR</a>: Interactive elements typically have better click-through rates than static links.</p>
 </li>
 <li>
 <p>Traffic Diversification: Direct traffic to different videos, playlists, external websites, or other channels.</p>
@@ -73,7 +73,7 @@ related_terms:
 </li>
 </ul>
 
-<h2>What Is the Difference Between YouTube Cards and End Screens?</h2>
+<h2>What Is the Difference Between YouTube Cards and <a href="/glossary/end-screens/">End Screens</a>?</h2>
 
 <p>When it comes to enhancing viewer engagement and channel performance, both YouTube Cards and end screens offer unique advantages, but they differ in several key areas.</p>
 

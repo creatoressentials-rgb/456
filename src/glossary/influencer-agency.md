@@ -11,7 +11,7 @@ permalink: /glossary/influencer-agency/
 <p>An agency may work for:</p>
 <ul>
 <li>Brands</li>
-<li>Influencers</li>
+<li><a href="/glossary/influencers/">Influencers</a></li>
 <li>Content creators</li>
 <li>Advertising agencies</li>
 <li>Platforms</li>
@@ -52,7 +52,7 @@ permalink: /glossary/influencer-agency/
 <p>Produces creator-style content, manages shoots, or develops campaign assets.</p>
 <h4>Full-service influencer agency</h4>
 <p>Combines brand strategy, creator sourcing, representation, production, paid amplification, and analytics.</p>
-<h3>Influencer agency vs. creator agency</h3>
+<h3>Influencer agency vs. <a href="/glossary/creator-agency/">creator agency</a></h3>
 <table>
 <thead>
 <tr>
@@ -80,7 +80,7 @@ permalink: /glossary/influencer-agency/
 </tbody>
 </table>
 <p>In everyday use, the terms overlap substantially.</p>
-<h3>Influencer agency vs. talent manager</h3>
+<h3>Influencer agency vs. <a href="/glossary/talent-manager/">talent manager</a></h3>
 <table>
 <thead>
 <tr>
@@ -121,10 +121,10 @@ permalink: /glossary/influencer-agency/
 <li><a href="/glossary/campaign-brief">Campaign brief</a></li>
 <li>Compensation</li>
 <li>Contract</li>
-<li>Deliverables</li>
+<li><a href="/glossary/deliverables/">Deliverables</a></li>
 <li>Approval</li>
 <li>Disclosure</li>
-<li>Usage rights</li>
+<li><a href="/glossary/usage-rights/">Usage rights</a></li>
 <li>Paid media</li>
 <li>Reporting</li>
 </ol>
@@ -141,7 +141,7 @@ permalink: /glossary/influencer-agency/
 <li>Technology fee</li>
 <li>Campaign markup</li>
 <li>Success fee</li>
-<li>Revenue share</li>
+<li><a href="/glossary/revenue-share/">Revenue share</a></li>
 </ul>
 <p>The same campaign can include several layers of fees.</p>
 <p>A creator should clarify whether the amount offered is:</p>
@@ -227,14 +227,14 @@ permalink: /glossary/influencer-agency/
 </ul>
 <h3>Warning signs</h3>
 <ul>
-<li>Guaranteed viral results</li>
+<li>Guaranteed <a href="/glossary/viral/">viral</a> results</li>
 <li>Hidden compensation</li>
 <li>Unclear client identity</li>
-<li>Pressure to hide sponsorship</li>
+<li>Pressure to hide <a href="/glossary/sponsorship/">sponsorship</a></li>
 <li>No written scope</li>
 <li>Broad account access</li>
 <li>Unlimited usage buried in campaign terms</li>
-<li>No payment timeline</li>
+<li>No payment <a href="/glossary/timeline/">timeline</a></li>
 <li>Inflated audience data</li>
 <li>Creator fees withheld without explanation</li>
 <li>No conflict policy</li>
@@ -257,6 +257,6 @@ permalink: /glossary/influencer-agency/
 <h4>How do influencer agencies get paid?</h4>
 <p>Common structures include retainers, project fees, creator commissions, campaign markups, production fees, and percentages of spend.</p>
 <h4>Is an influencer agency the same as an MCN?</h4>
-<p>No. An MCN is a YouTube-specific network relationship. An influencer agency can operate across platforms without linking channels.</p>
+<p>No. An MCN is a YouTube-specific <a href="/glossary/dropped-frames/">network</a> relationship. An influencer agency can operate across platforms without linking channels.</p>
 <h4>Who is responsible for disclosure?</h4>
 <p>Brands, creators, and agencies all have roles in creating compliant endorsements. The creator should not rely solely on agency instructions.</p>

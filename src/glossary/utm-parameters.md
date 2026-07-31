@@ -181,7 +181,7 @@ permalink: /glossary/utm-parameters/
 </ul>
 <p>Final URL:</p>
 <p><code>https://example.com/product?utm_source=youtube&amp;utm_medium=creator&amp;utm_campaign=summer_launch&amp;utm_content=rob_description_top</code></p>
-<p>A URL builder can reduce punctuation and encoding errors.</p>
+<p>A URL builder can reduce punctuation and <a href="/glossary/encoding/">encoding</a> errors.</p>
 <h3>UTM naming conventions</h3>
 <p>A team can establish rules for:</p>
 <ul>
@@ -227,7 +227,7 @@ permalink: /glossary/utm-parameters/
 <p>UTMs are intended for inbound campaign links.</p>
 <p>Using them on links between pages of the same website can:</p>
 <ul>
-<li>Start a new session or campaign attribution</li>
+<li>Start a new session or campaign <a href="/glossary/attribution/">attribution</a></li>
 <li>Overwrite the original acquisition source</li>
 <li>Distort reports</li>
 <li>Break the customer journey</li>
@@ -268,7 +268,7 @@ permalink: /glossary/utm-parameters/
 <li>Affiliate redirects</li>
 </ul>
 <p>If parameters disappear before the landing page loads, analytics may not record the campaign correctly.</p>
-<h3>UTMs and conversion tracking</h3>
+<h3>UTMs and <a href="/glossary/conversion-tracking/">conversion tracking</a></h3>
 <p>UTMs tell analytics how the visit was labeled.</p>
 <p><a href="/glossary/conversion-tracking">Conversion tracking</a> records the valuable action.</p>
 <p>A complete setup needs:</p>
@@ -317,5 +317,5 @@ permalink: /glossary/utm-parameters/
 <p>Campaign values can be separated by capitalization in reporting, so consistent lowercase naming is a strong practice.</p>
 <h4>Do UTMs track individual people?</h4>
 <p>They label campaign traffic. They should not contain personal information, and they do not identify every person across devices by themselves.</p>
-<h4>Do UTM parameters affect SEO?</h4>
+<h4>Do UTM parameters affect <a href="/glossary/seo/">SEO</a>?</h4>
 <p>They do not inherently change page content, but duplicate parameter URLs can create reporting and crawling complexity. Sites should manage canonical URLs and link practices appropriately.</p>

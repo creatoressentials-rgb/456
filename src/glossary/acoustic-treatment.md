@@ -99,7 +99,7 @@ related_terms:
 <li>Soft furnishings or bookshelves that break up bare parallel surfaces.</li>
 <li>Noise control at the source, such as turning off a fan during takes.</li>
 </ul>
-<p>Treatment cannot remove electrical hum, microphone self-noise, clipping, or poor gain staging. Those problems must be addressed through microphone choice, cables, placement, and the <a href="/glossary/audio-interface/">audio interface</a> or recording device.</p>
+<p>Treatment cannot remove electrical hum, microphone self-noise, clipping, or poor <a href="/glossary/gain-staging/">gain staging</a>. Those problems must be addressed through microphone choice, cables, placement, and the <a href="/glossary/audio-interface/">audio interface</a> or recording device.</p>
 <h3>Common acoustic-treatment mistakes</h3>
 <ul>
 <li><strong>Confusing treatment with soundproofing:</strong> Panels control reflections but do not stop most sound transmission.</li>
@@ -122,7 +122,7 @@ related_terms:
 <h4>Does acoustic foam soundproof a room?</h4>
 <p>No. Foam can reduce some internal reflections, especially at higher frequencies, but meaningful sound isolation requires structural mass, sealing, and often decoupling.</p>
 <h4>Do I need acoustic treatment for a dynamic microphone?</h4>
-<p>Possibly. Dynamic microphones are often used close to the mouth and may capture less room sound than a distant sensitive condenser, but the room still affects any microphone. Placement and pickup pattern matter more than the word "dynamic."</p>
+<p>Possibly. <a href="/glossary/dynamic-microphones/">Dynamic microphones</a> are often used close to the mouth and may capture less room sound than a distant sensitive condenser, but the room still affects any microphone. Placement and pickup pattern matter more than the word "dynamic."</p>
 <h4>Are reflection filters enough for voiceover?</h4>
 <p>They can reduce reflections near the rear and sides of a microphone, but they do not control the whole room. A filter works best alongside close placement and absorption in the reflection path behind the speaker.</p>
 <h4>What is the cheapest way to improve room acoustics?</h4>

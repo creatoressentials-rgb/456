@@ -62,7 +62,7 @@ related_terms:
 <p>Professional workflows may overlap the stages, but separating the goals prevents creators from hiding technical problems underneath a dramatic preset.</p>
 <h3>A practical color-grading workflow</h3>
 <h4>1. Decide the delivery target</h4>
-<p>Before grading, confirm whether the project will be delivered as standard dynamic range, HDR, or another managed format. The timeline, monitoring, and output transform must agree with that decision.</p>
+<p>Before grading, confirm whether the project will be delivered as standard <a href="/glossary/dynamic-range/">dynamic range</a>, HDR, or another managed format. The <a href="/glossary/timeline/">timeline</a>, monitoring, and output transform must agree with that decision.</p>
 <p>Most ordinary YouTube creator workflows still target Rec.709 SDR, while HDR projects require compatible recording, monitoring, metadata, codec, and export settings.</p>
 <h4>2. Normalize and match the footage</h4>
 <p>Confirm that Log, RAW, HDR, and standard clips are interpreted correctly. Correct major exposure and white-balance errors, then match cameras and shots.</p>
@@ -80,7 +80,7 @@ related_terms:
 <h4>7. Review the sequence and export</h4>
 <p>Watch the complete edit for sudden shifts, not only favorite still frames. Check representative consumer displays when possible and export through the correct <a href="/glossary/video-codec/">video codec</a>, color space, bit depth, and metadata path.</p>
 <h3>LUTs in color grading</h3>
-<p>A <strong>LUT</strong>, or lookup table, converts input values into predetermined output values. LUTs are useful, but they are not intelligent filters.</p>
+<p>A <strong><a href="/glossary/lut/">LUT</a></strong>, or lookup table, converts input values into predetermined output values. LUTs are useful, but they are not intelligent filters.</p>
 <p>Common categories include:</p>
 <ul>
 <li><strong>Technical LUTs:</strong> Transform a particular camera Log or color space into another working or display space.</li>
@@ -160,7 +160,7 @@ related_terms:
 <li>Accurate products and brand colors.</li>
 <li>A repeatable look across uploads.</li>
 <li>Contrast that survives mobile viewing and platform compression.</li>
-<li>Restraint, so thumbnails, graphics, and footage still belong together.</li>
+<li>Restraint, so <a href="/glossary/youtube-thumbnails/">thumbnails</a>, graphics, and footage still belong together.</li>
 </ol>
 <p>Creators can save a reusable grade as a preset, node tree, or adjustment-layer template, but each recording should still be checked. Lighting, exposure, wardrobe, camera settings, and location change the input.</p>
 
@@ -182,4 +182,4 @@ related_terms:
 <h4>Can a LUT fix bad footage?</h4>
 <p>No. A LUT cannot restore clipped detail, remove severe noise, correct focus, or adapt intelligently to every exposure and white-balance error.</p>
 <h4>Why does my grade look different after upload?</h4>
-<p>Possible causes include color-space or gamma mismatches, incorrect metadata, display differences, platform transcoding, HDR-to-SDR conversion, and judging compressed playback before high-quality processing finishes.</p>
+<p>Possible causes include color-space or gamma mismatches, incorrect metadata, display differences, platform <a href="/glossary/transcoding/">transcoding</a>, HDR-to-SDR conversion, and judging compressed playback before high-quality processing finishes.</p>

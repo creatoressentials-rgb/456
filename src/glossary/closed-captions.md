@@ -10,7 +10,7 @@ related_terms:
   - youtube-algorithm
 ---
 
-<h2>Closed Captions (CC)</h2>
+<h2>Closed Captions (<a href="/glossary/creative-commons/">CC</a>)</h2>
 
 <h2>What are Closed Captions?</h2>
 
@@ -28,7 +28,7 @@ related_terms:
 <p>Comprehension: They can improve understanding for viewers who may have difficulty grasping an accent or dialect.</p>
 </li>
 <li>
-<p>SEO Benefits: YouTube's algorithm can crawl the text in closed captions, which can improve a video's discoverability.</p>
+<p><a href="/glossary/seo/">SEO</a> Benefits: YouTube's algorithm can crawl the text in closed captions, which can improve a video's discoverability.</p>
 </li>
 <li>
 <p>Multi-Lingual Support: Closed captions can be translated into different languages, broadening the potential audience.</p>

@@ -20,12 +20,12 @@ related_terms:
 ---
 
 <h2>YouTube Advanced Mode</h2>
-<p><strong>Quick answer:</strong> YouTube Advanced Mode is the expanded analytics view inside YouTube Studio. It's where you go when the default Analytics tabs (Overview, Content, Audience, etc.) don't cut it — Advanced Mode adds custom filters, side-by-side comparisons, extra metrics, and the ability to group and export data. If a glossary term on this site tells you a metric is "only visible in Advanced Mode," this is the screen it means.</p>
+<p><strong>Quick answer:</strong> YouTube Advanced Mode is the expanded analytics view inside <a href="/glossary/youtube-studio/">YouTube Studio</a>. It's where you go when the default Analytics tabs (Overview, Content, Audience, etc.) don't cut it — Advanced Mode adds custom filters, side-by-side comparisons, extra metrics, and the ability to group and export data. If a glossary term on this site tells you a metric is "only visible in Advanced Mode," this is the screen it means.</p>
 
 <h3>What Advanced Mode unlocks that the default view doesn't</h3>
 <p>The default Analytics tabs are built for a fast check-in: did the video do okay, where did views come from, how's watch time trending. Advanced Mode is built for actually investigating a question. It gives you:</p>
 <ul>
-<li><strong>More metrics</strong> — grouped into categories like Reach, Interactions, Revenue, Members, Playlists, Clips, and End screens, several of which don't appear on the default tabs at all. This is where you'll find <a href="/glossary/engaged-views/">Engaged Views</a> and <a href="/glossary/unique-viewers/">Unique Viewers</a>, for example.</li>
+<li><strong>More metrics</strong> — grouped into categories like Reach, Interactions, Revenue, Members, Playlists, Clips, and <a href="/glossary/end-screens/">End screens</a>, several of which don't appear on the default tabs at all. This is where you'll find <a href="/glossary/engaged-views/">Engaged Views</a> and <a href="/glossary/unique-viewers/">Unique Viewers</a>, for example.</li>
 <li><strong>Filters</strong> — narrow any report by geography, device, subscription status, content type, and more. Filters grey out automatically if they don't apply to the current view or if a video doesn't have enough traffic to support them.</li>
 <li><strong>Comparisons</strong> — put two videos, two groups, or two time periods side by side, and add a secondary metric to compare at the same time.</li>
 <li><strong>Breakdowns</strong> — re-slice the same data by dimension: traffic source, geography, date, audience, monetization, or engagement type. This is the fastest way to go from "views dropped" to "views dropped specifically from <a href="/glossary/suggested-videos/">Suggested Videos</a>."</li>
@@ -40,7 +40,7 @@ related_terms:
 <li>Under any report, click <strong>Advanced Mode</strong> or <strong>See More</strong>.</li>
 </ol>
 <p>It's a desktop/browser feature — most of it isn't available on mobile, so don't go looking for it in the app.</p>
-<p>Once you're in, the top navigation also gives you shortcuts to <strong>Popular</strong> reports (top content, <a href="/glossary/traffic-sources/">traffic sources</a>, and geographies over the last 28 days), <strong>Special reports</strong> (audience age/gender, retention rate, first-24-hours performance, real-time data), and any <strong>Saved reports</strong> you've built.</p>
+<p>Once you're in, the top navigation also gives you shortcuts to <strong>Popular</strong> reports (top content, <a href="/glossary/traffic-sources/">traffic sources</a>, and geographies over the last 28 days), <strong>Special reports</strong> (audience age/gender, <a href="/glossary/retention/">retention</a> rate, first-24-hours performance, real-time data), and any <strong>Saved reports</strong> you've built.</p>
 
 <h3>Useful ways to actually use it</h3>
 <p><strong>Compare content types, not just individual videos.</strong> Build a group for one content pillar or format and another group for a different one, then use Add Comparison to see which one wins on watch time, subscriber conversion, or any metric you pick. This is more useful than eyeballing single-video stats, which get noisy fast.</p>

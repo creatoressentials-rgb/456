@@ -21,10 +21,10 @@ related_terms:
 <li><strong>3 public uploads in the last 90 days</strong></li>
 <li>Either <strong>3,000 watch hours in the last 12 months</strong> or <strong>3 million Shorts views in the last 90 days</strong></li>
 </ul>
-<p>That's a different, lower threshold than the 1,000-subscriber / 4,000-watch-hour bar you'll see quoted on most articles — that higher number is for full YouTube Partner Program acceptance (which adds ad revenue on top of fan funding). If you're only chasing memberships, Super Chat, Super Stickers, or Super Thanks, 500 subscribers is the number that matters.</p>
+<p>That's a different, lower threshold than the 1,000-subscriber / 4,000-watch-hour bar you'll see quoted on most articles — that higher number is for full <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> acceptance (which adds ad revenue on top of <a href="/glossary/fan-funding/">fan funding</a>). If you're only chasing memberships, <a href="/glossary/super-chat/">Super Chat</a>, <a href="/glossary/super-stickers/">Super Stickers</a>, or <a href="/glossary/super-thanks/">Super Thanks</a>, 500 subscribers is the number that matters.</p>
 <p>Beyond the subscriber/watch-hour thresholds, your channel also needs to:</p>
 <ul>
-<li>Not be set (or majority-set) as "made for kids"</li>
+<li>Not be set (or majority-set) as "<a href="/glossary/made-for-kids/">made for kids</a>"</li>
 <li>Not rely heavily on videos with claimed music</li>
 <li>Be in good standing, with no active Community Guidelines strikes</li>
 <li>Have a channel owner who is 18+ and based in an eligible location</li>
@@ -44,14 +44,14 @@ related_terms:
 <p>One thing to know before you lean on memberships too hard: since late 2025, YouTube surfaces members-only videos in the main feed to non-members (marked "members only") rather than hiding them entirely. It can help promote your membership tier, but several creators have reported it also depresses overall view counts and frustrates non-paying viewers who keep hitting a paywall in their feed. Worth testing carefully rather than gating everything.</p>
 
 <h3>Revenue split</h3>
-<p>YouTube takes <strong>30%</strong> of all membership revenue; creators keep <strong>70%</strong>. Example: a $4.99/month tier nets the creator about $3.49 per member, before taxes. This 70/30 split is notably better than YouTube's standard ad revenue share (55/45), which is part of why memberships are worth layering on top of <a href="/glossary/ad-revenue/">ad revenue</a> rather than treating as a replacement for it.</p>
+<p>YouTube takes <strong>30%</strong> of all membership revenue; creators keep <strong>70%</strong>. Example: a $4.99/month tier nets the creator about $3.49 per member, before taxes. This 70/30 split is notably better than YouTube's standard ad <a href="/glossary/revenue-share/">revenue share</a> (55/45), which is part of why memberships are worth layering on top of <a href="/glossary/ad-revenue/">ad revenue</a> rather than treating as a replacement for it.</p>
 
 <h3>What actually drives signups</h3>
 <p>Badges and emoji alone rarely convert viewers. What tends to move the needle:</p>
 <ul>
 <li><strong>Perks that extend content you're already making</strong> — a members-only version of your regular livestream, early access to videos you'd post anyway — rather than a separate content obligation that burns you out and gets cut within a few months.</li>
 <li><strong>Actively pitching it</strong>, on camera and in posts — most viewers don't notice the Join button until you tell them what's in it for them.</li>
-<li><strong>First 30 days matter most.</strong> Retention in the first billing cycle is what determines whether memberships become a real revenue line or a rounding error. If early members don't see value fast, they cancel before the second charge.</li>
+<li><strong>First 30 days matter most.</strong> <a href="/glossary/retention/">Retention</a> in the first billing cycle is what determines whether memberships become a real revenue line or a rounding error. If early members don't see value fast, they cancel before the second charge.</li>
 <li><strong>Realistic expectations on conversion.</strong> Across most niches, roughly <strong>1–2% of subscribers</strong> become paying members. Education and coaching channels often run higher (2–4%); large entertainment/gaming channels often run lower (0.5–1%) but can still generate meaningful revenue at scale. Treat memberships as a supplement to ad revenue, not a replacement.</li>
 </ul>
 
@@ -72,4 +72,4 @@ related_terms:
 <h4>What percentage of my subscribers will actually become paying members?</h4>
 <p>Most channels see roughly 1–2% of subscribers convert. Education and coaching niches often see 2–4%; large entertainment or gaming channels often see 0.5–1% but can still generate solid revenue due to scale.</p>
 <h4>Can I offer annual memberships instead of monthly?</h4>
-<p>No. YouTube channel memberships are month-to-month only — there's no annual billing option, unlike some third-party membership platforms.</p>
+<p>No. <a href="/glossary/youtube-channel/">YouTube channel</a> memberships are month-to-month only — there's no annual billing option, unlike some third-party membership platforms.</p>

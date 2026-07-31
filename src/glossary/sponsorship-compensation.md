@@ -6,10 +6,10 @@ permalink: /glossary/sponsorship-compensation/
 
 ---
 
-<h2>Sponsorship Compensation</h2>
+<h2><a href="/glossary/sponsorship/">Sponsorship</a> Compensation</h2>
 <p><strong>Sponsorship compensation</strong> is everything of value a creator receives in exchange for participating in a brand relationship.</p>
 <p>It can include money, products, services, travel, affiliate commissions, performance bonuses, licensing fees, retainers, equity, event access, or a combination of benefits.</p>
-<p>Compensation is not the same as <a href="/glossary/payment-terms">payment terms</a>. Compensation answers <strong>what the creator receives and how the amount is calculated</strong>. Payment terms answer <strong>when and how it is paid</strong>.</p>
+<p>Compensation is not the same as <a href="/glossary/payment-terms">payment terms</a>. Compensation answers <strong>what the creator receives and how the amount is calculated</strong>. <a href="/glossary/payment-terms/">Payment terms</a> answer <strong>when and how it is paid</strong>.</p>
 <h3>Common sponsorship compensation models</h3>
 <h4>Flat fee</h4>
 <p>The creator receives a guaranteed amount for defined work.</p>
@@ -37,14 +37,14 @@ permalink: /glossary/sponsorship-compensation/
 <li>Loaned product that must be returned</li>
 </ul>
 <p>A no-obligation gift is different from a contract requiring a creator to produce and publish content.</p>
-<h4>Affiliate commission</h4>
+<h4><a href="/glossary/affiliate-commission/">Affiliate commission</a></h4>
 <p>The creator earns a percentage or fixed amount when tracked viewers purchase, sign up, or complete another action.</p>
 <p>Define:</p>
 <ul>
 <li>Commission rate</li>
 <li>Eligible products</li>
 <li>Tracking method</li>
-<li>Cookie or attribution window</li>
+<li>Cookie or <a href="/glossary/attribution/">attribution</a> window</li>
 <li>Returns and cancellations</li>
 <li>New versus existing customers</li>
 <li>Payment schedule</li>
@@ -71,7 +71,7 @@ permalink: /glossary/sponsorship-compensation/
 <ul>
 <li>View milestones</li>
 <li>Sales targets</li>
-<li>Conversion rate</li>
+<li><a href="/glossary/conversion-rate/">Conversion rate</a></li>
 <li>Engagement threshold</li>
 <li>Number of qualified leads</li>
 <li>Revenue generated</li>
@@ -85,7 +85,7 @@ permalink: /glossary/sponsorship-compensation/
 <li>Product plus cash fee</li>
 <li>Retainer plus performance bonus</li>
 <li>Production fee plus sales commission</li>
-<li>Minimum guarantee plus revenue share</li>
+<li>Minimum guarantee plus <a href="/glossary/revenue-share/">revenue share</a></li>
 </ul>
 <p>The guaranteed component compensates the creator for work and reserved capacity. The performance component provides additional upside.</p>
 <h4>Retainer</h4>
@@ -172,16 +172,16 @@ permalink: /glossary/sponsorship-compensation/
 <p>A short integration can still require significant production and opportunity cost.</p>
 <h3>Separate compensation for additional rights</h3>
 <p>The base sponsorship fee may not include:</p>
-<h4>Paid usage</h4>
+<h4><a href="/glossary/paid-usage/">Paid usage</a></h4>
 <p>Advertising rights can be priced separately. See <a href="/glossary/paid-usage">paid usage</a>.</p>
-<h4>Whitelisting</h4>
+<h4><a href="/glossary/whitelisting/">Whitelisting</a></h4>
 <p>Use of creator identity or account-authorized content can require an additional <a href="/glossary/whitelisting">whitelisting</a> fee.</p>
 <h4>Perpetual rights</h4>
 <p>A license with no ordinary end date may remove future renewal income. See <a href="/glossary/perpetual-usage-rights">perpetual usage rights</a>.</p>
 <h4>Exclusivity</h4>
 <p>A restriction blocking competing work can create lost revenue. See <a href="/glossary/exclusivity-clause">exclusivity clause</a>.</p>
 <h4>Raw files</h4>
-<p>Camera originals and project files can be separately priced as deliverables and licensed deliberately.</p>
+<p>Camera originals and project files can be separately priced as <a href="/glossary/deliverables/">deliverables</a> and licensed deliberately.</p>
 <h4>Rush work</h4>
 <p>Accelerated production may require schedule changes, overtime, or postponed client work.</p>
 <h4>Additional revisions and reshoots</h4>
@@ -190,15 +190,15 @@ permalink: /glossary/sponsorship-compensation/
 <p>Compensation can depend on:</p>
 <ul>
 <li>Average views and recent performance</li>
-<li>Audience fit and purchasing intent</li>
+<li><a href="/glossary/audience-fit/">Audience fit</a> and purchasing intent</li>
 <li>Platform</li>
 <li>Content format</li>
 <li>Production difficulty</li>
 <li>Creator expertise</li>
 <li>Brand category</li>
 <li>Deliverable count</li>
-<li>Timeline</li>
-<li>Usage rights</li>
+<li><a href="/glossary/timeline/">Timeline</a></li>
+<li><a href="/glossary/usage-rights/">Usage rights</a></li>
 <li>Exclusivity</li>
 <li>Approval burden</li>
 <li>Revision scope</li>

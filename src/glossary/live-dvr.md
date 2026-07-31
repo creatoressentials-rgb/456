@@ -11,11 +11,11 @@ related_terms:
 ---
 
 <h2>Live DVR</h2>
-<p><strong>Live DVR</strong> is a YouTube Live setting that lets viewers pause, rewind, and continue watching while a stream is still in progress. It gives the live player on-demand-style controls without ending the broadcast.</p>
+<p><strong>Live DVR</strong> is a <a href="/glossary/youtube-live/">YouTube Live</a> setting that lets viewers pause, rewind, and continue watching while a stream is still in progress. It gives the live player on-demand-style controls without ending the broadcast.</p>
 <p>When a viewer resumes after pausing, playback continues from the point where the viewer stopped. The viewer can seek forward toward the live moment when the available player controls allow it.</p>
 
 <h3>What DVR means in a live stream</h3>
-<p>DVR stands for <strong>digital video recording</strong>. In a live-streaming context, it refers to a temporary playable history of the active broadcast. YouTube retains enough of the stream for viewers to move backward in the timeline while the event is still live.</p>
+<p>DVR stands for <strong>digital video recording</strong>. In a live-streaming context, it refers to a temporary playable history of the active broadcast. YouTube retains enough of the stream for viewers to move backward in the <a href="/glossary/timeline/">timeline</a> while the event is still live.</p>
 <p>YouTube Live DVR is not the same as YouTube TV's cloud DVR. YouTube TV DVR records television programs to a subscriber's library. Live DVR is a creator-controlled playback setting for an individual YouTube live stream.</p>
 
 <h3>What viewers can do with Live DVR</h3>
@@ -31,7 +31,7 @@ related_terms:
 <h3>How creators enable Live DVR</h3>
 <p>For supported live-stream workflows:</p>
 <ol>
-<li>Open YouTube Studio.</li>
+<li>Open <a href="/glossary/youtube-studio/">YouTube Studio</a>.</li>
 <li>Click <strong>Create</strong> and then <strong>Go live</strong>.</li>
 <li>Create a stream or select one from the Stream or Manage area.</li>
 <li>Open <strong>Stream settings</strong>.</li>
@@ -71,7 +71,7 @@ related_terms:
 </table>
 <p>YouTube generally archives streams under 12 hours automatically, but archive availability can still depend on processing, settings, rights, policy, and technical conditions.</p>
 
-<h3>Live DVR and stream latency</h3>
+<h3>Live DVR and <a href="/glossary/stream-latency/">stream latency</a></h3>
 <p>Live DVR and latency are related playback concepts but are not the same setting.</p>
 <ul>
 <li><strong>DVR</strong> controls whether viewers can move backward through the active stream.</li>
@@ -103,7 +103,7 @@ related_terms:
 
 <h3>How DVR affects live-stream analysis</h3>
 <p>DVR gives viewers more control over where they watch, but <a href="/glossary/concurrent-viewers/">Concurrent Viewers</a> still measures people watching simultaneously, including viewers who may be at different positions in the live timeline.</p>
-<p>When reviewing performance, creators should consider total watch time, average view duration, chat participation, replay traffic, and <a href="/glossary/traffic-sources/">Traffic Sources</a> rather than assuming rewind behavior explains every audience change.</p>
+<p>When reviewing performance, creators should consider total watch time, <a href="/glossary/average-view-duration/">average view duration</a>, chat participation, replay traffic, and <a href="/glossary/traffic-sources/">Traffic Sources</a> rather than assuming rewind behavior explains every audience change.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

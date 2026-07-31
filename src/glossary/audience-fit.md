@@ -57,7 +57,7 @@ permalink: /glossary/audience-fit/
 </table>
 <p>A strong campaign usually needs both.</p>
 <p>A tax software brand might find a creator whose viewers include many self-employed adults. That is audience fit. The creator's tax expertise, communication style, and willingness to recommend the product determine creator fit.</p>
-<h3>Audience fit vs. brand affinity</h3>
+<h3>Audience fit vs. <a href="/glossary/brand-affinity/">brand affinity</a></h3>
 <p><strong>Audience fit</strong> asks whether the audience resembles the brand's intended market.</p>
 <p><a href="/glossary/brand-affinity">Brand affinity</a> asks whether people feel an emotional connection, preference, or closeness toward the brand.</p>
 <p>An audience can fit the target market while knowing little about the brand. A campaign may be designed to build affinity among that well-matched audience.</p>
@@ -88,13 +88,13 @@ permalink: /glossary/audience-fit/
 <p>The campaign format should match how the audience consumes and evaluates information.</p>
 <h3>Evidence brands can use</h3>
 <h4>YouTube Analytics</h4>
-<p>Relevant reports include monthly audience, unique viewers, age, gender, geography, returning viewers, other content the audience watches, formats watched, and subscriber vs. nonsubscriber watch time.</p>
-<h4>Creator Media Kit</h4>
+<p>Relevant reports include monthly audience, <a href="/glossary/unique-viewers/">unique viewers</a>, age, gender, geography, <a href="/glossary/returning-viewers/">returning viewers</a>, other content the audience watches, formats watched, and subscriber vs. nonsubscriber watch time.</p>
+<h4><a href="/glossary/creator-media-kit/">Creator Media Kit</a></h4>
 <p>YouTube's <a href="/glossary/creator-media-kit">creator media kit</a> can include key demographics, audience categories, channel statistics, and prior paid product-placement videos.</p>
 <h4>Channel-insights sharing</h4>
 <p>Eligible creators can opt to share aggregated channel insights through approved Google tools. YouTube says this can help brands determine whether a channel is a good fit for their audience.</p>
 <h4>Campaign history</h4>
-<p>Use previous sponsor results, affiliate conversion, product-tag performance, comments, click-through rate, survey responses, sales geography, new-customer rate, and return rate.</p>
+<p>Use previous sponsor results, affiliate conversion, product-tag performance, comments, <a href="/glossary/click-through-rate/">click-through rate</a>, survey responses, sales geography, new-customer rate, and return rate.</p>
 <p>Historical results from a different category do not guarantee that a new product will perform.</p>
 <h4>Audience research</h4>
 <p>Creators can use polls, community questions, email surveys, customer interviews, comment analysis, search data, and store purchases.</p>

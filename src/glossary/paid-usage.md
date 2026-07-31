@@ -78,7 +78,7 @@ permalink: /glossary/paid-usage/
 <ul>
 <li>Crop or resize the asset</li>
 <li>Add headlines, captions, or calls to action</li>
-<li>Change music or voice-over</li>
+<li>Change music or <a href="/glossary/voice-over/">voice-over</a></li>
 <li>Combine it with other footage</li>
 <li>Translate or dub it</li>
 <li>Use the creator's name, handle, likeness, or testimonial</li>
@@ -130,7 +130,7 @@ permalink: /glossary/paid-usage/
 <p>State the renewal rate, notice deadline, and whether use stops automatically unless both parties sign an extension.</p>
 <h4>Shutdown and archiving</h4>
 <p>Define when active ads must stop, whether saved campaign data can remain, and whether organic posts may stay visible.</p>
-<h3>Does platform permission grant paid-usage rights?</h3>
+<h3>Does platform permission grant paid-<a href="/glossary/usage-rights/">usage rights</a>?</h3>
 <p>Not by itself.</p>
 <p>Meta requires the advertiser to receive partnership-ad permission from the creator or partner. Meta also permits creators to revoke technical permissions. Those platform controls do not fully define the parties' contractual rights, fees, or remedies.</p>
 <p>YouTube similarly says creators should negotiate video usage rights and obtain necessary agreements independently when sharing brand partner access.</p>

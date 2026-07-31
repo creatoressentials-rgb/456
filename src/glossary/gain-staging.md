@@ -91,7 +91,7 @@ related_terms:
 <h3>Gain staging in 24-bit recording</h3>
 <p>Older advice sometimes encourages recording as close to digital maximum as possible. That approach was partly shaped by systems with less available resolution and noisier analog equipment.</p>
 <p>Modern 24-bit recording provides enough practical range that creators do not need to chase peaks near 0 dBFS. Leaving headroom does not automatically make the recording low quality. A clean, unclipped signal with sensible microphone placement is more valuable than a waveform that nearly fills the meter.</p>
-<p>This does not mean recording extremely quietly is ideal. If the voice barely registers while room noise and electronics remain present, raising it later also raises those unwanted sounds. The useful target is comfortably above the noise floor and comfortably below clipping.</p>
+<p>This does not mean recording extremely quietly is ideal. If the voice barely registers while room noise and electronics remain present, raising it later also raises those unwanted sounds. The useful target is comfortably above the <a href="/glossary/noise-floor/">noise floor</a> and comfortably below clipping.</p>
 <h3>Gain staging inside editing software</h3>
 <p>Gain staging continues after recording. A creator may adjust clip gain before compression, equalization, or noise reduction so each processor receives a manageable signal.</p>
 <p>Some effects are level-sensitive. A compressor reacts differently when its input is raised. Saturation and analog-modeling plug-ins may intentionally add more distortion at higher input levels. Even when a modern editing application has generous internal headroom, an individual plug-in can still be driven harder than intended.</p>
@@ -126,7 +126,7 @@ related_terms:
 </tr>
 <tr>
   <td>Compression</td>
-  <td>Reduces dynamic range according to threshold, ratio, and timing</td>
+  <td>Reduces <a href="/glossary/dynamic-range/">dynamic range</a> according to threshold, ratio, and timing</td>
   <td>Does not replace correct input gain</td>
 </tr>
 <tr>

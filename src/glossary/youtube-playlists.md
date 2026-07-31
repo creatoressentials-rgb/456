@@ -28,7 +28,7 @@ related_terms:
 <p>Content Structuring: Playlists help in organizing content, making it easier for viewers to find related videos.</p>
 </li>
 <li>
-<p>Viewer Retention: By creating a narrative or thematic journey, playlists can keep viewers engaged for longer periods.</p>
+<p>Viewer <a href="/glossary/retention/">Retention</a>: By creating a narrative or thematic journey, playlists can keep viewers engaged for longer periods.</p>
 </li>
 </ul>
 

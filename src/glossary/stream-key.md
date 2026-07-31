@@ -13,7 +13,7 @@ related_terms:
 ---
 
 <h2>Stream Key</h2>
-<p>A <strong>stream key</strong> is a private credential that connects a <a href="/glossary/live-encoder/">live encoder</a> to a YouTube live-stream destination. YouTube describes it as the stream's "password and address" because it helps identify where an incoming feed belongs and authorizes YouTube to accept that feed.</p>
+<p>A <strong>stream key</strong> is a private credential that connects a <a href="/glossary/live-encoder/">live encoder</a> to a <a href="/glossary/youtube-live/">YouTube live</a>-stream destination. YouTube describes it as the stream's "password and address" because it helps identify where an incoming feed belongs and authorizes YouTube to accept that feed.</p>
 <p>Creators normally copy the key from <a href="/glossary/live-control-room/">Live Control Room</a> into streaming software or a hardware encoder. Anyone who obtains an active key may be able to send video to the associated live setup, so it should not be displayed, posted, or shared casually.</p>
 
 <h3>How a YouTube stream key works</h3>
@@ -23,7 +23,7 @@ related_terms:
 <li>A <strong>stream key</strong>, which identifies and authorizes the incoming stream.</li>
 </ol>
 <p>The encoder combines those values when it sends encoded video and audio to YouTube, commonly through <a href="/glossary/rtmp/">RTMP</a> or encrypted RTMPS. YouTube receives the feed, associates it with the correct stream configuration, processes it, and publishes it to the viewer-facing watch page.</p>
-<p>The stream key does not create the video by itself. The creator still configures the title, visibility, audience, monetization, latency, and other settings in YouTube Studio.</p>
+<p>The stream key does not create the video by itself. The creator still configures the title, visibility, audience, monetization, latency, and other settings in <a href="/glossary/youtube-studio/">YouTube Studio</a>.</p>
 
 <h3>Stream key versus other live-stream URLs</h3>
 <table>
@@ -138,7 +138,7 @@ related_terms:
 <tbody>
 <tr>
   <td>Encoder cannot connect</td>
-  <td>Wrong or expired key, wrong server URL, or network block</td>
+  <td>Wrong or expired key, wrong server URL, or <a href="/glossary/dropped-frames/">network</a> block</td>
   <td>Recopy both values and test the connection</td>
 </tr>
 <tr>

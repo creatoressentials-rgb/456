@@ -11,7 +11,7 @@ related_terms:
 ---
 
 <h2>Campaign Brief</h2>
-<p>A <strong>campaign brief</strong> is a document that explains the plan and expectations for a marketing campaign. In a creator partnership, it aligns the brand, agency, and creator on the campaign’s objective, audience, message, deliverables, schedule, requirements, and measures of success.</p>
+<p>A <strong>campaign brief</strong> is a document that explains the plan and expectations for a marketing campaign. In a creator partnership, it aligns the brand, agency, and creator on the campaign’s objective, audience, message, <a href="/glossary/deliverables/">deliverables</a>, schedule, requirements, and measures of success.</p>
 <p>It answers the high-level questions: <strong>Why is the campaign happening? Who should it reach? What needs to be delivered? When will it run? What outcome matters?</strong></p>
 <p>Brands may call the same or a similar document an <strong>influencer brief</strong>, <strong>creator brief</strong>, <strong>partnership brief</strong>, or <strong>campaign overview</strong>. The terminology is not standardized. The substance of the document matters more than its label.</p>
 <h3>What a creator campaign brief should include</h3>
@@ -47,7 +47,7 @@ related_terms:
 <li>Core value proposition</li>
 <li>Required product facts</li>
 <li>Current price or promotion</li>
-<li>Discount code or tracking link</li>
+<li>Discount code or <a href="/glossary/tracking-link/">tracking link</a></li>
 <li>Call to action</li>
 <li>Approved proof points</li>
 <li>Important limitations or eligibility rules</li>
@@ -61,15 +61,15 @@ related_terms:
 <li>Video, Short, post, livestream, image, or story format</li>
 <li>Quantity</li>
 <li>Approximate duration</li>
-<li>Sponsorship placement</li>
+<li><a href="/glossary/sponsorship/">Sponsorship</a> placement</li>
 <li>Caption, link, tag, and hashtag requirements</li>
 <li>Thumbnail or cover requirements</li>
 <li>Raw-footage or alternate-version requests</li>
 <li>Accessibility requirements</li>
 <li>Publication and availability period</li>
 </ul>
-<p>“Make three social posts” is vague. “One 45–60 second vertical video for YouTube Shorts and two cutdowns with different opening hooks” gives the creator something operational.</p>
-<h4>Timeline and workflow</h4>
+<p>“Make three social posts” is vague. “One 45–60 second vertical video for <a href="/glossary/youtube-shorts/">YouTube Shorts</a> and two cutdowns with different opening hooks” gives the creator something operational.</p>
+<h4><a href="/glossary/timeline/">Timeline</a> and workflow</h4>
 <p>Include dates for:</p>
 <ul>
 <li>Product delivery or account access</li>
@@ -99,8 +99,8 @@ related_terms:
 <p>Define which metrics matter and when they will be evaluated. Depending on the goal, these may include:</p>
 <ul>
 <li>Views or reach</li>
-<li>Watch time and retention</li>
-<li>Click-through rate</li>
+<li>Watch time and <a href="/glossary/retention/">retention</a></li>
+<li><a href="/glossary/click-through-rate/">Click-through rate</a></li>
 <li>Engagement</li>
 <li>Code uses or affiliate sales</li>
 <li>Leads, installs, or registrations</li>
@@ -108,7 +108,7 @@ related_terms:
 <li>Brand-lift research</li>
 <li>Quantity and usability of delivered assets</li>
 </ul>
-<p>State the attribution window and data source when performance payment depends on results. A creator’s live dashboard, the brand’s analytics, and an affiliate platform may report different totals.</p>
+<p>State the <a href="/glossary/attribution/">attribution</a> window and data source when performance payment depends on results. A creator’s live dashboard, the brand’s analytics, and an affiliate platform may report different totals.</p>
 <h4>Compliance and disclosure</h4>
 <p>The brief should explain the required platform declaration and viewer-facing disclosure. In the United States, the FTC says disclosures should be hard to miss, understandable, and placed with the endorsement itself. A vague instruction such as “follow all laws” is not a useful operating guide.</p>
 <p>The brief should also identify who approved product claims and where the supporting evidence is stored. Health, finance, environmental, earnings, and comparative claims may require additional review.</p>
@@ -168,7 +168,7 @@ related_terms:
 <li>What happens if the product arrives late or does not work?</li>
 <li>Where will the brand use the content?</li>
 <li>Will the content become a paid advertisement?</li>
-<li>Is there category exclusivity?</li>
+<li>Is there <a href="/glossary/category-exclusivity/">category exclusivity</a>?</li>
 <li>What disclosure wording is required?</li>
 <li>Which metrics affect payment?</li>
 </ol>
@@ -214,6 +214,6 @@ related_terms:
 <h4>How long should a campaign brief be?</h4>
 <p>There is no required length. It should be concise enough to use while containing every material instruction. A one-page brief may work for a simple integration; a multi-market launch may need more detail and attachments.</p>
 <h4>Is a campaign brief the same as a creator media kit?</h4>
-<p>No. The brand sends a campaign brief to explain the opportunity. The creator sends a <a href="/glossary/creator-media-kit/">creator media kit</a> to demonstrate audience fit, performance, services, and experience.</p>
+<p>No. The brand sends a campaign brief to explain the opportunity. The creator sends a <a href="/glossary/creator-media-kit/">creator media kit</a> to demonstrate <a href="/glossary/audience-fit/">audience fit</a>, performance, services, and experience.</p>
 <h4>Can a campaign brief change after signing?</h4>
 <p>It can, but changes to deliverables, timing, rights, or workload may require a written contract amendment and additional compensation.</p>

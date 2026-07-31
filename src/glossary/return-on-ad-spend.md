@@ -26,7 +26,7 @@ permalink: /glossary/return-on-ad-spend/
 <li>Agency fee</li>
 <li>Production</li>
 <li>Discounts</li>
-<li>Affiliate commission</li>
+<li><a href="/glossary/affiliate-commission/">Affiliate commission</a></li>
 <li>Shipping</li>
 <li>Payment processing</li>
 <li>Returns</li>
@@ -96,7 +96,7 @@ permalink: /glossary/return-on-ad-spend/
 <li><a href="/glossary/whitelisting">Whitelisting</a></li>
 <li><a href="/glossary/partnership-ads">Partnership ads</a></li>
 <li>Affiliate commission</li>
-<li>Promo code</li>
+<li><a href="/glossary/promo-code/">Promo code</a></li>
 <li>Production fee</li>
 <li>Usage-rights fee</li>
 </ul>
@@ -127,12 +127,12 @@ permalink: /glossary/return-on-ad-spend/
 <li>Uncollected payments</li>
 </ul>
 <p>Import adjusted conversion values or reconcile the report after the return window when possible.</p>
-<h3>ROAS and attribution</h3>
+<h3>ROAS and <a href="/glossary/attribution/">attribution</a></h3>
 <p>ROAS depends on which revenue is credited to the campaign.</p>
 <p>A platform can use:</p>
 <ul>
-<li>Click attribution</li>
-<li>View-through attribution</li>
+<li><a href="/glossary/click-attribution/">Click attribution</a></li>
+<li><a href="/glossary/view-through-attribution/">View-through attribution</a></li>
 <li>Engaged-view attribution</li>
 <li>Data-driven attribution</li>
 <li>Promo codes</li>
@@ -178,7 +178,7 @@ permalink: /glossary/return-on-ad-spend/
 <li>Long sales cycles</li>
 <li>Offline purchases with weak tracking</li>
 <li>Low-frequency high-value products</li>
-<li>Campaigns focused on retention or community</li>
+<li>Campaigns focused on <a href="/glossary/retention/">retention</a> or community</li>
 <li>Early experiments without reliable conversion values</li>
 </ul>
 <p>Use brand lift, qualified leads, customer acquisition, incrementality, or lifetime value where appropriate.</p>

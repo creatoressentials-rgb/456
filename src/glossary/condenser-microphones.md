@@ -15,7 +15,7 @@ related_terms:
 
 <h2>What is a Condenser Microphone?</h2>
 
-<p>A condenser microphone is a highly sensitive audio recording device designed to capture subtle details and produce professional-grade sound. It uses a thin diaphragm placed near a charged metal plate, which vibrates when hit by sound waves. These vibrations generate an electrical signal that replicates the sound with exceptional accuracy. Unlike other microphone types, condenser microphones require phantom power (48 volts) from an audio interface or mixer to operate.</p>
+<p>A condenser microphone is a highly sensitive audio recording device designed to capture subtle details and produce professional-grade sound. It uses a thin diaphragm placed near a charged metal plate, which vibrates when hit by sound waves. These vibrations generate an electrical signal that replicates the sound with exceptional accuracy. Unlike other microphone types, condenser microphones require <a href="/glossary/phantom-power/">phantom power</a> (48 volts) from an <a href="/glossary/audio-interface/">audio interface</a> or mixer to operate.</p>
 
 <p><br>
 Condenser microphones are preferred by professionals for their wide frequency response and ability to reproduce crisp, nuanced audio. From recording high-resolution vocals to ambient sounds, their sensitivity makes them a staple in studio environments.</p>
@@ -40,7 +40,7 @@ Condenser microphones are preferred by professionals for their wide frequency re
 
 <ul>
 <li>
-<p>Their ability to capture vocal richness and clarity makes them perfect for podcasting or guest interviews on your YouTube channel.</p>
+<p>Their ability to capture vocal richness and clarity makes them perfect for podcasting or guest interviews on your <a href="/glossary/youtube-channel/">YouTube channel</a>.</p>
 </li>
 </ul>
 
@@ -98,7 +98,7 @@ Condenser microphones are preferred by professionals for their wide frequency re
 
 <ul>
 <li>
-<p>Wide Dynamic Range:</p>
+<p>Wide <a href="/glossary/dynamic-range/">Dynamic Range</a>:</p>
 
 <ul>
 <li>

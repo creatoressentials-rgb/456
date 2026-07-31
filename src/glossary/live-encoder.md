@@ -43,11 +43,11 @@ related_terms:
 <tr><td>Hardware encoder</td><td>Uses a dedicated physical device to encode and send the feed</td><td>Purpose-built, portable, can reduce load on the production computer</td><td>Higher upfront cost and may offer less flexible production controls</td></tr>
 </tbody>
 </table>
-<p>Some products combine both approaches, such as a camera with built-in streaming software or a production appliance with switching and encoding controls.</p>
+<p>Some products combine both approaches, such as a camera with built-in streaming software or a production appliance with switching and <a href="/glossary/encoding/">encoding</a> controls.</p>
 
 <h3>Live encoder vs. codec</h3>
 <p>An encoder is the tool or system that processes the stream. A <strong>codec</strong> is the method used to compress and decompress the media.</p>
-<p>For example, OBS Studio can act as the software encoder while H.264 acts as the video codec. The encoder applies the codec and selected settings to produce the outgoing stream.</p>
+<p>For example, OBS Studio can act as the software encoder while H.264 acts as the <a href="/glossary/video-codec/">video codec</a>. The encoder applies the codec and selected settings to produce the outgoing stream.</p>
 
 <h3>Live encoder vs. capture card</h3>
 <p>A capture card brings an external camera or game-console signal into a computer. It does not automatically perform the entire live-production and streaming workflow.</p>
@@ -65,11 +65,11 @@ related_terms:
 
 <h3>How an encoder connects to YouTube</h3>
 <ol>
-<li>Enable live streaming on the YouTube channel.</li>
+<li>Enable live streaming on the <a href="/glossary/youtube-channel/">YouTube channel</a>.</li>
 <li>Create or schedule a stream in Live Control Room.</li>
-<li>Copy the YouTube stream URL and stream key.</li>
+<li>Copy the YouTube stream URL and <a href="/glossary/stream-key/">stream key</a>.</li>
 <li>Enter those values into the encoder, or sign in through a supported direct integration.</li>
-<li>Choose the resolution, frame rate, bitrate, codec, audio, and keyframe settings.</li>
+<li>Choose the resolution, <a href="/glossary/frame-rate-fps/">frame rate</a>, bitrate, codec, audio, and keyframe settings.</li>
 <li>Start sending the feed from the encoder.</li>
 <li>Check the preview and stream health in Live Control Room.</li>
 <li>Go live manually or use auto-start when configured.</li>
@@ -93,14 +93,14 @@ related_terms:
 </tbody>
 </table>
 
-<h3>Current YouTube live-encoder guidance</h3>
+<h3>Current <a href="/glossary/youtube-live/">YouTube live</a>-encoder guidance</h3>
 <p>YouTube's current general recommendations include:</p>
 <ul>
-<li>Use RTMP or the encrypted RTMPS protocol for supported workflows.</li>
+<li>Use <a href="/glossary/rtmp/">RTMP</a> or the encrypted RTMPS protocol for supported workflows.</li>
 <li>Use H.264, H.265, or AV1 where supported by the selected live configuration.</li>
 <li>Use a frame rate of up to 60 fps.</li>
 <li>Use constant bitrate encoding.</li>
-<li>Send keyframes every two seconds and do not exceed four seconds.</li>
+<li>Send <a href="/glossary/keyframes/">keyframes</a> every two seconds and do not exceed four seconds.</li>
 <li>Choose a bitrate that matches the resolution, frame rate, codec, and stable upload connection.</li>
 <li>Run a realistic test and monitor stream health during the event.</li>
 </ul>

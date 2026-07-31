@@ -212,7 +212,7 @@ related_terms:
 <tr>
   <td>Orbit</td>
   <td>Circle the subject</td>
-  <td>Product B-roll, fashion, music, or location introductions</td>
+  <td>Product <a href="/glossary/b-roll/">B-roll</a>, fashion, music, or location introductions</td>
 </tr>
 <tr>
   <td>Tracking shot</td>
@@ -246,18 +246,18 @@ related_terms:
 <li>Fast lens changes are required.</li>
 <li>The creator is recording a long event and cannot carry the rig comfortably.</li>
 <li>Wind, rain, dust, or extreme temperature threatens the motors.</li>
-<li>A small stabilized phone or action camera already provides sufficient quality.</li>
+<li>A small stabilized phone or <a href="/glossary/action-camera/">action camera</a> already provides sufficient quality.</li>
 <li>The shot requires rapid access rather than a carefully rehearsed move.</li>
 </ul>
 <p>A tripod, monopod, shoulder rig, stabilized lens, or careful handheld technique may produce the desired result more efficiently.</p>
 <h3>Gimbal versus selfie stick</h3>
 <p>A selfie stick changes camera distance and angle but does not actively stabilize rotation. Some phone gimbals include an extension pole, which can make the product look similar, but the motors and sensors are what provide gimbal stabilization.</p>
-<p>For a stationary walk-and-talk vlog, a phone's internal stabilization and a short grip may be enough. A gimbal becomes more valuable when the creator wants controlled pans, subject tracking, repeatable movement, or more stable footage from a camera without strong internal stabilization.</p>
+<p>For a stationary walk-and-talk <a href="/glossary/vlog/">vlog</a>, a phone's internal stabilization and a short grip may be enough. A gimbal becomes more valuable when the creator wants controlled pans, subject tracking, repeatable movement, or more stable footage from a camera without strong internal stabilization.</p>
 <h3>Common gimbal mistakes</h3>
 <ul>
 <li>Powering on before balancing.</li>
 <li>Exceeding payload or ignoring a front-heavy lens.</li>
-<li>Forgetting to rebalance after zooming, adding an ND filter, or changing accessories.</li>
+<li>Forgetting to rebalance after zooming, adding an <a href="/glossary/nd-filter/">ND filter</a>, or changing accessories.</li>
 <li>Walking normally and expecting the motors to remove vertical bounce.</li>
 <li>Setting motor strength too high and causing micro-vibration.</li>
 <li>Setting follow speed too fast for a gentle shot.</li>

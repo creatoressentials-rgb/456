@@ -35,7 +35,7 @@ permalink: /glossary/conversion-tracking/
 <li>Which campaigns should receive more budget?</li>
 </ul>
 <p>It records configured outcomes. It does not automatically prove that the campaign caused every recorded outcome.</p>
-<h3>Conversion tracking vs. attribution</h3>
+<h3>Conversion tracking vs. <a href="/glossary/attribution/">attribution</a></h3>
 <table>
 <thead>
 <tr>
@@ -166,7 +166,7 @@ permalink: /glossary/conversion-tracking/
 </ul>
 <p>One can make sense for a lead form where repeated submissions do not create additional value.</p>
 <p>Every can make sense for purchases when one customer can place several legitimate orders.</p>
-<p>This setting affects conversion count, conversion rate, CPA, and automated bidding.</p>
+<p>This setting affects conversion count, <a href="/glossary/conversion-rate/">conversion rate</a>, CPA, and automated bidding.</p>
 <h3>Conversion values</h3>
 <p>A conversion can have:</p>
 <ul>
@@ -176,7 +176,7 @@ permalink: /glossary/conversion-tracking/
 <li>Subscription value</li>
 <li>No assigned monetary value</li>
 </ul>
-<p>Using values enables analysis of conversion value and return on ad spend, but the value should reflect business economics rather than an arbitrary number.</p>
+<p>Using values enables analysis of conversion value and <a href="/glossary/return-on-ad-spend/">return on ad spend</a>, but the value should reflect business economics rather than an arbitrary number.</p>
 <p>A $100 sale is not necessarily worth $100 in profit.</p>
 <h3>Transaction IDs and duplicate prevention</h3>
 <p>Ecommerce tracking should include a unique transaction or order ID when supported.</p>
@@ -195,11 +195,11 @@ permalink: /glossary/conversion-tracking/
 <h3>Creator campaign tracking methods</h3>
 <p>Creators and brands may use:</p>
 <ul>
-<li>Affiliate link</li>
+<li><a href="/glossary/affiliate-link/">Affiliate link</a></li>
 <li>Creator discount code</li>
 <li>Product tag</li>
 <li>Dedicated landing page</li>
-<li>UTM parameters</li>
+<li><a href="/glossary/utm-parameters/">UTM parameters</a></li>
 <li>Advertising click IDs</li>
 <li>Platform brand-partner tools</li>
 <li>Post-purchase survey</li>
@@ -253,7 +253,7 @@ permalink: /glossary/conversion-tracking/
 <li>Use approved hashing and transfer methods</li>
 <li>Avoid sending sensitive data in URLs</li>
 <li>Follow platform policies</li>
-<li>Maintain data-retention controls</li>
+<li>Maintain data-<a href="/glossary/retention/">retention</a> controls</li>
 </ul>
 <p>Technical ability does not replace legal permission.</p>
 <h3>Conversion tracking for creator compensation</h3>

@@ -23,7 +23,7 @@ related_terms:
 </li>
 <li>
 <p><strong>Autos and Vehicles</strong></p>
-<p>Gearheads and automotive aficionados find their niche here. This category features content ranging from car reviews and automotive tutorials to high-octane racing videos and detailed vehicle modifications.</p>
+<p>Gearheads and automotive aficionados find their <a href="/glossary/niche/">niche</a> here. This category features content ranging from car reviews and automotive tutorials to high-octane racing videos and detailed vehicle modifications.</p>
 </li>
 <li>
 <p><strong>Music</strong></p>
@@ -55,7 +55,7 @@ related_terms:
 </li>
 <li>
 <p><strong>Entertainment</strong></p>
-<p>A hub for pop culture, this category includes celebrity news, viral content, and entertainment-focused videos. It's a go-to source for staying updated on trends and events in the entertainment world.</p>
+<p>A hub for pop culture, this category includes celebrity news, <a href="/glossary/viral/">viral</a> content, and entertainment-focused videos. It's a go-to source for staying updated on trends and events in the entertainment world.</p>
 </li>
 <li>
 <p><strong>News and Politics</strong></p>

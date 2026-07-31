@@ -14,14 +14,14 @@ related_terms:
 ---
 
 <h2>Concurrent Viewers</h2>
-<p><strong>Concurrent viewers</strong> is a YouTube Live metric that measures how many people are watching a live stream at the same time. Unlike total views, which accumulate whenever someone opens or returns to the stream, concurrent viewership describes the size of the audience present at a particular moment.</p>
+<p><strong>Concurrent viewers</strong> is a <a href="/glossary/youtube-live/">YouTube Live</a> metric that measures how many people are watching a live stream at the same time. Unlike total views, which accumulate whenever someone opens or returns to the stream, concurrent viewership describes the size of the audience present at a particular moment.</p>
 <p>YouTube reports several related versions of the metric: the current number watching, the average number watching simultaneously, and the highest simultaneous audience reached during the broadcast.</p>
 
 <h3>How concurrent viewers are measured</h3>
 <p>During a live stream, YouTube continually estimates the number of viewers watching at the same time. The number can rise when new viewers join and fall when viewers leave, close the stream, lose their connection, or move to another video.</p>
 <p>The live number is not a count of everyone who has ever watched the event. A stream can receive thousands of total live views while having a much smaller concurrent audience because viewers arrive and leave at different times.</p>
 
-<h3>Current, average, and peak concurrent viewers</h3>
+<h3>Current, average, and <a href="/glossary/peak-concurrent-viewers/">peak concurrent viewers</a></h3>
 <table>
 <thead><tr><th>Metric</th><th>What it measures</th><th>Best use</th></tr></thead>
 <tbody>
@@ -56,7 +56,7 @@ related_terms:
 
 <h3>Where to find concurrent-viewer data</h3>
 <p>While streaming, creators can monitor concurrent viewers in <a href="/glossary/live-control-room/">Live Control Room</a> alongside stream health, likes, views, chat rate, duration, and other real-time information.</p>
-<p>After the stream ends, open YouTube Studio and:</p>
+<p>After the stream ends, open <a href="/glossary/youtube-studio/">YouTube Studio</a> and:</p>
 <ol>
 <li>Select <strong>Content</strong>.</li>
 <li>Open the <strong>Live</strong> tab.</li>
@@ -73,7 +73,7 @@ related_terms:
 <li>Sudden drops after long pauses, technical problems, topic changes, or the end of a major segment.</li>
 <li>Stable plateaus that indicate a core audience remained for an extended period.</li>
 </ul>
-<p>A rise or drop does not prove what caused it. Use retention, chat activity, traffic sources, and the stream timeline to test the explanation rather than relying on the concurrency graph alone.</p>
+<p>A rise or drop does not prove what caused it. Use <a href="/glossary/retention/">retention</a>, chat activity, traffic sources, and the stream <a href="/glossary/timeline/">timeline</a> to test the explanation rather than relying on the concurrency graph alone.</p>
 
 <h3>What is a good concurrent-viewer count?</h3>
 <p>There is no universal good number. A useful benchmark is the channel's own recent live-stream performance, especially for streams with similar topics, schedules, promotion, and duration.</p>
@@ -81,7 +81,7 @@ related_terms:
 <ul>
 <li>Average concurrency across similar broadcasts.</li>
 <li>Peak concurrency relative to the channel's typical live audience.</li>
-<li>Average view duration and total watch time.</li>
+<li><a href="/glossary/average-view-duration/">Average view duration</a> and total watch time.</li>
 <li>Chat rate, likes, subscriptions, and monetization results.</li>
 <li>The percentage of viewers who return for future streams, including <a href="/glossary/returning-viewers/">Returning Viewers</a> and <a href="/glossary/regular-viewers/">Regular Viewers</a>.</li>
 </ul>

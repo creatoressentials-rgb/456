@@ -10,7 +10,7 @@ related_terms:
 ---
 
 <h2>YouTube Handles</h2>
-<p>A <strong>YouTube handle</strong> is the unique, @-prefixed identifier assigned to every YouTube channel — for example, <code>@creatoressentials</code>. It's distinct from your channel's display name, forms your channel's URL (<code>youtube.com/@yourhandle</code>), and is what viewers use to tag or @-mention you in comments and <a href="/glossary/youtube-communities/">Community</a> posts.</p>
+<p>A <strong>YouTube handle</strong> is the unique, @-prefixed identifier assigned to every <a href="/glossary/youtube-channel/">YouTube channel</a> — for example, <code>@creatoressentials</code>. It's distinct from your channel's display name, forms your channel's URL (<code>youtube.com/@yourhandle</code>), and is what viewers use to tag or @-mention you in comments and <a href="/glossary/youtube-communities/">Community</a> posts.</p>
 <p>YouTube introduced handles on October 10, 2022, and began rolling them out to creators the following month, in <strong>November 2022</strong>, in phases based on factors like subscriber count and channel activity. Handles replaced the old "Custom URL" system as the primary way to claim a memorable, brandable link — but unlike Custom URLs, which required a subscriber minimum, every channel is eligible for a handle from day one.</p>
 
 <h3>Why handles exist</h3>
@@ -110,7 +110,7 @@ related_terms:
 <h3>How to change your YouTube handle</h3>
 <p><strong>On desktop:</strong></p>
 <ol>
-<li>Sign in to YouTube Studio.</li>
+<li>Sign in to <a href="/glossary/youtube-studio/">YouTube Studio</a>.</li>
 <li>In the left menu, go to <strong>Customization &gt; Profile</strong> (sometimes labeled <strong>Basic info</strong>).</li>
 <li>Find the <strong>Handle</strong> field and enter your new handle. YouTube will flag it immediately if it's unavailable or breaks a naming rule.</li>
 <li>Click <strong>Publish</strong> to confirm the change.</li>
@@ -118,7 +118,7 @@ related_terms:
 <p>Alternatively, go straight to <code>youtube.com/handle</code>, click <strong>Change handle</strong>, enter your choice, and confirm.</p>
 <p><strong>On mobile (YouTube app):</strong></p>
 <ol>
-<li>Tap your profile picture, then <strong>Your channel</strong>.</li>
+<li>Tap your <a href="/glossary/profile-picture/">profile picture</a>, then <strong>Your channel</strong>.</li>
 <li>Tap the edit (pencil) icon next to your handle.</li>
 <li>Enter your new handle and tap <strong>Save</strong>.</li>
 </ol>
@@ -134,7 +134,7 @@ related_terms:
 <p>When you change your handle, YouTube holds your <strong>previous handle for 14 days</strong> in case you want to switch back. During that window, both your old and new handle URLs work and point to your channel. After 14 days, your old handle is released and becomes available for anyone else to claim.</p>
 <p>If a channel is deleted, its handle is reported to become available again after a holding period — but the exact number of days isn't published in YouTube's Help Center and figures vary by source (commonly cited as somewhere in the 30–60 day range). Don't rely on a specific number if you're trying to reclaim a handle from a deleted channel.</p>
 
-<h3>Does changing your handle break old links or hurt SEO?</h3>
+<h3>Does changing your handle break old links or hurt <a href="/glossary/seo/">SEO</a>?</h3>
 <p>No, in the sense that your links won't break: legacy Custom URLs and username URLs continue to work and automatically redirect to your current handle URL, and your previous handle URL keeps working for 14 days after a change. YouTube hasn't published data on search-ranking impact from a handle change, so treat any specific claim (like a fixed "recovery time") as unverified. The safest practice is still to update your external links, bio, and email signature to the new handle promptly, even though old links will redirect.</p>
 
 <h3>@-mentioning and handles</h3>

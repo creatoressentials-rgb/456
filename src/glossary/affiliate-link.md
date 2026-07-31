@@ -29,12 +29,12 @@ permalink: /glossary/affiliate-link/
 <ol>
 <li>The affiliate joins a brand's program.</li>
 <li>The program assigns an affiliate or publisher ID.</li>
-<li>The creator generates a tracking link.</li>
+<li>The creator generates a <a href="/glossary/tracking-link/">tracking link</a>.</li>
 <li>The creator adds the link to eligible content.</li>
 <li>A viewer clicks the link.</li>
 <li>The program records referral information through cookies, URL parameters, server-side data, or another method.</li>
 <li>The viewer completes a qualifying action.</li>
-<li>The program applies its attribution rules.</li>
+<li>The program applies its <a href="/glossary/attribution/">attribution</a> rules.</li>
 <li>The transaction remains pending during validation.</li>
 <li>An approved commission is paid according to the program's schedule.</li>
 </ol>
@@ -82,7 +82,7 @@ permalink: /glossary/affiliate-link/
 </tr>
 </tbody>
 </table>
-<p>A UTM-tagged link can help with analytics but is not automatically an affiliate link. An affiliate link may also contain UTM parameters.</p>
+<p>A UTM-tagged link can help with analytics but is not automatically an affiliate link. An affiliate link may also contain <a href="/glossary/utm-parameters/">UTM parameters</a>.</p>
 <h3>Deep links</h3>
 <p>A <strong>deep link</strong> sends the viewer directly to a specific product, category, subscription page, or other destination rather than the advertiser's homepage.</p>
 <p>Deep links can improve the customer experience because the viewer reaches the exact item discussed in the content.</p>
@@ -105,7 +105,7 @@ permalink: /glossary/affiliate-link/
 </ul>
 <p>Awin explains that affiliate cookies can store data identifying the advertiser, publisher, click time, and agreed tracking information. Networks may also use other tracking methods.</p>
 <h3>Does an affiliate link increase the price?</h3>
-<p>Normally, an affiliate commission is paid by the advertiser or program and does not add a separate charge to the customer.</p>
+<p>Normally, an <a href="/glossary/affiliate-commission/">affiliate commission</a> is paid by the advertiser or program and does not add a separate charge to the customer.</p>
 <p>The customer price can still differ because of:</p>
 <ul>
 <li>Dynamic pricing</li>

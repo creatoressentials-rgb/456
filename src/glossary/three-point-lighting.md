@@ -55,7 +55,7 @@ related_terms:
 <li>Nearly on-axis for a bright, low-shadow beauty or tutorial look.</li>
 <li>Far to the side for stronger modeling and drama.</li>
 <li>Above or behind the subject for a silhouette or motivated cinematic look.</li>
-<li>A window, softbox, LED panel, bounced light, or practical source already in the scene.</li>
+<li>A window, <a href="/glossary/softbox/">softbox</a>, LED panel, bounced light, or practical source already in the scene.</li>
 </ul>
 <p>Moving the key changes more than brightness. It changes where shadows fall, which facial features are emphasized, whether eyeglasses reflect the source, and how dimensional the subject appears.</p>
 <h3>Fill light</h3>
@@ -103,7 +103,7 @@ related_terms:
 <li>Turn off unnecessary room lights so each source can be evaluated.</li>
 <li>Position the subject away from the background when space allows.</li>
 <li>Place and adjust the key light first.</li>
-<li>Set camera exposure and white balance for the intended look.</li>
+<li>Set camera exposure and <a href="/glossary/white-balance/">white balance</a> for the intended look.</li>
 <li>Add fill only if the key-created shadows are too dark.</li>
 <li>Add a back light to create separation where needed.</li>
 <li>Control spill on the background, lens, ceiling, and walls.</li>
@@ -194,7 +194,7 @@ related_terms:
 <li>Light placement and output affect the actual scene and shadow pattern.</li>
 <li>ND filtration reduces incoming light without changing motion blur or depth of field.</li>
 </ul>
-<p>For video, creators often establish frame rate and <a href="/glossary/shutter-speed/">shutter speed</a> first, choose aperture for the desired look, select an appropriate ISO, and then adjust the lighting or ND.</p>
+<p>For video, creators often establish <a href="/glossary/frame-rate-fps/">frame rate</a> and <a href="/glossary/shutter-speed/">shutter speed</a> first, choose aperture for the desired look, select an appropriate ISO, and then adjust the lighting or ND.</p>
 <h3>Three-point lighting with eyeglasses</h3>
 <p>Glasses can reflect the key or fill and hide the eyes. Possible fixes include:</p>
 <ul>

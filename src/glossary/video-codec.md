@@ -48,8 +48,8 @@ related_terms:
 </tr>
 </tbody>
 </table>
-<p>An <code>.mp4</code> file might contain H.264 video and AAC audio, but another MP4 can contain HEVC video. The extension alone does not reveal every encoding detail.</p>
-<p>A container can also hold multiple audio tracks, captions, timecode, chapters, color metadata, thumbnails, and other information.</p>
+<p>An <code>.mp4</code> file might contain H.264 video and AAC audio, but another MP4 can contain HEVC video. The extension alone does not reveal every <a href="/glossary/encoding/">encoding</a> detail.</p>
+<p>A container can also hold multiple audio tracks, captions, timecode, chapters, color metadata, <a href="/glossary/youtube-thumbnails/">thumbnails</a>, and other information.</p>
 <h3>Why video needs compression</h3>
 <p>Uncompressed video produces extremely high data rates because every frame contains many pixels, channels, and brightness values. Resolution, <a href="/glossary/frame-rate-fps/">frame rate</a>, and bit depth multiply the amount of information.</p>
 <p>Codecs reduce that data by exploiting patterns such as:</p>
@@ -104,7 +104,7 @@ related_terms:
 <p>ProRes and DNxHR are commonly used as intraframe editing or intermediate codecs. H.264, HEVC, VP9, and AV1 commonly use interframe compression for recording or delivery, although their specifications can support varied structures.</p>
 <p>An interframe sequence may include:</p>
 <ul>
-<li><strong>I-frames or keyframes:</strong> Independently decodable reference frames.</li>
+<li><strong>I-frames or <a href="/glossary/keyframes/">keyframes</a>:</strong> Independently decodable reference frames.</li>
 <li><strong>P-frames:</strong> Predict from earlier frames.</li>
 <li><strong>B-frames:</strong> Can use information from frames before and after.</li>
 <li><strong>GOP:</strong> Group of pictures between keyframe structures.</li>
@@ -217,7 +217,7 @@ related_terms:
 </ul>
 <p>The newest codec is not automatically the best export choice if the creator's editor, client, device, or deadline cannot support it efficiently.</p>
 <h3>ProRes and DNxHR</h3>
-<p>ProRes and DNxHR are families of high-quality codecs designed for production and post-production. Their intraframe structure generally makes timeline seeking and editing easier than highly compressed long-GOP delivery codecs.</p>
+<p>ProRes and DNxHR are families of high-quality codecs designed for production and post-production. Their intraframe structure generally makes <a href="/glossary/timeline/">timeline</a> seeking and editing easier than highly compressed long-GOP delivery codecs.</p>
 <p>They are useful for:</p>
 <ul>
 <li>Camera acquisition.</li>
@@ -241,7 +241,7 @@ related_terms:
 </ul>
 <p>A device might support H.264 8-bit 4:2:0 but not a less common H.264 10-bit or 4:2:2 profile. "The codec is supported" does not guarantee every variation is supported.</p>
 <h3>Codec and bitrate work together</h3>
-<p>A codec determines how the data is compressed; video bitrate describes how much data is allocated over time. A more efficient codec may reach a similar quality at a lower bitrate, but results vary by content, encoder, preset, and metric.</p>
+<p>A codec determines how the data is compressed; <a href="/glossary/video-bitrate/">video bitrate</a> describes how much data is allocated over time. A more efficient codec may reach a similar quality at a lower bitrate, but results vary by content, encoder, preset, and metric.</p>
 <p>High motion, film grain, foliage, confetti, and detailed game footage are harder to compress than a static presenter against a clean background.</p>
 <p>Bitrate should therefore be evaluated together with:</p>
 <ul>
@@ -258,8 +258,8 @@ related_terms:
 <ul>
 <li>Using hardware-accelerated decoding.</li>
 <li>Recording in an editing-friendly codec when practical.</li>
-<li>Transcoding to ProRes or DNxHR.</li>
-<li>Creating lower-resolution proxy files.</li>
+<li><a href="/glossary/transcoding/">Transcoding</a> to ProRes or DNxHR.</li>
+<li>Creating lower-resolution <a href="/glossary/proxy-files/">proxy files</a>.</li>
 <li>Reducing intensive effects during the edit.</li>
 <li>Keeping source and cache files on fast storage.</li>
 </ul>
@@ -269,7 +269,7 @@ related_terms:
 <p>YouTube's HDR guidance lists tested containers including MOV/QuickTime, MP4, and MKV, and recommends codecs such as VP9 Profile 2, AV1, and HEVC/H.265 for suitable 10-bit HDR files. It also lists high-quality production codecs that can work at much larger bitrates.</p>
 <p>The best upload file is not simply the smallest file that YouTube accepts. YouTube encourages high-quality source material because every upload is processed again.</p>
 <h3>Upload codec vs. playback codec</h3>
-<p>YouTube always re-encodes uploads to optimize playback. It creates versions for different resolutions, network conditions, device capabilities, and delivery systems.</p>
+<p>YouTube always re-encodes uploads to optimize playback. It creates versions for different resolutions, <a href="/glossary/dropped-frames/">network</a> conditions, device capabilities, and delivery systems.</p>
 <p>Therefore:</p>
 <ul>
 <li>Uploading H.264 does not mean every viewer receives H.264.</li>

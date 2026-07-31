@@ -12,7 +12,7 @@ related_terms:
 ---
 
 <h2>Low Latency</h2>
-<p><strong>Low Latency</strong> is a YouTube Live setting that reduces the delay between what a creator broadcasts and what viewers see. YouTube describes it as the middle option between Normal Latency and Ultra-low Latency.</p>
+<p><strong>Low Latency</strong> is a <a href="/glossary/youtube-live/">YouTube Live</a> setting that reduces the delay between what a creator broadcasts and what viewers see. YouTube describes it as the middle option between Normal Latency and <a href="/glossary/ultra-low-latency/">Ultra-low Latency</a>.</p>
 <p>Most viewers of a Low Latency stream will experience a delay of less than 10 seconds, although actual latency varies by the creator's connection, encoder, YouTube's processing, the viewer's device, and network conditions.</p>
 
 <h3>What latency means in live streaming</h3>
@@ -51,10 +51,10 @@ related_terms:
 
 <h3>How to select Low Latency</h3>
 <ol>
-<li>Open YouTube Studio and select <strong>Create → Go live</strong>.</li>
+<li>Open <a href="/glossary/youtube-studio/">YouTube Studio</a> and select <strong>Create → Go live</strong>.</li>
 <li>Open the stream in <a href="/glossary/live-control-room/">Live Control Room</a>.</li>
 <li>Select <strong>Stream Settings</strong>.</li>
-<li>Find <strong>Stream latency</strong>.</li>
+<li>Find <strong><a href="/glossary/stream-latency/">Stream latency</a></strong>.</li>
 <li>Select <strong>Low latency</strong>.</li>
 </ol>
 <p>YouTube says webcam and mobile streams are automatically configured for interactivity, so creators cannot manually select a latency mode for those workflows.</p>

@@ -45,13 +45,13 @@ related_terms:
 
 <ul>
 <li>
-<p>Low Engagement Metrics: Videos with low watch time, CTR, or engagement (likes, comments, shares) may be less likely to be recommended.</p>
+<p>Low Engagement Metrics: Videos with low watch time, <a href="/glossary/youtube-impressions/">CTR</a>, or engagement (likes, comments, shares) may be less likely to be recommended.</p>
 </li>
 <li>
 <p>Poor Metadata Quality: Inaccurate or incomplete titles, descriptions, and tags can affect a video's discoverability and relevance.</p>
 </li>
 <li>
-<p>Content Saturation: Operating in a highly competitive niche can make it harder for your videos to stand out and be recommended.</p>
+<p>Content Saturation: Operating in a highly competitive <a href="/glossary/niche/">niche</a> can make it harder for your videos to stand out and be recommended.</p>
 </li>
 <li>
 <p>Community Guidelines Violations: Videos that violate YouTube's community guidelines may be restricted or not recommended.</p>

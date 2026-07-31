@@ -12,7 +12,7 @@ related_terms:
 ---
 
 <h2>Chroma Key</h2>
-<p><strong>Chroma key</strong> is a video compositing technique that makes a selected color range transparent so another image, video, graphic, or virtual set can appear behind the subject. The best-known version uses a green screen, but blue and other uniform colors can also be keyed.</p>
+<p><strong>Chroma key</strong> is a video compositing technique that makes a selected color range transparent so another image, video, graphic, or virtual set can appear behind the subject. The best-known version uses a <a href="/glossary/green-screen/">green screen</a>, but blue and other uniform colors can also be keyed.</p>
 <p>The editor samples the background color, creates a transparency matte, and places the foreground subject over a new layer. A clean result depends as much on lighting and recording quality as it does on the keying effect in the editing software.</p>
 <h3>How chroma key works</h3>
 <p>A chroma-key tool analyzes hue, saturation, and brightness values in the recorded image. Pixels sufficiently similar to the selected key color are made transparent. Pixels belonging to the person, product, or foreground object remain visible.</p>
@@ -76,7 +76,7 @@ related_terms:
 <h4>Avoid the key color in the subject</h4>
 <p>Clothing, logos, jewelry, product packaging, screens, and props that match the key color may become transparent. Reflective surfaces can also pick up the screen even when they are not green or blue themselves.</p>
 <h4>Preserve edge detail</h4>
-<p>Heavy compression, low <a href="/glossary/video-bitrate/">video bitrate</a>, excessive noise, and 4:2:0 chroma subsampling can make edge colors less precise. Record the highest practical quality, expose correctly, and avoid unnecessary re-encoding before keying.</p>
+<p>Heavy compression, low <a href="/glossary/video-bitrate/">video bitrate</a>, excessive noise, and 4:2:0 chroma subsampling can make edge colors less precise. Record the highest practical quality, expose correctly, and avoid unnecessary re-<a href="/glossary/encoding/">encoding</a> before keying.</p>
 <p>Very slow <a href="/glossary/shutter-speed/">shutter speed</a> creates more motion blur, which blends the subject with the background color. A somewhat faster shutter can create cleaner moving edges, although it also changes motion appearance.</p>
 <h3>Refining the key in editing software</h3>
 <p>Most chroma-key effects include controls for:</p>
@@ -85,7 +85,7 @@ related_terms:
 <li><strong>Matte generation:</strong> Determines which pixels become transparent, opaque, or partially transparent.</li>
 <li><strong>Matte cleanup:</strong> Chokes, softens, contracts, or expands the edge.</li>
 <li><strong>Spill suppression:</strong> Removes green or blue contamination reflected onto the subject.</li>
-<li><strong>Color correction:</strong> Restores natural edge color and matches the foreground to the replacement scene.</li>
+<li><strong><a href="/glossary/color-correction/">Color correction</a>:</strong> Restores natural edge color and matches the foreground to the replacement scene.</li>
 <li><strong>Garbage matte or mask:</strong> Excludes areas that do not need to be analyzed, such as light stands or the edge of the screen.</li>
 </ul>
 <p>The goal is not merely to remove every green pixel. An overly aggressive key can erase hair, semitransparent objects, motion blur, and fine detail.</p>

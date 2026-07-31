@@ -13,12 +13,12 @@ related_terms:
 ---
 
 <h2>Dream Screen</h2>
-<p><strong>Dream Screen</strong> is a generative-AI feature built into the YouTube Shorts camera that lets creators type a text prompt to generate an AI image or video — used either as a green-screen background behind them or as a standalone clip inserted into a Short. It's powered by Google DeepMind's Imagen and Veo models, and it's one of several AI creation tools YouTube has rolled into the Shorts "AI Playground" since 2023.</p>
+<p><strong>Dream Screen</strong> is a generative-AI feature built into the <a href="/glossary/youtube-shorts/">YouTube Shorts</a> camera that lets creators type a text prompt to generate an AI image or video — used either as a green-screen background behind them or as a standalone clip inserted into a Short. It's powered by Google DeepMind's Imagen and Veo models, and it's one of several AI creation tools YouTube has rolled into the Shorts "AI Playground" since 2023.</p>
 <p>Dream Screen is about <strong>generating new visuals from a prompt</strong> — it does not select, summarize, or repurpose a creator's existing footage. That makes it a fundamentally different tool from <a href="/glossary/auto-generated-clips/">Auto-Generated Clips</a> and <a href="/glossary/auto-generated-shorts/">Auto-Generated Shorts</a>, which use AI to identify and re-cut highlight moments from long-form videos a creator already uploaded. See the disambiguation section below for the full breakdown.</p>
 
 <h3>How Dream Screen Works</h3>
 <ol>
-<li>A creator opens the Shorts camera and selects <strong>Green screen</strong>, then <strong>Dream Screen</strong> (accessed via the sparkle/AI icon).</li>
+<li>A creator opens the Shorts camera and selects <strong><a href="/glossary/green-screen/">Green screen</a></strong>, then <strong>Dream Screen</strong> (accessed via the sparkle/AI icon).</li>
 <li>They type a text prompt describing the background they want — for example, "a candy-colored landscape" or "a magical forest with a stream" — and optionally pick a visual style (such as claymation or vintage film).</li>
 <li>The system generates four still images (originally powered by Imagen 3) for the creator to choose from.</li>
 <li>The creator either uses the chosen image as a static background or taps <strong>Create video</strong> to animate it into a short AI video clip (powered by Veo), which then plays behind them as they record.</li>
@@ -42,7 +42,7 @@ related_terms:
 <li>Select <strong>Create video</strong> at the top.</li>
 <li>Describe the clip you want (optionally attaching up to three reference images).</li>
 <li>Tap <strong>Create</strong>, preview the result, and choose your desired clip length.</li>
-<li>Insert the clip into your Short's timeline and continue editing as normal.</li>
+<li>Insert the clip into your Short's <a href="/glossary/timeline/">timeline</a> and continue editing as normal.</li>
 </ol>
 
 <h3>Availability, Cost, and Eligibility</h3>
@@ -50,7 +50,7 @@ related_terms:
 <li><strong>Cost:</strong> Free. No subscription or YouTube Premium requirement.</li>
 <li><strong>Devices:</strong> Mobile only, via the YouTube app — works the same on iOS and Android. There is no desktop version.</li>
 <li><strong>Language:</strong> In most countries, your YouTube app's device language needs to be set to <strong>English</strong> to see Dream Screen at all.</li>
-<li><strong>Country availability:</strong> Rolled out unevenly and expanded gradually — starting in the US, Canada, Australia, and New Zealand, later adding India (via the YouTube Create app) and select markets in the Middle East and North Africa. <strong>The EU/European Economic Area, UK, and Switzerland are excluded from some or all Dream Screen sub-features</strong> (green-screen backgrounds, standalone clips, Photo to Video, and Make Me Move each have slightly different exclusion lists). Because YouTube updates this rollout frequently without a single canonical list, check directly in your Shorts camera to confirm current access rather than relying on any article's country list — including this one.</li>
+<li><strong>Country availability:</strong> Rolled out unevenly and expanded gradually — starting in the US, Canada, Australia, and New Zealand, later adding India (via the <a href="/glossary/youtube-create/">YouTube Create</a> app) and select markets in the Middle East and North Africa. <strong>The EU/European Economic Area, UK, and Switzerland are excluded from some or all Dream Screen sub-features</strong> (green-screen backgrounds, standalone clips, Photo to Video, and Make Me Move each have slightly different exclusion lists). Because YouTube updates this rollout frequently without a single canonical list, check directly in your Shorts camera to confirm current access rather than relying on any article's country list — including this one.</li>
 <li><strong>Subscriber requirement:</strong> None. Dream Screen isn't gated by subscriber count, watch hours, or <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> status.</li>
 </ul>
 
@@ -91,8 +91,8 @@ related_terms:
 <td>Generates an AI-created <strong>music/soundtrack</strong> clip for a Short from a text prompt — audio, not visuals</td>
 </tr>
 <tr>
-<td><strong>Ask Studio</strong></td>
-<td>An AI assistant inside YouTube Studio for brainstorming ideas, writing titles/descriptions, and answering channel questions — not a video/image generator</td>
+<td><strong><a href="/glossary/ask-studio/">Ask Studio</a></strong></td>
+<td>An AI assistant inside <a href="/glossary/youtube-studio/">YouTube Studio</a> for brainstorming ideas, writing titles/descriptions, and answering channel questions — not a video/image generator</td>
 </tr>
 </tbody>
 </table>

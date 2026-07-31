@@ -163,7 +163,7 @@ related_terms:
 <li>Use higher-resolution source footage when reframing will require significant cropping.</li>
 </ul>
 <p>A centered composition is easier to repurpose, but it should not make every shot visually flat. Important horizontal scenes may still need a dedicated vertical version rather than a compromised one-size-fits-all frame.</p>
-<h3>Aspect ratio and thumbnails</h3>
+<h3>Aspect ratio and <a href="/glossary/youtube-thumbnails/">thumbnails</a></h3>
 <p>The video frame and the thumbnail are separate assets. A creator can upload a vertical video while still needing a thumbnail or promotional graphic designed for another shape in search, channel, or feed surfaces.</p>
 <p>Do not assume that text placed near the edge of a 9:16 edit will remain readable everywhere the video is previewed. Interfaces can crop previews or overlay buttons, titles, captions, and engagement controls. Keep critical text inside a conservative central area and test the result on actual devices.</p>
 <h3>Letterboxing, pillarboxing, and cropping</h3>
@@ -200,7 +200,7 @@ related_terms:
 </table>
 <p>Stretching is usually the worst option because it changes the proportions of people and objects. Cropping can work well when it is intentional. Adaptive sizing is preferable when the platform supports it.</p>
 <h3>Choosing an aspect ratio</h3>
-<p>Ask these questions before setting the timeline:</p>
+<p>Ask these questions before setting the <a href="/glossary/timeline/">timeline</a>:</p>
 <ol>
 <li>Where will the primary audience watch the finished video?</li>
 <li>Is the content mainly a person, a product, gameplay, a screen recording, or a wide environment?</li>

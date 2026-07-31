@@ -11,9 +11,9 @@ related_terms:
 
 <h2>What is Creative Commons?</h2>
 
-<p>Creative Commons (CC) is a non-profit organization that offers a flexible range of copyrights licenses, allowing creators to legally share their digital content like music, photos, and videos.</p>
+<p>Creative Commons (<a href="/glossary/closed-captions/">CC</a>) is a non-profit organization that offers a flexible range of copyrights licenses, allowing creators to legally share their digital content like music, photos, and videos.</p>
 
-<p>The mission of Creative Commons is to increase the amount of creative works available for others to build upon and share, fostering a more accessible and collaborative creator economy.</p>
+<p>The mission of Creative Commons is to increase the amount of creative works available for others to build upon and share, fostering a more accessible and collaborative <a href="/glossary/creator-economy/">creator economy</a>.</p>
 
 <h2>How many types of Creative Commons licenses are there?</h2>
 
@@ -21,7 +21,7 @@ related_terms:
 
 <ol>
 <li>
-<p>CC BY: Attribution</p>
+<p>CC BY: <a href="/glossary/attribution/">Attribution</a></p>
 </li>
 <li>
 <p>CC BY-SA: Attribution-ShareAlike</p>

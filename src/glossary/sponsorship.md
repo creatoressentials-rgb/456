@@ -14,7 +14,7 @@ permalink: /glossary/sponsorship/
 <p>A typical sponsorship moves through several stages:</p>
 <ol>
 <li>The brand contacts the creator or the creator pitches the brand.</li>
-<li>Both sides discuss audience fit, campaign goals, timing, and budget.</li>
+<li>Both sides discuss <a href="/glossary/audience-fit/">audience fit</a>, campaign goals, timing, and budget.</li>
 <li>They define the <a href="/glossary/deliverables/">deliverables</a>, compensation, rights, disclosure, exclusivity, and <a href="/glossary/approval-process/">approval process</a>.</li>
 <li>The creator develops the concept and produces the agreed content.</li>
 <li>The brand reviews the work according to the contract.</li>
@@ -48,7 +48,7 @@ permalink: /glossary/sponsorship/
 <tr>
   <td><a href="/glossary/brand-deal/">Brand deal</a></td>
   <td>Broad commercial agreement between a creator and brand</td>
-  <td>A contract covering two videos, usage rights, and payment</td>
+  <td>A contract covering two videos, <a href="/glossary/usage-rights/">usage rights</a>, and payment</td>
 </tr>
 <tr>
   <td>Sponsorship</td>
@@ -88,7 +88,7 @@ permalink: /glossary/sponsorship/
 <li>Required talking points, prohibited claims, links, codes, and calls to action</li>
 <li>The <a href="/glossary/sponsorship-disclosure/">sponsorship disclosure</a> required in each format</li>
 <li>Who may approve the content and how long review takes</li>
-<li>Content ownership and usage rights</li>
+<li><a href="/glossary/content-ownership/">Content ownership</a> and usage rights</li>
 <li>Paid advertising or brand partner access</li>
 <li><a href="/glossary/category-exclusivity/">Category exclusivity</a> and competitor restrictions</li>
 <li>How long published content must remain live</li>
@@ -97,7 +97,7 @@ permalink: /glossary/sponsorship/
 </ul>
 <p>A creator's <a href="/glossary/creator-rate-card/">rate card</a> may provide baseline pricing, but a sponsorship quote should reflect the full scope and the opportunity cost of rights or restrictions.</p>
 <h3>Sponsorship disclosure on YouTube</h3>
-<p>YouTube requires creators to tell the platform when a video contains a paid product placement, sponsorship, endorsement, or other applicable commercial relationship by selecting the paid-promotion declaration in YouTube Studio.</p>
+<p>YouTube requires creators to tell the platform when a video contains a paid product placement, sponsorship, endorsement, or other applicable commercial relationship by selecting the paid-promotion declaration in <a href="/glossary/youtube-studio/">YouTube Studio</a>.</p>
 <p>That platform declaration is separate from a creator's own viewer-facing disclosure. Depending on the audience and applicable law, the creator may need to clearly explain the relationship in the video, description, livestream, Short, or other content.</p>
 <p>For U.S.-facing endorsements, creators should also understand the <a href="/glossary/ftc-sponsorship-disclosure/">FTC sponsorship disclosure</a> principles. The FTC focuses on whether a material connection is made clear in a way viewers are likely to notice and understand.</p>
 <h3>Does sponsorship guarantee a positive review?</h3>

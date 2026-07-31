@@ -14,7 +14,7 @@ related_terms:
 <h2>L-Cut</h2>
 <p>An <strong>L-cut</strong> is a video-editing transition in which audio from the current shot continues after the picture has changed to the next shot. The viewer sees the new image while still hearing dialogue, narration, ambience, music, or another sound from the previous one.</p>
 <p>L-cuts are a type of <strong>split edit</strong> because the audio and video edit points occur at different times. They help creators connect shots smoothly, preserve a speaker's thought over supporting footage, show reactions while someone continues talking, and avoid the mechanical feeling of changing sound and picture at exactly the same frame.</p>
-<p>The name comes from the approximate L shape created by staggered audio and video clips on a traditional editing timeline. The outgoing audio extends farther to the right than its matching picture.</p>
+<p>The name comes from the approximate L shape created by staggered audio and video clips on a traditional editing <a href="/glossary/timeline/">timeline</a>. The outgoing audio extends farther to the right than its matching picture.</p>
 <h3>How an L-cut works</h3>
 <p>Imagine a creator finishing an explanation on camera. The video cuts to a close-up of the product, but the creator's sentence continues over the demonstration. The picture has moved forward while the previous audio carries the idea into the new shot.</p>
 <p>A basic L-cut follows this sequence:</p>
@@ -122,5 +122,5 @@ related_terms:
 <p>Yes. The outgoing sound can be dialogue, narration, music, ambience, or an effect. The technique is defined by timing rather than sound type.</p>
 <h4>How long should an L-cut last?</h4>
 <p>There is no standard duration. Keep the overlap long enough to preserve meaning or flow, but short enough that the audience understands the relationship between the sound and image.</p>
-<h4>Is an L-cut the same as B-roll?</h4>
+<h4>Is an L-cut the same as <a href="/glossary/b-roll/">B-roll</a>?</h4>
 <p>No. An L-cut is an audio-video timing technique. Supporting footage is one type of image that may appear while the previous audio continues.</p>
