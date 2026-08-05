@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "An Honest VidIQ Review: Is It Worth It?"
 date: 2024-06-04
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "VidIQ is one of the most popular YouTube SEO tools. Here's an honest look at its features, pricing, pros and cons, and whether it's worth the investment for your channel."
 tags:
   - Tools

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "An Honest Epidemic Sound Review: Is It Worth It?"
 date: 2024-06-15
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Epidemic Sound is one of the most popular royalty-free music platforms for content creators. Here's an honest look at its library, pricing, licensing model, and whether it's worth the cost."
 tags:
   - Tools
@@ -23,7 +23,7 @@ The catalog spans virtually every genre, mood, and tempo — from ambient backgr
 
 Royalty-free means you pay once (through your subscription) and can use the music across your content without ongoing licensing fees. It doesn't mean the music is free — it means the ongoing use is covered by your subscription cost.
 
-For YouTube creators, this is particularly valuable because it eliminates the risk of Content ID claims, video demonetization, or audio getting muted — all common consequences of using music without proper licensing.
+For YouTube creators, this is particularly valuable because it eliminates the risk of [Content ID](/glossary/content-id/) claims, video demonetization, or audio getting muted — all common consequences of using music without proper licensing.
 
 ## What You Get
 
@@ -51,7 +51,7 @@ The Chrome extension integrates directly into your workflow, letting you preview
 ## Pros
 
 - Large, high-quality catalog organized by mood, genre, and energy
-- Royalty-free licensing eliminates copyright claim risk entirely
+- Royalty-free licensing eliminates [copyright claim](/glossary/copyright-claim/) risk entirely
 - Simple pricing — no per-track fees or usage limits
 - Search and filter tools make finding the right track fast
 - New music added regularly

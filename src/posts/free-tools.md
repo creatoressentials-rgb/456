@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "28 Free Tools for YouTubers and Content Creators"
 date: 2024-09-18
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "You don't need to spend money to build a great YouTube channel. Here are 28 free tools covering productivity, SEO, editing, audience research, and content ideation."
 tags:
   - Tools
 featured_image: "/assets/images/posts/free-tools.png"
 ---
 
-Building a YouTube channel takes time and effort — but it doesn't have to cost a lot of money, especially when you're starting out. Here are 28 free tools that cover every major need a content creator has.
+Building a [YouTube channel](/glossary/youtube-channel/) takes time and effort — but it doesn't have to cost a lot of money, especially when you're starting out. Here are 28 free tools that cover every major need a [content creator](/glossary/content-creator/) has.
 
 ## Productivity and Time Management
 
@@ -23,7 +23,7 @@ Building a YouTube channel takes time and effort — but it doesn't have to cost
 
 ## Audience Research
 
-**5. [YouTube Studio](/glossary/youtube-studio/)** — The most powerful free tool for understanding your own audience. [Retention](/glossary/retention/) data, traffic sources, demographics, and engagement metrics — all native and free.
+**5. [YouTube Studio](/glossary/youtube-studio/)** — The most powerful free tool for understanding your own audience. [Retention](/glossary/retention/) data, [traffic sources](/glossary/traffic-sources/), demographics, and engagement metrics — all native and free.
 
 **6. Google Trends** — Shows when audiences search for specific topics over time. Useful for timing seasonal content before the search spike, not during it.
 
@@ -37,7 +37,7 @@ Building a YouTube channel takes time and effort — but it doesn't have to cost
 
 **10. Opus.pro** — AI tool that generates short-form clips from long-form videos automatically. Multiplies your content output significantly without additional editing time.
 
-**11. Pexels** — High-quality royalty-free images and video footage. No attribution required, no copyright concerns.
+**11. Pexels** — High-quality royalty-free images and video footage. No [attribution](/glossary/attribution/) required, no copyright concerns.
 
 **12. Mixkit** — Free stock video clips and music tracks. Well-organized by genre.
 

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "The Definitive Guide to the YouTube Community Tab"
 date: 2023-08-22
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "The YouTube Community Tab is one of the most underused growth tools on the platform. Here's how to enable it, what to post, and 7 strategies to use it for channel growth."
 tags:
   - YouTube Strategy
@@ -48,7 +48,7 @@ Use the @ mention feature to acknowledge fans, thank collaborators, or highlight
 
 ### 4. Offer Exclusive Content to Members
 
-If you have channel memberships, restrict certain posts to paid members. This makes membership feel more valuable and gives your most loyal supporters something extra.
+If you have [channel memberships](/glossary/channel-memberships/), restrict certain posts to paid members. This makes membership feel more valuable and gives your most loyal supporters something extra.
 
 ### 5. Ask Your Audience Direct Questions
 

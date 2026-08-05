@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "YouTube Shorts Upload Checklist: Everything You Need Before Publishing"
 date: 2023-10-07
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "YouTube Shorts get over 50 billion views per day. Here's a complete upload checklist to make sure every Short is optimized before you hit publish."
 tags:
   - YouTube Strategy
@@ -15,13 +15,13 @@ Here's a complete checklist.
 
 ## What Are YouTube Shorts?
 
-YouTube Shorts are vertical videos up to 60 seconds long, designed for mobile viewing and quick consumption. They appear in the Shorts feed, on channel pages, and can be discovered through search. Since 2023, Shorts creators can qualify for the YouTube Partner Program and earn ad revenue.
+YouTube Shorts are vertical videos up to 60 seconds long, designed for mobile viewing and quick consumption. They appear in the Shorts feed, on channel pages, and can be discovered through search. Since 2023, Shorts creators can qualify for the [YouTube Partner Program](/glossary/youtube-partner-program/) and earn [ad revenue](/glossary/ad-revenue/).
 
 ## Before You Upload: The Checklist
 
 ### ✅ 1. Write a Compelling Title
 
-Your title should be concise, descriptive, and include at least one relevant [hashtag](/glossary/hashtags/). Keep it under 60 characters. Example format: "Quick Fix for Low CTR | #YouTubeTips | [Channel Name]"
+Your title should be concise, descriptive, and include at least one relevant [hashtag](/glossary/hashtags/). Keep it under 60 characters. Example format: "Quick Fix for Low [CTR](/glossary/youtube-impressions/) | #YouTubeTips | [Channel Name]"
 
 ### ✅ 2. Write a Short Description With Keywords
 

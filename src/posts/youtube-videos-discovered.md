@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Get Your YouTube Videos Discovered"
 date: 2023-09-30
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Roughly 2,500 videos are uploaded to YouTube every minute. Here's a practical strategy for making your videos more discoverable — through SEO, thumbnails, audience engagement, and more."
 tags:
   - YouTube Strategy
@@ -51,7 +51,7 @@ Don't rely entirely on the algorithm, especially when your channel is new. Share
 
 ## Study Your Analytics
 
-[YouTube Studio](/glossary/youtube-studio/) tells you where viewers are dropping off, which traffic sources are working, and what's driving [subscriber](/glossary/youtube-subscribers/) growth. Use that data to inform your next video — double down on what works, investigate what doesn't.
+[YouTube Studio](/glossary/youtube-studio/) tells you where viewers are dropping off, which [traffic sources](/glossary/traffic-sources/) are working, and what's driving [subscriber](/glossary/youtube-subscribers/) growth. Use that data to inform your next video — double down on what works, investigate what doesn't.
 
 ---
 

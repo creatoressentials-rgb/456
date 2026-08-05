@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "11 Tips for Writing YouTube Video Titles That Get Clicked"
 date: 2023-08-25
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Your title is the first thing viewers see. Here are 11 proven strategies for writing YouTube titles that drive clicks, improve SEO, and accurately represent your content."
 tags:
   - YouTube Strategy

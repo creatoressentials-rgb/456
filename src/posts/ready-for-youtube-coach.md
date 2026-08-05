@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Know When You're Ready for YouTube Coaching"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "A lot of creators assume YouTube coaching is only for big channels. That's not the case. Here are five signs you're ready to work with a coach."
 tags:
   - Coaching
@@ -49,7 +49,7 @@ Sometimes the problem isn't effort. It's strategy. A coach provides an expert ex
 
 ## 5. You Want a Clear Path to Monetization
 
-If your goal is sustainable income — not just views — you need a plan that goes beyond [AdSense](/glossary/youtube-ads/). A coach helps develop niche-specific strategies covering brand partnerships, [affiliate marketing](/glossary/youtube-affiliate-marketing/), digital products, and diversified revenue streams.
+If your goal is sustainable income — not just views — you need a plan that goes beyond [AdSense](/glossary/youtube-ads/). A coach helps develop [niche](/glossary/niche/)-specific strategies covering brand partnerships, [affiliate marketing](/glossary/youtube-affiliate-marketing/), digital products, and diversified revenue streams.
 
 Without a clear monetization roadmap, many creators grind for years without building anything financially meaningful.
 

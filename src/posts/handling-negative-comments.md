@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "How to Handle Negative Comments and Haters as a Creator"
 date: 2022-12-20
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Negative comments are an unavoidable part of being a content creator. Here's how to handle them professionally, protect your mental health, and keep making great content."
 tags:
   - Creator Mindset
 featured_image: "/assets/images/posts/handling-negative-comments.jpg"
 ---
 
-As a content creator, receiving negative comments is unavoidable. Whether you're a blogger, [vlogger](/glossary/vlog/), or business owner, learning to handle criticism professionally — without letting it derail your creative output — is one of the most important skills you can develop.
+As a [content creator](/glossary/content-creator/), receiving negative comments is unavoidable. Whether you're a blogger, [vlogger](/glossary/vlog/), or business owner, learning to handle criticism professionally — without letting it derail your creative output — is one of the most important skills you can develop.
 
 ## Why People Leave Negative Comments
 

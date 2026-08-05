@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "8 Benefits of Having a YouTube Coach for Your Channel"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "A YouTube coach does more than give tips — they help you avoid costly mistakes, build momentum, and turn your channel into a sustainable business. Here are 8 concrete benefits."
 tags:
   - Coaching
@@ -15,7 +15,7 @@ When I started on YouTube, I had enthusiasm but struggled to gain traction despi
 
 A [YouTube coach](/services/youtube-coaching-program/) provides expert guidance, data-driven strategies, and personalized feedback to help creators grow their channels. Think of it like a personal trainer — someone who analyzes what's working, what isn't, and guides you toward your goals more efficiently than trial and error alone.
 
-## 8 Benefits of a YouTube Channel Coach
+## 8 Benefits of a [YouTube Channel](/glossary/youtube-channel/) Coach
 
 ### 1. Faster Growth Without the Guesswork
 

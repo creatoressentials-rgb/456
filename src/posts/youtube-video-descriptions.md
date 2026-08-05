@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Write Better YouTube Video Descriptions (With Template)"
 date: 2023-08-30
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "A well-written YouTube description improves SEO, drives clicks, and funnels viewers toward your other content and offers. Here are 11 tips and a template to follow."
 tags:
   - YouTube Strategy
@@ -71,7 +71,7 @@ YouTube Analytics shows you which videos are getting discovered through search. 
 
 Using a template (see below) ensures every video gets properly described without reinventing the wheel each time.
 
-## YouTube Video Description Template
+## [YouTube Video Description](/glossary/youtube-video-description/) Template
 
 ```
 [Opening line with primary keyword and hook — 1-2 sentences]

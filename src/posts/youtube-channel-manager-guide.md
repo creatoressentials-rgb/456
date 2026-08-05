@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "A Complete Guide to Hiring a YouTube Channel Manager"
 date: 2024-09-21
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Thinking about hiring a YouTube channel manager? Here's what they do, when it makes sense to hire one, how to find the right person, and what to expect in the first few months."
 tags:
   - Channel Management
 featured_image: "/assets/images/posts/youtube-channel-manager-guide.jpg"
 ---
 
-Success on YouTube extends far beyond publishing videos. The behind-the-scenes work — [SEO](/glossary/seo/), [thumbnails](/glossary/youtube-thumbnails/), content strategy, community management, analytics — is where real channel growth happens. A YouTube channel manager takes that work off your plate.
+Success on YouTube extends far beyond publishing videos. The behind-the-scenes work — [SEO](/glossary/seo/), [thumbnails](/glossary/youtube-thumbnails/), content strategy, community management, analytics — is where real channel growth happens. A [YouTube channel](/glossary/youtube-channel/) manager takes that work off your plate.
 
 Here's everything you need to know before hiring one.
 

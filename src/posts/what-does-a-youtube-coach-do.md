@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "What Does a YouTube Coach Do? 4 Core Duties"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Growing a YouTube channel can feel overwhelming. A coach removes the guesswork. Here are the four core things a YouTube coach actually does for you."
 tags:
   - Coaching
 featured_image: "/assets/images/posts/what-does-a-youtube-coach-do.jpg"
 ---
 
-Growing a YouTube channel can be overwhelming. It's frustrating when you don't know what's working and what's holding you back. When views are low, it's easy to second-guess everything: Is it the title? The thumbnail? The algorithm? Maybe even the content itself?
+Growing a [YouTube channel](/glossary/youtube-channel/) can be overwhelming. It's frustrating when you don't know what's working and what's holding you back. When views are low, it's easy to second-guess everything: Is it the title? The thumbnail? The algorithm? Maybe even the content itself?
 
 A YouTube channel coach helps you develop a clear strategy to grow your channel, improve your content, and reach your goals faster. Instead of relying on trial and error, you get expert feedback and a game plan designed specifically for you.
 

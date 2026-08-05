@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "VidIQ Coaching Alternatives: YouTube Coaches Worth Considering"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "VidIQ offers a coaching program, but it's not your only option. Here's a breakdown of VidIQ's coaching program and seven alternatives — including what each offers and what it costs."
 tags:
   - Coaching

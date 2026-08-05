@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How Often Should I Upload on YouTube?"
 date: 2023-09-11
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "There's no magic upload frequency that works for every channel. Here's how to find the right posting cadence for your audience, your content, and your life."
 tags:
   - YouTube Strategy

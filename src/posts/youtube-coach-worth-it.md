@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Is a YouTube Coach Worth It? It Depends"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Coaches help creators turn their channel into something sustainable. But is the investment worth it? Here's an honest breakdown."
 tags:
   - Coaching
@@ -23,7 +23,7 @@ Applying proven strategies from the beginning — with an experienced coach revi
 
 ## The ROI of YouTube Coaching
 
-Consider the opportunity cost. Successful channels generate significant revenue through monetization, sponsorships, and ad revenue. A coach helps optimize your channel for faster growth, so you access those revenue opportunities sooner. Without that guidance, you risk spending months or years stagnant, making costly errors, and missing income potential.
+Consider the opportunity cost. Successful channels generate significant revenue through monetization, sponsorships, and [ad revenue](/glossary/ad-revenue/). A coach helps optimize your channel for faster growth, so you access those revenue opportunities sooner. Without that guidance, you risk spending months or years stagnant, making costly errors, and missing income potential.
 
 Even a few months of coaching that shortens your growth curve by a year or more is an investment that pays for itself.
 
@@ -43,7 +43,7 @@ Even short-term coaching arrangements of a few months can provide the clarity an
 Coaching may not be the right fit if you:
 
 - Create videos purely as a hobby with no interest in growing
-- Prefer independent experimentation regardless of timeline
+- Prefer independent experimentation regardless of [timeline](/glossary/timeline/)
 - Aren't ready to implement feedback or change your current approach
 
 Beginners might also benefit from a period of consistent creation and platform learning before investing in coaching — though getting it right from the start is almost always faster.

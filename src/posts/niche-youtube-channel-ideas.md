@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Top Niche YouTube Channel Ideas to Consider"
 date: 2024-09-16
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "The right niche is one of the most important decisions you'll make for your YouTube channel. Here are specific niche ideas across 10 categories — with tips on how to stand out in each."
 tags:
   - YouTube Strategy
@@ -55,7 +55,7 @@ A [niche](/glossary/niche/) is the specific topic or category your channel focus
 
 ### Personal Finance
 
-- **Investing for beginners** — Consistently high-demand content; high [CPM](/glossary/youtube-cpm/) for ad revenue
+- **Investing for beginners** — Consistently high-demand content; high [CPM](/glossary/youtube-cpm/) for [ad revenue](/glossary/ad-revenue/)
 - **Frugal living** — Money-saving tips with broad appeal
 - **FIRE movement** — Financial independence and early retirement; growing and engaged niche
 
@@ -82,7 +82,7 @@ A [niche](/glossary/niche/) is the specific topic or category your channel focus
 1. **Start with genuine interest** — What would you still talk about after 100 videos?
 2. **Check market demand** — Use Google Trends and YouTube search to verify people are actively searching
 3. **Analyze the competition** — Find gaps and angles that top channels in your niche haven't covered
-4. **Assess monetization potential** — Affiliate marketing opportunities, sponsorship fit, and CPM rates vary significantly by niche
+4. **Assess monetization potential** — [Affiliate marketing](/glossary/affiliate-marketing/) opportunities, [sponsorship](/glossary/sponsorship/) fit, and [CPM](/glossary/cost-per-mille-cpm/) rates vary significantly by niche
 5. **Test before committing** — Make 3–5 videos in a potential niche and see what the data says
 
 ---

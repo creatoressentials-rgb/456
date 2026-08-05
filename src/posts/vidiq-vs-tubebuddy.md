@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "VidIQ vs TubeBuddy: Which YouTube Tool Is Better?"
 date: 2024-06-24
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "VidIQ and TubeBuddy are the two most popular YouTube SEO tools. Here's a detailed feature-by-feature comparison to help you decide which one is right for your channel."
 tags:
   - Tools

@@ -41,6 +41,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/admin");
+  eleventyConfig.addPassthroughCopy("src/google99c4ec46c718f75c.html");
 
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi

@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "How Much Does a YouTube Coach Cost?"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "YouTube coaching ranges from $50 to $10,000+ per month. Here's what drives the price, what you get at each level, and how to know if it's worth it for your channel."
 tags:
   - Coaching
 featured_image: "/assets/images/posts/youtube-coach-cost.jpg"
 ---
 
-If you've been working hard on your YouTube channel but aren't seeing the results you want, a [YouTube coach](/services/youtube-coaching-program/) can help you fix what's not working and create a clear strategy for growth.
+If you've been working hard on your [YouTube channel](/glossary/youtube-channel/) but aren't seeing the results you want, a [YouTube coach](/services/youtube-coaching-program/) can help you fix what's not working and create a clear strategy for growth.
 
 But how much does coaching actually cost? The range is wider than most people expect.
 
@@ -32,7 +32,7 @@ Basic guidance, general YouTube advice, and occasional strategy sessions. Best f
 
 The most common range for serious coaching. Includes detailed channel audits, personalized feedback, content planning, [SEO](/glossary/seo/) strategy, and in-depth analytics. Best for creators with some traction who need to break through a growth plateau.
 
-**vidIQ's coaching program sits at $199/month — with a dedicated niche-matched coach, a custom 3-phase growth plan, weekday messaging, and access to their full suite of creator tools.**
+**vidIQ's coaching program sits at $199/month — with a dedicated [niche](/glossary/niche/)-matched coach, a custom 3-phase growth plan, weekday messaging, and access to their full suite of creator tools.**
 
 ### High-Tier: $1,000–$10,000+ for packages
 

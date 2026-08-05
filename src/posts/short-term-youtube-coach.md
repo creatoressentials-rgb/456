@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "A YouTube Coach for 90 Days? How to Get the Most Out of It"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Short-term YouTube coaching can be incredibly effective — but only if you go into it with the right approach. Here's how to maximize a 90-day engagement."
 tags:
   - Coaching
@@ -45,7 +45,7 @@ The systems, habits, and frameworks you develop during coaching should outlast t
 
 ## The Short Answer
 
-Ninety days of focused, well-applied coaching can change the trajectory of a YouTube channel. The investment isn't in the time — it's in what you do with the guidance you receive.
+Ninety days of focused, well-applied coaching can change the trajectory of a [YouTube channel](/glossary/youtube-channel/). The investment isn't in the time — it's in what you do with the guidance you receive.
 
 If you're considering short-term [coaching](/services/youtube-coaching-program/), go in with clear goals, open assumptions, and a commitment to actually doing the work. The results can be significant.
 

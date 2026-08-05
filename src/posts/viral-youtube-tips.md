@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "10 Tips to Help Your YouTube Videos Go Viral"
 date: 2024-04-23
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Going viral on YouTube isn't entirely luck. Here are 10 strategic practices that dramatically increase the chances of your video breaking through to a wider audience."
 tags:
   - YouTube Strategy
@@ -21,7 +21,7 @@ A viral video rapidly accumulates a large number of views — often spreading be
 
 ### 1. Understand Your Audience Deeply
 
-You can't create content that resonates at scale without knowing who you're creating for. Use YouTube Analytics to study demographics, [retention](/glossary/retention/) patterns, and traffic sources. Pay attention to which videos generate the most comments and shares — those signals reveal what your audience connects with most.
+You can't create content that resonates at scale without knowing who you're creating for. Use YouTube Analytics to study demographics, [retention](/glossary/retention/) patterns, and [traffic sources](/glossary/traffic-sources/). Pay attention to which videos generate the most comments and shares — those signals reveal what your audience connects with most.
 
 ### 2. Experiment With Different Content Formats
 

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Honest TubeBuddy Review: Is It Worth It?"
 date: 2023-10-13
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "TubeBuddy is one of the most widely used YouTube tools. Here's an honest breakdown of its features, pricing, pros and cons, and whether it's the right tool for your channel."
 tags:
   - Tools

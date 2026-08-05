@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Do YouTubers Need Websites? Yes — Here's Why"
 date: 2023-09-15
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "A YouTube channel is powerful. But you don't own it. Here's why having your own website is essential for long-term creator business security, SEO, and monetization."
 tags:
   - YouTube Strategy
@@ -15,7 +15,7 @@ Having your own website gives you a piece of the internet that's entirely yours 
 
 ## You Own Your Website. You Don't Own Your Channel.
 
-Social media platforms are owned by companies with their own financial incentives. If your YouTube channel gets suspended, demonetized, or buried by an algorithm update, your website remains a stable home for your brand and your audience.
+Social media platforms are owned by companies with their own financial incentives. If your [YouTube channel](/glossary/youtube-channel/) gets suspended, demonetized, or buried by an algorithm update, your website remains a stable home for your brand and your audience.
 
 With 71% of small businesses owning a website, the web continues to be a major traffic and revenue channel. A creator who only exists on YouTube is building on rented land.
 
@@ -35,7 +35,7 @@ By publishing content on both your website and your YouTube channel, you create 
 
 ### 4. Expand Your Monetization Options
 
-A website opens revenue streams that YouTube can't: display advertising, [affiliate marketing](/glossary/youtube-affiliate-marketing/), selling digital products, courses, memberships, and services directly. Creators with websites typically have more diversified and more stable income than those relying on YouTube ad revenue alone.
+A website opens revenue streams that YouTube can't: display advertising, [affiliate marketing](/glossary/youtube-affiliate-marketing/), selling digital products, courses, memberships, and services directly. Creators with websites typically have more diversified and more stable income than those relying on YouTube [ad revenue](/glossary/ad-revenue/) alone.
 
 ### 5. Your Content Lives Beyond Your Channel
 

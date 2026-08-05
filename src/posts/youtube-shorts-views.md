@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Get More YouTube Shorts Views"
 date: 2023-11-28
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "YouTube Shorts get billions of views daily. Here are 8 strategies and a 3-part framework (Entertainment, Education, Emotion) to consistently increase your Shorts viewership."
 tags:
   - YouTube Strategy

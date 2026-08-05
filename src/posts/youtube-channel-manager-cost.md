@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How Much Does a YouTube Channel Manager Cost?"
 date: 2024-10-01
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "YouTube channel manager pricing varies widely. Here's what you should expect to pay, what drives the cost, and how to know if it's worth the investment."
 tags:
   - Channel Management
@@ -15,7 +15,7 @@ The honest answer is that it varies significantly — and for good reason. Here'
 
 ## The Range Is Wide
 
-YouTube channel management services typically range from $100 to $10,000 per month. That's not a typo. The spread is real, and it reflects genuine differences in what's being offered.
+[YouTube channel](/glossary/youtube-channel/) management services typically range from $100 to $10,000 per month. That's not a typo. The spread is real, and it reflects genuine differences in what's being offered.
 
 On the low end, you might be getting a few hours of work per month — basic video uploads, simple [SEO](/glossary/seo/), and minimal strategy. On the high end, you're getting a dedicated team handling everything from content ideation and production oversight to full SEO, community management, analytics reporting, and custom strategy.
 
@@ -29,7 +29,7 @@ Several factors affect what you'll pay:
 
 **Manager experience.** A manager with a proven track record and demonstrable results — actual view counts and [subscriber](/glossary/youtube-subscribers/) growth for client channels — commands a higher rate. That experience is usually worth paying for.
 
-**Volume of deliverables.** Custom thumbnail design, script feedback, and video editing add to the cost. Basic packages that exclude these services cost less.
+**Volume of [deliverables](/glossary/deliverables/).** Custom thumbnail design, script feedback, and video editing add to the cost. Basic packages that exclude these services cost less.
 
 ## Is It Worth It?
 

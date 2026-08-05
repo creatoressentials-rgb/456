@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Are YouTube Channel Managers Worth It? 6 Key Benefits"
 date: 2024-10-03
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Running a YouTube channel is a full-time job. Here's an honest look at whether hiring a channel manager is worth the investment — and what six specific benefits you can expect."
 tags:
   - Channel Management
@@ -13,7 +13,7 @@ If you've spent late nights tweaking video descriptions, responding to comments,
 
 That's the question a [YouTube channel manager](/services/youtube-channel-management/) answers.
 
-## What Is a YouTube Channel Manager?
+## What Is a [YouTube Channel](/glossary/youtube-channel/) Manager?
 
 A channel manager handles the operational side of your YouTube channel while you focus on creating. This includes optimizing videos for [SEO](/glossary/seo/), ideating new content, managing community engagement, analyzing competitors, designing [thumbnails](/glossary/youtube-thumbnails/), and producing monthly performance reports.
 

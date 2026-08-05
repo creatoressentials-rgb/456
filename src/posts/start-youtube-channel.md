@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Start a YouTube Channel: A Complete Guide"
 date: 2024-01-09
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Starting a YouTube channel is more accessible than ever — but success requires more than just uploading videos. Here's a step-by-step guide from setup to monetization."
 tags:
   - YouTube Strategy
@@ -54,7 +54,7 @@ Share your videos on Twitter/X, Instagram, TikTok, and LinkedIn where relevant. 
 
 ### 8. Study Your Analytics
 
-[YouTube Studio](/glossary/youtube-studio/) shows you exactly which videos are working and why. Check your click-through rates, [audience retention](/glossary/retention/) graphs, and traffic sources regularly. Let data inform your next video decisions rather than guessing.
+[YouTube Studio](/glossary/youtube-studio/) shows you exactly which videos are working and why. Check your click-through rates, [audience retention](/glossary/retention/) graphs, and [traffic sources](/glossary/traffic-sources/) regularly. Let data inform your next video decisions rather than guessing.
 
 ### 9. Invest in Your Thumbnails
 
@@ -62,18 +62,18 @@ Thumbnails are your first impression in every search result and recommendation. 
 
 ## 6 Ways to Monetize Your Channel
 
-1. **YouTube Partner Program** — ad revenue once you hit eligibility thresholds
+1. **[YouTube Partner Program](/glossary/youtube-partner-program/)** — [ad revenue](/glossary/ad-revenue/) once you hit eligibility thresholds
 2. **Sponsorships** — brand deals for promoting products to your audience
 3. **Merchandise** — branded products through print-on-demand services
 4. **Online courses** — teaching your expertise in a paid format
 5. **[Affiliate marketing](/glossary/youtube-affiliate-marketing/)** — earning commissions on products you recommend
-6. **Channel memberships** — recurring revenue from paying [subscribers](/glossary/youtube-subscribers/)
+6. **[Channel memberships](/glossary/channel-memberships/)** — [recurring revenue](/glossary/recurring-revenue/) from paying [subscribers](/glossary/youtube-subscribers/)
 
 Building meaningful income takes time. The creators who get there consistently are the ones who treat the channel as a business from the start — with a strategy, not just content.
 
 ## When to Start
 
-The best time to start a YouTube channel was years ago. The second-best time is now.
+The best time to start a [YouTube channel](/glossary/youtube-channel/) was years ago. The second-best time is now.
 
 Competition on YouTube is real, but so is the opportunity. New channels break through every month because they focus on specific audiences, publish consistently, and package their content well. If you're willing to do those three things, you have a real chance.
 

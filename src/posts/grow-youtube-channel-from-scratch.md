@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "How to Grow on YouTube with 0 Views and 0 Subscribers"
 date: 2023-09-13
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Every big YouTuber started with zero views and zero subscribers. Here's a practical guide to building momentum from scratch — without the guesswork."
 tags:
   - YouTube Strategy
 featured_image: "/assets/images/posts/grow-youtube-channel-from-scratch.jpg"
 ---
 
-Beginning a YouTube channel is both exciting and intimidating. You have passion and ideas — but the views and [subscribers](/glossary/youtube-subscribers/) aren't there yet. The biggest obstacle is usually just starting.
+Beginning a [YouTube channel](/glossary/youtube-channel/) is both exciting and intimidating. You have passion and ideas — but the views and [subscribers](/glossary/youtube-subscribers/) aren't there yet. The biggest obstacle is usually just starting.
 
 Your first videos won't be your best. That's perfectly fine. They're not meant to be. They're the foundation you build on.
 
@@ -37,7 +37,7 @@ Use strong opening [hooks](/glossary/youtube-hooks/) to grab attention immediate
 
 ## Promote Beyond YouTube
 
-Early-stage channels shouldn't rely exclusively on the algorithm. Share your content across social platforms, reach out to relevant communities, collaborate with other small creators, and tell your network.
+Early-stage channels shouldn't rely exclusively on the algorithm. Share your content across social platforms, reach out to relevant communities, collaborate with other small creators, and tell your [network](/glossary/dropped-frames/).
 
 External traffic signals to YouTube that your content is valuable. Building initial momentum often requires going out and earning those first views rather than waiting for them to arrive organically.
 
@@ -57,7 +57,7 @@ Consistency benefits both the algorithm and your audience's trust. People subscr
 
 Growing a YouTube channel from zero takes time, strategy, and consistency. Every creator you admire started exactly where you are right now.
 
-The advantage of starting with a clear strategy is that you compress the timeline significantly. Getting expert feedback early — rather than discovering what works through years of trial and error — is one of the most efficient investments you can make.
+The advantage of starting with a clear strategy is that you compress the [timeline](/glossary/timeline/) significantly. Getting expert feedback early — rather than discovering what works through years of trial and error — is one of the most efficient investments you can make.
 
 ## Related Reading
 

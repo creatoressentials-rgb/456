@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "6 Best YouTube Coaches to Grow Your Channel"
 date: 2025-03-14
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "The right YouTube coach depends on your goals, budget, and where your channel stands. Here's a breakdown of 6 coaches worth considering — what they offer and who they're for."
 tags:
   - Coaching

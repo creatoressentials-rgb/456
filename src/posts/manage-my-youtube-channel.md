@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "Can Someone Manage My YouTube Channel? What to Know"
 date: 2024-10-02
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Yes — you can hire someone to manage your YouTube channel. Here's what a channel manager actually handles, what it costs, how to choose the right person, and what to expect."
 tags:
   - Channel Management
 featured_image: "/assets/images/posts/manage-my-youtube-channel.jpg"
 ---
 
-Running a successful YouTube channel is more than hitting record and uploading videos. There's production, [SEO](/glossary/seo/), branding, audience engagement, content planning, and staying on top of an algorithm that keeps evolving. If you're like most creators, the operational side of the channel is eating time you'd rather spend creating.
+Running a successful [YouTube channel](/glossary/youtube-channel/) is more than hitting record and uploading videos. There's production, [SEO](/glossary/seo/), branding, audience engagement, content planning, and staying on top of an algorithm that keeps evolving. If you're like most creators, the operational side of the channel is eating time you'd rather spend creating.
 
 That's where a [YouTube channel manager](/services/youtube-channel-management/) makes a difference.
 
@@ -45,7 +45,7 @@ Monthly reports break down views, [watch time](/glossary/youtube-watch-time/), s
 
 **Per-video pricing:** $50–$300 per video for specific services like SEO or thumbnail design, if you don't need full management.
 
-**Commission-based:** A percentage of your ad revenue or sponsorship deals, which reduces upfront cost but shares future earnings.
+**Commission-based:** A percentage of your [ad revenue](/glossary/ad-revenue/) or [sponsorship](/glossary/sponsorship/) deals, which reduces upfront cost but shares future earnings.
 
 Is it worth it? For channels generating steady income and serious about scaling — usually yes. For hobby channels with no revenue, start with coaching or an audit first.
 

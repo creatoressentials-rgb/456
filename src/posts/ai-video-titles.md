@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "How to Write Better YouTube Titles with AI"
 date: 2023-12-11
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "AI tools like ChatGPT can dramatically speed up your YouTube title-writing process. Here's an exact prompt strategy for generating compelling title ideas from top-ranking competitors."
 tags:
   - Tools

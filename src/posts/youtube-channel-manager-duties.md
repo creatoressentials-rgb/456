@@ -2,14 +2,14 @@
 layout: layouts/post.njk
 title: "What Does a YouTube Channel Manager Do? [Explained]"
 date: 2024-09-26
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Did you know you can hire someone to manage your YouTube channel? Here's a breakdown of every major responsibility a channel manager handles — and how it benefits creators."
 tags:
   - Channel Management
 featured_image: "/assets/images/posts/youtube-channel-manager-duties.jpg"
 ---
 
-Did you know you can hire someone to manage your YouTube channel? Whether you're a rising creator or an established one, a YouTube Channel Manager helps lighten the load by handling the operational tasks you don't want to do — or don't have time for.
+Did you know you can hire someone to manage your [YouTube channel](/glossary/youtube-channel/)? Whether you're a rising creator or an established one, a YouTube Channel Manager helps lighten the load by handling the operational tasks you don't want to do — or don't have time for.
 
 Here's a breakdown of what a channel manager actually handles.
 
@@ -17,7 +17,7 @@ Here's a breakdown of what a channel manager actually handles.
 
 The first step in any channel management engagement is a comprehensive audit. Before implementing changes, a manager reviews your channel's past performance to identify strengths, weaknesses, and opportunities.
 
-This includes analyzing [watch time](/glossary/youtube-watch-time/), [average view duration](/glossary/average-view-duration/), [subscriber](/glossary/youtube-subscribers/) growth, and engagement metrics. The manager also reviews your audience demographics and behavior patterns to make sure future content aligns with what your viewers actually want. From there, clear, measurable goals are set for the management period ahead.
+This includes analyzing [watch time](/glossary/youtube-watch-time/), [average view duration](/glossary/average-view-duration/), [subscriber](/glossary/youtube-subscribers/) growth, and engagement metrics. The manager also reviews your [audience demographics](/glossary/audience-demographics/) and behavior patterns to make sure future content aligns with what your viewers actually want. From there, clear, measurable goals are set for the management period ahead.
 
 ## Audience Research and Branding
 
@@ -31,7 +31,7 @@ Consistency is critical on YouTube. A channel manager provides monthly video ide
 
 They also conduct competitor research to identify what's working in your [niche](/glossary/niche/), spot content gaps your competitors are missing, and ensure your content strategy is genuinely differentiated, not just more of the same.
 
-## Video Optimization and SEO
+## Video Optimization and [SEO](/glossary/seo/)
 
 This is one of the highest-leverage areas in channel management. Every video gets optimized [titles](/glossary/youtube-video-titles/), [descriptions](/glossary/youtube-video-description/), [tags](/glossary/youtube-video-tags/), [chapters](/glossary/youtube-video-chapters/), [cards](/glossary/youtube-cards/), [end screens](/glossary/end-screens/), pinned comments, and [playlists](/glossary/youtube-playlists/) — all based on keyword research and platform best practices.
 

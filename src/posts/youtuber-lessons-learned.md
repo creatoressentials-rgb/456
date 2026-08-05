@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "12 Lessons I've Learned as a YouTuber"
 date: 2024-04-08
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "After years of creating YouTube content and helping others grow their channels, here are 12 things I wish I had known from the start."
 tags:
   - YouTube Strategy
@@ -33,7 +33,7 @@ I started without expertise in filming, [SEO](/glossary/seo/), or editing. I acq
 
 ## 6. You Don't Need to Be an Expert
 
-Starting a YouTube channel doesn't require expert status. People often relate better to someone slightly ahead of them in their journey — a guide on the side rather than a sage on the stage. Relatability is a genuine competitive advantage.
+Starting a [YouTube channel](/glossary/youtube-channel/) doesn't require expert status. People often relate better to someone slightly ahead of them in their journey — a guide on the side rather than a sage on the stage. Relatability is a genuine competitive advantage.
 
 ## 7. The Painful Beginning Is Necessary
 
@@ -41,7 +41,7 @@ Your early content won't be your best work. That's not failure — it's the path
 
 ## 8. Include Others in Your Journey
 
-Building a channel can feel solitary. Involving friends, family, or other creators provides valuable feedback, emotional support, and [collaboration](/glossary/youtube-collab/) opportunities. A support network makes the work more enjoyable and sustainable.
+Building a channel can feel solitary. Involving friends, family, or other creators provides valuable feedback, emotional support, and [collaboration](/glossary/youtube-collab/) opportunities. A support [network](/glossary/dropped-frames/) makes the work more enjoyable and sustainable.
 
 ## 9. Enjoy the Process
 

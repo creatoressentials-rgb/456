@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Starting a YouTube Channel as an Introvert: What You Need to Know"
 date: 2023-02-04
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Introverts can — and do — thrive on YouTube. Here's what to expect, how to handle the challenges, and why your introversion might actually be an advantage."
 tags:
   - YouTube Strategy

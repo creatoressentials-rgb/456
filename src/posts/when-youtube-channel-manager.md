@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "When Should YouTubers Hire a Channel Manager?"
 date: 2024-10-04
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "Knowing when to hire a YouTube channel manager can be the difference between burning out and scaling up. Here are the clear signals — and a decision matrix to guide you."
 tags:
   - Channel Management
@@ -13,7 +13,7 @@ Not every creator needs a channel manager right now. But knowing when to make th
 
 ## What Does a Channel Manager Do?
 
-A channel manager takes on the operational responsibilities of running a YouTube channel: content strategy, [SEO](/glossary/seo/) optimization, [thumbnail](/glossary/youtube-thumbnails/) creation, scheduling, community management, analytics reporting, and competitor research. Unlike a coach who advises, a manager executes.
+A channel manager takes on the operational responsibilities of running a [YouTube channel](/glossary/youtube-channel/): content strategy, [SEO](/glossary/seo/) optimization, [thumbnail](/glossary/youtube-thumbnails/) creation, scheduling, community management, analytics reporting, and competitor research. Unlike a coach who advises, a manager executes.
 
 ## 4 Signs You're Ready for a Channel Manager
 
@@ -27,7 +27,7 @@ When [subscriber](/glossary/youtube-subscribers/) counts and viewership plateau 
 
 ### 3. You Can't Capitalize on Growth Opportunities
 
-A thriving channel sometimes creates its own bottleneck: [collaboration](/glossary/youtube-collab/) opportunities, sponsorship inquiries, additional channels you could launch — all declined because there's no capacity. If growth is creating ceiling problems, a manager expands that ceiling.
+A thriving channel sometimes creates its own bottleneck: [collaboration](/glossary/youtube-collab/) opportunities, [sponsorship](/glossary/sponsorship/) inquiries, additional channels you could launch — all declined because there's no capacity. If growth is creating ceiling problems, a manager expands that ceiling.
 
 ### 4. YouTube Is a Business Tool, Not Just a Channel
 

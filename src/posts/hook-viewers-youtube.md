@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "8 Ways to Hook YouTube Viewers in the First 5 Seconds"
 date: 2024-02-24
-author: "Rob Miller"
+author: "Rob Miller, EA"
 description: "You have roughly 5 seconds to keep a viewer watching. Here are 8 proven strategies for YouTube intros that grab attention and dramatically improve audience retention."
 tags:
   - YouTube Strategy
