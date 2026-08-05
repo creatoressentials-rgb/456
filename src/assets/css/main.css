@@ -957,14 +957,8 @@ a.glossary-az-link:hover {
 }
 .glossary-card-term {
   display: block;
-  font-size: clamp(1.125rem, 2.5vw, 1.5rem);
-  font-weight: 700;
-  font-family: var(--font-head);
   color: var(--charcoal);
   text-decoration: none;
-  line-height: 1.2;
-  letter-spacing: -0.02em;
-  margin-bottom: 0.625rem;
   transition: color 0.12s;
 }
 .glossary-card-term:hover {
