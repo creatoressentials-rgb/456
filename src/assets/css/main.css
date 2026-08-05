@@ -267,6 +267,7 @@ section { padding-block: var(--section); }
   padding: 2rem;
   position: relative;
   overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
   transition: box-shadow 0.2s, transform 0.2s;
 }
 .card:hover { box-shadow: 0 12px 40px rgba(0,0,0,0.1); transform: translateY(-4px); }
@@ -930,19 +931,17 @@ a.glossary-az-link:hover {
 .glossary-term-list {
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
+  gap: 1.5rem;
 }
 .glossary-term-list li {
   background: var(--white);
   border: 1px solid var(--border);
   border-radius: 16px;
   padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
   position: relative;
   overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
   transition: box-shadow 0.2s, transform 0.2s;
 }
 .glossary-term-list li::before {
@@ -957,6 +956,7 @@ a.glossary-az-link:hover {
   transform: translateY(-4px);
 }
 .glossary-card-term {
+  display: block;
   font-size: clamp(1.125rem, 2.5vw, 1.5rem);
   font-weight: 700;
   font-family: var(--font-head);
@@ -974,7 +974,6 @@ a.glossary-az-link:hover {
   font-size: 0.95rem;
   color: var(--slate);
   line-height: 1.6;
-  flex-grow: 1;
   margin: 0;
   max-width: none;
 }
