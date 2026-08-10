@@ -100,6 +100,8 @@ module.exports = function (eleventyConfig) {
     return crumbs;
   });
 
+  eleventyConfig.addFilter("stripTrailingSlash", url => url.length > 1 ? url.replace(/\/$/, '') : url);
+
   eleventyConfig.addFilter("limit", (arr, n) => arr.slice(0, n));
 
   eleventyConfig.addFilter("dateDisplay", function (date) {

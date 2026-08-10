@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
 
   {% for post in collections.posts %}
   <url>
-    <loc>https://www.creatoressentials.com{{ post.url }}</loc>
+    <loc>https://www.creatoressentials.com{{ post.url | stripTrailingSlash }}</loc>
     <lastmod>{{ post.date | dateISO }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
