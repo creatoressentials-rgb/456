@@ -1,11 +1,31 @@
 ---
 layout: layouts/base.njk
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ title }}",
+  "description": "{{ description }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ author or 'Rob Miller, EA' }}",
+    "url": "https://www.creatoressentials.com/about/"
+  },
+  "datePublished": "{{ page.date | dateISO }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Creator Essentials",
+    "url": "https://www.creatoressentials.com"
+  }{% if featured_image %},
+  "image": "https://www.creatoressentials.com{{ featured_image }}"{% endif %}
+}
+</script>
 <section class="page-hero">
   <div class="container">
     <span class="eyebrow" style="color:var(--red)">{{ tags[0] if tags else "Blog" }}</span>
     <h1>{{ title }}</h1>
-    <p>By {{ author or "Rob Miller, EA" }} &nbsp;·&nbsp; <time datetime="{{ page.date | dateISO }}">{{ page.date | dateDisplay }}</time></p>
+    <p>By <a href="/about/" style="color:inherit;"><strong>Rob Miller</strong></a>, EA &nbsp;·&nbsp; <time datetime="{{ page.date | dateISO }}">{{ page.date | dateDisplay }}</time></p>
   </div>
 </section>
 
