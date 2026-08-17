@@ -188,6 +188,17 @@ If you're not earning money, there's nothing to report. Once you start earning f
 **Can I deduct a camera or laptop I also use personally?**
 Yes, but only the business-use portion. If you use your laptop 60% for editing and 40% for personal use, you can generally deduct 60% of its cost, and you'll want to be able to explain how you arrived at that percentage.
 
+<div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
+  <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>
+  <ul style="margin:0; padding-left:1.25rem; line-height:2;">
+    <li><a href="/blog/how-much-do-youtubers-pay-in-taxes/">How Much Do YouTubers Pay in Taxes? [2026 Guide]</a></li>
+    <li><a href="/blog/do-you-pay-taxes-on-adsense-income/">Do You Pay Taxes on AdSense Income? [2026 Guide]</a></li>
+    <li><a href="/blog/1099-vs-w2-youtuber/">1099 vs. W-2: How YouTuber Income Is Actually Taxed</a></li>
+    <li><a href="/blog/unreported-youtube-income/">What Happens If You Don't Report YouTube Income?</a></li>
+    <li><a href="/blog/content-creator-tax-deadlines/">Tax Deadlines Every Creator Should Know</a></li>
+  </ul>
+</div>
+
 ---
 
 *This article is for general educational purposes and isn't personalized tax advice. Tax law changes, and your specific situation matters — talk to a licensed tax professional before making decisions based on anything here.*

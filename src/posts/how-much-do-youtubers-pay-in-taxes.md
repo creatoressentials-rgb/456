@@ -98,6 +98,17 @@ Your rate rises gradually, not in one jump. Federal income tax is progressive �
 **Does this change if I form an LLC or S-corp?**
 An LLC alone doesn't change these numbers — it's still taxed the same as a sole proprietor by default. An S-corp election can lower the self-employment tax portion once you're consistently profitable, but it adds cost and complexity. That trade-off is covered in our [LLC vs. S-Corp guide →](/blog/llc-vs-s-corp-for-youtubers/).
 
+<div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
+  <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>
+  <ul style="margin:0; padding-left:1.25rem; line-height:2;">
+    <li><a href="/blog/youtuber-taxes-guide/">YouTuber Taxes 101: The Complete Guide for Creators</a></li>
+    <li><a href="/blog/do-you-pay-taxes-on-adsense-income/">Do You Pay Taxes on AdSense Income? [2026 Guide]</a></li>
+    <li><a href="/blog/1099-vs-w2-youtuber/">1099 vs. W-2: How YouTuber Income Is Actually Taxed</a></li>
+    <li><a href="/blog/unreported-youtube-income/">What Happens If You Don't Report YouTube Income?</a></li>
+    <li><a href="/blog/content-creator-tax-deadlines/">Tax Deadlines Every Creator Should Know</a></li>
+  </ul>
+</div>
+
 ---
 
 *This article is for general educational purposes and isn't personalized tax advice. Tax law changes, and your specific situation matters — talk to a licensed tax professional before making decisions based on anything here.*
