@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Do You Pay Taxes on AdSense Income? [2026 Guide]"
-date: 2026-08-16
+date: 2026-07-26
 author: "Rob Miller, EA"
 description: "Yes — here's exactly how AdSense income is taxed, the 1099 threshold, and how to calculate what you owe."
 tags:

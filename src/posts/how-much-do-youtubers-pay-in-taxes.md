@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "How Much Do YouTubers Pay in Taxes? [2026 Guide]"
-date: 2026-08-16
+date: 2026-07-19
 author: "Rob Miller, EA"
 description: "See exactly how much YouTubers pay in taxes at $10K, $50K, and $150K+ — with real effective tax rates."
 tags:

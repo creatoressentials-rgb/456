@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "YouTuber Taxes 101: The Complete Guide for Creators"
-date: 2026-08-16
+date: 2026-07-12
 author: "Rob Miller, EA"
 description: "See how YouTuber taxes actually work, from self-employment tax to deductions and quarterly payments."
 tags:

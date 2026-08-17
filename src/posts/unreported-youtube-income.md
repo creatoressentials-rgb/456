@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "What Happens If You Don't Report YouTube Income?"
-date: 2026-08-16
+date: 2026-08-09
 author: "Rob Miller, EA"
 description: "Yes, you must report YouTube income — see how the IRS catches it and what penalties actually apply."
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "1099 vs. W-2: How YouTuber Income Is Actually Taxed"
-date: 2026-08-16
+date: 2026-08-02
 author: "Rob Miller, EA"
 description: "YouTube doesn't send a W-2 — see exactly how 1099 creator income differs from a paycheck."
 tags:
