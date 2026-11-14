@@ -72,6 +72,7 @@ related_terms:
 <li>Jewels are non-refundable</li>
 <li>Viewers must be 18 or older to purchase</li>
 </ul>
+<p>Jewels are income — learn <a href="/blog/how-much-do-youtubers-pay-in-taxes/">how much tax YouTubers pay</a> on Jewels income.</p>
 
 <h3>Gift types</h3>
 <p>Not all Gifts look or behave the same. YouTube's current categories are:</p>

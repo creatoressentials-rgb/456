@@ -15,6 +15,13 @@ This guide covers what every YouTuber needs to understand about taxes: why your 
 
 **Quick answer:** YouTube income is self-employment income. You'll owe regular federal income tax on your profit, plus a 15.3% self-employment tax that covers Social Security and Medicare. You report it on Schedule C and Schedule SE, whether or not a platform ever sends you a 1099.
 
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
+
 ## Why YouTube Income Is Taxed as Self-Employment, Not a Hobby
 
 The first question the IRS asks isn't "how much did you make?" It's "were you trying to make money?"
@@ -187,6 +194,13 @@ If you're not earning money, there's nothing to report. Once you start earning f
 
 **Can I deduct a camera or laptop I also use personally?**
 Yes, but only the business-use portion. If you use your laptop 60% for editing and 40% for personal use, you can generally deduct 60% of its cost, and you'll want to be able to explain how you arrived at that percentage.
+
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>

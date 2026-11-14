@@ -13,6 +13,13 @@ permalink: /blog/1099-vs-w2-youtuber/
 
 That difference is bigger than a form number. It changes who owes what, when it's due, and what you're allowed to deduct.
 
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
+
 ## Why YouTubers Never Get a W-2
 
 A W-2 only exists where there's an employer-employee relationship. The IRS decides whether that relationship exists using a common-law test built around three questions:
@@ -101,6 +108,13 @@ You still owe tax on that income. The obligation to report is yours, independent
 
 **Do I need a 1099 in hand before I can file my taxes?**
 No. You can and should file based on your own accurate income records. A missing or late 1099 isn't a reason to delay filing or to under-report what you actually earned.
+
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>

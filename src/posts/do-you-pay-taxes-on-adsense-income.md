@@ -13,6 +13,13 @@ permalink: /blog/do-you-pay-taxes-on-adsense-income/
 
 That answer surprises people because AdSense doesn't feel like a paycheck — there's no employer, no offer letter, no HR department. But the IRS doesn't care how the money showed up in your account. It cares whether you earned it by doing something. And running a channel, growing an audience, and placing ads against your content is doing something.
 
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
+
 ## Why AdSense Income Is Taxable — It's Not a Gift
 
 AdSense pays you because your content generated ad impressions and clicks, and Google shares a cut of that ad revenue with you. That's compensation for an ongoing activity — the same category as freelance income, consulting fees, or any other self-employment earnings. It's not a prize, a gift, or found money, and none of those categories would apply even if it felt that way.
@@ -103,6 +110,13 @@ Only if you haven't submitted valid tax information, in which case backup withho
 
 **Is AdSense income treated differently than sponsorship or merch income?**
 No — for a monetized creator, all of it is self-employment income reported together on the same Schedule C. AdSense isn't taxed by a different set of rules; it's just one more revenue line.
+
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>

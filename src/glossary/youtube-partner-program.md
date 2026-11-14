@@ -1,7 +1,7 @@
 ---
 layout: layouts/glossary.njk
-title: "YouTube Partner Program (YPP): 2026 Requirements & Guide"
-description: "YPP is YouTube's monetization gateway. See 2026 eligibility thresholds for both tiers, how to apply, review timelines, and every revenue feature it unlocks."
+title: "YouTube Partner Program Requirements 2026: How to Join"
+description: "YouTube Partner Program requirements for 2026 — subscribers, watch hours, and how to apply — plus what creators earn and pay in tax."
 permalink: /glossary/youtube-partner-program/
 related_terms:
   - ad-revenue
@@ -104,6 +104,7 @@ related_terms:
 <p><strong>Note for creators who enabled fan funding before 2023:</strong> If your channel is still on the older Commerce Product Addendum, accept the <strong>Commerce Product Module</strong> by <strong>January 31, 2027</strong>, to avoid losing earnings from Channel Memberships, Super Chat, Super Stickers, and Super Thanks starting February 1. Accepting after that date restores access. YPP membership and eligibility thresholds are unaffected. For MCN channels, the managing MCN accepts on behalf of owned-and-operated channels; affiliate channels accept for themselves.</p>
 <p>Long-form ad revenue depends on demand for ads against your content, which is reflected in metrics like <a href="/glossary/youtube-rpm/">YouTube RPM</a> and <a href="/glossary/playback-based-cpm/">playback-based CPM</a> — two numbers every partner should understand once they're monetizing, since they explain why similar view counts can produce very different payouts.</p>
 <p>Shorts ad revenue works differently from long-form: YouTube pools all Shorts Feed ad revenue each month, deducts a share to cover music licensing based on how much licensed music appears across monetized Shorts, and distributes the remainder (the "Creator Pool") to partners based on their share of total <a href="/glossary/engaged-views/">engaged views</a> from monetizing creators. Creators keep 45% of their allocated share regardless of whether they used music. Starting February 1, 2027, eligible monetizing creators can also receive 45% of net revenue from specific Shorts ads targeted to groups of five or fewer channels — a separate revenue stream from the Creator Pool.</p>
+<p>Once you're in the program and earning, see our <a href="/services/tax-services-for-youtubers/">tax services for YouTubers</a>.</p>
 
 <h3>Growing toward the thresholds</h3>
 <p>Since watch hours and Shorts views are the two levers that decide when you can apply, the fastest path to YPP is usually the same set of habits that grow any channel:</p>

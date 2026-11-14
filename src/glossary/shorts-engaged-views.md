@@ -192,6 +192,9 @@ related_terms:
   <li>Claiming an exact seconds threshold that YouTube has not published.</li>
 </ul>
 
+<h3>Shorts Engaged Views vs. Engaged Views</h3>
+<p>YouTube Analytics shows two similar-sounding metrics: <strong>Shorts Engaged Views</strong> (the Shorts-specific version, used for YPP eligibility and revenue calculations) and <strong>Engaged Views</strong> (the broader label that appears in the Content tab Advanced Mode for all formats). Both use the same counting threshold — viewers who stayed past the initial seconds — but they surface in different parts of Studio and are referenced differently in YouTube's documentation. For the broader picture of how the March 2025 view-counting change affected both metrics, and how Engaged Views differs from total Shorts Views, see <a href="/glossary/engaged-views/">Engaged Views →</a></p>
+
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>
   <p style="font-size:0.875rem; color:var(--slate); margin-bottom:1.25rem;">Tax prep and bookkeeping built for YouTubers — every income stream, every deduction, done right.</p>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/glossary.njk
-title: "Engaged Views vs. Views on YouTube: What's the Difference?"
-description: "Engaged views are the YouTube metric that decides if you get paid. Here's how they differ from raw views, where to find them, and why they matter."
+title: "Engaged Views on YouTube: What They Are & Why They Count"
+description: "What are engaged views on YouTube, how are they different from regular views, and why do they matter for monetization? Explained simply."
 permalink: /glossary/engaged-views/
 related_terms:
   - youtube-impressions
@@ -51,6 +51,9 @@ related_terms:
 
 <h3>A reporting gotcha to know about</h3>
 <p>If you're pulling historical data through a third-party tool or the YouTube API, note that the API didn't catch up to the new Views definition until April 30, 2025 — about a month after the March 31 rollout in Studio. If numbers from that window look inconsistent between Studio and an external dashboard, that's why. And when building any before/after report, treat March 31, 2025 as a hard line: don't average raw View totals across it, and use Engaged Views (or watch time, or subscriber growth) as your consistent cross-period metric instead.</p>
+
+<h3>Engaged Views vs. Shorts Engaged Views</h3>
+<p>The Engaged Views metric applies specifically to Shorts. YouTube tracks a closely related label called <a href="/glossary/shorts-engaged-views/">Shorts Engaged Views</a>, used in YPP eligibility calculations, the Shorts Creator Pool revenue split, and audience retention reporting on the Shorts tab. The underlying counting rule is the same — viewers who stayed past the first few seconds — but the two labels surface in different parts of Analytics and are referenced separately in YouTube's Help Center. If you're trying to understand how Shorts YPP eligibility or Shorts RPM is calculated specifically, see <a href="/glossary/shorts-engaged-views/">Shorts Engaged Views →</a></p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

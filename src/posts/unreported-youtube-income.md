@@ -13,6 +13,13 @@ permalink: /blog/unreported-youtube-income/
 
 This isn't meant to scare you. Most creators who've under-reported did it out of confusion, not intent, and the fix is usually more straightforward than people expect. But it's worth understanding clearly, because "I didn't know" and "I didn't get a form" don't change what's owed.
 
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
+
 ## Yes, Always — Even Without a 1099, Even Part-Time, Even "Small"
 
 Every dollar of creator income is taxable the moment you receive it, full stop. That includes:
@@ -102,6 +109,13 @@ That's an extremely common starting point, and it doesn't change what's owed, bu
 
 **Does the IRS care about small amounts, like a few hundred dollars?**
 The automated matching systems don't distinguish by size — a mismatch generates a notice whether it's for $200 or $20,000. That said, the dollar consequences scale with the amount, so a small omission usually means a small, manageable correction.
+
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>

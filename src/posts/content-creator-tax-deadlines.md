@@ -11,6 +11,13 @@ permalink: /blog/content-creator-tax-deadlines/
 
 **Quick answer:** Creators need to track two kinds of deadlines — one annual tax filing deadline (mid-April) and four quarterly estimated tax payments (mid-April, mid-June, mid-September, and mid-January), required if you expect to owe $1,000 or more for the year. Missing a quarterly payment can trigger a penalty even if you pay your full balance on time in April — the two aren't the same thing, and that surprises a lot of creators.
 
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
+
 ## The Two Deadlines That Actually Matter
 
 Everything in this article boils down to two categories:
@@ -102,6 +109,13 @@ No — pay it as soon as you catch it. The penalty accrues based on how long the
 
 **Are quarterly payments only for federal taxes?**
 No — if you live in a state with income tax, you likely owe state quarterly payments too, on a schedule that may or may not match the federal one (see California, above).
+
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>

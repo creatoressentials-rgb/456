@@ -1,7 +1,7 @@
 ---
 layout: layouts/glossary.njk
-title: "YouTube Hype Explained: Eligibility, Points & Leaderboard"
-description: "YouTube Hype lets viewers boost emerging creators with 500-500K subscribers up to 3x weekly. See eligibility rules, how hype points work, and the leaderboard."
+title: "YouTube Hype Points: What They Are & How They Work"
+description: "What are YouTube Hype points, how do you give them, and what does the Hype leaderboard mean for small creators? Explained in plain English."
 permalink: /glossary/youtube-hype/
 related_terms:
   - youtube-partner-program
@@ -108,3 +108,4 @@ related_terms:
 <p>A viewer can hype up to 3 times per week total, and can put all three on the same video or split them across up to three different eligible videos.</p>
 <h4>Can creators turn Hype off?</h4>
 <p>Yes. Channels are opted in by default, but creators can disable it from YouTube Studio under Settings &gt; Channel &gt; Advanced settings by unchecking "Let viewers hype my content."</p>
+<p>If Hype leads to earnings, start with our <a href="/blog/youtuber-taxes-guide/">YouTuber taxes guide</a>.</p>

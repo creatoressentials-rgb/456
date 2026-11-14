@@ -61,6 +61,7 @@ related_terms:
 <li><strong>Don't feed off-topic or hostile Super Chats with attention.</strong> Read it, move on, or moderate it out. Engaging bad-faith messages trains the wrong behavior into your chat.</li>
 <li><strong>Use it on Premieres, too.</strong> Super Chat works on Premieres even for creators who don't stream regularly — a low-effort way to add a paid layer to a scheduled video debut.</li>
 </ul>
+<p>Super Chat earnings are reported on a 1099 — see <a href="/blog/1099-vs-w2-youtuber/">1099 vs W-2 for YouTubers</a>.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/glossary.njk
-title: "YouTube Gifts Explained: Jewels, Rubies & How They Work"
-description: "YouTube Gifts let viewers send Jewels-powered virtual items on live streams, paying creators in Rubies. Learn how they work and differ from gifted memberships."
+title: "How to Get & Send Gifts on YouTube: Full How-To Guide"
+description: "How to get Gifts on YouTube, send them, and use them — plus what Gifts are worth and how creators get paid. Step-by-step guide."
 permalink: /glossary/youtube-gifts/
 related_terms:
   - youtube-jewels
@@ -92,6 +92,7 @@ related_terms:
 <li>Since Gifts is only one input to your live-stream income, pair it with a broader <a href="/glossary/fan-funding/">fan funding</a> strategy rather than relying on it alone.</li>
 <li>Distribution of gifted Channel Memberships specifically favors your most loyal, <a href="/glossary/returning-viewers/">returning viewers</a> — creators who consistently convert casual watchers into <a href="/glossary/regular-viewers/">regular viewers</a> through community-focused live streams tend to see more of both gifting activity and membership growth.</li>
 </ul>
+<p>Gifts count as income too — <a href="/blog/do-you-pay-taxes-on-adsense-income/">do you pay taxes on Gifts income?</a> Here's the answer.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

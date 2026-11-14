@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
-title: "How Much Do YouTubers Pay in Taxes? [2026 Guide]"
+title: "How Much Tax Do YouTubers Pay? 2026 Creator Guide"
 date: 2026-07-19
 author: "Rob Miller, EA"
-description: "See exactly how much YouTubers pay in taxes at $10K, $50K, and $150K+ — with real effective tax rates."
+description: "Do YouTubers pay taxes? Yes — here's how much, what you can deduct, and when you owe. A plain-English guide for creators."
 tags:
   - Taxes
 permalink: /blog/how-much-do-youtubers-pay-in-taxes/
@@ -12,6 +12,13 @@ permalink: /blog/how-much-do-youtubers-pay-in-taxes/
 There's no single number that answers this — and any article that gives you one flat percentage is oversimplifying. What you actually pay depends on how much you earn, how many legitimate deductions you claim, and which state you live in. But there is a real, calculable range, and it's more specific than the vague "20–30%" you'll see thrown around.
 
 **Quick answer:** Most YouTubers pay somewhere between 12% and 30%+ of their net profit in federal taxes — a flat 15.3% self-employment tax plus progressive federal income tax (10–37%). The percentage climbs as you earn more: a creator netting around $8,000 a year typically owes about 14% in federal tax, a part-time creator netting $36,000 owes closer to 19%, and a full-time creator netting $105,000 can owe over 26%. State income tax, where it applies, adds more on top of all three.
+
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
 
 ## The Math: Two Taxes, Not One
 
@@ -97,6 +104,13 @@ Your rate rises gradually, not in one jump. Federal income tax is progressive �
 
 **Does this change if I form an LLC or S-corp?**
 An LLC alone doesn't change these numbers — it's still taxed the same as a sole proprietor by default. An S-corp election can lower the self-employment tax portion once you're consistently profitable, but it adds cost and complexity. That trade-off is covered in our [LLC vs. S-Corp guide →](/blog/llc-vs-s-corp-for-youtubers/).
+
+<div style="margin:2rem 0; padding:1.5rem 1.75rem; background:var(--cloud); border-radius:10px; border-left:4px solid var(--red);">
+  <p style="font-size:0.9rem; font-weight:700; color:var(--charcoal); margin:0 0 0.5rem;">Free checklist: YouTuber Tax Deduction Checklist</p>
+  <p style="font-size:0.875rem; color:var(--slate); margin:0 0 1.25rem;">Get the checklist creators use before tax time — and if you want help keeping it clean all year, see <a href="/services/bookkeeping-for-youtubers/">Bookkeeping for YouTubers</a>.</p>
+  <!-- TODO (Step D1): add "Get the free checklist" button once lead-magnet page is live -->
+  <a href="/services/bookkeeping-for-youtubers/" class="btn btn-primary" style="font-size:0.875rem;">Bookkeeping for YouTubers</a>
+</div>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--charcoal); margin-bottom:1rem;">More in This Tax Series</p>
