@@ -10,11 +10,11 @@ related_terms:
 ---
 
 <h2>Playback-Based <a href="/glossary/cost-per-mille-cpm/">CPM</a></h2>
-<p><strong>Quick answer:</strong> Playback-based <a href="/glossary/youtube-cpm/">CPM</a> is the amount advertisers pay per 1,000 <em>monetized playbacks</em> — video views that showed at least one ad. It's an advertiser-spend metric, not your paycheck. It's easy to confuse with your actual earnings because <a href="/glossary/youtube-studio/">YouTube Studio</a> shows it right next to CPM and <a href="/glossary/youtube-rpm/">RPM</a> on the Revenue tab — but only RPM reflects what you actually get paid.</p>
+<p><strong>Quick answer:</strong> Playback-based <a href="/glossary/youtube-cpm/">CPM</a> is the amount advertisers pay per 1,000 <em>monetized playbacks</em> — playbacks that showed at least one ad. It's an advertiser-spend metric, not your paycheck. It's easy to confuse with your actual earnings because <a href="/glossary/youtube-studio/">YouTube Studio</a> shows it right next to CPM and <a href="/glossary/youtube-rpm/">RPM</a> on the Revenue tab — but only RPM reflects what you actually get paid.</p>
 
 <h3>The formula</h3>
-<p><strong>Playback-Based CPM = (Total <a href="/glossary/ad-revenue/">ad revenue</a> on a video ÷ Monetized playbacks) × 1,000</strong></p>
-<p>A "monetized playback" is a view that included one or more ads — the same concept behind <a href="/glossary/monetized-playbacks/">Monetized Playbacks</a> as a metric on its own.</p>
+<p><strong>Playback-Based CPM = (Advertiser spend before YouTube's revenue share ÷ Monetized playbacks) × 1,000</strong></p>
+<p>A "monetized playback" is counted when a playback includes one or more ads — including when a viewer sees a pre-roll ad and leaves before the video begins. See <a href="/glossary/monetized-playbacks/">Monetized Playbacks</a> for the full definition.</p>
 <p><strong>Worked example (from YouTube's own documentation):</strong> A video gets 5,000 views. 1,000 of those views show one ad, and another 500 show two ads. That's 1,500 monetized playbacks and 2,000 total ad impressions. The advertiser pays $7 total for all of it.</p>
 <ul>
 <li>Standard CPM (per ad impression): $7 ÷ 2,000 impressions × 1,000 = <strong>$3.50</strong></li>
@@ -28,7 +28,7 @@ related_terms:
 <thead><tr><th>Metric</th><th>What it counts</th><th>Whose money is it?</th><th>Before or after YouTube's cut?</th></tr></thead>
 <tbody>
 <tr><td><strong>CPM</strong></td><td>Per 1,000 individual ad impressions</td><td>Advertiser spend</td><td>Before</td></tr>
-<tr><td><strong>Playback-based CPM</strong></td><td>Per 1,000 monetized playbacks (views with 1+ ad)</td><td>Advertiser spend</td><td>Before</td></tr>
+<tr><td><strong>Playback-based CPM</strong></td><td>Per 1,000 monetized playbacks (playbacks with 1+ ad, including pre-roll-only sessions)</td><td>Advertiser spend</td><td>Before</td></tr>
 <tr><td><strong>RPM</strong></td><td>Per 1,000 total views (monetized + unmonetized), all revenue sources</td><td>Your actual earnings</td><td>After</td></tr>
 </tbody>
 </table>

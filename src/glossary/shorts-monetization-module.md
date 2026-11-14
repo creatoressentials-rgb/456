@@ -50,7 +50,10 @@ related_terms:
   <li>The pool is allocated to monetizing creators according to their share of eligible engaged views within each country.</li>
   <li>Creators receive 45% of the revenue allocated to them.</li>
 </ol>
-<p>The module does not give a creator the revenue from one specific ad shown after one specific Short. It provides participation in a pooled allocation model.</p>
+<p>Under the current model, the module provides participation in a pooled allocation, not direct payment from one specific ad shown after one specific Short. Starting February 1, 2027, eligible monetizing creators can also receive 45% of net revenue from specific Shorts ads targeted to groups of five or fewer channels — paid separately from Creator Pool earnings.</p>
+
+<h3>Targeted Shorts Ads (Starting February 1, 2027)</h3>
+<p>Announced August 10, 2026, YouTube will introduce a new earning mechanism separate from the Creator Pool. Eligible monetizing creators will receive <strong>45% of net revenue</strong> from specific Shorts ads that advertisers target to groups of five or fewer channels. This payment is made separately from regular Creator Pool earnings and does not affect the existing pooled revenue calculation.</p>
 
 <h3>What Is the Creator Revenue Share?</h3>
 <p>YouTube states that creators receive <strong>45% of the revenue allocated to them</strong> from the Creator Pool.</p>
@@ -91,7 +94,7 @@ related_terms:
   <thead><tr><th>Feature</th><th>Shorts Module</th><th>Watch Page Module</th></tr></thead>
   <tbody>
     <tr><td>Primary content</td><td>Eligible Shorts in the Shorts Feed</td><td>Eligible long-form and live videos</td></tr>
-    <tr><td>Ad model</td><td>Pooled ads shown between Shorts</td><td>Ads displayed or streamed on Watch Pages</td></tr>
+    <tr><td>Ad model</td><td>Pooled ads shown between Shorts; targeted placement ads for groups of five or fewer channels (from Feb 1, 2027)</td><td>Ads displayed or streamed on Watch Pages</td></tr>
     <tr><td>Creator share</td><td>45% of allocated Creator Pool revenue</td><td>55% of net qualifying Watch Page ad revenue</td></tr>
     <tr><td>Premium</td><td>Eligible Premium Shorts views</td><td>Eligible Premium long-form and live views</td></tr>
     <tr><td>Start date</td><td>Eligible views from module-acceptance date</td><td>According to active module and monetization settings</td></tr>
@@ -159,7 +162,7 @@ related_terms:
 <p>No. YouTube says views before module acceptance are not eligible for Shorts ad revenue sharing.</p>
 
 <h4>What percentage do creators keep?</h4>
-<p>Creators keep 45% of the revenue allocated to them from the Creator Pool.</p>
+<p>Creators keep 45% of the revenue allocated to them from the Creator Pool. Starting February 1, 2027, eligible creators also keep 45% of net revenue from specific Shorts ads targeted to groups of five or fewer channels, paid separately from Creator Pool earnings.</p>
 
 <h4>Does the module cover Premium revenue?</h4>
 <p>Yes. It covers eligible Shorts Feed advertising and YouTube Premium revenue.</p>

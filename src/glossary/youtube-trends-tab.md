@@ -13,6 +13,7 @@ related_terms:
 <h2>YouTube Trends Tab</h2>
 <p>The <strong>YouTube Trends tab</strong> is a channel-level section of YouTube Analytics that helps creators explore what their audience and viewers across YouTube are searching for and watching.</p>
 <p>YouTube positions the tab as an idea-development tool. It can surface searches, strong videos from similar creators, recent videos tied to audience interests, topic-level audience interest, and content gaps.</p>
+<p>YouTube is updating the Trends tab to <strong>Research</strong> on desktop. If your Studio already shows Research, use it to explore breakout videos and validate ideas using viewer data from your niche. This entry documents the legacy Trends interface, which remains available where Research has not yet rolled out.</p>
 
 <h3>Where Is the Trends Tab?</h3>
 <ol>

@@ -11,7 +11,7 @@ related_terms:
 ---
 
 <h2>Browse Features</h2>
-<p><strong>Quick answer:</strong> Browse Features is the YouTube Analytics traffic source that counts views from viewers who found your video while browsing — not searching. It covers the home feed, the subscriptions feed, Watch Later, watch history recommendations, and personalized mixes. When this number goes up, it means the algorithm is actively choosing to put your video in front of people.</p>
+<p><strong>Quick answer:</strong> Browse Features is the YouTube Analytics traffic source that counts views from viewers who found your video while browsing — not searching. It groups traffic from the home feed, the subscriptions feed, Watch Later, Trending/Explore, watch history recommendations, and personalized mixes. Growth in this total can come from new viewers, existing subscribers, or viewers returning to saved videos.</p>
 
 <h3>What counts as Browse Features</h3>
 <p>Browse Features isn't one thing — it's a bucket of several surfaces:</p>
@@ -19,10 +19,11 @@ related_terms:
 <li><strong>Home feed</strong> — the personalized grid a viewer sees when they open YouTube. This is where the bulk of browse features traffic comes from.</li>
 <li><strong>Subscriptions feed</strong> — new uploads from channels a viewer follows. Its share has shrunk over time because the home feed has gotten better at surfacing subscribed content on its own — subscribers still find you mostly through Home, not the Subscriptions tab.</li>
 <li><strong>Watch Later</strong> — views from videos a viewer saved and came back to. This is a strong signal: they saw your thumbnail, decided it was worth their time, and returned deliberately.</li>
+<li><strong>Trending/Explore</strong> — views from the Trending/Explore browsing surface. The standalone Trending page was retired in mid-2025; Explore remains an active browsing surface and continues to contribute to Browse Features traffic.</li>
 <li><strong>Watch history recommendations</strong> — YouTube resurfacing content based on what a viewer has watched before.</li>
 <li><strong>Personalized playlists/mixes</strong> — auto-generated compilations YouTube builds around a viewer's habits.</li>
 </ul>
-<p>One thing worth knowing if you've read older guides: <strong>Trending and Explore are no longer part of this mix.</strong> YouTube shut down the Trending page in July 2025 and replaced it with category-based Charts. If a resource still lists "Trending" as a browse features source, it's out of date.</p>
+<p>One thing worth knowing about recent changes: the standalone <strong>Trending page was retired</strong> in mid-2025, but <strong>Explore remains a browsing surface</strong> and continues to count under Browse Features. If a resource says both Trending and Explore are gone, it's out of date.</p>
 
 <h3>Browse Features vs. Search vs. <a href="/glossary/suggested-videos/">Suggested Videos</a></h3>
 <p>These three get lumped together, but they mean different things about your channel:</p>

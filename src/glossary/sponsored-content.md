@@ -84,6 +84,7 @@ related_terms:
 <p>Because the terminology is inconsistent, creators should focus on the actual relationship, compensation, control, rights, and disclosure—not only the label in the brief.</p>
 <h3>YouTube’s paid-promotion declaration</h3>
 <p>When a YouTube video contains a paid product placement, <a href="/glossary/sponsorship/">sponsorship</a>, endorsement, or another commercial relationship, YouTube instructs the creator to declare the paid promotion in Studio. YouTube then displays a paid-promotion message at the beginning and may apply other platform handling.</p>
+<p>As YouTube rolls out automated detection, it may also label newly uploaded videos it identifies as containing undeclared branded content. Creators remain responsible for declaring the promotion, following YouTube's Community Guidelines and applicable Google Ads policies, and meeting local disclosure requirements.</p>
 <p>The declaration does not prevent YouTube from showing ordinary ads on the video. YouTube says it may replace an ad that conflicts with the brand partner.</p>
 <p>Creators must also follow YouTube’s advertising policies and Community Guidelines. Paid promotion does not make otherwise prohibited content acceptable.</p>
 <h3>Viewer-facing disclosure</h3>

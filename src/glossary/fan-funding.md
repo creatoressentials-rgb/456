@@ -26,10 +26,10 @@ related_terms:
 <li>An active AdSense for YouTube account linked to your channel</li>
 <li>Channel based in an eligible country/region and compliant with YouTube's monetization policies</li>
 </ul>
-<p>This is the lower of YouTube's two YPP tiers. It does <strong>not</strong> unlock <a href="/glossary/ad-revenue/">ad revenue</a> or YouTube Premium <a href="/glossary/revenue-share/">revenue share</a> — that requires the higher tier (1,000 subscribers + 4,000 watch hours in 12 months, or 1,000 subscribers + 10M Shorts views in 90 days). Reaching fan-funding eligibility is a real milestone, but don't mistake it for full monetization.</p>
+<p>This is the lower of YouTube's two YPP tiers. It does <strong>not</strong> unlock <a href="/glossary/ad-revenue/">ad revenue</a> or YouTube Premium <a href="/glossary/revenue-share/">revenue share</a> — that requires the higher tier (1,000 subscribers + 4,000 watch hours in 12 months, or 1,000 subscribers + 10M Shorts views in 90 days). Starting February 1, 2027, new applicants for ads and Premium sharing will need 1,000 subscribers plus either 8,000 qualified watch hours in 365 days or 20 million qualified Shorts views in 90 days. This change does not affect existing YPP members or the expanded YPP fan funding thresholds. Reaching fan-funding eligibility is a real milestone, but don't mistake it for full monetization.</p>
 
 <h3>The four fan-funding tools</h3>
-<p><strong>Channel Memberships</strong> — Recurring monthly payments in exchange for members-only perks: badges, emoji, member-only posts, and more. Up to 5 price tiers between $0.99 and $49.99. This is the only fan-funding tool that's recurring rather than one-off. It has its own detailed eligibility, setup, and tier-pricing rules — see the full <a href="/glossary/channel-memberships/">Channel Memberships</a> entry for the complete breakdown.</p>
+<p><strong>Channel Memberships</strong> — Recurring monthly payments in exchange for members-only perks: badges, emoji, member-only posts, and more. Up to six membership levels, with preset prices that vary by country and rollout. YouTube lists U.S. prices from $0.99 to $499.99. This is the only fan-funding tool that's recurring rather than one-off. It has its own detailed eligibility, setup, and tier-pricing rules — see the full <a href="/glossary/channel-memberships/">Channel Memberships</a> entry for the complete breakdown.</p>
 <p><strong>Super Chat</strong> — A paid message that gets highlighted and pinned in live chat during live streams and Premieres. Viewers pay $1–$500; the more they spend, the longer the message stays pinned (from a few seconds up to 5 hours) and the more attention-grabbing its color. Not available on age-restricted, unlisted, private, or <a href="/glossary/made-for-kids/">Made for Kids</a> streams, or when live chat is turned off. Only works live — there's no Super Chat on regular uploads or Shorts.</p>
 <p><strong>Super Stickers</strong> — The animated-image version of Super Chat: fans buy a themed sticker instead of typing a message, and it surfaces in the live chat feed. Same live-stream/Premiere-only availability and policy rules as Super Chat. Pricing works similarly to Super Chat's tiers, though YouTube doesn't publish a single official ceiling the way it does for Super Chat's $500 max.</p>
 <p><strong>Super Thanks</strong> — A one-time paid animation plus a highlighted, customizable comment — available on published long-form videos and Shorts, 24/7, no live stream required. This is the only Super that works on Shorts, and it's the only one available to creators who never go live. It becomes available on a stream's replay once the stream ends, but not while it's live. Not available on <a href="/glossary/content-id/">Content ID</a>-claimed, age-restricted, unlisted, private, Made for Kids, or comments-off videos. Sold at a handful of fixed price points (commonly cited as $2 / $5 / $10 / $50, varying somewhat by region and currency).</p>
@@ -38,7 +38,7 @@ related_terms:
 <table>
 <thead><tr><th>Tool</th><th>Where it works</th><th>Recurring or one-time</th><th>Typical price range</th></tr></thead>
 <tbody>
-<tr><td>Channel Memberships</td><td>Long-form, Shorts, live, Community posts</td><td>Recurring (monthly)</td><td>$0.99–$49.99/mo</td></tr>
+<tr><td>Channel Memberships</td><td>Long-form, Shorts, live, Community posts</td><td>Recurring (monthly)</td><td>Preset prices vary by country; U.S. from $0.99–$499.99</td></tr>
 <tr><td>Super Chat</td><td>Live streams &amp; Premieres only</td><td>One-time</td><td>$1–$500</td></tr>
 <tr><td>Super Stickers</td><td>Live streams &amp; Premieres only</td><td>One-time</td><td>Roughly $1–$50</td></tr>
 <tr><td>Super Thanks</td><td>Long-form videos &amp; Shorts (not live)</td><td>One-time</td><td>Fixed tiers, commonly $2–$50</td></tr>
@@ -56,6 +56,9 @@ related_terms:
 <li><strong>Shorts creators:</strong> Super Thanks is your only Super — Super Chat and Super Stickers don't apply outside live streams. Channel Memberships work fine, and Shorts views even count toward the eligibility bar itself.</li>
 <li><strong>Anyone wanting predictable, recurring income:</strong> Channel Memberships beat one-off Supers for building a forecastable revenue base, though most established creators run memberships and Supers side by side rather than choosing one.</li>
 </ul>
+
+<h3>Terms update for some existing creators</h3>
+<p>If you enabled fan funding before 2023 and are still on the older Commerce Product Addendum, you must accept the <strong>Commerce Product Module</strong> by <strong>January 31, 2027</strong>, to avoid losing associated earnings starting February 1. Accepting the module after that date restores access — your YPP membership and fan funding eligibility thresholds are unaffected either way. For MCN channels, the managing MCN accepts on behalf of owned-and-operated channels; affiliate channels accept for themselves.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

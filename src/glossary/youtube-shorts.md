@@ -21,7 +21,7 @@ related_terms:
 <h2>How do I Create YouTube Shorts?</h2>
 
 <p>Creating YouTube Shorts involves a simple yet creative process, designed to be accessible for anyone with a smartphone and the YouTube app. Here's how you can make your own YouTube Shorts:</p>
-<p>Requirements and Setup: To start creating YouTube Shorts, you need to have the YouTube app installed on your smartphone. This app provides access to the Shorts camera, which is the built-in tool for creating these videos​​​​.</p>
+<p>Requirements and Setup: Use the Shorts camera in the YouTube mobile app to record a Short, or upload an eligible square or vertical file through YouTube Studio on a computer. The YouTube mobile app provides the built-in Shorts camera for recording directly on your device.</p>
 <p>Recording Process: Once you're in the app, you can start recording your Short by tapping the '+' icon and selecting 'Create a Short'. You can record up to 60 seconds in one go or in multiple 15-second segments. The app allows you to either hold the record button for continuous recording or tap it to start and stop for segmented recording​​​​​​.</p>
 <p>Editing and Enhancements: After recording, you can edit your Short within the app. This includes adding music, voiceovers, text overlays, and various visual effects. You also have the option to adjust the playback speed, use filters, and set the timing for text appearance. These editing tools are intuitive and designed to enhance the creativity and quality of your Shorts​​​​​​.</p>
 
@@ -40,6 +40,7 @@ related_terms:
 </li>
 </ul>
 
+<p>One important note on distribution: YouTube says channels that mainly aggregate or reupload other creators' videos without significant changes are likely to receive less distribution in the Shorts Feed. This recommendation update operates alongside YouTube's existing monetization policies.</p>
 
 <h2>YouTube Shorts Frequently Asked Questions</h2>
 
@@ -50,7 +51,7 @@ related_terms:
 
 <h3>How to monetize YouTube Shorts?</h3>
 
-<p>YouTube Shorts can be monetized through the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> (YPP). Creators in the YPP can earn revenue from ads displayed in the Shorts feed, with creators receiving 45% of the designated revenue after covering music licensing costs​.</p>
+<p>YouTube Shorts can be monetized through the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> (YPP). Under the current model, eligible creators receive 45% of their Shorts Creator Pool allocation after covering music licensing costs. Starting February 1, 2027, eligible monetizing creators can also receive 45% of net revenue from specific Shorts ads targeted to groups of five or fewer channels, paid separately from Creator Pool earnings.</p>
 
 <h3>How can I move the audience from Shorts to additional content on YouTube?</h3>
 
@@ -62,8 +63,8 @@ related_terms:
 <p>Who can make YouTube Shorts?</p>
 <p>Anyone with a smartphone and the YouTube app can create and publish YouTube Shorts. To monetize them, however, creators need to be part of the YouTube Partner Program​.</p>
 
-<h3>How long can YouTube Shorts captions be?</h3>
+<h3>How long can a YouTube Shorts title be?</h3>
 
-<p>Captions for YouTube Shorts can be up to 100 characters long, while descriptions can accommodate up to 5,000 characters​.</p>
+<p>A Short's title can be up to 100 characters long. Descriptions can accommodate up to 5,000 characters.</p>
 <p>How many <a href="/glossary/hashtags/">hashtags</a> can be added to YouTube Shorts?</p>
 <p>While there is no strict limit, it is recommended to use hashtags judiciously, ideally not more than 15 per Short, to ensure optimal discoverability and relevance​.</p>

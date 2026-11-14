@@ -23,7 +23,7 @@ related_terms:
 <thead><tr><th>Metric</th><th>What it counts</th></tr></thead>
 <tbody>
 <tr><td><strong>Views</strong></td><td>Every time your video was watched, ad or no ad</td></tr>
-<tr><td><strong>Monetized playbacks</strong></td><td>Views where at least one ad was actually shown</td></tr>
+<tr><td><strong>Monetized playbacks</strong></td><td>Playbacks where at least one ad impression was shown — including pre-roll-only sessions where the viewer left before your video started</td></tr>
 <tr><td><strong>Ad impressions</strong></td><td>Every individual ad shown — one playback can generate more than one impression</td></tr>
 </tbody>
 </table>
@@ -36,8 +36,8 @@ related_terms:
 
 <h3>How monetized playbacks connect to your actual payout</h3>
 <p>This is the part most explainers skip: Monetized Playbacks is a <em>volume</em> metric — it tells you how many ad-eligible views you got. <strong>Playback-Based <a href="/glossary/youtube-cpm/">CPM</a></strong> is the <em>value</em> metric next to it — how much advertisers paid per 1,000 of those monetized playbacks. Put them together and you get your estimated gross ad revenue:</p>
-<p><strong>Estimated ad revenue ≈ (Playback-Based CPM ÷ 1,000) × Monetized Playbacks</strong></p>
-<p>In other words, growing revenue isn't just about getting more monetized playbacks — it's about growing monetized playbacks <em>and</em> keeping your Playback-Based CPM competitive. Neither number alone tells the full story.</p>
+<p><strong>(Playback-Based CPM ÷ 1,000) × Monetized Playbacks ≈ estimated gross ad revenue</strong></p>
+<p>This estimates gross ad revenue before YouTube's revenue share — not your creator payout. For your estimated creator earnings, use the estimated ad revenue metric in YouTube Analytics. Growing revenue still requires both more monetized playbacks <em>and</em> a competitive Playback-Based CPM — neither number alone tells the full story.</p>
 
 <h3>Why your monetized playbacks might be low</h3>
 <p>Not every low number is a problem to fix:</p>
@@ -67,7 +67,7 @@ related_terms:
 
 <h3>FAQ</h3>
 <h4>Is a monetized playback the same as a view?</h4>
-<p>No. Every monetized playback is a view, but not every view is a monetized playback. A view only counts as a monetized playback if at least one ad was actually shown (or a pre-roll ad was abandoned before playback started).</p>
+<p>Not exactly — the two overlap but aren't identical. A monetized playback is counted when at least one ad impression is shown, including when a viewer sees a pre-roll ad and leaves before your video begins. In that pre-roll-only case, a monetized playback is counted but the session may not register as a view.</p>
 <h4>Why are my monetized playbacks so much lower than my views?</h4>
 <p>Usually a mix of factors: some viewers use ad blockers, some regions have less ad demand, some content isn't advertiser-friendly, and YouTube doesn't always have an ad available to serve to every viewer. A gap between views and monetized playbacks is normal — the question is whether your monetized playback rate is trending up or down over time.</p>
 <h4>Does increasing monetized playbacks always mean more revenue?</h4>

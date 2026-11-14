@@ -13,6 +13,7 @@ related_terms:
 <h2>Audience Interest</h2>
 <p><strong>Audience Interest</strong> is a relative signal in YouTube Studio's Trends tab that estimates how interested a creator's audience may be in a search or video idea.</p>
 <p>YouTube currently displays the signal on a scale from <strong>Very Low</strong> to <strong>Very High</strong>. It is intended to help creators compare possible topics—not provide an exact search-volume number or guarantee that a video will perform.</p>
+<p>YouTube is updating the Trends tab to Research on desktop. The Very Low to Very High Audience Interest scale described here belongs to the legacy Trends interface where it is still available.</p>
 
 <h3>Where Does Audience Interest Appear?</h3>
 <ol>

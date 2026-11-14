@@ -43,11 +43,12 @@ related_terms:
 <p><strong>Eligibility for the affiliate program:</strong></p>
 <ul>
 <li>You're in the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> and meet its subscriber threshold. YouTube lowered this bar in March 2026, opening the affiliate program to all YPP creators with at least 500 subscribers who meet the other guidelines below — a meaningfully lower bar than in the program's earlier years, so don't trust older guides citing 10,000 or 15,000 subscribers.</li>
-<li>You're based in one of these locations: United States, South Korea, Indonesia, Thailand, Vietnam, Malaysia, Philippines, India, Singapore, Brazil, Taiwan, or Japan.</li>
+<li>You're based in one of these locations: Argentina, Brazil, Germany, India, Indonesia, Japan, South Korea, Malaysia, Mexico, the Netherlands, the Philippines, Poland, Singapore, Taiwan, Thailand, the United Kingdom, the United States, or Vietnam.</li>
 <li>Your channel is not a music channel, Official Artist Channel, or associated with music partners (labels, distributors, publishers, VEVO).</li>
-<li>Your audience isn't set to <a href="/glossary/made-for-kids/">Made for Kids</a>.</li>
+<li>Your channel audience must not be set as <a href="/glossary/made-for-kids/">Made for Kids</a>, and your channel must not have a significant number of videos set as Made for Kids.</li>
 <li>You have no active Community Guideline strikes.</li>
 </ul>
+<p>Pilot programs may have different eligibility criteria.</p>
 <p><strong>How to join:</strong></p>
 <ol>
 <li>Sign in to YouTube Studio and go to Earn.</li>
@@ -61,16 +62,16 @@ related_terms:
 <li>You can browse rates in the Affiliate hub inside YouTube Studio (Earn → Shopping → Explore affiliate offers), which also surfaces custom, higher commission rates some brands offer for limited campaigns ("Special offer promotions").</li>
 <li>The official "YouTube Shopping" Chrome extension lets you save products to tag later and preview commission rates while you browse the web.</li>
 <li>Commissions are paid through AdSense for YouTube, typically 60–120 days after purchase, to account for the return window. If a customer returns the item, the commission is reversed.</li>
-<li>Some creators can also tag Amazon products directly by linking an Amazon Influencer Program or Amazon Associates Program account — currently rolled out to a limited set of eligible U.S. affiliate-program creators, with earnings paid through the same AdSense cycle on a monthly lock schedule.</li>
 </ul>
+<p><strong>Amazon product tagging:</strong> YouTube's Amazon tagging guide lists Brazil, Egypt, France, Germany, India, Saudi Arabia, the United Arab Emirates, the United Kingdom, and the United States. Creators must meet the YouTube Partner Program and Shopping affiliate requirements. In France, Germany, the United Kingdom, and the United States, creators also need an active Amazon Influencer or Amazon Associates account in good standing linked to their YouTube channel. Earnings from Amazon tags are paid through the same AdSense cycle on a monthly lock schedule.</p>
 
 <h3>Own store vs. affiliate program: side by side</h3>
 <table>
 <thead><tr><th></th><th>Your Own Store</th><th>Affiliate Program</th></tr></thead>
 <tbody>
 <tr><td><strong>What you're promoting</strong></td><td>Products/merch you already sell</td><td>Products from other brands/retailers</td></tr>
-<tr><td><strong>Minimum eligibility</strong></td><td>In the YPP, meets its subscriber threshold, no Hate Speech strikes</td><td>In the YPP with 500+ subscribers, based in one of 12 eligible countries, no active Community Guideline strikes</td></tr>
-<tr><td><strong>Country restriction</strong></td><td>None specified</td><td>Limited to US, South Korea, Indonesia, Thailand, Vietnam, Malaysia, Philippines, India, Singapore, Brazil, Taiwan, Japan</td></tr>
+<tr><td><strong>Minimum eligibility</strong></td><td>In the YPP, meets its subscriber threshold, no Hate Speech strikes</td><td>In the YPP with 500+ subscribers, based in one of 18 eligible markets, no active Community Guideline strikes</td></tr>
+<tr><td><strong>Country restriction</strong></td><td>None specified</td><td>Limited to Argentina, Brazil, Germany, India, Indonesia, Japan, South Korea, Malaysia, Mexico, the Netherlands, the Philippines, Poland, Singapore, Taiwan, Thailand, the United Kingdom, the United States, Vietnam</td></tr>
 <tr><td><strong>Who sets price/fulfillment</strong></td><td>You and your store platform</td><td>The brand/retailer</td></tr>
 <tr><td><strong>How you're paid</strong></td><td>Directly by your retailer/platform</td><td>Through AdSense for YouTube</td></tr>
 <tr><td><strong>When you're paid</strong></td><td>Per your platform's own payout schedule</td><td>60–120 days after purchase (return window)</td></tr>

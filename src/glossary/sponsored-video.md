@@ -102,6 +102,7 @@ related_terms:
 </ol>
 <h3>Disclosure on a sponsored video</h3>
 <p>YouTube instructs creators to select the paid-promotion declaration when a video contains a paid product placement, sponsorship, endorsement, or other commercial relationship. YouTube then shows a paid-promotion message to viewers.</p>
+<p>As YouTube rolls out automated detection, it may also label newly uploaded videos it identifies as containing undeclared branded content. Creators remain responsible for declaring the promotion using YouTube Studio's Paid promotion setting, following YouTube's Community Guidelines and applicable Google Ads policies, and meeting local disclosure requirements.</p>
 <p>That platform label may not be the only required disclosure. The U.S. Federal Trade Commission says a video endorsement disclosure should appear in the video, not only in the description, and should be hard to miss. It also says disclosures are more likely to be noticed when made in both audio and video.</p>
 <p>Clear examples include:</p>
 <ul>

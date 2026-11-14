@@ -93,9 +93,9 @@ related_terms:
 
 <h3>Who has access, and where</h3>
 <ul>
-<li><strong>Platform:</strong> Web browser only, via studio.youtube.com. Ask Studio is not available in the YouTube Studio mobile app.</li>
+<li><strong>Platform:</strong> Desktop browser (via studio.youtube.com) and the YouTube Studio app for Android and iPhone. You can attach up to 10 images at once in a conversation.</li>
 <li><strong>Where to find it:</strong> A sparkle icon in the top-right corner of YouTube Studio, and suggested prompts inside the Analytics tab.</li>
-<li><strong>Countries/languages:</strong> Ask Studio launched as English-only and U.S.-limited in late 2025. It has since expanded — YouTube's own Help Center now describes it as available to "most" creators globally, with hands-on reports through early 2026 documenting rollout across the US, Canada, the UK, the EEA, Latin America, India, and New Zealand, and strong support for English, Spanish, Portuguese, French, German, Italian, Polish, and Dutch. Because rollout is ongoing, treat any specific country/language list — including this one — as a snapshot rather than a permanent boundary, and check the official Help Center for the current state.</li>
+<li><strong>Countries/languages:</strong> Ask Studio launched as English-only and U.S.-limited in late 2025. It has since expanded — YouTube's own Help Center now describes it as available to "most" creators globally, with hands-on reports through early 2026 documenting rollout across the US, Canada, the UK, the EEA, Latin America, India, and New Zealand, and strong support for English, Spanish, Portuguese, French, German, Italian, Polish, and Dutch. Language support depends on your YouTube interface language. Because rollout is ongoing, treat any specific country/language list — including this one — as a snapshot rather than a permanent boundary, and check the official Help Center for the current state.</li>
 <li><strong>Reported exclusions:</strong> Multiple sources indicate Ask Studio is not available to Official Artist Channels, <a href="/glossary/made-for-kids/">Made for Kids</a> channels, or creators under 18. We could not locate a direct, quotable Google statement listing all three exclusions verbatim, so treat this as reported-but-not-independently-confirmed until Google's help documentation states it explicitly.</li>
 <li><strong>No subscriber threshold:</strong> There's no evidence of a subscriber-count or view-count gate — access appears to be rolled out by account/channel eligibility rather than channel size.</li>
 </ul>
@@ -111,7 +111,7 @@ related_terms:
 
 <h3>How to start using Ask Studio</h3>
 <ol>
-<li>Sign in to YouTube Studio (or go directly to studio.youtube.com/?d=as) on a desktop browser.</li>
+<li>Sign in to YouTube Studio on a desktop browser (or go directly to studio.youtube.com/?d=as) or open the YouTube Studio app on Android or iPhone.</li>
 <li>Click the sparkle/Ask Studio icon in the top-right corner.</li>
 <li>Use a suggested prompt, or type your own — the more specific the question, the more useful the answer.</li>
 <li>Add a specific video to the conversation using the "Add" control in the chat box if you want feedback tied to one upload.</li>

@@ -102,6 +102,7 @@ permalink: /glossary/sponsorship-disclosure/
 <p>Terms such as “ad,” “advertisement,” “sponsored,” or a direct sentence explaining the payment or free product are usually easier to understand than insider language.</p>
 <h3>Sponsorship disclosure on YouTube</h3>
 <p>YouTube requires creators to select the paid-promotion box when their content contains an applicable paid product placement, sponsorship, endorsement, or other commercial relationship. YouTube then displays its own disclosure message near the beginning of the video.</p>
+<p>As YouTube rolls out automated detection, it may also apply a paid promotion label to newly uploaded videos it identifies as containing undeclared branded content. Creators remain responsible for declaring the promotion using YouTube Studio's Paid promotion setting, following YouTube's Community Guidelines and applicable Google Ads policies, and meeting local disclosure requirements.</p>
 <p>That label does not remove the need to evaluate the creator's own disclosure. YouTube states that creators and brands are responsible for understanding when, how, and to whom their local laws require disclosure.</p>
 <p>The <a href="/glossary/approval-process/">approval process</a> should include a disclosure check before publication. The brand should confirm required factual information, while the creator should confirm that the final placement remains noticeable in the actual platform experience.</p>
 <h3>A practical disclosure checklist</h3>

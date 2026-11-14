@@ -25,7 +25,7 @@ related_terms:
 <p>If an advertiser pays $20 for 1,000 ad impressions, your CPM is $20.</p>
 </li>
 <li>
-<p>Keep in mind that YouTube keeps 45% of this amount, leaving you with 55% of the <a href="/glossary/ad-revenue/">ad revenue</a>.</p>
+<p>Eligible partners receive 55% of net qualifying ad revenue from qualifying ads — the creator payout is applied to net revenue, not 55% of the advertiser's CPM figure directly.</p>
 </li>
 </ul>
 
@@ -35,7 +35,7 @@ related_terms:
 
 <p>Calculating YouTube CPM is straightforward. Use this formula:</p>
 
-<p>CPM = (Total Ad Revenue ÷ Total Monetized Ad Views) × 1,000</p>
+<p>CPM = (Advertiser cost ÷ Ad impressions) × 1,000</p>
 
 <p>Example Calculation:</p>
 
@@ -74,7 +74,7 @@ Let’s say your video generates $10 CPM, and you get 10,000 views. After YouTub
 
 <ul>
 <li>
-<p>You receive 55% of the CPM revenue, leaving you with $5.50 for every $10.</p>
+<p>Eligible partners receive 55% of net qualifying ad revenue from qualifying ads — not directly 55% of the advertiser's CPM. Use estimated ad revenue in YouTube Analytics to see what your channel earned.</p>
 </li>
 <li>
 <p>Your RPM would therefore be lower, as it reflects your final earnings after deductions.</p>

@@ -15,13 +15,13 @@ related_terms:
 ---
 
 <h2>YouTube Jewels</h2>
-<p><strong>YouTube Jewels are a prepaid virtual currency, purchasable inside the YouTube mobile app, that viewers spend to send animated "Gifts" on eligible live streams.</strong> When a viewer sends a Gift, the creator earns <strong>Rubies</strong> — YouTube's unit for calculating gift-based earnings. Jewels themselves have no value to a creator directly; they're what the viewer buys, not what the creator receives.</p>
+<p><strong>YouTube Jewels are a prepaid virtual currency, purchasable on YouTube.com or in the YouTube mobile app, that viewers spend to send animated "Gifts" on eligible live streams.</strong> When a viewer sends a Gift, the creator earns <strong>Rubies</strong> — YouTube's unit for calculating gift-based earnings. Jewels themselves have no value to a creator directly; they're what the viewer buys, not what the creator receives.</p>
 <p>If you're a live-streaming creator trying to figure out whether this is worth turning on, this entry walks through how the mechanic actually works, who currently qualifies, and — just as importantly — what's still unsettled about the rollout.</p>
 
 <h3>How YouTube Jewels work: the three-part chain</h3>
 <p>The naming is genuinely confusing at first, so it helps to think of it as a straight line:</p>
 <ol>
-<li><strong>Jewels</strong> — the currency. Viewers buy Jewels in preset bundles through the YouTube mobile app. Jewels don't expire (unless they're bonus/promotional Jewels tied to a specific offer).</li>
+<li><strong>Jewels</strong> — the currency. Viewers buy Jewels in preset bundles on YouTube.com or in the YouTube mobile app. Jewels don't expire (unless they're bonus/promotional Jewels tied to a specific offer).</li>
 <li><strong>Gifts</strong> — what Jewels buy. A Gift is an animated item — a sticker, effect, or combo — that a viewer sends during a live stream. It's the officially branded name for the whole mechanic: "Gifts, powered by Jewels."</li>
 <li><strong>Rubies</strong> — what creators earn. When a Gift is sent, the creator's channel earns Rubies. In the original US rollout, YouTube stated 1 Ruby = $0.01 USD. There is no fixed, guaranteed <a href="/glossary/revenue-share/">revenue share</a> the way there is for <a href="/glossary/super-chat/">Super Chat</a> or <a href="/glossary/channel-memberships/">channel memberships</a> — the payout depends on which Jewels bundle the viewer purchased and whatever promotions were active, and YouTube itself has said this openly.</li>
 </ol>
@@ -34,7 +34,7 @@ related_terms:
 <tbody>
 <tr><td>What it is</td><td>The virtual currency viewers purchase</td><td>The animated item viewers send, bought with Jewels</td></tr>
 <tr><td>Who buys/uses it</td><td>Viewers</td><td>Viewers send it; creators receive the resulting Rubies</td></tr>
-<tr><td>Where you get it</td><td>YouTube mobile app only</td><td>Selected from a "Gift" picker during an eligible live stream</td></tr>
+<tr><td>Where you get it</td><td>YouTube.com or the YouTube mobile app</td><td>Selected from a "Gift" picker during an eligible live stream</td></tr>
 <tr><td>Can it exist without the other?</td><td>Jewels can also be spent on "Hype" (see below), not just Gifts</td><td>Gifts cannot be sent without spending Jewels</td></tr>
 <tr><td>Official branding</td><td>Referred to as "Jewels"</td><td>Officially called "Gifts, powered by Jewels"</td></tr>
 </tbody>
@@ -50,7 +50,7 @@ related_terms:
 <li>Be an active member of the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a></li>
 <li>Accept YouTube's Virtual Items (VI) Module in <a href="/glossary/youtube-studio/">YouTube Studio</a> (Earn hub → Supers &amp; gifts tab → Turn on gifts)</li>
 <li>Complete identity verification (YouTube maintains a dedicated help page for this step)</li>
-<li>Be streaming live with chat/comments enabled</li>
+<li>Be streaming live on an eligible vertical or horizontal live stream with chat/comments enabled</li>
 </ul>
 <p>Gifts are not available on:</p>
 <ul>
@@ -67,9 +67,8 @@ related_terms:
 <p>Because the rollout is actively expanding and YouTube's own documentation hasn't fully caught up with itself, don't treat any published country list — including this one — as current. Check the Supers &amp; gifts tab in YouTube Studio directly to see your channel's real-time eligibility.</p>
 
 <h3>Jewels purchase limits (what your viewers are working with)</h3>
+<p>Purchase limits are shared across Jewels, <a href="/glossary/super-chat/">Super Chat</a>, <a href="/glossary/super-stickers/">Super Stickers</a>, and <a href="/glossary/super-thanks/">Super Thanks</a>. Check the limits shown for your market and purchase flow. YouTube's U.S. virtual items guidance lists up to $2,000 USD per day, $8,000 USD per week, and 120,000 Jewels held at one time.</p>
 <ul>
-<li>Combined daily spending cap across Jewels, Super Chat, Super Stickers, and <a href="/glossary/super-thanks/">Super Thanks</a>: up to $500/day and $2,000/week (or local equivalent)</li>
-<li>Maximum of 30,000 Jewels held in an account at once</li>
 <li>Jewels are non-refundable</li>
 <li>Viewers must be 18 or older to purchase</li>
 </ul>
@@ -86,9 +85,7 @@ related_terms:
 <h3>Current limitations and open questions</h3>
 <p>To be transparent about the state of this feature as of mid-2026:</p>
 <ul>
-<li>Country availability is a genuine patchwork, expanding market by market, and YouTube's own help documentation currently disagrees with itself on the exact list.</li>
-<li>Whether horizontal live streams are eligible is stated inconsistently across YouTube's own help pages — the practical reality appears to be that horizontal streams are now included, but this hasn't been cleanly corrected in all official documentation.</li>
-<li>The exact Jewels-to-Ruby conversion isn't fixed or guaranteed, and it's unclear whether the "1 Ruby = $0.01" figure confirmed at the original US launch applies uniformly to every newly added, non-USD market.</li>
+<li>Country availability is a genuine patchwork, expanding market by market, and YouTube's own help documentation currently disagrees with itself on the exact list.</li><li>The exact Jewels-to-Ruby conversion isn't fixed or guaranteed, and it's unclear whether the "1 Ruby = $0.01" figure confirmed at the original US launch applies uniformly to every newly added, non-USD market.</li>
 <li>Some markets use a different brand name for the same underlying currency (Indonesia's "Crystals"), which suggests this may not be a single unified global product name going forward.</li>
 <li>Specific Jewels bundle pricing is not something we could confirm against a current, official primary source, and YouTube's own terms note that bundle sizes and prices can change at its discretion — treat any specific price figures you see elsewhere with caution.</li>
 </ul>

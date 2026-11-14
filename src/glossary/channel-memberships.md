@@ -21,7 +21,7 @@ related_terms:
 <li><strong>3 public uploads in the last 90 days</strong></li>
 <li>Either <strong>3,000 watch hours in the last 12 months</strong> or <strong>3 million Shorts views in the last 90 days</strong></li>
 </ul>
-<p>That's a different, lower threshold than the 1,000-subscriber / 4,000-watch-hour bar you'll see quoted on most articles — that higher number is for full <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> acceptance (which adds ad revenue on top of <a href="/glossary/fan-funding/">fan funding</a>). If you're only chasing memberships, <a href="/glossary/super-chat/">Super Chat</a>, <a href="/glossary/super-stickers/">Super Stickers</a>, or <a href="/glossary/super-thanks/">Super Thanks</a>, 500 subscribers is the number that matters.</p>
+<p>That's a different, lower threshold than the 1,000-subscriber / 4,000-watch-hour bar you'll see quoted on most articles — that higher number is for full <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> acceptance (which adds ad revenue on top of <a href="/glossary/fan-funding/">fan funding</a>). Starting February 1, 2027, new applicants for ads and Premium sharing will need 1,000 subscribers plus either 8,000 qualified watch hours in 365 days or 20 million qualified Shorts views in 90 days. This change does not affect existing YPP members or the expanded YPP fan funding thresholds used to unlock memberships. If you're only chasing memberships, <a href="/glossary/super-chat/">Super Chat</a>, <a href="/glossary/super-stickers/">Super Stickers</a>, or <a href="/glossary/super-thanks/">Super Thanks</a>, 500 subscribers is the number that matters.</p>
 <p>Beyond the subscriber/watch-hour thresholds, your channel also needs to:</p>
 <ul>
 <li>Not be set (or majority-set) as "<a href="/glossary/made-for-kids/">made for kids</a>"</li>
@@ -40,11 +40,11 @@ related_terms:
 <li>Early or exclusive access to videos and Shorts</li>
 <li>Members-only live streams and chat</li>
 </ul>
-<p>YouTube's policies restrict what you can offer as a perk — no 1:1 meetings, no content downloads, and no randomized perks like contests or giveaways limited to some members.</p>
+<p>YouTube's policies restrict what you can offer as a perk — no in-person one-on-one meetings, no downloads of content available on YouTube, and no randomized perks like contests or giveaways limited to some members.</p>
 <p>One thing to know before you lean on memberships too hard: since late 2025, YouTube surfaces members-only videos in the main feed to non-members (marked "members only") rather than hiding them entirely. It can help promote your membership tier, but several creators have reported it also depresses overall view counts and frustrates non-paying viewers who keep hitting a paywall in their feed. Worth testing carefully rather than gating everything.</p>
 
 <h3>Revenue split</h3>
-<p>YouTube takes <strong>30%</strong> of all membership revenue; creators keep <strong>70%</strong>. Example: a $4.99/month tier nets the creator about $3.49 per member, before taxes. This 70/30 split is notably better than YouTube's standard ad <a href="/glossary/revenue-share/">revenue share</a> (55/45), which is part of why memberships are worth layering on top of <a href="/glossary/ad-revenue/">ad revenue</a> rather than treating as a replacement for it.</p>
+<p>Creators receive <strong>70%</strong> of membership revenue after applicable taxes and fees; YouTube keeps <strong>30%</strong>. YouTube currently covers transaction costs, and an MCN may take an additional share. This 70/30 split is notably better than YouTube's standard ad <a href="/glossary/revenue-share/">revenue share</a> (55/45), which is part of why memberships are worth layering on top of <a href="/glossary/ad-revenue/">ad revenue</a> rather than treating as a replacement for it.</p>
 
 <h3>What actually drives signups</h3>
 <p>Badges and emoji alone rarely convert viewers. What tends to move the needle:</p>
@@ -57,6 +57,9 @@ related_terms:
 
 <h3>Memberships vs. other fan-funding tools</h3>
 <p>Memberships share the same 500-subscriber eligibility bar as Super Chat, Super Stickers, and Super Thanks — so most creators become eligible for all of them at once. The difference is the relationship: memberships are recurring and perk-based (better for channels with consistent upload schedules and an audience that shows up repeatedly), while Super Chat/Super Thanks are one-off, tied to a specific video or livestream moment. Many established channels run both — Super Thanks for spontaneous support, memberships for predictable monthly income.</p>
+
+<h3>Terms update for some existing creators</h3>
+<p>If you enabled channel memberships before 2023 and are still on the older Commerce Product Addendum, you must accept the <strong>Commerce Product Module</strong> by <strong>January 31, 2027</strong>, to avoid losing membership earnings starting February 1. Accepting the module after that date restores access — your YPP membership and eligibility thresholds are unaffected either way. For MCN channels, the managing MCN accepts on behalf of owned-and-operated channels; affiliate channels accept for themselves.</p>
 
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>

@@ -21,18 +21,19 @@ related_terms:
 <h2>YouTube Creator Partnerships</h2>
 <p><strong>YouTube Creator Partnerships</strong> is YouTube's official tool for connecting eligible creators with brands for sponsorships and paid collaborations. It lives inside <a href="/glossary/youtube-studio/">YouTube Studio</a> (under Earn → Creator Partnerships) for creators, and inside Google Ads and Display &amp; Video 360 for advertisers. Brands use it — increasingly powered by Google's Gemini AI — to search a pool of more than 3 million <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> creators, send campaign inquiries, and manage brand-deal videos. Creators use it to get discovered, set their rates, and respond to inquiries without ever leaving Studio.</p>
 <p>YouTube Creator Partnerships is the rebranded, expanded version of a tool formerly called BrandConnect — itself rooted in YouTube's 2016 acquisition of the influencer-marketplace startup FameBit. YouTube announced the Creator Partnerships rebrand and a round of new features (AI-powered creator discovery, unified measurement, and an expanded partner API) at its 2026 NewFronts event in March 2026.</p>
-<p><strong>Not to be confused with the YouTube Partner Program.</strong> Creator Partnerships is a brand-deal discovery and management feature. The <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> (YPP) is the separate program that determines whether your channel is eligible to monetize at all — through <a href="/glossary/ad-revenue/">ad revenue</a>, <a href="/glossary/channel-memberships/">channel memberships</a>, <a href="/glossary/super-chat/">Super Chat</a>, and more. You must already be an active, ad-eligible YPP member before you can access Creator Partnerships. See the comparison table below.</p>
+<p><strong>Not to be confused with the YouTube Partner Program.</strong> Creator Partnerships is a brand-deal discovery and management feature. The <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> (YPP) is the separate program that determines whether your channel is eligible to monetize at all — through <a href="/glossary/ad-revenue/">ad revenue</a>, <a href="/glossary/channel-memberships/">channel memberships</a>, <a href="/glossary/super-chat/">Super Chat</a>, and more. You must already be an active YPP member before you can access Creator Partnerships. See the comparison table below.</p>
 
 <h3>How YouTube Creator Partnerships works</h3>
 <h4>Who's eligible</h4>
 <p>To get a Creator Partnerships tab in YouTube Studio, your channel must meet all of the following:</p>
 <ul>
 <li>You're at least 18 years old</li>
-<li>You're in the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> and eligible for ad revenue sharing</li>
+<li>You're an active member of the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a></li>
 <li>Your channel is based in one of the currently supported countries/regions</li>
 <li>You have no active Community Guidelines strikes</li>
 <li>Your channel follows YouTube's monetization policies, Terms of Service, and Community Guidelines</li>
 </ul>
+<p>YouTube's August 2026 YPP update includes Creator Partnerships access through the expanded YPP tier. Check Studio → Earn for your channel's current access in your market.</p>
 <p>As of this writing, Creator Partnerships is available to eligible creators in 24 countries/regions, including the US, UK, Canada, Australia, Germany, France, Japan, India, Brazil, and Mexico. Availability is expanding — check YouTube's Help Center for the current list, since it has grown since the tool's March 2026 launch.</p>
 <p>Even if you don't see the tab yet, note that you may still be discoverable by brands and can still receive inquiries by email or through your public social handles — the Studio tab just adds structured tools on top of that.</p>
 

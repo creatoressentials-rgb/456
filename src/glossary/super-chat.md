@@ -38,7 +38,7 @@ related_terms:
 <p>Higher tiers also unlock a longer character limit for the message itself. Amounts and currency equivalents adjust by region — a viewer outside the US isn't necessarily paying in whole-dollar increments.</p>
 
 <h3>Eligibility (short version)</h3>
-<p>Super Chat rides on YouTube's fan funding eligibility bar, not a separate one. In short: you need to clear the subscriber and watch-hour thresholds, be in an eligible country, have accepted the Commerce Product Module, and have live chat turned on. Super Chat won't show up on <a href="/glossary/made-for-kids/">Made for Kids</a> content, age-restricted, unlisted, or private streams, or streams tied to YouTube Giving fundraisers. Full breakdown of the shared eligibility bar, price range, and revenue split: <a href="/glossary/fan-funding/">Fan Funding</a>.</p>
+<p>Super Chat rides on YouTube's fan funding eligibility bar, not a separate one. In short: you need to clear the subscriber and watch-hour thresholds, be in an eligible country, have accepted the Commerce Product Module, and have live chat turned on. If you enabled fan funding before 2023 and are still on the older Commerce Product Addendum, accept the Commerce Product Module by <strong>January 31, 2027</strong>, to avoid losing earnings starting February 1 — accepting after that date restores access. Super Chat won't show up on <a href="/glossary/made-for-kids/">Made for Kids</a> content, age-restricted, unlisted, or private streams, or streams tied to YouTube Giving fundraisers. Full breakdown of the shared eligibility bar, price range, and revenue split: <a href="/glossary/fan-funding/">Fan Funding</a>.</p>
 
 <h3>Moderation controls</h3>
 <ul>

@@ -72,6 +72,9 @@ related_terms:
 <li><strong>If you're suspended:</strong> you can appeal within 21 days (decision in ~14 days), or reapply to the <a href="/glossary/youtube-partner-program/">YouTube Partner Program</a> 90 days after suspension once you've fixed or removed the violating content.</li>
 </ul>
 
+<h3>Effect on Shorts Feed distribution</h3>
+<p>YouTube says channels that mainly aggregate or reupload other creators' videos without significant changes are likely to receive less distribution in the Shorts Feed. This recommendation update operates alongside YouTube's existing monetization policies — meaning these channels may face reduced reach in Shorts recommendations in addition to the monetization consequences described above.</p>
+
 <div style="margin-top:2.5rem; padding:1.75rem; background:var(--cloud); border-radius:10px;">
   <p style="font-size:0.875rem; font-weight:600; color:var(--charcoal); margin-bottom:0.5rem;">Creator finances handled by someone who gets YouTube.</p>
   <p style="font-size:0.875rem; color:var(--slate); margin-bottom:1.25rem;">Tax prep and bookkeeping built for YouTubers — every income stream, every deduction, done right.</p>

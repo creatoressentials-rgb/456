@@ -30,7 +30,7 @@ related_terms:
 </ul>
 
 <h3>Pricing and spending limits</h3>
-<p>Individual Super Stickers range from roughly $1 up to about $50. Spending across Super Chat, Super Stickers, and <a href="/glossary/super-thanks/">Super Thanks</a> combined is capped at $500 per day and $2,000 per week per viewer (or the local currency equivalent) — these limits are shared, not separate per feature.</p>
+<p>Individual Super Stickers range from roughly $1 up to about $50. Purchase limits are shared across Jewels, Super Chat, Super Stickers, and Super Thanks — check the limits shown for your market and purchase flow. YouTube's U.S. virtual items guidance lists up to $2,000 USD per day and $8,000 USD per week.</p>
 
 <h3>Regional availability</h3>
 <p>Super Stickers are available everywhere Super Chat is — currently 90+ countries and territories. That list changes as YouTube expands access, so don't treat any third-party article (including this one) as the source of truth on which countries are covered today; check YouTube's own official eligibility page, since it's the only version that stays current.</p>

@@ -23,7 +23,7 @@ related_terms:
 <ul>
 <li>The video is removed from YouTube.</li>
 <li>The strike stays active on your channel. It only starts its 90-day countdown once you complete <strong>Copyright School</strong> — a short video plus a 4-question quiz. Skip it, and the strike doesn't expire.</li>
-<li>Your channel is generally treated as ineligible for monetization and the Partner Program while a strike is active, cutting off <a href="/glossary/ad-revenue/">ad revenue</a> on the channel until it's resolved.</li>
+<li>The strike can contribute to monetization suspension, including on related accounts. Check the Earn tab in YouTube Studio for your channel's current monetization status.</li>
 <li>If the removed content was an active live stream, live-streaming access is specifically restricted for 7 days (14 days if it happens a second time).</li>
 </ul>
 <p>A note on accuracy: you'll see claims online that a first copyright strike triggers a blanket one-week freeze on <em>all</em> uploads. That specific restriction belongs to YouTube's separate Community Guidelines strike system, not the copyright strike system — don't confuse the two policies when assessing your risk.</p>

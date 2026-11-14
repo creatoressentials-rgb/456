@@ -46,7 +46,7 @@ related_terms:
 <li><strong>Check YouTube Studio → Content → Claims</strong> to see the claimant and what policy is applied (block, monetize, or track).</li>
 <li><strong>Remove the claimed content</strong> — trim the segment, mute it, or swap in different audio. Any of these can clear the claim without a fresh upload.</li>
 <li><strong>Dispute it</strong>, only if you're confident you have the rights, a fair use case, or the match is simply wrong. Crediting the owner, owning a copy, or not monetizing are explicitly not valid reasons. The claimant then has 30 days to respond.</li>
-<li><strong>Escalate to Appeal</strong>, available specifically when a claim is blocking your video — this skips the 30-day dispute step and gets a response in 7 days instead.</li>
+<li><strong>Appeal</strong> — two paths exist. If the claimant rejects your dispute and reinstates the claim, you may be eligible to file a standard appeal. If the claim is blocking your video, YouTube may offer <strong>Escalate to Appeal</strong> so you can skip the initial dispute step entirely. In either case, the claimant has seven days to respond; if they take no action, the claim expires. Check your channel's appeal eligibility before proceeding, as access may require channel verification.</li>
 <li><strong>Leave it as-is</strong> if you're fine with the restriction (e.g., a track claim with no monetization impact you care about).</li>
 </ol>
 <p>One current-specific rule: for <strong>Shorts between 1 and 3 minutes long</strong>, an active Content ID claim blocks the Short outright, regardless of whether the rights holder's policy is set to block, monetize, or track. That's different from how claims behave on standard long-form videos.</p>
